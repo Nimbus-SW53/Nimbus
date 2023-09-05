@@ -11,9 +11,9 @@
 <h3>Sección:SW53</h3>
 <h3>Profesor:Naldo Reupo-Musayon Gastulo </h3>
 
-<strong>Startup:</strong> [FALTA DEFINIR]
+<strong>Startup:</strong> NIMBUS
 
-<strong>Producto:</strong> HousseKeeper
+<strong>Producto:</strong> NIMBUS
 
 <h3>Integrantes:</h3>
 
@@ -152,4 +152,176 @@ En línea con el enfoque de nuestro equipo en tecnologías web, nuestra platafor
 #### Visión
 
 "Aspiramos a ser el nexo principal en la cadena de valor del software en Perú, impulsando la digitalización y contribuyendo al desarrollo tecnológico del país. En el futuro, queremos que los usuarios se sientan completamente familiarizados y satisfechos con las tecnologías emergentes y los servicios que Nimbus ofrece."
+
+### 1.1.2 PERFILES DE INTEGRANTES
+[Añadir los perfiles]
+
+## 1.2 SOLUTION PROFILE
+
+### 1.2.1 ANTECEDENTES Y PROBLEMÁTICA
+
+<li>Who?</li>
+Identificamos un sector de usuarios y empresas que presentan una problemática que se extiende a nivel global, afectando a grandes y pequeños por igual. Esto incluye a empresas de todos los sectores, organizaciones gubernamentales, instituciones académicas y profesionales independientes que requieren soluciones de software para mejorar sus operaciones.
+
+<li>What?</li>
+La problemática principal que **Nimbus** busca resolver es la ineficiencia y la complejidad que conlleva el proceso de selección y adquisición. En este entorno confuso, tanto proveedores como compradores invierten más tiempo y recursos, lo cual a menudo conduce a elecciones subóptimas y apresuradas.
+
+<li>Where?</li>
+Si bien **Nimbus** iniciará sus operaciones centradas en el mercado peruano, la problemática que busca resolver tiene alcance global. 
+
+<li> When?</li>
+La problemática es especialmente crítica en la actualidad, donde la aceleración de la transformación digital ha hecho que tanto organizaciones como individuos sean más dependientes del software.
+
+<li>Why?</li>
+No hay una plataforma única que ofrezca comparativas detalladas, reseñas confiables y mecanismos seguros de transacción, lo cual genera fricciones en el mercado y, en última instancia, decisiones menos informadas.
+
+<li>How?</li>
+**Nimbus** planea operar como una plataforma web de intermediación de software, utilizando tecnologías avanzadas para ofrecer una experiencia de usuario fluida.
+
+<li>How much?</li>
+Nuestro modelo económico se fundamenta en el cobro de una comisión por transacción a los proveedores de software. Para los usuarios que buscan adquirir software, el acceso básico a la plataforma será gratuito. Además, Nimbus podría explorar otras fuentes de ingresos como publicidad dirigida, patrocinios y servicios de consultoría.
+### 1.2.2. LEAN UX PROCESS
+
+#### 1.2.2.1. LEAN UX PROBLEM STATEMENTS
+
+La revolución digital ha incrementado la dependencia en soluciones de software para empresas, gobiernos y particulares en la realización de operaciones críticas, la gestión de datos y la prestación de servicios (Statista, 2023).
+
+- Un informe de Gartner (2023) indica que la proliferación de software de código abierto y soluciones empresariales ha creado un entorno saturado de opciones, dificultando la habilidad de los usuarios para tomar decisiones informadas.
+
+Por lo tanto, la pregunta crítica que surge es: 
+> ¿Cómo podemos simplificar y optimizar el proceso de selección y adquisición de software para compradores y vendedores en el ecosistema actual de software, que es complejo y diverso?
+
+#### 1.2.2.2. LEAN UX ASSUMPTIONS
+
+**Business outcomes:**
+
+- **Identificación del Mercado Objetivo:**
+   En Nimbus, creemos que existe una creciente necesidad entre las empresas y los profesionales individuales por tener una manera más eficiente y transparente de seleccionar y adquirir software.
+  
+- **Oferta de Valor:**
+   Nuestra oferta de valor reside en simplificar el proceso de selección de software.
+  
+- **Modelo de Monetización:**
+   Planeamos adoptar un modelo de ingresos mixto.
+  
+- **Adquisición de Clientes:**
+   Prevemos que nuestra estrategia de adquisición de clientes incluirá marketing digital.
+  
+- **Ventaja Competitiva:**
+   Nimbus pretende diferenciarse en la simplicidad y accesibilidad nuestras comparaciones.
+
+- **Riesgos y Soluciones:**
+   El mayor riesgo para Nimbus es la capacidad de manejar un gran volumen de datos de manera eficiente.
+  
+- **Métricas de Éxito:**  
+   Las métricas clave para medir el éxito de Nimbus incluirán la tasa de conversión de usuarios gratuitos a pagados.
+
+**Users Assumptions**
+
+- **¿Quién es el usuario?**
+  + Profesionales de TI y responsables de la toma de decisiones.
+  
+- **¿Dónde encaja nuestro producto? ¿En su trabajo o vida?**
+  + Nimbus se integrará en la vida laboral del usuario.
+
+- **¿Qué problemas tiene nuestro usuario?**
+   +Dificultad para comparar opciones de software.
+
+- **¿Cuándo y cómo es nuestro producto usado?:**
+   +Cuando necesiten seleccionar nuevo software o evaluar la efectividad del software actual.
+
+- **¿Qué características son importantes?**
+  + Amplia gama de opciones para comparar.
+  + Herramientas de filtrado y búsqueda eficientes.
+  + Reseñas y puntuaciones fiables de otros usuarios.
+  + Analíticas detalladas que incluyan costo-beneficio.
+  + Opciones de personalización para adaptar la plataforma a necesidades específicas.
+
+**Users Outcomes**
+
+- **Eficiencia en la toma de decisiones:**
+   Los usuarios podrán tomar decisiones de compra de software mucho más informadas y en menos tiempo.
+  
+- **Ahorro de Recursos:**
+   Gracias a las decisiones más informadas, los usuarios ahorrarán no solo tiempo sino también recursos financieros.
+
+- **Métricas Accesibles:**
+   Los usuarios tendrán acceso a métricas que les permitirán evaluar la efectividad de su decisión después de la compra.
+
+#### 1.2.2.3. LEAN UX HYPOTHESIS
+
+**Hipótesis del negocio:**
+
+- **Identificación del Mercado Objetivo:**  Creemos que al orientar nuestra plataforma a profesionales de TI, aumentaremos la tasa de conversión de usuarios gratuitos a pagados.
+
+- **Oferta de Valor**  Creemos que al ofrecer una plataforma intuitiva para comparar software, ahorraremos tiempo y recursos a nuestros usuarios.
+
+- **Modelo de Monetización:** Creemos que al introducir un modelo de ingresos mixto, mantendremos una alta tasa de retención para los usuarios casuales y convertiremos a los usuarios intensivos en suscriptores.
+
+- **Adquisición de Clientes:**  Creemos que al centrarnos en el marketing digital y en alianzas estratégicas, incrementaremos el tráfico hacia nuestra plataforma.
+
+- **Ventaja Competitiva:** Creemos que al ofrecer comparativas más detalladas y diversas, seremos la opción preferida sobre otras plataformas.
+
+**Hipótesis en Suposiciones del Usuario:**
+
+- **Amplia gama de opciones para comparar:** Creemos que al ofrecer una amplia variedad de software para comparar, los usuarios tomarán decisiones más informadas.
+
+- **Herramientas de filtrado y búsqueda eficientes:** Creemos que al proporcionar herramientas de filtrado efectivas, los usuarios ahorrarán tiempo en su proceso de selección.
+
+- ** Reseñas y puntuaciones fiables: ** Creemos que al ofrecer reseñas y puntuaciones fiables, mejoraremos la confianza y satisfacción del usuario.
+
+- **Analíticas detalladas que incluyan costo-beneficio:** Creemos que al incluir analíticas detalladas de costo-beneficio, los usuarios tomarán decisiones más económicas y efectivas.
+
+- **Opciones de personalización:** Creemos que al permitir personalizaciones en la plataforma, los usuarios encontrarán más rápidamente soluciones que se adapten a sus necesidades específicas.
+
+**Hipótesis de resultados del Usuario:**
+
+- **Eficiencia en la toma de decisiones:**
+   Creemos que nuestra plataforma permitirá a los usuarios tomar decisiones más eficientes.
+
+- **Ahorro de Recursos:**
+   Prevemos que nuestra plataforma reducirá el gasto en soluciones de software inadecuadas.
+
+- **Métricas Accesibles:**
+   Pensamos que al ofrecer métricas accesibles post-compra, los usuarios podrán medir el ROI de su decisión.
+#### 1.2.2.4.	LEAN UX CANVAS
+[Agrgar el Canvas]
+
+### 1.3. SEGMENTOS OBJETIVO
+
+Como una startup emergente en el mercado peruano que aspira a incursionar en el proceso de selección y adquisición de software mediante una plataforma web robusta y fácil de usar, hemos enfocado nuestra propuesta en dos principales segmentos en el mercado:
+
+#### 1. Proveedores de software:
+
+* **Características:**
+  + Empresas enfocadas al desarrollo de software o freelancers que ofrezcan servicios en la creación de software.
+  + Proveedores del tipo que ofrecen una gama de soluciones, desde aplicaciones de gestión hasta software especializado.
+  + Empresas de TI o algún ámbito relacionado que buscan expandir su presencia en el mercado peruano o internacional.
+
+* **Necesidades:**
+  + Aumentar visibilidad de sus productos.
+  + Acceder a un flujo constante de posibles clientes.
+  + Herramientas que permitan una interacción eficiente con los clientes.
+  + Acceso a feedback u opiniones para tomar decisiones acerca de sus productos o servicios.
+
+* **Estrategias:**
+  + Ofrecer una plataforma que permita a los proveedores listar sus productos de manera detallada, incluyendo características, precios y casos de éxito.
+  + Implementar un sistema de reseñas y calificaciones que ayude a los proveedores a ganar credibilidad para aumentar la confianza de los consumidores.
+  + Ofrecer herramientas analíticas para que los proveedores puedan medir el rendimiento de sus listados y tomar decisiones a futuro.
+
+#### 2. Clientes En Búsqueda de software:
+
+* **Características**
+  + Empresas de diversos sectores que buscan expandirse con nuevas tecnologías o digitalizar sus operaciones.
+  + Freelancers o profesionales que necesitan herramientas o algún software específico para su trabajo.
+  + Entidades gubernamentales y organizaciones sin fines de lucro que necesiten algún servicio o producto basado en software.
+
+* **Necesidades:**
+  + Métodos simplificados que se ajusten a encontrar proveedores serios de manera rápida y efectiva.
+  + Comparar precios y funcionalidades de manera transparente para poder tomar una decisión.
+  + Acceso a reseñas y opiniones imparciales para tomar decisiones informadas acerca de los productos o servicios que seleccionarán.
+
+* **Estrategia:**
+  + Desarrollar un motor de búsqueda intuitivo con filtros avanzados que permitan a los clientes encontrar el software que mejor se adapte a sus necesidades.
+
 
