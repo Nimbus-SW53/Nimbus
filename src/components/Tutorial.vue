@@ -1,9 +1,9 @@
 <template>
 
-  <h1>Clase de Aplicaciones web </h1>
+  <h1>Nimbus </h1>
 
   <div class="container">
-    Avance{{name}}
+    {{name}}
   </div>
 
   <div class="Avance">
