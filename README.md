@@ -6,10 +6,10 @@
 
 <h2>Informe del Trabajo Final</h2>
 
-<h3>Curso: Desarrollo de Aplicaciones Open Source</h3>
+<h3>Curso: Aplicaciones Web</h3>
 <h3>Carrera: Ingeniería de Software </h3>
-<h3>Sección: SW54</h3>
-<h3>Profesor: Hugo Allan Mori Paiva</h3>
+<h3>Sección: </h3>
+<h3>Profesor: </h3>
 
 <strong>Startup:</strong> [FALTA DEFINIR]
 
@@ -19,7 +19,7 @@
 
 <ul>
   <li>Alonso Fernando Robles Astuñaupa (u202112662)</li>
-  <li>Integrante (codigo)</li>
+  <li>Christian Jose Zeta Valenzuela (u202011688)</li>
   <li>Integrante (codigo)</li>
   <li>Integrante (codigo)</li>
 </ul>
