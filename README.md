@@ -18,7 +18,7 @@
 <h3>Integrantes:</h3>
 
 <ul>
-  <li>Integrante (codigo)</li>
+  <li>Fabio Ernest Horna Silva (u202020229)</li>
   <li>Christian Jose Zeta Valenzuela (u202011688)</li>
   <li>Integrante (codigo)</li>
   <li>Integrante (codigo)</li>
@@ -133,4 +133,23 @@ INSERTAR IMÁGENES CON FECHA
 # Student Outcome
 
 
+# Capítulo I: INTRODUCCIÓN
+
+## 1.1 STARTUP PROFILE
+
+### 1.1.1 DESCRIPCIÓN DE LA STARTUP
+
+Somos **Nimbus**, una startup Peruana bajo el alero de la empresa **StratusPhere**, conformada por estudiantes con experiencia en diseño y programación. El nombre "Nimbus" refleja nuestra ambición de elevar el estándar de cómo se conectan los clientes con los proveedores de software, al igual que las nubes nimbus se elevan en el cielo. En un entorno sociopolítico que ha acelerado la digitalización y la demanda de soluciones de software, hemos identificado una oportunidad significativa para servir como intermediarios en este mercado.
+
+En la actualidad, las dinámicas sociales y políticas han precipitado un avance tecnológico sin precedentes. Este escenario ha creado una necesidad urgente para individuos y empresas de encontrar soluciones de software que se ajusten a sus necesidades específicas. Para abordar este vacío, hemos formado Nimbus, una solución innovadora que pretende simplificar y personalizar el proceso de selección de software.
+
+En línea con el enfoque de nuestro equipo en tecnologías web, nuestra plataforma se construye sobre lenguajes y frameworks modernos como **HTML5**, **CSS3**, **JavaScript**, **React** y **Angular**. Esta base tecnológica nos permite ofrecer una experiencia de usuario excepcional mientras mantenemos los más altos estándares de seguridad y eficiencia.
+
+#### Misión
+
+"Nuestra misión es democratizar y personalizar el acceso a soluciones de software de alta calidad en Perú. Nos esforzamos por eliminar las barreras entre los proveedores de software y los clientes, facilitando un emparejamiento eficiente y efectivo a través de nuestra plataforma web avanzada."
+
+#### Visión
+
+"Aspiramos a ser el nexo principal en la cadena de valor del software en Perú, impulsando la digitalización y contribuyendo al desarrollo tecnológico del país. En el futuro, queremos que los usuarios se sientan completamente familiarizados y satisfechos con las tecnologías emergentes y los servicios que Nimbus ofrece."
 
