@@ -1,6 +1,30 @@
 # Proyecto-Nimbus
 
-This template should help get you started developing with Vue 3 in Vite.
+<h2>Universidad Peruana de Ciencias Aplicadas</h2>
+
+<img src="https://seeklogo.com/images/U/universidad-peruana-de-ciencias-aplicadas-upc-logo-B98C3A365C-seeklogo.com.png" alt="UPC Logo" width="15%" height="15%">
+
+<h2>Informe del Trabajo Final</h2>
+
+<h3>Curso: Desarrollo de Aplicaciones Open Source</h3>
+<h3>Carrera: Ingeniería de Software </h3>
+<h3>Sección: SW54</h3>
+<h3>Profesor: Hugo Allan Mori Paiva</h3>
+
+<strong>Startup:</strong> [FALTA DEFINIR]
+
+<strong>Producto:</strong> HousseKeeper
+
+<h3>Integrantes:</h3>
+
+<ul>
+  <li>Alonso Fernando Robles Astuñaupa (u202112662)</li>
+  <li>Integrante (codigo)</li>
+  <li>Integrante (codigo)</li>
+  <li>Integrante (codigo)</li>
+</ul>
+
+**<h3>Agosto, 2023</h3>**
 
 ## Recommended IDE Setup
 
