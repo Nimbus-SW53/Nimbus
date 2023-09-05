@@ -323,5 +323,70 @@ Como una startup emergente en el mercado peruano que aspira a incursionar en el 
 
 * **Estrategia:**
   + Desarrollar un motor de búsqueda intuitivo con filtros avanzados que permitan a los clientes encontrar el software que mejor se adapte a sus necesidades.
+### 2.1.1.	ANÁLISIS COMPETITIVO
+![Analisis Competitivo Nimbus](https://github.com/Nimbus-SW53/Nimbus/blob/b4ba06e9f8bf5ba6fc77f1c0ac351d5b0f9f7d07/Analisis%20Competitivo.jpg)
+## 2.1.2. ESTRATEGIAS Y TÁCTICAS FRENTE A COMPETIDORES
 
+Teniendo en cuenta la comparación de competencias anterior. Se tomarán las siguientes tácticas frente a los competidores como:
+
+**Getapp**: Posicionamiento como una solución más personalizada y enfocada en nichos de mercado.
+  * Desarrollar algoritmos de recomendación que ofrezcan soluciones más precisas basadas en criterios específicos.
+  * Campañas de marketing que destaquen la exclusividad y enfoque personalizado.
+  * Alianzas con proveedores de nicho que no se encuentran en Getapp.
+
+**Capterra**: Ganar confiabilidad mediante la agregación de valor, como informes detallados y análisis comparativos.
+  * Ofrecer informes gratuitos que proporcionen un análisis en profundidad del software que el usuario está considerando.
+  * Integrar un sistema de revisión para autenticar reseñas.
+  * Webinars y demostraciones en vivo de productos populares o emergentes.
+
+**Tekton Labs**: Ser la tienda que ofrezca todos los servicios, incluidos comparación y compra de software, minimizando la necesidad de consultoría externa.
+  * Ofrecer servicios de consultoría ligera como parte del paquete de Nimbus.
+  * Integrar una función de asistencia en línea en tiempo real.
+  * Proveer tutoriales y guías de implementación junto con la compra de software a través de la plataforma.
+
+**Sapia**: Generar un plataforma intuitiva para eliminar la necesidad de una consultoría gracias a las herramientas y comparaciones.
+  * Introducir una función de "compra rápida" para acelerar el proceso de adquisición.
+  * Implementar un sistema de alertas que informe a los usuarios sobre actualizaciones y ofertas relevantes.
+  * Iniciar una campaña de marketing que destaque la eficiencia y rapidez de Nimbus en la toma de decisiones.
+
+## 2.2. ENTREVISTAS
+
+### 2.2.1. DISEÑO DE ENTREVISTAS
+
+Estas preguntas van dirigidas para las entrevistas de los usuarios IT encargados de la infraestructura de una empresa, usuarios IT encargados de proyectos pequeños o individuales que requieren Cloud Services.
+
+* Saludo y presentación de la entrevista:
+* Solicitud de datos:
+  * Solicitar nombres, apellidos, edad, distrito donde vive y ocupación.
+  * ¿A qué se dedica?
+* Preguntas sobre la problemática:
+  * ¿Cuándo y para qué necesita contratar Cloud Services?
+  * Cuando está escogiendo un proveedor de Cloud Services, ¿cuál es el proceso que sigue?
+  * Que factores afectan su decisión en la elección de proveedor.
+  * ¿Cuántos proveedores suele consultar antes de tomar una decisión?
+  * ¿Cuánto tiempo suele demorarle el proceso?
+  * Que dificultades enfrenta con la forma actual en la cual escoge un proveedor.
+  * Que proveedor tiene la mejor calculadora de costos en su opinión.
+* Preguntas sobre necesidades:
+  * ¿Qué es lo que más le gusta de las calculadoras existentes?
+  * ¿Como cree que se podría optimizar el proceso de elección?, por ejemplo, ¿poder comparar todos los proveedores y filtrarlos en un solo proceso - Inducir idea de forma pasiva.?
+  * ¿Como cree que se puede mejorar las calculadoras existentes de los proveedores?
+  * ¿Qué tanto grande cree que será el impacto de las mejoras y optimizaciones que propuso para mejorar el proceso de cálculo y elección en el gasto asociado a los servicios que desea contratar?
+  * ¿Como considera que estas mejoras ayudaran a sus proyectos en el futuro?
+* Despedida y agradecimiento
+### 2.2.2.	REGISTRO DE ENTREVISTAS 
+[insertar]
+[las]
+[entrevistas]
+### 2.2.3.	ANÁLISIS DE ENTREVISTAS
+[insertar]
+[los]
+[analisis]
+[de]
+[las]
+[entrevistas]
+## 2.3. NEEDFINDING
+
+### 2.3.1. USER PERSONAS
+- **Usuario Desarrollador**: Se toma en cuenta lo rescatado de las entrevistas hacia el segmento de desarrolladores.
 
