@@ -20,7 +20,7 @@
 <ul>
   <li>Fabio Ernest Horna Silva (u202020229)</li>
   <li>Christian Jose Zeta Valenzuela (u202011688)</li>
-  <li>Integrante (codigo)</li>
+  <li>Claudio Moreno Rosales (u20191e800)</li>
   <li>Integrante (codigo)</li>
 </ul>
 
