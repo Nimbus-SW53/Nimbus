@@ -375,16 +375,75 @@ Estas preguntas van dirigidas para las entrevistas de los usuarios IT encargados
   * ¿Como considera que estas mejoras ayudaran a sus proyectos en el futuro?
 * Despedida y agradecimiento
 ### 2.2.2.	REGISTRO DE ENTREVISTAS 
-[insertar]
-[las]
-[entrevistas]
+**Entrevistado/a:** Alexandra Moreno
+
+[Link de la entrevista a Alexandra Moreno (Youtube)](https://www.youtube.com/watch?v=Y00Z1HVaUuU)
+
+**Resumen de la entrevista:**
+En la entrevista, Alexandra, consultora con tres años de experiencia en SAP Business One, destacó el compromiso de su empresa con la satisfacción del cliente a través de implementaciones personalizadas. Principalmente confía en referencias y recomendaciones de clientes satisfechos, además de tener presencia en línea para adquirir nuevos clientes. No obstante, enfrenta el desafío de llegar a clientes que no buscan proactivamente sus servicios y ve en las plataformas de intermediación de software una posible solución para este problema. La estrategia de marketing de su empresa se centra en el boca a boca y en su presencia online. Alexandra mide el éxito a través de la satisfacción del cliente, eficiencia en implementación y mejora en los resultados de sus clientes. En cuanto a una posible plataforma de intermediación como Nimbus, la valorará en función de su habilidad para aumentar la visibilidad de su empresa y conectar con nuevos clientes dispuestos a adaptarse a sus estándares de tiempo y calidad.
+
+**Entrevistado/a:** Luis
+
+[Link de la entrevista a Luis (Youtube)](https://www.youtube.com/watch?v=FkvtMx0Si6I)
+
+**Resumen de la entrevista:**
+Luis, un desarrollador de software en Tech World Solution, habla sobre la especialización de su empresa en ofrecer soluciones de software ágiles y modernas para pequeñas empresas y startups emergentes. Explica sus estrategias para identificar clientes potenciales a través de marketing en línea y fuera de línea, así como eventos específicos de la industria. Luis menciona los desafíos que enfrentan al destacarse en un mercado saturado y demostrar el valor de sus soluciones. Discute sus canales de marketing y ventas, que incluyen publicidad en redes sociales y referencias de boca a boca. Luis enfatiza su agilidad y enfoque personalizado como una empresa más joven. Evalúan el éxito en función de la satisfacción del cliente, la entrega oportuna y los comentarios positivos de los usuarios. Luis resalta la importancia de formas eficientes de conectarse con startups y pequeñas empresas en plataformas de intermediación como Nimbus, así como la transparencia en el cálculo de comisiones. También se considera la facilidad de integración en los sistemas actuales. La aplicación web se ve como beneficiosa para acceder a proyectos y clientes que podrían ser difíciles de alcanzar.
+
+**Entrevistado/a:** Farid Esquivel
+
+[Link de la entrevista a Farid Esquivel (Youtube)](https://www.youtube.com/watch?v=zjbIquIROf4)
+
+**Resumen de la entrevista:**
+Esquivel, un asistente a distancia de 25 años en el sector educativo, comparte sus criterios y desafíos en la selección de software. Según Esquivel, la búsqueda de software está impulsada por la necesidad de encontrar soluciones a problemas específicos, como la organización o el inventario. Normalmente consulta opiniones en línea y valora la experiencia de otros usuarios antes de tomar una decisión. Enfrenta desafíos como tener que consultar múltiples fuentes y foros, a menudo con opiniones poco confiables. Valora la idea de una plataforma centralizada que facilite el proceso de selección, permitiendo comparar características y costos de distintas opciones. Cree que Nimbus, al estar enfocado en facilitar la búsqueda de software adaptado a las necesidades del usuario, podría ser un gran recurso para ahorrar tiempo y mejorar la eficiencia en este proceso.
+
+
 ### 2.2.3.	ANÁLISIS DE ENTREVISTAS
-[insertar]
-[los]
-[analisis]
-[de]
-[las]
-[entrevistas]
+**Resumen Ejecutivo** 
+Las entrevistas con Alexandra, Luis y Esquivel ofrecen perspectivas diversas y complementarias sobre la relevancia, beneficios y desafíos de utilizar una plataforma de intermediación de software como Nimbus. Los temas recurrentes incluyen la satisfacción del cliente, la visibilidad, la adquisición de nuevos clientes y la eficiencia en la selección de software.
+
+**Metodología**
+Para este análisis, se recogieron datos cualitativos a través de entrevistas estructuradas. Cada entrevista se categorizó en función de los roles profesionales (Consultora SAP, Desarrollador de Software, Asistente a Distancia) y los segmentos de mercado (ERP, Soluciones Ágiles, Sector Educativo).
+
+**Datos Recopilados**
+
+**Alexandra (Consultora en SAP Business One)**
+    + **Desafíos**: Llegar a clientes que no la buscan proactivamente.
+    + **Métricas de Éxito**: Satisfacción del cliente, eficiencia en implementación y mejora en los resultados de sus clientes.
+    + **Estrategia de Marketing**: Boca a boca y presencia en línea.
+
+**Luis (Desarrollador en Tech World Solution)**
+  * **Desafíos**: Destacarse en un mercado saturado.
+  * **Métricas de Éxito**: Satisfacción del cliente, entrega oportuna y comentarios positivos.
+  * **Estrategia de Marketing**: Marketing en línea y fuera de línea, eventos de la industria.
+
+**Esquivel** (Asistente a Distancia en el Sector Educativo)
+  * **Desafíos**: Proceso de selección de software tedioso.
+  * **Criterios de Selección**: Opiniones en línea y experiencias de otros usuarios.
+
+**Análisis Profesional**
+**Diversidad de Necesidades y Desafíos**
+  * Alexandra necesita un canal que mejore su visibilidad más allá de sus redes actuales.
+  * Luis busca una forma eficiente de conectar con pequeñas empresas y startups, además de transparencia en las comisiones.
+  * Esquivel valora una plataforma centralizada para comparar características y costos.
+
+**Métricas de Éxito Comunes**
+  * Tanto Alexandra como Luis utilizan la satisfacción del cliente como una métrica clave, lo que resalta la importancia de este indicador en diferentes sectores.
+
+ **Estrategias de Marketing**
+  * El "boca a boca" aparece en las estrategias tanto de Alexandra como de Luis, lo que sugiere que Nimbus debe incorporar características que permitan compartir fácilmente opiniones y recomendaciones.
+
+**Centralización y Eficiencia**
+  * La necesidad de una "ventanilla única" para seleccionar software es evidente en el caso de Esquivel. Este usuario final podría representar una tendencia más amplia hacia la simplificación y eficiencia en la toma de decisiones.
+
+ **Adaptabilidad**
+  * Alexandra y Luis, aunque diferentes en su enfoque, buscan plataformas que puedan adaptarse a sus estándares de tiempo y calidad, lo que sugiere que Nimbus debería ofrecer cierta flexibilidad en su servicio.
+
+**Recomendaciones**
+  1. Nimbus debe considerar un sistema de clasificación y reseñas para mejorar la confianza entre los usuarios.
+  2. Se debe proporcionar transparencia en las tarifas y comisiones para atraer a más proveedores como Luis.
+  3. Para personas como Esquivel, incorporar un sistema de comparación de características y precios sería invaluable.
+  4. Nimbus debe permitir y facilitar la personalización de implementaciones para atraer a consultores como Alexandra.
+
 ## 2.3. NEEDFINDING
 
 ### 2.3.1. USER PERSONAS
