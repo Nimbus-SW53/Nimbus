@@ -154,7 +154,24 @@ En línea con el enfoque de nuestro equipo en tecnologías web, nuestra platafor
 "Aspiramos a ser el nexo principal en la cadena de valor del software en Perú, impulsando la digitalización y contribuyendo al desarrollo tecnológico del país. En el futuro, queremos que los usuarios se sientan completamente familiarizados y satisfechos con las tecnologías emergentes y los servicios que Nimbus ofrece."
 
 ### 1.1.2 PERFILES DE INTEGRANTES
-[Añadir los perfiles]
+
+
+<div style="display: flex; justify-content: space-around;">
+  <div>
+    <img src="https://github.com/Nimbus-SW53/Nimbus/blob/74e699367d91e39ed75c37964c10fa60e6cb3f45/Imagenes/Fabio%20Presentacion.jpg" alt="Fabio" style="width: 500px;">
+  </div>
+  <div>
+    <img src="https://github.com/Nimbus-SW53/Nimbus/blob/74e699367d91e39ed75c37964c10fa60e6cb3f45/Imagenes/Presentacion%20Claudio%20Moreno.jpg" alt="Claudio Moreno" style="width: 500px;">
+  </div>
+  <div>
+    <img src="https://github.com/Nimbus-SW53/Nimbus/blob/74e699367d91e39ed75c37964c10fa60e6cb3f45/Imagenes/Presentacion%20de%20Farid.jpg" alt="Farid" style="width: 500px;">
+  </div>
+</div>
+
+
+
+
+
 
 ## 1.2 SOLUTION PROFILE
 
