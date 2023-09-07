@@ -527,7 +527,6 @@ En el presente User Task Matrix se mostrarán las tareas de los segmentos objeti
 | User Story 5.3       | Recuperar Contraseña              | Como usuario, quiero poder recuperar mi contraseña en caso de olvido para poder acceder a mi cuenta.           | DADO que el usuario se encuentra en la pantalla de inicio Y haga click en el enlace “Olvidé mi contraseña” Y siga las instrucciones CUANDO realice las acciones necesarias ENTONCES el sistema le permitirá restablecer su contraseña. | Epic 05                    |
 
 ## 3.3. IMPACT MAPPING
-
 - **Usuario Desarrollador**  
   <img align="left" src="https://github.com/Nimbus-SW53/Nimbus/blob/6e3697da3b6eb0fed79eee58193fab45c83280ca/Imagenes/Impact%20mapping%20desarrollador.jpg" alt="Impact Mapping Desarrollador">
   <br clear="left"/>
