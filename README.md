@@ -466,6 +466,7 @@ En el presente User Task Matrix se mostrarán las tareas de los segmentos objeti
 
 ### 2.3.3. USER JOURNEY MAP
 - **Usuario Desarrollador**
+![User Journey Map Desarrollador](https://github.com/Nimbus-SW53/Nimbus/blob/5ed59cae7a274d74fe195efdd956cf0fbd169525/Imagenes/User%20Journey%20map.jpg)
 
 
 - **Usuario Cliente**
