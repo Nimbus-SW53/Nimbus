@@ -528,9 +528,29 @@ En el presente User Task Matrix se mostrarán las tareas de los segmentos objeti
 
 ## 3.3. IMPACT MAPPING
 
+- **Usuario Desarrollador**  
+  <img align="left" src="https://github.com/Nimbus-SW53/Nimbus/blob/6e3697da3b6eb0fed79eee58193fab45c83280ca/Imagenes/Impact%20mapping%20desarrollador.jpg" alt="Impact Mapping Desarrollador">
+  <br clear="left"/>
 
+- **Usuario Cliente**  
+  <img align="left" src="https://github.com/Nimbus-SW53/Nimbus/blob/192ba8cf21d72e006a95dff648a054854cad30c8/Imagenes/Impact%20mapping%20Cliente.jpg" alt="Impact Mapping Cliente">
+  <br clear="left"/>
 
+## 3.4 PRODUCT BACKLOG
 
-
+| Orden | User Story ID    | Título              | Descripción                                                                                      | Story Points |
+|-------|------------------|---------------------|---------------------------------------------------------------------------------------------------|--------------|
+| 1     | User Story 1.1   | Listar Productos    | Como proveedor, quiero poder listar mis productos para que sean visibles en la plataforma.         | 5            |
+| 2     | User Story 1.2   | Editar Listado      | Como proveedor, quiero poder editar los detalles de mis productos listados.                        | 3            |
+| 3     | User Story 2.1   | Calificar Producto  | Como usuario, quiero poder calificar un producto para indicar mi nivel de satisfacción.             | 2            |
+| 4     | User Story 2.2   | Ver Calificaciones  | Como usuario, quiero poder ver las calificaciones de un producto para ayudar en mi elección.        | 3            |
+| 5     | User Story 3.1   | Utilizar Filtros    | Como usuario, quiero poder utilizar diferentes filtros para encontrar el software que necesito.    | 5            |
+| 6     | User Story 3.2   | Comparar Productos  | Como usuario, quiero poder comparar diferentes productos para tomar una decisión informada.         | 8            |
+| 7     | User Story 4.1   | Visualizar Reseñas  | Como usuario, quiero poder visualizar reseñas de un software específico para informarme mejor.      | 3            |
+| 8     | User Story 4.2   | Escribir Reseñas    | Como usuario, quiero poder escribir una reseña para un software que haya utilizado.                 | 5            |
+| 9     | User Story 4.3   | Valorar Reseñas     | Como usuario, quiero poder dar una puntuación a las reseñas para valorar su utilidad.               | 2            |
+| 10    | User Story 5.1   | Crear Cuenta        | Como usuario nuevo, quiero poder crear una cuenta para acceder a todas las funcionalidades.         | 3            |
+| 11    | User Story 5.2   | Iniciar Sesión      | Como usuario registrado, quiero poder iniciar sesión para acceder a mi cuenta y a mis preferencias.  | 2            |
+| 12    | User Story 5.3   | Recuperar Contraseña| Como usuario, quiero poder recuperar mi contraseña en caso de olvido para poder acceder a mi cuenta. | 1            |
 
 
