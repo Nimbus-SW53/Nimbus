@@ -406,17 +406,18 @@ Para este análisis, se recogieron datos cualitativos a través de entrevistas e
 
 **Datos Recopilados**
 
-**Alexandra (Consultora en SAP Business One)**
-    + **Desafíos**: Llegar a clientes que no la buscan proactivamente.
-    + **Métricas de Éxito**: Satisfacción del cliente, eficiencia en implementación y mejora en los resultados de sus clientes.
-    + **Estrategia de Marketing**: Boca a boca y presencia en línea.
+- **Alexandra (Consultora en SAP Business One)**
+  - **Desafíos**: Llegar a clientes que no la buscan proactivamente.
+  - **Métricas de Éxito**: Satisfacción del cliente, eficiencia en implementación y mejora en los resultados de sus clientes.
+  - **Estrategia de Marketing**: Boca a boca y presencia en línea.
 
-**Luis (Desarrollador en Tech World Solution)**
+
+- **Luis (Desarrollador en Tech World Solution)**
   * **Desafíos**: Destacarse en un mercado saturado.
   * **Métricas de Éxito**: Satisfacción del cliente, entrega oportuna y comentarios positivos.
   * **Estrategia de Marketing**: Marketing en línea y fuera de línea, eventos de la industria.
 
-**Esquivel** (Asistente a Distancia en el Sector Educativo)
+- **Esquivel** (Asistente a Distancia en el Sector Educativo)
   * **Desafíos**: Proceso de selección de software tedioso.
   * **Criterios de Selección**: Opiniones en línea y experiencias de otros usuarios.
 
