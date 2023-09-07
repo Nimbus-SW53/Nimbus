@@ -465,29 +465,68 @@ En el presente User Task Matrix se mostrarán las tareas de los segmentos objeti
 ![User Task Matrix](https://github.com/Nimbus-SW53/Nimbus/blob/f618ca0095638e54f5bc6013946f1e1ecdd7ed6e/Imagenes/User%20task%20Matrix.jpg)
 
 ### 2.3.3. USER JOURNEY MAP
+- **Usuario Desarrollador**  
+  <img align="left" width="700" src="https://github.com/Nimbus-SW53/Nimbus/blob/7c5481e4ea1d9918e3e3acaaddae72d46e9ff9ad/Imagenes/User%20Journey%20map.jpg">
+  <br clear="left"/>
+
+- **Usuario Cliente**  
+  <img align="left" width="700" src="https://github.com/Nimbus-SW53/Nimbus/blob/5ed59cae7a274d74fe195efdd956cf0fbd169525/Imagenes/User%20Journey%20Usuario%20Cliente.jpg">
+  <br clear="left"/>
+
+### 2.3.4. EMPATHY MAPS
+
+- **Usuario Desarrollador**  
+  <img align="left" width="600" src="https://github.com/Nimbus-SW53/Nimbus/blob/f618ca0095638e54f5bc6013946f1e1ecdd7ed6e/Imagenes/Empathy%20Map%20Desarrolador.jpg">
+  <br clear="left"/>
+
+- **Usuario Cliente**  
+  <img align="left" width="600" src="https://github.com/Nimbus-SW53/Nimbus/blob/f618ca0095638e54f5bc6013946f1e1ecdd7ed6e/Imagenes/Empathy%20Map%20Usuario.jpg">
+  <br clear="left"/>
+
+### 2.3.5. AS-IS SCENARIO MAPS
+
 - **Usuario Desarrollador**
-![User Journey Map Desarrollador](https://github.com/Nimbus-SW53/Nimbus/blob/5ed59cae7a274d74fe195efdd956cf0fbd169525/Imagenes/User%20Journey%20map.jpg)
+- **As_Is Scenario Map Desarrollador**  
+  <img align="left" src="https://github.com/Nimbus-SW53/Nimbus/blob/f618ca0095638e54f5bc6013946f1e1ecdd7ed6e/Imagenes/AS_IS%20SCENARIO%20MAP%20DESARROLLADOR.jpg">
+  <br clear="left"/>
+
+- **Usuario Cliente**  
+ <img align="left" src="https://github.com/Nimbus-SW53/Nimbus/blob/f618ca0095638e54f5bc6013946f1e1ecdd7ed6e/Imagenes/AS_IS%20SCENARIO%20MAP%20Cliente.jpg">
+  <br clear="left"/>
 
 
-- **Usuario Cliente**
+# Capítulo III: REQUIERMENTS SPECIFICATION
 
+## 3.1. TO-BE SCENARIO MAPS
+- **To-Be Scenario Map Desarrollador**  
+  ![To-Be Scenario Map Desarrollador](https://github.com/Nimbus-SW53/Nimbus/blob/5ed59cae7a274d74fe195efdd956cf0fbd169525/Imagenes/To-Be%20scenario%20maps%20Desarrollador.jpg)
 
+- **To-Be Scenario Map Cliente**  
+  ![To-Be Scenario Map Cliente](https://github.com/Nimbus-SW53/Nimbus/blob/7c5481e4ea1d9918e3e3acaaddae72d46e9ff9ad/Imagenes/User%20Journey%20Usuario%20Cliente.jpg)
 
+## 3.2.USER STORIES
 
+| Epic / User Story ID | Título                            | Descripción                                                                                                   | Criterios de Aceptación                                                                                                      | Relacionado con (Epic ID) |
+|----------------------|-----------------------------------|----------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------|----------------------------|
+| Epic 01              | Plataforma de Listado de Productos | Crear una plataforma en la que los proveedores de software puedan listar y detallar sus productos.             | -                                                                                                                            | -                          |
+| User Story 1.1       | Listar Productos                  | Como proveedor, quiero poder listar mis productos para que sean visibles en la plataforma.                    | DADO que el proveedor ha iniciado sesión Y haga click en el botón "Añadir Producto" CUANDO complete los detalles del producto ENTONCES el producto se listará en la plataforma.    | Epic 01                    |
+| User Story 1.2       | Editar Listado                    | Como proveedor, quiero poder editar los detalles de mis productos listados.                                   | DADO que el proveedor ha iniciado sesión Y seleccione un producto de su lista Y haga click en el botón "Editar" CUANDO actualice los detalles ENTONCES los cambios se guardarán.  | Epic 01                    |
+| Epic 02              | Sistema de Calificaciones y Reseñas| Crear un sistema en donde los usuarios puedan calificar y revisar los productos de software.                   | -                                                                                                                            | -                          |
+| User Story 2.1       | Calificar Producto                | Como usuario, quiero poder calificar un producto para indicar mi nivel de satisfacción.                        | DADO que el usuario ha iniciado sesión Y se encuentra en la página de un producto Y haga click en "Calificar" CUANDO seleccione una calificación ENTONCES la calificación se registrará. | Epic 02                   |
+| User Story 2.2       | Ver Calificaciones                | Como usuario, quiero poder ver las calificaciones de un producto para ayudar en mi elección.                   | DADO que el usuario se encuentra en la página de un producto Y haga click en “Ver Calificaciones” CUANDO aparezcan las calificaciones ENTONCES el usuario podrá verlas.            | Epic 02                   |
+| Epic 03              | Motor de Búsqueda Avanzado        | Implementar un motor de búsqueda con filtros avanzados para que los usuarios puedan encontrar el software que mejor se adapte a sus necesidades. | -    | -                          |
+| User Story 3.1       | Utilizar Filtros                  | Como usuario, quiero poder utilizar diferentes filtros para encontrar el software que necesito.                | DADO que el usuario se encuentra en la página principal Y utilice los filtros de búsqueda CUANDO realice una búsqueda ENTONCES se mostrarán resultados acordes a los filtros.      | Epic 03                   |
+| User Story 3.2       | Comparar Productos                | Como usuario, quiero poder comparar diferentes productos para tomar una decisión informada.                    | DADO que el usuario se encuentra en la página de resultados Y seleccione varios productos Y haga click en "Comparar" CUANDO se realice la comparación ENTONCES el usuario podrá ver una tabla comparativa. | Epic 03                   |
+| Epic 04              | Sistema de Visualización de Reseñas| Implementar un sistema que permita a los usuarios leer, escribir y valorar reseñas de los diferentes softwares. | -                                                                                                                            | -                          |
+| User Story 4.1       | Visualizar Reseñas                | Como usuario, quiero poder visualizar reseñas de un software específico para informarme mejor sobre su utilidad.| DADO que el usuario se encuentra en la página de un software Y haga click en el botón “Ver Reseñas” CUANDO aparezcan las reseñas ENTONCES el usuario podrá leerlas.                | Epic 04                   |
+| User Story 4.2       | Escribir Reseñas                  | Como usuario, quiero poder escribir una reseña para un software que haya utilizado.                            | DADO que el usuario se encuentra en la página de un software Y haga click en el botón “Escribir Reseña” CUANDO termine de escribir ENTONCES la reseña será publicada.              | Epic 04                   |
+| User Story 4.3       | Valorar Reseñas                   | Como usuario, quiero poder dar una puntuación a las reseñas para valorar su utilidad.                          | DADO que el usuario se encuentra en la página de un software Y esté leyendo reseñas Y haga click en los botones de valoración (p.ej., pulgar arriba/abajo) ENTONCES la valoración se registrará. | Epic 04                   |
+| Epic 05              | Sistema de Registro               | Implementar un sistema de registro para que los usuarios puedan crear cuentas y gestionar sus preferencias.    | -                                                                                                                            | -                          |
+| User Story 5.1       | Crear Cuenta                      | Como usuario nuevo, quiero poder crear una cuenta para acceder a todas las funcionalidades de la plataforma.  | DADO que el usuario se encuentra en la pantalla de inicio Y haga click en el botón “Crear una cuenta” Y rellene los datos solicitados CUANDO realice un click en el botón “Registrarse” ENTONCES el sistema guardará su información y le direccionará a la página principal de su cuenta. | Epic 05                    |
+| User Story 5.2       | Iniciar Sesión                    | Como usuario registrado, quiero poder iniciar sesión para acceder a mi cuenta y a mis preferencias.           | DADO que el usuario se encuentra en la pantalla de inicio Y haga click en el botón “Iniciar sesión” Y introduzca sus credenciales CUANDO realice un click en el botón “Entrar” ENTONCES el sistema le permitirá acceder a su cuenta. | Epic 05                    |
+| User Story 5.3       | Recuperar Contraseña              | Como usuario, quiero poder recuperar mi contraseña en caso de olvido para poder acceder a mi cuenta.           | DADO que el usuario se encuentra en la pantalla de inicio Y haga click en el enlace “Olvidé mi contraseña” Y siga las instrucciones CUANDO realice las acciones necesarias ENTONCES el sistema le permitirá restablecer su contraseña. | Epic 05                    |
 
-
-
-
-
-
-
-
-
-
-
-
-
-
+## 3.3. IMPACT MAPPING
 
 
 
