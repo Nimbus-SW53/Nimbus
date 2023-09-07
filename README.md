@@ -450,5 +450,47 @@ Para este análisis, se recogieron datos cualitativos a través de entrevistas e
 ## 2.3. NEEDFINDING
 
 ### 2.3.1. USER PERSONAS
-- **Usuario Desarrollador**: Se toma en cuenta lo rescatado de las entrevistas hacia el segmento de desarrolladores.
+- **Usuario Desarrollador**: Se toma en cuenta lo rescatado de las entrevistas hacia el segmento de desarrolladores. 
+
+![User Persona Desarrollador](https://github.com/Nimbus-SW53/Nimbus/blob/f618ca0095638e54f5bc6013946f1e1ecdd7ed6e/Imagenes/User%20Persona%20desarrollador.jpg)
+
+---
+- **Usuario Cliente**: Se toma en cuenta lo rescatado en las entrevistas hacia el usuario Empresa. El instrumento se enfoca en las características resaltantes en común de las entrevistas para este sector, así también, sus necesidades.
+
+![User Persona Usuario](https://github.com/Nimbus-SW53/Nimbus/blob/f618ca0095638e54f5bc6013946f1e1ecdd7ed6e/Imagenes/User%20Persona%20Usuario%20.jpg)
+
+### 2.3.2. USER TASK MATRIX
+En el presente User Task Matrix se mostrarán las tareas de los segmentos objetivos Usuario Empresa y Usuario Desarrollador, como también se hará un esquema de importancia y frecuencia.
+
+![User Task Matrix](https://github.com/Nimbus-SW53/Nimbus/blob/f618ca0095638e54f5bc6013946f1e1ecdd7ed6e/Imagenes/User%20task%20Matrix.jpg)
+
+### 2.3.3. USER JOURNEY MAP
+- **Usuario Desarrollador**
+
+
+- **Usuario Cliente**
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
