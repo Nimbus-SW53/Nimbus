@@ -21,7 +21,7 @@
   <li>Fabio Ernest Horna Silva (u202020229)</li>
   <li>Christian Jose Zeta Valenzuela (u202011688)</li>
   <li>Claudio Moreno Rosales (u20191e800)</li>
-  <li>Integrante (codigo)</li>
+  <li>Farid Hinostroza Mavila (u202014468)</li>
 </ul>
 
 **<h3>Agosto, 2023</h3>**
