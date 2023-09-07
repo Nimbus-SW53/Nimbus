@@ -376,6 +376,7 @@ Estas preguntas van dirigidas para las entrevistas de los usuarios IT encargados
 * Despedida y agradecimiento
 ### 2.2.2.	REGISTRO DE ENTREVISTAS 
 **Entrevistado/a:** Alexandra Moreno
+![Captura de pantalla entrebista a Alexandra](https://github.com/Nimbus-SW53/Nimbus/blob/cba89e68023ea3e02729eb70ce63daea19b66e9f/Imagenes/Entrevista%20a%20Sandra%20Moreno.jpg)
 
 [Link de la entrevista a Alexandra Moreno (Youtube)](https://www.youtube.com/watch?v=Y00Z1HVaUuU)
 
@@ -383,6 +384,7 @@ Estas preguntas van dirigidas para las entrevistas de los usuarios IT encargados
 En la entrevista, Alexandra, consultora con tres años de experiencia en SAP Business One, destacó el compromiso de su empresa con la satisfacción del cliente a través de implementaciones personalizadas. Principalmente confía en referencias y recomendaciones de clientes satisfechos, además de tener presencia en línea para adquirir nuevos clientes. No obstante, enfrenta el desafío de llegar a clientes que no buscan proactivamente sus servicios y ve en las plataformas de intermediación de software una posible solución para este problema. La estrategia de marketing de su empresa se centra en el boca a boca y en su presencia online. Alexandra mide el éxito a través de la satisfacción del cliente, eficiencia en implementación y mejora en los resultados de sus clientes. En cuanto a una posible plataforma de intermediación como Nimbus, la valorará en función de su habilidad para aumentar la visibilidad de su empresa y conectar con nuevos clientes dispuestos a adaptarse a sus estándares de tiempo y calidad.
 
 **Entrevistado/a:** Luis
+![Captura de pantalla entrevista a Luis](https://github.com/Nimbus-SW53/Nimbus/blob/cba89e68023ea3e02729eb70ce63daea19b66e9f/Imagenes/Entrevista%20a%20Luis.jpg)
 
 [Link de la entrevista a Luis (Youtube)](https://www.youtube.com/watch?v=FkvtMx0Si6I)
 
@@ -390,7 +392,7 @@ En la entrevista, Alexandra, consultora con tres años de experiencia en SAP Bus
 Luis, un desarrollador de software en Tech World Solution, habla sobre la especialización de su empresa en ofrecer soluciones de software ágiles y modernas para pequeñas empresas y startups emergentes. Explica sus estrategias para identificar clientes potenciales a través de marketing en línea y fuera de línea, así como eventos específicos de la industria. Luis menciona los desafíos que enfrentan al destacarse en un mercado saturado y demostrar el valor de sus soluciones. Discute sus canales de marketing y ventas, que incluyen publicidad en redes sociales y referencias de boca a boca. Luis enfatiza su agilidad y enfoque personalizado como una empresa más joven. Evalúan el éxito en función de la satisfacción del cliente, la entrega oportuna y los comentarios positivos de los usuarios. Luis resalta la importancia de formas eficientes de conectarse con startups y pequeñas empresas en plataformas de intermediación como Nimbus, así como la transparencia en el cálculo de comisiones. También se considera la facilidad de integración en los sistemas actuales. La aplicación web se ve como beneficiosa para acceder a proyectos y clientes que podrían ser difíciles de alcanzar.
 
 **Entrevistado/a:** Farid Esquivel
-
+![Captura de pantalla entrevista a Farid](https://github.com/Nimbus-SW53/Nimbus/blob/cba89e68023ea3e02729eb70ce63daea19b66e9f/Imagenes/Nadir%20Esquivet.jpg)
 [Link de la entrevista a Farid Esquivel (Youtube)](https://www.youtube.com/watch?v=zjbIquIROf4)
 
 **Resumen de la entrevista:**
