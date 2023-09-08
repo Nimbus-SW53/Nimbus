@@ -11,9 +11,9 @@
 <h3>Sección:SW53</h3>
 <h3>Profesor:Naldo Reupo-Musayon Gastulo </h3>
 
-<strong>Startup:</strong> NIMBUS
+<strong>Startup:</strong> StratusSphere
 
-<strong>Producto:</strong> NIMBUS
+<strong>Producto:</strong> Nimbus
 
 <h3>Integrantes:</h3>
 
@@ -916,10 +916,13 @@ Para el desarrollo del landing page se trabajó por tareas de implementación en
 
 - Para esta primera entrega que el proyecto va bien encaminado ya que supimos conocer la problemática de nuestro proyecto, nuestros competidores, nuestras mejoras con las entrevistas y logramos trasladar las necesidades encontradas a los User Stories logrando describir detalladamente el desarrollo del servicio final.
 <br>
+
 - Las entrevistas con Alexandra, Luis y Esquivel ofrecen perspectivas diversas y complementarias sobre la relevancia, beneficios y desafíos de utilizar una plataforma de intermediación de software como Nimbus. Los temas recurrentes incluyen la satisfacción del cliente, la visibilidad, la adquisición de nuevos clientes y la eficiencia en la selección de software. Estas entrevistas destacan la necesidad de una solución como Nimbus en un mercado saturado de opciones de software y resaltan la importancia de satisfacer las necesidades tanto de profesionales independientes como de pequeñas y grandes empresas.
 <br>
+
 - Para este análisis, se recogieron datos cualitativos a través de entrevistas estructuradas. Cada entrevista se categorizó en función de los roles profesionales (Consultora SAP, Desarrollador de Software, Asistente a Distancia) y los segmentos de mercado (ERP, Soluciones Ágiles, Sector Educativo). Esta metodología proporciona una base sólida para comprender las diversas necesidades y desafíos de los usuarios.
 <br>
+
 - Es esencial destacar que, además de las valiosas perspectivas obtenidas a través de entrevistas y análisis de necesidades de usuarios, la metodología de Lean UX, respaldada por herramientas como el Lean UX Canvas, Lean UX Hypothesis Statement y Lean UX Assumptions, ha demostrado ser una parte integral y efectiva para abordar la problemática que Nimbus busca resolver. Estas herramientas han facilitado la identificación y priorización de desafíos clave, la definición de hipótesis claras y la generación de soluciones orientadas a la experiencia del usuario. Su incorporación en la estrategia general de Nimbus es esencial para garantizar que la plataforma no solo responda a las necesidades de los usuarios, sino que también sea ágil, eficiente y capaz de mantenerse competitiva en un mercado diverso y en constante evolución.
 
 ### Bibliografía
