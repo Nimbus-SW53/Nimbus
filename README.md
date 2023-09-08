@@ -11,9 +11,9 @@
 <h3>Sección:SW53</h3>
 <h3>Profesor:Naldo Reupo-Musayon Gastulo </h3>
 
-<strong>Startup:</strong> NIMBUS
+<strong>Startup:</strong> StratusSphere
 
-<strong>Producto:</strong> NIMBUS
+<strong>Producto:</strong> Nimbus
 
 <h3>Integrantes:</h3>
 
