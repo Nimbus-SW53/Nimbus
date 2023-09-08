@@ -297,6 +297,10 @@ En línea con el enfoque de nuestro equipo en tecnologías web, nuestra platafor
 
 <img  src="https://github.com/Nimbus-SW53/Nimbus/blob/74e699367d91e39ed75c37964c10fa60e6cb3f45/Imagenes/Presentacion%20de%20Farid.jpg"  alt="Farid"  style="width: 500px;">
 </div>
+<a href="https://imgur.com/OBM7ykv"><img src="https://i.imgur.com/OBM7ykv.png" title="Christian Zeta" alt="Zeta"   style="width: 500px;"/></a>
+	</div>
+
+<div>
 
 <div>
   <img src="https://i.postimg.cc/3J2jGLBV/Integrante-Diegosaurio.jpg" alt="Diego" style="width: 500px;"> 
