@@ -570,3 +570,308 @@ En el presente User Task Matrix se mostrarán las tareas de los segmentos objeti
 | 12    | User Story 5.3   | Recuperar Contraseña| Como usuario, quiero poder recuperar mi contraseña en caso de olvido para poder acceder a mi cuenta. | 1            |
 
 
+## Capítulo IV: Product Design
+
+4.1. Style Guidelines.
+4.1.1. General Style Guidelines.
+4.1.2. Web Style Guidelines.
+4.2. Information Architecture.
+4.2.1. Organization Systems.
+4.2.2. Labeling Systems.
+4.2.3. SEO Tags and Meta Tags
+4.2.4. Searching Systems.
+4.2.5. Navigation Systems.
+4.3. Landing Page UI Design.
+4.3.1. Landing Page Wireframe.
+4.3.2. Landing Page Mock-up.
+4.4. Web Applications UX/UI Design.
+4.4.1. Web Applications Wireframes.
+4.4.2. Web Applications Wireflow Diagrams.
+4.4.2. Web Applications Mock-ups.
+4.4.3. Web Applications User Flow Diagrams.
+4.5. Web Applications Prototyping.
+4.6. Domain-Driven Software Architecture.
+4.6.1. Software Architecture Context Diagram.
+4.6.2. Software Architecture Container Diagrams.
+4.6.3. Software Architecture Components Diagrams.
+4.7. Software Object-Oriented Design.
+4.7.1. Class Diagrams.
+4.7.2. Class Dictionary.
+4.8. Database Design.
+4.8.1. Database Diagram.
+
+
+<br><br>
+
+## Capítulo V: Product Implementation, Validation & Deployment
+
+### 5.1. Software Configuration Management.
+### 5.1.1. Software Development Environment Configuration.
+
+
+La configuración de nuestro ambiente de desarrollo está divida en:
+
+**Product Management:**
+Herramientas permitidas:
+
+- Github Issues https://docs.github.com/es
+
+**Requirement Management:**
+Herramientas permitidas:
+
+- Github Issues https://docs.github.com/es 
+
+**Product UX/UI Design:**
+Herramientas permitidas:
+
+- Figma https://www.figma.com/best-practices/guide-to-developerhandoff/components-styles-and-documentation/ 
+
+**Software Development:**
+Herramientas permitidas:
+
+**Landing Page:**
+- JavaScript https://developer.mozilla.org/es/docs/Web/JavaScript 
+-  HTML https://developer.mozilla.org/es/docs/Web/HTML 
+- CSS https://developer.mozilla.org/es/docs/Web/CSS 
+
+**Librerías:**
+- Bootstrap https://getbootstrap.com/docs/4.1/gettingstarted/introduction/ 
+
+**Software Documentation:**
+**API:**
+-  Swagger https://swagger.io/docs/
+
+
+
+### 5.1.2. Source Code Management.
+
+Para el manejo de nuestros repositorios utilizaremos las siguientes políticas:
+
+**Repositorios:**
+Nimbus-Landing-Page:
+
+- **EasyCloud-Backend:** En desarrollo.
+
+- **EasyCloud-Frontend:** [https://github.com/Nimbus-SW53/Talleres/tree/master](https://github.com/Nimbus-SW53/Talleres/tree/master)
+
+**Issues:**
+
+- Se debe crear un issue por cada feature, bug o documentación con el respectivo label.
+
+- Se debe incluir el User Story que hace referencia.
+
+**Gitflow:**
+Es el flujo de trabajo que se utilizará en Git para agregar nuevas funcionalidades, corregir errores y preparar el código Fuente para producción de nuestro Landing Page.
+
+- Existen dos ramas principales:Main y master.
+- Las ramas creadas por los issues deberán hacer sus pull requests a la rama development.
+- Cuando un User Story termine de ser implementado, esta deberá hacer un pull request a la rama main.
+
+[![gitflow.png](https://i.postimg.cc/wTRNwFHk/gitflow.png)](https://postimg.cc/ZCZ0R8W9)
+
+### 5.1.3. Source Code Style Guide & Conventions.
+
+Utilizaremos la guía de estilos y convenciones de codificación en C#, que replicamos en JavaScript por su similitud, ofrecida por Microsoft. Y para el HTML/CSS utilizaremos la guía de estilos desarrollado por la fundación Mozilla. Asimismo, utilizaremos las siguientes tecnologías:
+
+**IDE:**
+- Rider [https://www.jetbrains.com/es-es/rider/download/#section=windows](https://www.jetbrains.com/es-es/rider/download/#section=windows) 
+- WebStorm [https://www.jetbrains.com/eses/webstorm/download/#section=windows](https://www.jetbrains.com/eses/webstorm/download/#section=windows) 
+
+**DevOps:**
+- GitHub [https://docs.github.com/es](https://docs.github.com/es) 
+
+**Lenguajes:**
+- C# [https://docs.microsoft.com/en-us/dotnet/csharp/](https://docs.microsoft.com/en-us/dotnet/csharp/) 
+- JavaScript [https://developer.mozilla.org/es/docs/Web/JavaScript](https://developer.mozilla.org/es/docs/Web/JavaScript) 
+- CSS [https://developer.mozilla.org/es/docs/Web/CSS](https://developer.mozilla.org/es/docs/Web/CSS) 
+-  HTML [https://developer.mozilla.org/es/docs/Web/HTML](https://developer.mozilla.org/es/docs/Web/HTML) 
+
+**Frameworks:**
+- Vue2 (https://vuejs.org/guide/introduction.html )
+- ASP.NET core [https://docs.microsoft.com/enus/aspnet/core/?view=aspnetcore-6.0](https://docs.microsoft.com/enus/aspnet/core/?view=aspnetcore-6.0) 
+
+**Librerías:**
+- Boostrap [https://getbootstrap.com/docs/4.1/gettingstarted/introduction/](https://getbootstrap.com/docs/4.1/gettingstarted/introduction/) 
+
+**Herramientas:**
+- Figma [https://www.figma.com/best-practices/guide-to-developerhandoff/components-styles-and-documentation/](https://www.figma.com/best-practices/guide-to-developerhandoff/components-styles-and-documentation/) 
+
+- NodeJS. [https://nodejs.org/es/download/](https://nodejs.org/es/download/) 
+
+**Tecnologías:**
+- Seguiremos utilizando las tecnologías consideradas para el desarrollo de la aplicación durante los siguientes Sprints, como: C#, JavaScript, Html y CSS.
+
+**Herramientas:**
+- Seguiremos utilizando las tecnologías consideradas para el desarrollo de la aplicación, durante los siguientes sprints, como: Rider, Github, Git , WebStorm.
+
+### 5.1.4. Software Deployment Configuration.
+
+[Se necesita la Landing Page Desplegada]
+<br>
+
+### 5.2. Landing Page, Services & Applications Implementation.
+### 5.2.1. Sprint 1
+
+| **Épica ID** | **Título** | **Descripción** |
+|--------------|------------|-----------------|
+| EPIC-06      | Landing Page | Como usuario quiero acceder a una página web para acceder a los detalles de los servicios de la solución |
+---
+| **User ID** | **Título** | **Descripción** | **Criterio de Aceptación** |
+|-------------|------------|-----------------|-----------------------------|
+| US-L1 | Cambiar idioma de la web | Como visitante del segmento clientes o proveedores quiero poder cambiar el idioma de la página. | **Escenario:** Usuario cambia el idioma de la página de Inglés a español. <br><br>**DADO** que el visitante se encuentra en la pantalla principal <br>**CUANDO** haga clic en el botón "Ingles" Y selecciona la opción 'español'<br> **ENTONCES** el sistema cambia los textos de la página a 'español'. |
+| US-L2 | Visualización del Call to Action | Como visitante del segmento clientes o proveedores quiero visualizar en el inicio un botón para poder contactarme con los creadores. | **Escenario:** Usuario accede al formulario de contacto <br><br>**DADO** que el usuario se encuentra en la pantalla de inicio<br> **CUANDO** haga clic en el botón "Contactar" <br>**ENTONCES** será enviada a la sección del formulario de contacto del Landing page. |
+| US-L3 | Visualización de los beneficios de la aplicación | Como visitante del segmento clientes o proveedores quiero acceder a una descripción de los beneficios de la aplicación para comprobar si la herramienta me ayudará en el futuro. | **Escenario:** Usuario lee sobre los beneficios de nuestra aplicación <br><br>**DADO** que el usuario se encuentra en la pantalla de inicio <br>**CUANDO** se desplace hacia abajo por la página <br>**ENTONCES** visualiza los servicios/beneficios de la aplicación. |
+| US-L4 | Visualización de la lista de Proveedores | Como visitante del segmento clientes o proveedores, quiero visualizar la lista de proveedores cloud con los cuales colaboran con la aplicación. | **Escenario:** Visitante accede a la lista de proveedores cloud<br><br> **DADO** que el usuario se encuentra en la pantalla de inicio <br>**CUANDO** se desplace hacia abajo por la página y pasa la sección de beneficios <br>**ENTONCES** visualizará los logos de los proveedores con los que trabajamos. |
+| US-L5 | Visualización de precios o planes de suscripción | Como visitante del segmento clientes o proveedores, quiero visualizar los planes de suscripción para comprobar si se adecuan a mi presupuesto. | **Escenario 1:** Usuario visualiza los tipos de planes que tiene la aplicación <br><br>**DADO** que el usuario se encuentra en la pantalla de inicio <br>**CUANDO** se desplace hacia abajo por la página<br> **ENTONCES** visualizará los cards que contienen los planes. <br><br>**Escenario 2:** Usuario visualiza la descripción de los planes que tiene la aplicación <br><br>**DADO** que el usuario da clic sobre uno de ellos <br>**Entonces** se desplegará la descripción de ese plan. |
+| US-L6 | Visualización de testimonios | Como visitante del segmento clientes o proveedores, quiero ver ejemplos de casos de éxito para comprender cómo Nimbus ha beneficiado a otros. | **Escenario:** Usuario visualiza los testimonios que tiene la aplicación <br><br>**DADO** que el usuario se encuentra en la pantalla de inicio <br>**CUANDO** se desplace hacia abajo por la página **Y** llegue a la sección de testimonios de los clientes <br>**ENTONCES** visualizará los testimonios de los clientes que han confiado en nuestra plataforma. |
+| US-L7 | Visualización responsive | Como visitante del segmento clientes o proveedores, quiero que la página sea responsive y se adapte a diferentes dispositivos para poder acceder a la información desde cualquier lugar. | **Escenario 1:** Usuario visualiza la Landing Page de Nimbus desde una computadora.<br><br> **DADO** que el usuario se ingresa a la página web estática de Nimbus<br> **CUANDO** navegue por la página <br>**ENTONCES** visualizará el contenido adaptado a su tamaño de pantalla. <br><br>**Escenario 2:** Usuario visualiza la Landing Page de Nimbus desde su dispositivo móvil. <br><br>**DADO** que el usuario se ingresa a la página web estática de Nimbus desde su celular<br> **CUANDO** navegue por la página <br>**ENTONCES** visualizará el contenido adaptado a su tamaño de pantalla. |
+
+
+### 5.2.1.1. Sprint Planning 1.
+
+| **Sprint \#** | Sprint 1 |
+|--------------|----------|
+| **Sprint Planning Background** | |
+| Date | 2023-08-24 |
+| Time | 7:00 PM |
+| Location | Canal de voz de la plataforma de Discord |
+| Prepared By | Fabio Horna Silva |
+| Attendees (to planning meeting) | Zeta Valenzuela Christian Jose/ Hinostroza, Farid/ Portales, Diego/ Moreno Rosales, Claudio Jesús/ |
+| Sprint 1 Review | **Equipo de desarrollo:** El equipo realizó las tareas asignadas exitosamente para la realización de una buena captura de los requisitos del producto software y su diseño e implementación.
+|  | **Landing Page:** Se realizaron los diseños wireframe, mockup y prototype para posterior a ello, establecer el código de la página web estática en HTML, CSS y JavaScript. |
+| Sprint 1 Retrospective | **Oportunidades de mejora:** Se vio que hay que mejorar un poco en la organización del equipo en cuanto a completar las tareas asignadas e ir midiendo avances. |
+| **Sprint Goal & User Stories** | |
+| Sprint 1 Goal | **Objetivos:**
+|  | **Investigación:** Realizar el UX Research<br>Métrica: Realización y demostración de los hallazgos.<br><br>**Diseño:** Realizar diseños wireframe, mockup y prototype de la Landing Page.<br>Métrica: Creación exitosa de mockups interactivos para al menos el 80%<br><br>**Programación:** Codificar Landing Page en los lenguajes de HTML, CSS y JavaScript.<br>Métrica: Corrección exitosa del 100% del código a nivel de legibilidad.<br><br>**Despliegue:** Desplegar la solución estática<br>Métrica: Verificación de que la Landing Page se ha desplegado correctamente en el entorno de producción.
+| Sprint 1 Velocity | 35 |
+| Sum of Story Points | 28 |
+
+
+### 5.2.1.2. Sprint Backlog 1.
+
+| **Sprint \#** | Sprint 1| | | | | | | |
+|---------------|----------|--|--|--|--|--|--|--|
+| **User Story** | **Work-Item/Task** |
+| **Id** | **Title** | **Id** | **Title** | **Description** | **Estimation (hours)** | **Assigned To** | **Status** |
+| US-L1 | Cambiar idioma de la web | T01 | Realizar la adaptación de la web a inglés y español | Como visitante del segmento clientes o proveedores quiero poder cambiar el idioma de la página. | 3 h | | In-Process |
+| US-L2 | Visualización del Call to Action | T02 | Implementar secciones con botones para el Call To Action | Como visitante del segmento clientes o proveedores quiero visualizar en el inicio un botón para poder contactarme con los creadores. | 1 h | | In-Process |
+| US-L3 | Visualización de los beneficios de la aplicación | T03 | Agregar los beneficios del proyecto Nimbus | Como visitante del segmento clientes o proveedores quiero acceder a una descripción de los beneficios de la aplicación para comprobar si la herramienta me ayudará en el futuro | 4 h | | In-Process |
+| US-L4 | Visualización de la lista de Proveedores | T04 | Realizar una vista con el listado de proveedores | Como visitante del segmento clientes o proveedores quiero visualizar la lista de proveedores los cuales colaboran con la aplicación. | 4 h | | In-Process |
+| US-L5 | Visualización de precios o planes de suscripción | T05 | Agregar los planes de suscripción | Como visitante del segmento clientes o proveedores quiero visualizar los planes de suscripción para comprobar si se adecuan a mi presupuesto. | 4 h | | In-Process |
+| US-L6 | Visualización de testimonios | T06 | Organizar los testimonios de la solución Nimbus | Como visitante del segmento clientes o proveedores, quiero ver ejemplos de casos de éxito para comprender cómo el producto/servicio ha beneficiado a otros | 5 h | | In-Process |
+| US-L7 | Visualización responsive | T07 | Asegurar que la página web se adapte a cualquier dispositivo | Como visitante del segmento clientes o proveedores, quiero que la página sea responsive y se adapte a diferentes dispositivos para poder acceder a la información desde cualquier lugar. | 7 h | | In-Process |
+
+
+### 5.2.1.3. Development Evidence for Sprint Review.
+
+En el transcurso del primer sprint, nuestro equipo ha realizado avances
+significativos en la implementación de los productos clave de nuestra
+solución. Durante este período, nos hemos enfocado en llevar a cabo
+investigaciones de experiencia de usuario (UX Research), diseñar y
+prototipar la Landing Page, así como en la programación de la solución
+estática.
+
+Durante esta etapa, nuestro equipo ha creado diseños detallados para la
+Landing Page. Hemos generado wireframes que definen la estructura y la
+disposición de los elementos clave. Posteriormente, hemos desarrollado
+mockups que visualizan la apariencia y el estilo de la página. Estos
+mockups se han convertido en prototipos interactivos que permiten a los
+usuarios explorar la navegación y la funcionalidad prevista.
+
+El equipo de desarrollo ha trabajado correctamente en la programación de
+la Landing Page. Hemos utilizado lenguajes de programación como HTML,
+CSS y JavaScript para traducir los diseños en una experiencia
+interactiva. Cada línea de código ha sido revisada y optimizada para
+garantizar su legibilidad y eficiencia.
+
+<br>
+
+| **Repository** | **Branch** | **Commit Id** | **Commit Message** | **Commit Message Body** | **Commited on (Date)** |
+|----------------|------------|---------------|--------------------|-------------------------|-------------------------|
+| | | | | |
+
+<br><br>
+### 5.2.1.4. Testing Suite Evidence for Sprint Review.
+
+### 5.2.1.5. Execution Evidence for Sprint Review.
+-   En este Sprint se logró implementar el landing page siguiendo todos
+    los requerimientos especificados en el sprint backlog y siguiendo la
+    guía de estilos planteada en el capítulo 4.
+
+-   En este Sprint se logró implementar la Web APP siguiendo todos los
+    requerimientos especificados
+
+**Métodos HTTP**
+
+[![API1.png](https://i.postimg.cc/cJ6cJQn5/API1.png)](https://postimg.cc/xkDmxNgK)
+
+[![API2.png](https://i.postimg.cc/TPSJ5pj2/API2.png)](https://postimg.cc/f3c96Wg1)
+
+[![API3.png](https://i.postimg.cc/PJnbK9FB/API3.png)](https://postimg.cc/FdGJHWvZ)
+
+
+### 5.2.1.6. Services Documentation Evidence for Sprint Review.
+
+Los archivos .feature descritos en Gherkin son una parte fundamental de
+las metodologías de desarrollo de software basadas en el comportamiento,
+como Behavior-Driven Development (BDD). En este caso, sirve para
+comunicar y automatizar las especificaciones que se tienen en las
+historias de usuario. Además, para el Sprint 1 se abordaron las
+historias de usuario relacionadas a la EPIC-06 de la Landing Page.
+
+
+### 5.2.1.7. Software Deployment Evidence for Sprint Review.
+
+Para el desarrollo del Landing Page de Nimbus se ha utilizado el siguiente staff de  tecnologías
+
+- **HTML:** Lenguaje de marcado de hipertexto, el cual nos ayudó a elaborar laestructura de nuestro landing page [https://developer.mozilla.org/es/docs/Web/HTML](https://developer.mozilla.org/es/docs/Web/HTML) 
+
+- **CSS:** Lenguaje de diseño, que nos ayudó a determinar el estilo de nuestro
+proyecto. [https://developer.mozilla.org/es/docs/Web/CSS](https://developer.mozilla.org/es/docs/Web/CSS) 
+
+ - **JS:** Lenguaje de programación, que nos ayudó a implementar eventos y lógica, a
+nuestro landing page. [https://developer.mozilla.org/es/docs/Web/JavaScript](https://developer.mozilla.org/es/docs/Web/JavaScript) 
+<br>
+Para el despliegue del Landing Page de Nimbus se ha utilizado el siguiente staff de tecnologías:
+
+	- **Git:** Sistema control de versiones que nos ayudó en el desarrollo colaborativo y documentado de nuestro landing page [https://git-scm.com/download/win](https://git-scm.com/download/win) 
+
+	- **GitHub:** Plataforma visual, donde alojamos nuestro proyecto, donde cada
+participante dejo evidencia de su colaboración. [https://github.com/orgs/Nimbus-SW53/repositories](https://github.com/orgs/Nimbus-SW53/repositories) 
+
+	- **Gitflow:** Flujo de trabajo que nos permitió tener un orden en el desarrollo
+cooperativo en el desarrollo del landing page [https://www.atlassian.com/es/git/tutorials/comparing-workflows/gitflowworkflow](https://www.atlassian.com/es/git/tutorials/comparing-workflows/gitflowworkflow) 
+
+
+
+### 5.2.1.8. Team Collaboration Insights during Sprint.
+
+Para el desarrollo del landing page se trabajó por tareas de implementación en secciones (navbar, hero, features, forms, etc). Las tareas fueron repartidas en las reuniones recurrentes del grupo y se acordó crear un sistema de ramas para el desarrollo de un proyecto .
+
+
+**Actividades**
+
+[![insight1.png](https://i.postimg.cc/x13yf918/insight1.png)](https://postimg.cc/NKLrbqTv)
+
+**Commits**
+
+[![insight2.png](https://i.postimg.cc/k5MNDL2c/insight2.png)](https://postimg.cc/mPq15XNz)
+
+**Contributions**
+
+[![insight3.png](https://i.postimg.cc/zGrFYy54/insight3.png)](https://postimg.cc/nC3DvcX1)
+
+
+### Conclusiones
+
+- Para esta primera entrega que el proyecto va bien encaminado ya que supimos conocer la problemática de nuestro proyecto, nuestros competidores, nuestras mejoras con las entrevistas y logramos trasladar las necesidades encontradas a los User Stories logrando describir detalladamente el desarrollo del servicio final.
+
+- Las entrevistas con Alexandra, Luis y Esquivel ofrecen perspectivas diversas y complementarias sobre la relevancia, beneficios y desafíos de utilizar una plataforma de intermediación de software como Nimbus. Los temas recurrentes incluyen la satisfacción del cliente, la visibilidad, la adquisición de nuevos clientes y la eficiencia en la selección de software. Estas entrevistas destacan la necesidad de una solución como Nimbus en un mercado saturado de opciones de software y resaltan la importancia de satisfacer las necesidades tanto de profesionales independientes como de pequeñas y grandes empresas.
+
+- Para este análisis, se recogieron datos cualitativos a través de entrevistas estructuradas. Cada entrevista se categorizó en función de los roles profesionales (Consultora SAP, Desarrollador de Software, Asistente a Distancia) y los segmentos de mercado (ERP, Soluciones Ágiles, Sector Educativo). Esta metodología proporciona una base sólida para comprender las diversas necesidades y desafíos de los usuarios.
+
+- Es esencial destacar que, además de las valiosas perspectivas obtenidas a través de entrevistas y análisis de necesidades de usuarios, la metodología de Lean UX, respaldada por herramientas como el Lean UX Canvas, Lean UX Hypothesis Statement y Lean UX Assumptions, ha demostrado ser una parte integral y efectiva para abordar la problemática que Nimbus busca resolver. Estas herramientas han facilitado la identificación y priorización de desafíos clave, la definición de hipótesis claras y la generación de soluciones orientadas a la experiencia del usuario. Su incorporación en la estrategia general de Nimbus es esencial para garantizar que la plataforma no solo responda a las necesidades de los usuarios, sino que también sea ágil, eficiente y capaz de mantenerse competitiva en un mercado diverso y en constante evolución.
+
+### Bibliografía
+
+### Anexos
