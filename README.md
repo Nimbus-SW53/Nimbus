@@ -390,3 +390,169 @@ Estas preguntas van dirigidas para las entrevistas de los usuarios IT encargados
 ### 2.3.1. USER PERSONAS
 - **Usuario Desarrollador**: Se toma en cuenta lo rescatado de las entrevistas hacia el segmento de desarrolladores.
 
+#Capítulo V: Product Implementation, Validation & Deployment
+## 5.1. Software Configuration Management.
+### 5.1.1. Software Development Environment Configuration.
+
+La configuración de nuestro ambiente de desarrollo está divida en:<br>
+Product Management:<br>
+• Herramientas permitidas:<br>
+➢ Github Issues (https://docs.github.com/es )<br>
+Requirement Management:<br>
+• Herramientas permitidas:<br>
+➢ Github Issues (https://docs.github.com/es )<br>
+Product UX/UI Design:<br>
+• Herramientas permitidas:<br>
+➢ Figma (https://www.figma.com/best-practices/guide-to-developerhandoff/components-styles-and-documentation/ )<br>
+Software Development:<br>
+• Herramientas permitidas:<br>
+o Landing Page:<br>
+▪ Lenguajes:<br>
+➢ JavaScript (https://developer.mozilla.org/es/docs/Web/JavaScript )<br>
+➢ HTML (https://developer.mozilla.org/es/docs/Web/HTML )<br>
+➢ CSS (https://developer.mozilla.org/es/docs/Web/CSS )<br>
+▪ Librerías:<br>
+➢ Bootstrap (https://getbootstrap.com/docs/4.1/gettingstarted/introduction/ )<br>
+Software Documentation:<br>
+• API:<br>
+➢ Swagger (https://swagger.io/docs/)<br>
+
+### 5.1.2. Source Code Management.
+Para el manejo de nuestros repositorios utilizaremos las siguientes políticas:<br>
+• Repositorios:<br>
+o Nimbus-Landing-Page: <br>
+o EasyCloud-Backend: Por el momento este link no será brindado<br>
+o EasyCloud-Frontend: https://github.com/Nimbus-SW53/Talleres/tree/master <br>
+• Issues:<br>
+o Se debe crear un issue por cada feature, bug o documentación con el<br>
+respectivo label.<br>
+o Se debe incluir el User Story que hace referencia.<br>
+• Gitflow:<br>
+o Existen dos ramas principales:Main y master.<br>
+o Las ramas creadas por los issues deberán hacer sus pull requests a la rama<br>
+development.<br>
+o Cuando un User Story termine de ser implementado, esta deberá hacer un
+pull request a la rama main.<br>
+
+![Imgur](https://i.imgur.com/r7DG61J.png)
+
+### 5.1.3. Source Code Style Guide & Conventions.
+####  5.1.3.1 SOURCE CODE STYLE GUIDE & CONVENTIONS<br>
+Utilizaremos la guía de estilos y convenciones de codificación en C#, que replicamos
+en JavaScript por su similitud, ofrecida por Microsoft.
+Y para el HTML/CSS utilizaremos la guía de estilos desarrollado por la fundación Mozilla:<br>
+Asimismo, utilizaremos las siguientes tecnologías:<br>
+• IDEs:<br>
+➢ Rider(https://www.jetbrains.com/es-es/rider/download/#section=windows  )<br>
+➢ WebStorm (https://www.jetbrains.com/eses/webstorm/download/#section=windows )<br>
+• DevOps:<br>
+➢ GitHub (https://docs.github.com/es )<br>
+• Lenguajes:<br>
+➢ C# (https://docs.microsoft.com/en-us/dotnet/csharp/ )<br>
+➢ JavaScript (https://developer.mozilla.org/es/docs/Web/JavaScript )<br>
+➢ CSS (https://developer.mozilla.org/es/docs/Web/CSS )<br>
+➢ HTML (https://developer.mozilla.org/es/docs/Web/HTML  )<br>
+• Frameworks:<br>
+➢ Vue2 (https://vuejs.org/guide/introduction.html )<br>
+➢ ASP.NET core (https://docs.microsoft.com/enus/aspnet/core/?view=aspnetcore-6.0 )<br>
+• Librerías:<br>
+➢ Boostrap (https://getbootstrap.com/docs/4.1/gettingstarted/introduction/ )<br>
+• Herramientas:<br>
+➢ Figma (https://www.figma.com/best-practices/guide-to-developerhandoff/components-styles-and-documentation/ )<br>
+➢ NodeJS. (https://nodejs.org/es/download/ )<br>
+Tecnologías:<br>
+➢ Seguiremos utilizando las tecnologías consideradas para el desarrollo de la
+aplicación durante los siguientes Sprints, como: C#, JavaScript, Html y CSS.<br>
+• Herramientas:<br>
+➢ Seguiremos utilizando las tecnologías consideradas para el desarrollo de la
+aplicación, durante los siguientes sprints, como: Rider,Github, Git, WebStorm.<br>
+
+### 5.1.4. Software Deployment Configuration.
+## 5.2. Landing Page, Services & Applications Implementation.<br>
+### 5.2.1 Sprint 1<br>
+![Imgur](https://i.imgur.com/Bfd6L8d.png)<br>
+![Imgur](https://i.imgur.com/atpSkVy.png)<br>
+![Imgur](https://i.imgur.com/4heQeCF.png)<br>
+
+### 5.2.1.1. Sprint Planning 
+
+![Imgur](https://i.imgur.com/s14AVPH.png)<br>
+
+### 5.2.1.2. Sprint Backlog n.
+
+![Imgur](https://i.imgur.com/TJOtYwf.png)<br>
+![Imgur](https://i.imgur.com/PqoQ6BH.png)<br>
+
+### 5.2.1.3. Development Evidence for Sprint Review.
+
+En el transcurso del primer sprint, nuestro equipo ha realizado avances significativos en la implementación de los productos clave de nuestra solución. Durante este período, nos hemos enfocado en llevar a cabo investigaciones de experiencia de usuario (UX Research), diseñar y prototipar la Landing Page, así como en la programación de la solución estática.
+Durante esta etapa, nuestro equipo ha creado diseños detallados para la Landing Page. Hemos generado wireframes que definen la estructura y la disposición de los elementos clave. Posteriormente, hemos desarrollado mockups que visualizan la apariencia y el estilo de la página. Estos mockups se han convertido en prototipos interactivos que permiten a los usuarios explorar la navegación y la funcionalidad prevista. 
+El equipo de desarrollo ha trabajado correctamente en la programación de la Landing Page. Hemos utilizado lenguajes de programación como HTML, CSS y JavaScript para traducir los diseños en una experiencia interactiva. Cada línea de código ha sido revisada y optimizada para garantizar su legibilidad y eficiencia. 
+
+### 5.2.X.4. Testing Suite Evidence for Sprint Review.
+
+### 5.2.1.5. Execution Evidence for Sprint Review.
+En este Sprint se logró implementar el landing page siguiendo todos los requerimientos especificados en el sprint backlog y siguiendo la guía de estilos planteada en el capítulo 4.
+En este Sprint se logró implementar la Web APP siguiendo todos los requerimientos especificados.
+
+![Imgur](https://i.imgur.com/sX5cnyd.png)<br>
+![Imgur](https://i.imgur.com/F8PduKv.png)<br>
+![Imgur](https://i.imgur.com/6gBcRwm.png)<br>
+
+
+### 5.2.1.6. Services Documentation Evidence for Sprint Review.
+Los archivos .feature descritos en Gherkin son una parte fundamental de las metodologías de desarrollo de software basadas en el comportamiento, como Behavior-Driven Development (BDD). En este caso, sirve para comunicar y automatizar las especificaciones que se tienen en las historias de usuario. Además, para el Sprint 1 se abordaron las historias de usuario relacionadas a la EPIC-06 de la Landing Page.
+![Imgur](https://i.imgur.com/5thpMzw.png)<br>
+
+### 5.2.1.7. Software Deployment Evidence for Sprint Review.
+Para el desarrollo del Landing Page de Nimbus se ha utilizado el siguiente staff de
+tecnologías:<br>
+• HTML: Lenguaje de marcado de hipertexto, el cual nos ayudó a elaborar la
+estructura de nuestro landing page (https://developer.mozilla.org/es/docs/Web/HTML )<br>
+• CSS: Lenguaje de diseño, que nos ayudó a determinar el estilo de nuestro proyecto. (https://developer.mozilla.org/es/docs/Web/CSS )<br>
+• JS: Lenguaje de programación, que nos ayudó a implementar eventos y lógica, a nuestro landing page. (https://developer.mozilla.org/es/docs/Web/JavaScript )<br>
+Para el despliegue del Landing Page de Nimbus se ha utilizado el siguiente staff de
+tecnologías:<br>
+• Git: Sistema control de versiones que nos ayudó en el desarrollo colaborativo y documentado de nuestro landing page (https://git-scm.com/download/win )<br>
+• GitHub: Plataforma visual, donde alojamos nuestro proyecto, donde cada participante dejo evidencia de su colaboración. (https://github.com/orgs/Nimbus-SW53/repositories )<br>
+• Gitflow: Flujo de trabajo que nos permitió tener un orden en el desarrollo cooperativo en el desarrollo del landing page (https://www.atlassian.com/es/git/tutorials/comparing-workflows/gitflowworkflow )<br>
+
+### 5.2.1.8. Team Collaboration Insights during Sprint.
+Para el desarrollo del landing page se trabajó por tareas de implementación en secciones(navbar, hero, features, forms, etc). Las tareas fueron repartidas en las reuniones recurrentes del grupo y se acordó crear un sistema de ramas para el desarrollo de un proyecto .<br>
+Actividades
+
+Commits
+
+## 5.3. Validation Interviews.
+### 5.3.1. Diseño de entrevistas.
+El siguiente diseño de entrevista aplica para los segmentos objetivos de nuestro
+proyecto, es decir para los usuarios desarrolladores como para los usuarios empresa.
+a. Datos Demográficos
+• Recolectar la siguiente información acerca del entrevistado:
+•	¿Nos podría decir su nombre, empresa, cargo y años de experiencia en el desarrollo de software?
+•	¿En qué se especializa su empresa?
+Antes de pasar a las preguntas principales, se le debe mostrar al entrevistado el landing
+page, mencionando las principales funcionalidades y explicando el propósito de nuestra aplicación.
+b. Preguntas principales
+• ¿Después de ver el Landing Page que podría acotar o recomendar
+para la mejora de esta?
+• ¿Puede mencionar alguna funcionalidad adicional, de las que se les
+mostró en la exposición, que le puedan ayudar para la eficiencia de
+su trabajo?
+• ¿En base a lo mostrado, usted estaría dispuesto a adquirir un servicio en caso que lo necesite?
+
+### 5.3.2. Registro de Entrevistas.
+En esta parte todavía no está en marcha ya que no tenemos un modelo que presentarles a los 
+
+### 5.3.3. Evaluaciones según heurísticas.
+
+##5.4. Video About-the-Product.
+ 
+#Conclusiones
+Llegamos a la conclusión , para esta primera entrega que el proyecto va bien encaminado ya que supimos conocer la problemática de nuestro proyecto, nuestros competidores, nuestras mejoras con las entrevistas y  logramos trasladar las necesidades encontradas a los User Stories logrando describir detalladamente el desarrollo del servicio final.
+Para el alcance de este primer sprint  se utilizó Lean UX para definir problemas, suposiciones y declaraciones de hipótesis.
+
+
+
+
+
