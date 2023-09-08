@@ -1233,17 +1233,9 @@ Utilizaremos la guía de estilos y convenciones de codificación en C#, que repl
 
 
 ### 5.2.1.2. Sprint Backlog 1.
-| **Sprint \#** | Sprint 1| | | | | | |
-|---------------|----------|--|--|--|--|--|--|--|
-| **User Story** | **Work-Item/Task** |
-| **Id** | **Title** | **Id** | **Title** | **Description** | **Estimation (hours)** | **Assigned To** | **Status** |
-| US-L1 | Cambiar idioma de la web | T01 | Realizar la adaptación de la web a inglés y español | Como visitante del segmento clientes o proveedores quiero poder cambiar el idioma de la página. | 3 h | | In-Process |
-| US-L2 | Visualización del Call to Action | T02 | Implementar secciones con botones para el Call To Action | Como visitante del segmento clientes o proveedores quiero visualizar en el inicio un botón para poder contactarme con los creadores. | 1 h | | In-Process |
-| US-L3 | Visualización de los beneficios de la aplicación | T03 | Agregar los beneficios del proyecto Nimbus | Como visitante del segmento clientes o proveedores quiero acceder a una descripción de los beneficios de la aplicación para comprobar si la herramienta me ayudará en el futuro | 4 h | | In-Process |
-| US-L4 | Visualización de la lista de Proveedores | T04 | Realizar una vista con el listado de proveedores | Como visitante del segmento clientes o proveedores quiero visualizar la lista de proveedores los cuales colaboran con la aplicación. | 4 h | | In-Process |
-| US-L5 | Visualización de precios o planes de suscripción | T05 | Agregar los planes de suscripción | Como visitante del segmento clientes o proveedores quiero visualizar los planes de suscripción para comprobar si se adecuan a mi presupuesto. | 4 h | | In-Process |
-| US-L6 | Visualización de testimonios | T06 | Organizar los testimonios de la solución Nimbus | Como visitante del segmento clientes o proveedores, quiero ver ejemplos de casos de éxito para comprender cómo el producto/servicio ha beneficiado a otros | 5 h | | In-Process |
-| US-L7 | Visualización responsive | T07 | Asegurar que la página web se adapte a cualquier dispositivo | Como visitante del segmento clientes o proveedores, quiero que la página sea responsive y se adapte a diferentes dispositivos para poder acceder a la información desde cualquier lugar. | 7 h | | In-Process |
+
+![Imgur](https://i.imgur.com/TJOtYwf.png)<br>
+![Imgur](https://i.imgur.com/PqoQ6BH.png)<br>
 
 
 ### 5.2.1.3. Development Evidence for Sprint Review.
