@@ -542,10 +542,9 @@ su trabajo?
 • ¿En base a lo mostrado, usted estaría dispuesto a adquirir un servicio en caso que lo necesite?
 
 ### 5.3.2. Registro de Entrevistas.
-En esta parte todavía no está en marcha ya que no tenemos un modelo que presentarles a los 
+En esta parte todavía no está en marcha.
 
 ### 5.3.3. Evaluaciones según heurísticas.
-
 ##5.4. Video About-the-Product.
  
 #Conclusiones
