@@ -22,6 +22,8 @@
   <li>Christian Jose Zeta Valenzuela (u202011688)</li>
   <li>Claudio Moreno Rosales (u20191e800)</li>
   <li>Farid Hinostroza Mavila (u202014468)</li>
+ <li>Diego Alejandro Portales Ortiz (u202123501)</li>
+ 
 </ul>
 
 **<h3>Agosto, 2023</h3>**
@@ -185,7 +187,9 @@ En línea con el enfoque de nuestro equipo en tecnologías web, nuestra platafor
     <img src="https://github.com/Nimbus-SW53/Nimbus/blob/74e699367d91e39ed75c37964c10fa60e6cb3f45/Imagenes/Presentacion%20de%20Farid.jpg" alt="Farid" style="width: 500px;">
   </div>
 
-
+<div>
+	<img src="https://i.postimg.cc/3J2jGLBV/Integrante-Diegosaurio.jpg" alt="Diego" style="width: 500px;"> 
+</div>
 </div>
 
 
