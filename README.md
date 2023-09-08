@@ -863,6 +863,8 @@ historias de usuario. Además, para el Sprint 1 se abordaron las
 historias de usuario relacionadas a la EPIC-06 de la Landing Page.
 
 
+[![gherkin.png](https://i.postimg.cc/C1gn5xwX/gherkin.png)](https://postimg.cc/06VyHxM0)
+
 ### 5.2.1.7. Software Deployment Evidence for Sprint Review.
 
 Para el desarrollo del Landing Page de Nimbus se ha utilizado el siguiente staff de  tecnologías
