@@ -25,13 +25,22 @@
 </ul>
 
 **<h3>Agosto, 2023</h3>**
+### Registro de versiones del informe
 
-# Project Report Collaboration Insights
+  | Versión | Fecha       | Autor            | Descripción de modificación       |
+| ------- | ----------- | ---------------- | --------------------------------- |
+| 1    | 01/09/2023     | Moreno Rosales, Claudio Jesús| Se realizó el Sprint Planning 1.  |
+| 1.1    | 02/09/2023     | Moreno Rosales, Claudio Jesús  |Se realizó el Sprint Backlog 1 |
+| 1.2    | 05/09/2023     | Moreno Rosales, Claudio Jesús  | Se realizó el Development Evidence for Sprint Review, Services Documentation Evidence for Sprint Review y algunas conclusiones del sprint 1.|
+| 2  | [Fecha]     | [Nombre Autor]  | [Descripción de la modificación] |
 
-## URL del repositorio del Project Report
+### Project Report Collaboration Insights
+
+### URL del repositorio del Project Report
 
 ## Insights
 INSERTAR IMÁGENES CON FECHA
+
 ## Commits
 INSERTAR IMÁGENES CON FECHA
 
@@ -131,6 +140,15 @@ INSERTAR IMÁGENES CON FECHA
 - [Anexos](#anexos)
 
 # Student Outcome
+
+El curso contribuye al cumplimiento del Student Outcome ABET: ABET – EAC - Student Outcome 5 Criterio: La capacidad de funcionar efectivamente en un equipo cuyos miembros juntos proporcionan liderazgo, crean un entorno de colaboración e inclusivo, establecen objetivos, planifican tareas y cumplen objetivos. 
+
+En el siguiente cuadro se describe las acciones realizadas y enunciados de conclusiones por parte del grupo, que permiten sustentar el haber alcanzado el logro del ABET – EAC - Student Outcome 5.
+
+| Criterio Específico | Acciones Realizadas | Conclusiones                                      |
+| ------------------- | ------------------- | ------------------------------------------------- |
+|Participa en equipos multidisciplinarios con eficacia, eficiencia y objetividad, en el marco de un proyecto en soluciones de ingeniería de software.|Moreno Rosales, Claudio Jesús<br><br> **TB1:** En el transcurso del proyecto se ha tenido que realizar una comunicación efectiva con los segmentos objetivo e interesados del proyecto, para obtener la mayor cantidad de requisitos y necesidades posibles, esto ayuda a construir un mejor diseño de proyecto ágil.| **TB1:**
+|Conoce al menos un sector empresarial o dominio de aplicación de soluciones de software. |Moreno Rosales, Claudio Jesús <br><br>**TB1:** Después de haber recolectado la información necesaria sobre nuestro público objetivo, interesados y haber realizado las entrevistas e investigaciones, se tradujo toda la información en arquetipos Persona y User Stories. |**TB1:**
 
 
 # Capítulo I: INTRODUCCIÓN
@@ -854,17 +872,18 @@ Para el desarrollo del Landing Page de Nimbus se ha utilizado el siguiente staff
 - **CSS:** Lenguaje de diseño, que nos ayudó a determinar el estilo de nuestro
 proyecto. [https://developer.mozilla.org/es/docs/Web/CSS](https://developer.mozilla.org/es/docs/Web/CSS) 
 
- - **JS:** Lenguaje de programación, que nos ayudó a implementar eventos y lógica, a
+- **JS:** Lenguaje de programación, que nos ayudó a implementar eventos y lógica, a
 nuestro landing page. [https://developer.mozilla.org/es/docs/Web/JavaScript](https://developer.mozilla.org/es/docs/Web/JavaScript) 
 <br>
+
 Para el despliegue del Landing Page de Nimbus se ha utilizado el siguiente staff de tecnologías:
 
-	- **Git:** Sistema control de versiones que nos ayudó en el desarrollo colaborativo y documentado de nuestro landing page [https://git-scm.com/download/win](https://git-scm.com/download/win) 
+- **Git:** Sistema control de versiones que nos ayudó en el desarrollo colaborativo y documentado de nuestro landing page [https://git-scm.com/download/win](https://git-scm.com/download/win) 
 
-	- **GitHub:** Plataforma visual, donde alojamos nuestro proyecto, donde cada
+- **GitHub:** Plataforma visual, donde alojamos nuestro proyecto, donde cada
 participante dejo evidencia de su colaboración. [https://github.com/orgs/Nimbus-SW53/repositories](https://github.com/orgs/Nimbus-SW53/repositories) 
 
-	- **Gitflow:** Flujo de trabajo que nos permitió tener un orden en el desarrollo
+- **Gitflow:** Flujo de trabajo que nos permitió tener un orden en el desarrollo
 cooperativo en el desarrollo del landing page [https://www.atlassian.com/es/git/tutorials/comparing-workflows/gitflowworkflow](https://www.atlassian.com/es/git/tutorials/comparing-workflows/gitflowworkflow) 
 
 
@@ -890,11 +909,11 @@ Para el desarrollo del landing page se trabajó por tareas de implementación en
 ### Conclusiones
 
 - Para esta primera entrega que el proyecto va bien encaminado ya que supimos conocer la problemática de nuestro proyecto, nuestros competidores, nuestras mejoras con las entrevistas y logramos trasladar las necesidades encontradas a los User Stories logrando describir detalladamente el desarrollo del servicio final.
-
+<br>
 - Las entrevistas con Alexandra, Luis y Esquivel ofrecen perspectivas diversas y complementarias sobre la relevancia, beneficios y desafíos de utilizar una plataforma de intermediación de software como Nimbus. Los temas recurrentes incluyen la satisfacción del cliente, la visibilidad, la adquisición de nuevos clientes y la eficiencia en la selección de software. Estas entrevistas destacan la necesidad de una solución como Nimbus en un mercado saturado de opciones de software y resaltan la importancia de satisfacer las necesidades tanto de profesionales independientes como de pequeñas y grandes empresas.
-
+<br>
 - Para este análisis, se recogieron datos cualitativos a través de entrevistas estructuradas. Cada entrevista se categorizó en función de los roles profesionales (Consultora SAP, Desarrollador de Software, Asistente a Distancia) y los segmentos de mercado (ERP, Soluciones Ágiles, Sector Educativo). Esta metodología proporciona una base sólida para comprender las diversas necesidades y desafíos de los usuarios.
-
+<br>
 - Es esencial destacar que, además de las valiosas perspectivas obtenidas a través de entrevistas y análisis de necesidades de usuarios, la metodología de Lean UX, respaldada por herramientas como el Lean UX Canvas, Lean UX Hypothesis Statement y Lean UX Assumptions, ha demostrado ser una parte integral y efectiva para abordar la problemática que Nimbus busca resolver. Estas herramientas han facilitado la identificación y priorización de desafíos clave, la definición de hipótesis claras y la generación de soluciones orientadas a la experiencia del usuario. Su incorporación en la estrategia general de Nimbus es esencial para garantizar que la plataforma no solo responda a las necesidades de los usuarios, sino que también sea ágil, eficiente y capaz de mantenerse competitiva en un mercado diverso y en constante evolución.
 
 ### Bibliografía
