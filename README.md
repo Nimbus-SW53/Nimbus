@@ -184,11 +184,9 @@ En línea con el enfoque de nuestro equipo en tecnologías web, nuestra platafor
   <div>
     <img src="https://github.com/Nimbus-SW53/Nimbus/blob/74e699367d91e39ed75c37964c10fa60e6cb3f45/Imagenes/Presentacion%20de%20Farid.jpg" alt="Farid" style="width: 500px;">
   </div>
+
+
 </div>
-
-
-
-
 
 
 ## 1.2 SOLUTION PROFILE
@@ -591,6 +589,8 @@ En el presente User Task Matrix se mostrarán las tareas de los segmentos objeti
 ## Capítulo IV: Product Design
 
 ### 4.1. Style Guidelines.
+
+
 
 ### 4.1.1. General Style Guidelines.
 
