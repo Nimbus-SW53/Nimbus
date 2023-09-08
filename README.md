@@ -29,6 +29,8 @@
 
 <li>Farid Hinostroza Mavila (u202014468)</li>
 
+<li>Diego Alejandro Portales Ortiz (u202123501)</li>
+
 </ul>
 
 **<h3>Agosto, 2023</h3>**
