@@ -1061,33 +1061,176 @@ La fuente principal que hemos elegido es "Century Gothic" para nuestro proyecto.
 
 Fuente: Wikipedia
 
-### 4.1.2. Web Style Guidelines.
 
-### 4.2. Information Architecture.
+**4.1.2. Web Style Guidelines.**
 
-### 4.2.1. Organization Systems.
+En el Style Guideline hemos definido los colores y tipografía a utilizar en el proyecto.
 
-### 4.2.2. Labeling Systems.
+Escogimos #004173, una variedad de Celeste, para darle un ambiente elegante y tenue a la aplicación, ya que nuestro público objetivo son empresas y profesionales, luego agregamos el color #0979b0 y #40cfff para darle contraste al color principal y así lograr que el usuario obtenga una navegación más fluida
 
-### 4.2.3. SEO Tags and Meta Tags
+[![Image-1.jpg](https://i.postimg.cc/5089Kf9h/Image-1.jpg)](https://postimg.cc/xJTScDz5)
 
-### 4.2.4. Searching Systems.
+La familia tipográfica seleccionada es Century Gothic, una fuente tipográfica creada para nuestro proyecto. Utilizamos Century Gothic Mono para los títulos, botones principales y subtítulos de primer nivel, y Century Gothic Sans para los subtítulos de nivel inferior y los botones en el cuerpo de la aplicación. Esta elección de fuentes proporciona una apariencia específica y coherente a nuestro proyecto, asegurando una presentación visualmente atractiva y legible.
 
-### 4.2.5. Navigation Systems.
+[![Image-3.jpg](https://i.postimg.cc/c4PxWKKp/Image-3.jpg)](https://postimg.cc/w7c8cjQ2)
 
-### 4.3. Landing Page UI Design.
+Fuente: Fontke
 
-### 4.3.1. Landing Page Wireframe.
+**4.2. Information Architecture.**
 
-### 4.3.2. Landing Page Mock-up.
+En esta sección, mostraremos la arquitectura de información que hemos utilizado como parte de nuestro proceso de diseño UX. Aquí, organizaremos el contenido teniendo en cuenta las necesidades específicas de nuestra audiencia, nuestro producto y nuestros objetivos.
 
-### 4.4. Web Applications UX/UI Design.
+**4.2.1. Organization Systems.**
 
-### 4.4.1. Web Applications Wireframes.
+En la planificación de sistemas de organización, consideramos estructuras jerárquicas. También tenemos en cuenta esquemas de organización como el alfabético, cronológico y por temas, entre otros.
 
-### 4.4.2. Web Applications Wireflow Diagrams.
+Forma jerárquica
 
-### 4.4.2. Web Applications Mock-ups.
+Consideramos la estructura jerárquica para el acceso a las funciones y configuraciones de la cuenta en la pantalla principal de administración de usuarios. En la parte superior del encabezado, se mostrará el nombre de usuario. Creemos que esta organización es efectiva, ya que permite a los usuarios analizar y utilizar las funciones de manera intuitiva según sus necesidades.
+
+[![Jerarquia.jpg](https://i.postimg.cc/vBSRvjfJ/Jerarquia.jpg)](https://postimg.cc/jwNkxM8c)
+
+Fuente: Elaboración propia
+
+**4.2.2. Labeling Systems.**
+
+Para los labelling systems se ha utilizado un lenguaje formal y fácil de entender.
+
+|Nombre  | Función|
+|-|-|
+| Nimbus | Nombre de la aplicación que dirige al usuario a la pantalla principal. |
+| My Account | Apartado donde se podrá ver la cuenta, editar su configuración y datos. |
+|My Files|Apartado en dónde se podrá agregar, eliminar y modificar los archivos del usuario.|
+| Shared With | Apartado donde se podrá ver quienes le han compartido archivos al usuario, y viceversa. |
+|My Subscription|Apartado donde se podrá revisar el estado de la suscripción, el plan elegido y cuántos días quedan para realizar el siguiente pago.|
+| Upgrade | Apartado donde se puede mejorar el plan elegido. |
+| Log Out | Apartado en dónde se podrá cerrar la sesión de usuario. |
+|My Providers|Apartado donde se pueden observar y contactar con los proveedores de software.|
+| User 01 | Avatar que representa al usuario de cualquier segmento. |
+
+Fuente: Elaboración Propia
+
+**4.2.3. SEO Tags and Meta Tags**
+
+**4.2.4. Searching Systems.**
+
+Introduciremos un sistema de búsqueda en diversos secciones con el propósito de simplificar la navegación y facilitar la búsqueda de información para el usuario.
+
+El sistema de búsqueda estará disponible en los siguientes casos:
+
+- Lista de planes
+
+- Lista de cotizaciones
+
+- Lista de proveedores
+
+- Lista de usuarios (Red)
+
+**4.2.5. Navigation Systems.**
+
+Se introducirá un sistema de navegación animado en varios segmentos de la plataforma, incluyendo situaciones como las siguientes:
+
+- Header estático:
+
+El encabezado fijo brindará al usuario la posibilidad de acceder en cualquier momento a la configuración personal a través de un menú desplegable, además de poder regresar a la pantalla principal o consultar su nombre de usuario.
+
+- Panel izquierdo desplegable:
+
+El menú de navegación desplegable en el lado izquierdo proporcionará al usuario un acceso constante a todas las funciones y complementos disponibles en nuestro servicio.
+
+- Tarjetas y listas:
+
+La mayor parte de la información relacionada con planes, servicios, cotizaciones, cuentas, archivos y proveedores se presentará en tarjetas individuales para mejorar la visualización y la dinámica de la plataforma.
+
+**4.3. Landing Page UI Design.**
+
+**4.3.1. Landing Page Wireframe.**
+Hemos empleado Wireframe.ccy Google Imagenes en el proceso de creación del wireframe de la página de inicio de Nimbus.
+
+***Figura #:***
+*Wireframe del Landing Page - Parte 1*
+[![Image-4.jpg](https://i.postimg.cc/nrBJc29N/Image-4.jpg)](https://postimg.cc/vxYj0Wzv)
+
+***Figura #:***
+*Wireframe del Landing Page - Parte 2*
+[![Image-5.jpg](https://i.postimg.cc/8z1SNhpn/Image-5.jpg)](https://postimg.cc/w7bPkRsh)
+
+***Figura #:***
+*Wireframe del Landing Page - Parte 3*
+[![Image-6.jpg](https://i.postimg.cc/jS8GTmkL/Image-6.jpg)](https://postimg.cc/9D7xt82h)
+<![endif]-->
+
+*Fuente: Elaboración Propia*
+
+**4.3.2. Landing Page Mock-up.**
+
+Hemos elaborado un prototipo completo de la página de inicio, teniendo en cuenta diversas pautas y principios de diseño, con el objetivo de facilitar y hacer más intuitiva la experiencia de ingreso de los usuarios a la aplicación web.
+
+***Figura #:***
+*Mock-Up del Landing Page - Parte 1*
+
+[![Image-7.jpg](https://i.postimg.cc/FsHpvztV/Image-7.jpg)](https://postimg.cc/Cd9kHFxR)
+
+***Figura #:***
+*Mock-Up del Landing Page - Parte 2*
+[![Image-8.jpg](https://i.postimg.cc/Mphm1Yn9/Image-8.jpg)](https://postimg.cc/5XSzVLqz)
+
+***Figura #:***
+*Mock-Up del Landing Page - Parte 3*
+[![Image-9.jpg](https://i.postimg.cc/65PrNhfB/Image-9.jpg)](https://postimg.cc/WhMFGgyy)
+*Fuente: Elaboración Propia*
+
+**4.4. Web Applications UX/UI Design.**
+
+**4.4.1. Web Applications Wireframes.**
+
+Hemos empleado Wireframe.cc como nuestra principal herramienta para crear los esquemas visuales de nuestra aplicación web. Además, recurrimos a Googley Images para adquirir imágenes y iconos que complementen nuestro proyecto.
+
+***Figura #:***
+*Wireframe del login y sign up de Nimbus*
+
+[![Image-10.jpg](https://i.postimg.cc/hhRK96qS/Image-10.jpg)](https://postimg.cc/MftkwsT4)
+
+***Figura #:***
+*Wireframe de la página principal de Nimbus*
+
+[![Image-11.jpg](https://i.postimg.cc/YCkW7ymK/Image-11.jpg)](https://postimg.cc/ZC7RFHcV)
+
+***Figura #:***
+*Wireframe del menú desplegable de Nimbus*
+
+[![Image-12.jpg](https://i.postimg.cc/YSCLGG3d/Image-12.jpg)](https://postimg.cc/0zhyhNhS)
+
+***Figura #:***
+*Wireframe del log out de Nimbus*
+
+[![Image-13.jpg](https://i.postimg.cc/MpdvSZSV/Image-13.jpg)](https://postimg.cc/FYk9b41H)
+
+**4.4.2. Web Applications Wireflow Diagrams.**
+
+En esta sección, se presentarán los diagramas de flujo visual (wireflows) que hemos identificado para el desarrollo de la aplicación web, así como las diversas interacciones que estarán disponibles para nuestros usuarios.
+
+***Figura #:***
+*Wireframe del proceso de Log In y Sign Up de Nimbus*
+
+[![Image-14.jpg](https://i.postimg.cc/Vsqsws9v/Image-14.jpg)](https://postimg.cc/0rN1dsB1)
+
+***Figura #:***
+*Wireframe del proceso de Log Out de Nimbus*
+
+[![Image-15.jpg](https://i.postimg.cc/rwPMjDTn/Image-15.jpg)](https://postimg.cc/gx8Ckkn8)
+
+
+
+
+** 4.4.3. Web Applications Mock-ups.**
+
+Los mock-ups de la aplicación web EasyCloud, se diseñó en Figma, siguiendo las heurísticas y principios IA para que sea fácil e intuitiva de usar.
+
+[![Image-16.jpg](https://i.postimg.cc/TwX8Nm49/Image-16.jpg)](https://postimg.cc/3y9bdy74)
+
+[![Image-17.jpg](https://i.postimg.cc/Vsgy4JBq/Image-17.jpg)](https://postimg.cc/Wtdf1byz)
+
 
 ### 4.4.3. Web Applications User Flow Diagrams.
 
