@@ -45,7 +45,7 @@
 | 1    | 01/09/2023     | Moreno Rosales, Claudio Jesús| Se realizó el Sprint Planning 1.  |
 | 1.1    | 02/09/2023     | Moreno Rosales, Claudio Jesús  |Se realizó el Sprint Backlog 1 |
 | 1.2    | 05/09/2023     | Moreno Rosales, Claudio Jesús  | Se realizó el Development Evidence for Sprint Review, Services Documentation Evidence for Sprint Review y algunas conclusiones del sprint 1.|
-| 2  | [Fecha]     | [Nombre Autor]  | [Descripción de la modificación] |
+| 1.3  | 08/09/2023     | Portales Ortiz, Diego Alejandro  | Se agregó el capítulo IV |
 
 ## URL del repositorio del Project Report
 
