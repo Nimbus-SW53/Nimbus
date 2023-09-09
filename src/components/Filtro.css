@@ -1,0 +1,30 @@
+/* Filtro.css */
+
+.filtro-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 20px;
+}
+
+select {
+  padding: 8px;
+  border: 1px solid #0074d9; /* Cambia el color del borde del select */
+  border-radius: 5px;
+  margin-right: 10px;
+  font-size: 16px; /* Aumenta el tamaño del texto del select */
+}
+
+button {
+  background-color: #0074d9;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  padding: 8px 16px; /* Aumenta el espacio alrededor del texto del botón */
+  cursor: pointer;
+  transition: background-color 0.3s ease-in-out, color 0.3s ease-in-out;
+}
+
+button:hover {
+  background-color: #0056b3;
+}
