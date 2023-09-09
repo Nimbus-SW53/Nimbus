@@ -1323,9 +1323,9 @@ Para el manejo de nuestros repositorios utilizaremos las siguientes políticas:
 **Repositorios:**
 Nimbus-Landing-Page:
 
-- **EasyCloud-Backend:** En desarrollo.
+- **Nimbus-Backend:** En desarrollo.
 
-- **EasyCloud-Frontend:** [https://github.com/Nimbus-SW53/Talleres/tree/master](https://github.com/Nimbus-SW53/Talleres/tree/master)
+- **Nimbus-Frontend:** [https://github.com/Nimbus-SW53/Talleres/tree/master](https://github.com/Nimbus-SW53/Talleres/tree/master)
 
 **Issues:**
 
