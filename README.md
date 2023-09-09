@@ -390,3 +390,9 @@ Estas preguntas van dirigidas para las entrevistas de los usuarios IT encargados
 ### 2.3.1. USER PERSONAS
 - **Usuario Desarrollador**: Se toma en cuenta lo rescatado de las entrevistas hacia el segmento de desarrolladores.
 
+###Capítulo IV: Product Design
+4.1. Style Guidelines.
+4.1.1. General Style Guidelines.
+En esta sección, definiremos los colores y fuentes que se aplicarán de manera consistente tanto en la página de inicio como en la futura aplicación web que estamos desarrollando. Hemos optado por seguir las pautas del IBM Design Language como nuestro enfoque de diseño. Para nuestra paleta de colores, hemos elegido un tono de celeste, que aporta un toque de elegancia y seriedad. 
+
+
