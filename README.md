@@ -1221,7 +1221,7 @@ En esta sección, se presentarán los diagramas de flujo visual (wireflows) que 
 
 ** 4.4.3. Web Applications Mock-ups.**
 
-Los mock-ups de la aplicación web EasyCloud, se diseñó en Figma, siguiendo las heurísticas y principios IA para que sea fácil e intuitiva de usar.
+Los mock-ups de la aplicación web Nimbus, se diseñó en Figma, siguiendo las heurísticas y principios IA para que sea fácil e intuitiva de usar.
 
 [![Image-16.jpg](https://i.postimg.cc/TwX8Nm49/Image-16.jpg)](https://postimg.cc/3y9bdy74)
 
@@ -1229,34 +1229,51 @@ Los mock-ups de la aplicación web EasyCloud, se diseñó en Figma, siguiendo la
 
 ### 4.4.3. Web Applications User Flow Diagrams.
 
-Los mock-ups de la aplicación web EasyCloud, se diseñó en Figma, consiguiendo una base para el desarrollo.
+Los mock-ups de la aplicación web Nimbus, se diseñó en Figma, consiguiendo una base para el desarrollo.
 
-![Imgur](https://i.imgur.com/yY88Y35.png)<br>
+![Imgur](https://i.imgur.com/yY88Y35.png) <br>
 ![Imgur](https://i.imgur.com/h6bLXf4.png) <br>
 ![Imgur](https://i.imgur.com/su716zu.png) <br>
 
 
 
 ### 4.5. Web Applications Prototyping.
+Nuestra aplicación se centra en la facilidad de navegación para el usuario, por ese motivo hemos utilizado botones de fácil acceso en la página principal, como también un menú de navegación intuitivo y básico.
 
 ### 4.6. Domain-Driven Software Architecture.
 
+En esta sección se presentarán los diagramas de la arquitectura de software diseñados para nuestra aplicación web. Para estos diseños aplicamos patrones de diseño de alto nivel, bajo el enfoque de Domain-Driven. De esta forma podremos comunicar de manera eficiente y efectiva nuestra arquitectura de software.
+
 ### 4.6.1. Software Architecture Context Diagram.
+![Imgur](https://i.imgur.com/7QQGrjO.png) <br>
 
 ### 4.6.2. Software Architecture Container Diagrams.
 
+Container Diagram de nuestra aplicación en el cual visualizamos la forma de alto nivel de la arquitectura del software y de qué manera se distribuyen  las responsabilidades en ella.
+![Imgur](https://i.imgur.com/pWrcA78.png) <br>
+
+
+
 ### 4.6.3. Software Architecture Components Diagrams.
 
+
+![Imgur](https://i.imgur.com/xKQvuSk.png) <br>
 ### 4.7. Software Object-Oriented Design.
 
 ### 4.7.1. Class Diagrams.
 
+![Imgur](https://i.imgur.com/yiRpiqV.png) <br>
 ### 4.7.2. Class Dictionary.
+Se partió desde una clase servicio que hereda parámetros genéricos a cada categoría de servicio(VMs, DataBase y Serverless). La clase PricingQuote (cotización) contienen al core de comparación y genera guarda un identificador para la cotización. Siguiendo el flujo, la clase History se compone de varias cotizaciones y estas se relacionan a un User o usuario.
 
+![Imgur](https://i.imgur.com/9Ehg1Jv.png) <br>
 ### 4.8. Database Design.
+Para el proyecto se estableció utilizar una base de datos relacional. Las entidades principales serían User, Pricing_quote, Historic y Service_historic. Todas las entidades tienen una relación con el un microservicio los cuales son seguridad, calculo, visualización y escalabilidad.
+En el diagrama se agregan más entidades basadas en el proceso de normalización de los datos, este proceso se aplicó con el objetivo de minimizar la redundancia de datos y facilitar la gestión en el futuro.
 
 ### 4.8.1. Database Diagram.
-
+Utilizamos Vertabelo para desarrollar el diagrama de clases.
+![Imgur](https://i.imgur.com/nu3h79v.png) <br>
 <br><br>
 
 ## Capítulo V: Product Implementation, Validation & Deployment
