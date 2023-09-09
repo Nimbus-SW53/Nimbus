@@ -49,14 +49,7 @@
 
 ## URL del repositorio del Project Report
 
-## Insights
-
-INSERTAR IMÁGENES CON FECHA
-
-## Commits
-
-INSERTAR IMÁGENES CON FECHA
-
+https://github.com/Nimbus-SW53/Nimbus
   
 
 # Contenido
@@ -1539,4 +1532,10 @@ Para el desarrollo del landing page se trabajó por tareas de implementación en
 
 ### Bibliografía
 
+MdnWebDocs. (2022). HTML: Lenguaje de etiquetas de hipertexto. Recuperado de:
+https://developer.mozilla.org/es/docs/Learn/Getting_started_with_the_web/HTML_b asics 
+MdnWebDocs. (2022). CSS. Recuperado de: https://developer.mozilla.org/es/docs/Web/CSS 
+Vue.js. (2022). The Progressive JavaScript Framework. Recuperado de: https://vuejs.org/ 
 ### Anexos
+Link de Figma: https://www.figma.com/file/k8AIusN2MOZM3fxkko5Cel/Nimbus-Figma?type=design&node-id=2%3A6399&mode=design&t=EXkrd7bzraIYwNcG-1
+Landing Desplegada: https://pv2y2n-3000.csb.app/
