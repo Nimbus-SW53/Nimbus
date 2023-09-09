@@ -290,14 +290,19 @@ En línea con el enfoque de nuestro equipo en tecnologías web, nuestra platafor
 	</div>
 	<div>
 
-<img  src="https://github.com/Nimbus-SW53/Nimbus/blob/74e699367d91e39ed75c37964c10fa60e6cb3f45/Imagenes/Presentacion%20Claudio%20Moreno.jpg"  alt="Claudio Moreno"  style="width: 500px;">
+	<img  src="https://github.com/Nimbus-SW53/Nimbus/blob/74e699367d91e39ed75c37964c10fa60e6cb3f45/Imagenes/Presentacion%20Claudio%20Moreno.jpg"  alt="Claudio Moreno"  style="width: 500px;">
 	</div>
 
-<div>
+	<div>
 
 	<img  src="https://github.com/Nimbus-SW53/Nimbus/blob/74e699367d91e39ed75c37964c10fa60e6cb3f45/Imagenes/Presentacion%20de%20Farid.jpg"  alt="Farid"  style="width: 500px;">
 	</div>
+
+    <img src="https://i.postimg.cc/3J2jGLBV/Integrante-Diegosaurio.jpg" alt="Diego" style="width: 500px;"> </div>
+
+
 </div>
+
 
 ## 1.2 SOLUTION PROFILE
 
