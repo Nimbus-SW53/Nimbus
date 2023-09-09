@@ -1080,7 +1080,8 @@ En esta sección, definiremos los colores y fuentes que se aplicarán de manera 
 
 Los mock-ups de la aplicación web EasyCloud, se diseñó en Figma, consiguiendo una base para el desarrollo.
 
-[Imgur](https://i.imgur.com/yY88Y35.png)
+![Imgur](https://i.imgur.com/yY88Y35.png)<br>
+
 
 
 ### 4.5. Web Applications Prototyping.
