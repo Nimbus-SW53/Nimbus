@@ -27,7 +27,7 @@
 
 <li>Claudio Moreno Rosales (u20191e800)</li>
 
-<li>Farid Hinostroza Mavila (u202014468)</li>
+<li>Farid Rolando Hinostroza Mavila (u202014468)</li>
 
 <li>Diego Alejandro Portales Ortiz (u202123501)</li>
 
@@ -45,7 +45,7 @@
 | 1    | 01/09/2023     | Moreno Rosales, Claudio Jesús| Se realizó el Sprint Planning 1.  |
 | 1.1    | 02/09/2023     | Moreno Rosales, Claudio Jesús  |Se realizó el Sprint Backlog 1 |
 | 1.2    | 05/09/2023     | Moreno Rosales, Claudio Jesús  | Se realizó el Development Evidence for Sprint Review, Services Documentation Evidence for Sprint Review y algunas conclusiones del sprint 1.|
-| 2  | [Fecha]     | [Nombre Autor]  | [Descripción de la modificación] |
+| 2  | 07/09/2023     | Farid Rolando, Hinostroza Mavila | Se realizó mockups y diagramas de solución, base de datos implementadas y requerimentos de user stories |
 
 ## URL del repositorio del Project Report
 
@@ -258,7 +258,7 @@ En el siguiente cuadro se describe las acciones realizadas y enunciados de concl
 | Criterio Específico | Acciones Realizadas | Conclusiones                                      |
 | ------------------- | ------------------- | ------------------------------------------------- |
 |Participa en equipos multidisciplinarios con eficacia, eficiencia y objetividad, en el marco de un proyecto en soluciones de ingeniería de software.|Moreno Rosales, Claudio Jesús<br><br> **TB1:** En el transcurso del proyecto se ha tenido que realizar una comunicación efectiva con los segmentos objetivo e interesados del proyecto, para obtener la mayor cantidad de requisitos y necesidades posibles, esto ayuda a construir un mejor diseño de proyecto ágil.| **TB1:**
-|Conoce al menos un sector empresarial o dominio de aplicación de soluciones de software. |Moreno Rosales, Claudio Jesús <br><br>**TB1:** Después de haber recolectado la información necesaria sobre nuestro público objetivo, interesados y haber realizado las entrevistas e investigaciones, se tradujo toda la información en arquetipos Persona y User Stories. |**TB1:**
+|Conoce al menos un sector empresarial o dominio de aplicación de soluciones de software. |Moreno Rosales, Claudio Jesús <br><br>**TB1:** Después de haber recolectado la información necesaria sobre nuestro público objetivo, interesados y haber realizado las entrevistas e investigaciones, se tradujo toda la información en arquetipos Persona y User Stories. |**TB1:** |Hinostroza Mavila, Farid Rolando <br><br>**TB1:** Despues de las entrevistas realizadas, se hicieron a cargo las funcionalidades pedidas por los usuarios, desarollo de mockups posteriores a diagramas e implementación de base de datos. |**TB1:**
 
 
 # Capítulo I: INTRODUCCIÓN
