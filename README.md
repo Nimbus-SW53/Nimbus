@@ -27,7 +27,7 @@
 
 <li>Claudio Moreno Rosales (u20191e800)</li>
 
-<li>Farid Hinostroza Mavila (u202014468)</li>
+<li>Farid Rolando Hinostroza Mavila (u202014468)</li>
 
 <li>Diego Alejandro Portales Ortiz (u202123501)</li>
 
@@ -45,18 +45,11 @@
 | 1    | 01/09/2023     | Moreno Rosales, Claudio Jesús| Se realizó el Sprint Planning 1.  |
 | 1.1    | 02/09/2023     | Moreno Rosales, Claudio Jesús  |Se realizó el Sprint Backlog 1 |
 | 1.2    | 05/09/2023     | Moreno Rosales, Claudio Jesús  | Se realizó el Development Evidence for Sprint Review, Services Documentation Evidence for Sprint Review y algunas conclusiones del sprint 1.|
-| 2  | [Fecha]     | [Nombre Autor]  | [Descripción de la modificación] |
+| 2  | 07/09/2023     | Farid Rolando, Hinostroza Mavila | Se realizó mockups y diagramas de solución, base de datos implementadas y requerimentos de user stories |
 
 ## URL del repositorio del Project Report
 
-## Insights
-
-INSERTAR IMÁGENES CON FECHA
-
-## Commits
-
-INSERTAR IMÁGENES CON FECHA
-
+https://github.com/Nimbus-SW53/Nimbus
   
 
 # Contenido
@@ -258,7 +251,7 @@ En el siguiente cuadro se describe las acciones realizadas y enunciados de concl
 | Criterio Específico | Acciones Realizadas | Conclusiones                                      |
 | ------------------- | ------------------- | ------------------------------------------------- |
 |Participa en equipos multidisciplinarios con eficacia, eficiencia y objetividad, en el marco de un proyecto en soluciones de ingeniería de software.|Moreno Rosales, Claudio Jesús<br><br> **TB1:** En el transcurso del proyecto se ha tenido que realizar una comunicación efectiva con los segmentos objetivo e interesados del proyecto, para obtener la mayor cantidad de requisitos y necesidades posibles, esto ayuda a construir un mejor diseño de proyecto ágil.| **TB1:**
-|Conoce al menos un sector empresarial o dominio de aplicación de soluciones de software. |Moreno Rosales, Claudio Jesús <br><br>**TB1:** Después de haber recolectado la información necesaria sobre nuestro público objetivo, interesados y haber realizado las entrevistas e investigaciones, se tradujo toda la información en arquetipos Persona y User Stories. |**TB1:**
+|Conoce al menos un sector empresarial o dominio de aplicación de soluciones de software. |Moreno Rosales, Claudio Jesús <br><br>**TB1:** Después de haber recolectado la información necesaria sobre nuestro público objetivo, interesados y haber realizado las entrevistas e investigaciones, se tradujo toda la información en arquetipos Persona y User Stories. |**TB1:** |Hinostroza Mavila, Farid Rolando <br><br>**TB1:** Despues de las entrevistas realizadas, se hicieron a cargo las funcionalidades pedidas por los usuarios, desarollo de mockups posteriores a diagramas e implementación de base de datos. |**TB1:**
 
 
 # Capítulo I: INTRODUCCIÓN
@@ -297,7 +290,7 @@ En línea con el enfoque de nuestro equipo en tecnologías web, nuestra platafor
 
 <img  src="https://github.com/Nimbus-SW53/Nimbus/blob/74e699367d91e39ed75c37964c10fa60e6cb3f45/Imagenes/Presentacion%20de%20Farid.jpg"  alt="Farid"  style="width: 500px;">
 </div>
-<a href="https://imgur.com/OBM7ykv"><img src="https://i.imgur.com/OBM7ykv.png" title="Christian Zeta" alt="Zeta"   style="width: 500px;"/></a>
+<a href="https://imgur.com/FnrTLSF"><img src="https://i.imgur.com/FnrTLSF.png" title="Christian Zeta" alt="Zeta"   style="width: 500px;"/></a>
 	</div>
 
 <div>
@@ -1042,60 +1035,238 @@ En el presente User Task Matrix se mostrarán las tareas de los segmentos objeti
 
 ## Capítulo IV: Product Design
 
-### 4.1. Style Guidelines.
+En esta sección, definiremos los colores y fuentes que se aplicarán de manera consistente tanto en la página de inicio como en la futura aplicación web que estamos desarrollando. Hemos optado por seguir las pautas del IBM Design Language como nuestro enfoque de diseño. Para nuestra paleta de colores, hemos elegido un tono de celeste, que aporta un toque de elegancia y seriedad. 
 
-### 4.1.1. General Style Guidelines.
 
-### 4.1.2. Web Style Guidelines.
+[![Image-1.jpg](https://i.postimg.cc/5089Kf9h/Image-1.jpg)](https://postimg.cc/xJTScDz5)
 
-### 4.2. Information Architecture.
+Tabla #: Gama de colores  
+Fuente: Elaboracion propia
 
-### 4.2.1. Organization Systems.
+La fuente principal que hemos elegido es "Century Gothic" para nuestro proyecto. Utilizamos "Century Gothic" en diversas variaciones para los encabezados, subtítulos y párrafos en nuestra aplicación web, con el objetivo de lograr un aspecto limpio y moderno en nuestros textos.
 
-### 4.2.2. Labeling Systems.
+"Century Gothic" se caracteriza por su estilo contemporáneo y su legibilidad, lo que la convierte en una elección sólida para proyectos que buscan una tipografía bien diseñada. Esta fuente es ampliamente conocida por su apariencia moderna y versátil, lo que la hace adecuada para aplicaciones que requieren una estética actual y profesional.
 
-### 4.2.3. SEO Tags and Meta Tags
+[![Image-2.jpg](https://i.postimg.cc/BZg4jYjB/Image-2.jpg)](https://postimg.cc/kDBkZyF2)
 
-### 4.2.4. Searching Systems.
+Fuente: Wikipedia
 
-### 4.2.5. Navigation Systems.
+**4.1.2. Web Style Guidelines.**
 
-### 4.3. Landing Page UI Design.
+En el Style Guideline hemos definido los colores y tipografía a utilizar en el proyecto.
 
-### 4.3.1. Landing Page Wireframe.
+Escogimos #004173, una variedad de Celeste, para darle un ambiente elegante y tenue a la aplicación, ya que nuestro público objetivo son empresas y profesionales, luego agregamos el color #0979b0 y #40cfff para darle contraste al color principal y así lograr que el usuario obtenga una navegación más fluida
 
-### 4.3.2. Landing Page Mock-up.
+[![Image-1.jpg](https://i.postimg.cc/5089Kf9h/Image-1.jpg)](https://postimg.cc/xJTScDz5)
 
-### 4.4. Web Applications UX/UI Design.
+La familia tipográfica seleccionada es Century Gothic, una fuente tipográfica creada para nuestro proyecto. Utilizamos Century Gothic Mono para los títulos, botones principales y subtítulos de primer nivel, y Century Gothic Sans para los subtítulos de nivel inferior y los botones en el cuerpo de la aplicación. Esta elección de fuentes proporciona una apariencia específica y coherente a nuestro proyecto, asegurando una presentación visualmente atractiva y legible.
 
-### 4.4.1. Web Applications Wireframes.
+[![Image-3.jpg](https://i.postimg.cc/c4PxWKKp/Image-3.jpg)](https://postimg.cc/w7c8cjQ2)
 
-### 4.4.2. Web Applications Wireflow Diagrams.
+Fuente: Fontke
 
-### 4.4.2. Web Applications Mock-ups.
+**4.2. Information Architecture.**
+
+En esta sección, mostraremos la arquitectura de información que hemos utilizado como parte de nuestro proceso de diseño UX. Aquí, organizaremos el contenido teniendo en cuenta las necesidades específicas de nuestra audiencia, nuestro producto y nuestros objetivos.
+
+**4.2.1. Organization Systems.**
+
+En la planificación de sistemas de organización, consideramos estructuras jerárquicas. También tenemos en cuenta esquemas de organización como el alfabético, cronológico y por temas, entre otros.
+
+Forma jerárquica
+
+Consideramos la estructura jerárquica para el acceso a las funciones y configuraciones de la cuenta en la pantalla principal de administración de usuarios. En la parte superior del encabezado, se mostrará el nombre de usuario. Creemos que esta organización es efectiva, ya que permite a los usuarios analizar y utilizar las funciones de manera intuitiva según sus necesidades.
+
+[![Jerarquia.jpg](https://i.postimg.cc/vBSRvjfJ/Jerarquia.jpg)](https://postimg.cc/jwNkxM8c)
+
+Fuente: Elaboración propia
+
+**4.2.2. Labeling Systems.**
+
+Para los labelling systems se ha utilizado un lenguaje formal y fácil de entender.
+
+|Nombre  | Función|
+|-|-|
+| Nimbus | Nombre de la aplicación que dirige al usuario a la pantalla principal. |
+| My Account | Apartado donde se podrá ver la cuenta, editar su configuración y datos. |
+|My Files|Apartado en dónde se podrá agregar, eliminar y modificar los archivos del usuario.|
+| Shared With | Apartado donde se podrá ver quienes le han compartido archivos al usuario, y viceversa. |
+|My Subscription|Apartado donde se podrá revisar el estado de la suscripción, el plan elegido y cuántos días quedan para realizar el siguiente pago.|
+| Upgrade | Apartado donde se puede mejorar el plan elegido. |
+| Log Out | Apartado en dónde se podrá cerrar la sesión de usuario. |
+|My Providers|Apartado donde se pueden observar y contactar con los proveedores de software.|
+| User 01 | Avatar que representa al usuario de cualquier segmento. |
+
+Fuente: Elaboración Propia
+
+**4.2.3. SEO Tags and Meta Tags**
+
+**4.2.4. Searching Systems.**
+
+Introduciremos un sistema de búsqueda en diversos secciones con el propósito de simplificar la navegación y facilitar la búsqueda de información para el usuario.
+
+El sistema de búsqueda estará disponible en los siguientes casos:
+
+- Lista de planes
+
+- Lista de cotizaciones
+
+- Lista de proveedores
+
+- Lista de usuarios (Red)
+
+**4.2.5. Navigation Systems.**
+
+Se introducirá un sistema de navegación animado en varios segmentos de la plataforma, incluyendo situaciones como las siguientes:
+
+- Header estático:
+
+El encabezado fijo brindará al usuario la posibilidad de acceder en cualquier momento a la configuración personal a través de un menú desplegable, además de poder regresar a la pantalla principal o consultar su nombre de usuario.
+
+- Panel izquierdo desplegable:
+
+El menú de navegación desplegable en el lado izquierdo proporcionará al usuario un acceso constante a todas las funciones y complementos disponibles en nuestro servicio.
+
+- Tarjetas y listas:
+
+La mayor parte de la información relacionada con planes, servicios, cotizaciones, cuentas, archivos y proveedores se presentará en tarjetas individuales para mejorar la visualización y la dinámica de la plataforma.
+
+**4.3. Landing Page UI Design.**
+
+**4.3.1. Landing Page Wireframe.**
+Hemos empleado Wireframe.ccy Google Imagenes en el proceso de creación del wireframe de la página de inicio de Nimbus.
+
+***Figura #:***
+*Wireframe del Landing Page - Parte 1*
+[![Image-4.jpg](https://i.postimg.cc/nrBJc29N/Image-4.jpg)](https://postimg.cc/vxYj0Wzv)
+
+***Figura #:***
+*Wireframe del Landing Page - Parte 2*
+[![Image-5.jpg](https://i.postimg.cc/8z1SNhpn/Image-5.jpg)](https://postimg.cc/w7bPkRsh)
+
+***Figura #:***
+*Wireframe del Landing Page - Parte 3*
+[![Image-6.jpg](https://i.postimg.cc/jS8GTmkL/Image-6.jpg)](https://postimg.cc/9D7xt82h)
+<![endif]-->
+
+*Fuente: Elaboración Propia*
+
+**4.3.2. Landing Page Mock-up.**
+
+Hemos elaborado un prototipo completo de la página de inicio, teniendo en cuenta diversas pautas y principios de diseño, con el objetivo de facilitar y hacer más intuitiva la experiencia de ingreso de los usuarios a la aplicación web.
+
+***Figura #:***
+*Mock-Up del Landing Page - Parte 1*
+
+[![Image-7.jpg](https://i.postimg.cc/FsHpvztV/Image-7.jpg)](https://postimg.cc/Cd9kHFxR)
+
+***Figura #:***
+*Mock-Up del Landing Page - Parte 2*
+[![Image-8.jpg](https://i.postimg.cc/Mphm1Yn9/Image-8.jpg)](https://postimg.cc/5XSzVLqz)
+
+***Figura #:***
+*Mock-Up del Landing Page - Parte 3*
+[![Image-9.jpg](https://i.postimg.cc/65PrNhfB/Image-9.jpg)](https://postimg.cc/WhMFGgyy)
+*Fuente: Elaboración Propia*
+
+**4.4. Web Applications UX/UI Design.**
+
+**4.4.1. Web Applications Wireframes.**
+
+Hemos empleado Wireframe.cc como nuestra principal herramienta para crear los esquemas visuales de nuestra aplicación web. Además, recurrimos a Googley Images para adquirir imágenes y iconos que complementen nuestro proyecto.
+
+***Figura #:***
+*Wireframe del login y sign up de Nimbus*
+
+[![Image-10.jpg](https://i.postimg.cc/hhRK96qS/Image-10.jpg)](https://postimg.cc/MftkwsT4)
+
+***Figura #:***
+*Wireframe de la página principal de Nimbus*
+
+[![Image-11.jpg](https://i.postimg.cc/YCkW7ymK/Image-11.jpg)](https://postimg.cc/ZC7RFHcV)
+
+***Figura #:***
+*Wireframe del menú desplegable de Nimbus*
+
+[![Image-12.jpg](https://i.postimg.cc/YSCLGG3d/Image-12.jpg)](https://postimg.cc/0zhyhNhS)
+
+***Figura #:***
+*Wireframe del log out de Nimbus*
+
+[![Image-13.jpg](https://i.postimg.cc/MpdvSZSV/Image-13.jpg)](https://postimg.cc/FYk9b41H)
+
+**4.4.2. Web Applications Wireflow Diagrams.**
+
+En esta sección, se presentarán los diagramas de flujo visual (wireflows) que hemos identificado para el desarrollo de la aplicación web, así como las diversas interacciones que estarán disponibles para nuestros usuarios.
+
+***Figura #:***
+*Wireframe del proceso de Log In y Sign Up de Nimbus*
+
+[![Image-14.jpg](https://i.postimg.cc/Vsqsws9v/Image-14.jpg)](https://postimg.cc/0rN1dsB1)
+
+***Figura #:***
+*Wireframe del proceso de Log Out de Nimbus*
+
+[![Image-15.jpg](https://i.postimg.cc/rwPMjDTn/Image-15.jpg)](https://postimg.cc/gx8Ckkn8)
+
+
+
+
+** 4.4.3. Web Applications Mock-ups.**
+
+Los mock-ups de la aplicación web Nimbus, se diseñó en Figma, siguiendo las heurísticas y principios IA para que sea fácil e intuitiva de usar.
+
+[![Image-16.jpg](https://i.postimg.cc/TwX8Nm49/Image-16.jpg)](https://postimg.cc/3y9bdy74)
+
+[![Image-17.jpg](https://i.postimg.cc/Vsgy4JBq/Image-17.jpg)](https://postimg.cc/Wtdf1byz)
 
 ### 4.4.3. Web Applications User Flow Diagrams.
 
+Los mock-ups de la aplicación web Nimbus, se diseñó en Figma, consiguiendo una base para el desarrollo.
+
+![Imgur](https://i.imgur.com/yY88Y35.png) <br>
+![Imgur](https://i.imgur.com/h6bLXf4.png) <br>
+![Imgur](https://i.imgur.com/su716zu.png) <br>
+
+
+
 ### 4.5. Web Applications Prototyping.
+Nuestra aplicación se centra en la facilidad de navegación para el usuario, por ese motivo hemos utilizado botones de fácil acceso en la página principal, como también un menú de navegación intuitivo y básico.
 
 ### 4.6. Domain-Driven Software Architecture.
 
+En esta sección se presentarán los diagramas de la arquitectura de software diseñados para nuestra aplicación web. Para estos diseños aplicamos patrones de diseño de alto nivel, bajo el enfoque de Domain-Driven. De esta forma podremos comunicar de manera eficiente y efectiva nuestra arquitectura de software.
+
 ### 4.6.1. Software Architecture Context Diagram.
+![Imgur](https://i.imgur.com/7QQGrjO.png) <br>
 
 ### 4.6.2. Software Architecture Container Diagrams.
 
+Container Diagram de nuestra aplicación en el cual visualizamos la forma de alto nivel de la arquitectura del software y de qué manera se distribuyen  las responsabilidades en ella.
+![Imgur](https://i.imgur.com/pWrcA78.png) <br>
+
+
+
 ### 4.6.3. Software Architecture Components Diagrams.
 
+
+![Imgur](https://i.imgur.com/xKQvuSk.png) <br>
 ### 4.7. Software Object-Oriented Design.
 
 ### 4.7.1. Class Diagrams.
 
+![Imgur](https://i.imgur.com/yiRpiqV.png) <br>
 ### 4.7.2. Class Dictionary.
+Se partió desde una clase servicio que hereda parámetros genéricos a cada categoría de servicio(VMs, DataBase y Serverless). La clase PricingQuote (cotización) contienen al core de comparación y genera guarda un identificador para la cotización. Siguiendo el flujo, la clase History se compone de varias cotizaciones y estas se relacionan a un User o usuario.
 
+![Imgur](https://i.imgur.com/9Ehg1Jv.png) <br>
 ### 4.8. Database Design.
+Para el proyecto se estableció utilizar una base de datos relacional. Las entidades principales serían User, Pricing_quote, Historic y Service_historic. Todas las entidades tienen una relación con el un microservicio los cuales son seguridad, calculo, visualización y escalabilidad.
+En el diagrama se agregan más entidades basadas en el proceso de normalización de los datos, este proceso se aplicó con el objetivo de minimizar la redundancia de datos y facilitar la gestión en el futuro.
 
 ### 4.8.1. Database Diagram.
-
+Utilizamos Vertabelo para desarrollar el diagrama de clases.
+![Imgur](https://i.imgur.com/nu3h79v.png) <br>
 <br><br>
 
 ## Capítulo V: Product Implementation, Validation & Deployment
@@ -1145,9 +1316,9 @@ Para el manejo de nuestros repositorios utilizaremos las siguientes políticas:
 **Repositorios:**
 Nimbus-Landing-Page:
 
-- **EasyCloud-Backend:** En desarrollo.
+- **Nimbus-Backend:** En desarrollo.
 
-- **EasyCloud-Frontend:** [https://github.com/Nimbus-SW53/Talleres/tree/master](https://github.com/Nimbus-SW53/Talleres/tree/master)
+- **Nimbus-Frontend:** [https://github.com/Nimbus-SW53/Talleres/tree/master](https://github.com/Nimbus-SW53/Talleres/tree/master)
 
 **Issues:**
 
@@ -1361,4 +1532,10 @@ Para el desarrollo del landing page se trabajó por tareas de implementación en
 
 ### Bibliografía
 
+MdnWebDocs. (2022). HTML: Lenguaje de etiquetas de hipertexto. Recuperado de:
+https://developer.mozilla.org/es/docs/Learn/Getting_started_with_the_web/HTML_b asics 
+MdnWebDocs. (2022). CSS. Recuperado de: https://developer.mozilla.org/es/docs/Web/CSS 
+Vue.js. (2022). The Progressive JavaScript Framework. Recuperado de: https://vuejs.org/ 
 ### Anexos
+Link de Figma: https://www.figma.com/file/k8AIusN2MOZM3fxkko5Cel/Nimbus-Figma?type=design&node-id=2%3A6399&mode=design&t=EXkrd7bzraIYwNcG-1
+Landing Desplegada: https://pv2y2n-3000.csb.app/
