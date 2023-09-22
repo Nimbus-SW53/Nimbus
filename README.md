@@ -213,29 +213,15 @@ En línea con el enfoque de nuestro equipo en tecnologías web, nuestra platafor
 
 ### 1.1.2 PERFILES DE INTEGRANTES
 
+<a  href = "https://postimg.cc/CdFfHqtq"><img  src="https://i.postimg.cc/FFSgvbVD/Fabio-Presentacion.jpg"  alt="Integrante 1 - Fabio Horna"  width="250"  height="450" /></a>
 
-<div  style="display: flex; justify-content: space-around;">
-	<div>
-	<img  src="https://github.com/Nimbus-SW53/Nimbus/blob/74e699367d91e39ed75c37964c10fa60e6cb3f45/Imagenes/Fabio%20Presentacion.jpg"  alt="Fabio"  style="width: 500px;">
-	</div>
-	<div>
+<a  href = "https://postimg.cc/1fXnbZyR"><img  src="https://i.postimg.cc/DydrJ2DG/Presentacion-Claudio-Moreno.jpg"  alt="Integrante 2 - Claudio Moreno"  width="250"  height="450" /></a>
 
-<img  src="https://github.com/Nimbus-SW53/Nimbus/blob/74e699367d91e39ed75c37964c10fa60e6cb3f45/Imagenes/Presentacion%20Claudio%20Moreno.jpg"  alt="Claudio Moreno"  style="width: 500px;">
-	</div>
+<a  href = "https://postimg.cc/qgj6m7VZ"><img  src="https://i.postimg.cc/FsQbHfPm/Presentacion-de-Farid.jpg"  alt="Integrante 3 - Farid Hinostroza"  width="250"  height="450" /></a>
 
-<div>
+<a  href = "https://imgur.com/FnrTLSF"><img  src="https://i.imgur.com/FnrTLSF.png"  alt="Integrante 4 - Christian Zeta"  width="250"  height="450" /></a>
 
-<img  src="https://github.com/Nimbus-SW53/Nimbus/blob/74e699367d91e39ed75c37964c10fa60e6cb3f45/Imagenes/Presentacion%20de%20Farid.jpg"  alt="Farid"  style="width: 500px;">
-</div>
-<a href="https://imgur.com/FnrTLSF"><img src="https://i.imgur.com/FnrTLSF.png" title="Christian Zeta" alt="Zeta"   style="width: 500px;"/></a>
-	</div>
-
-<div>
-
-<div>
-  <img src="https://i.postimg.cc/3J2jGLBV/Integrante-Diegosaurio.jpg" alt="Diego" style="width: 500px;"> 
-</div>
-</div>
+  <a><img  src="https://i.postimg.cc/3J2jGLBV/Integrante-Diegosaurio.jpg"  alt="Integrante 5 - Diego Portales"  width="250"  height="450" /></a>
 
 ## 1.2 SOLUTION PROFILE
 
