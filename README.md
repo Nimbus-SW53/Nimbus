@@ -178,19 +178,6 @@ En el siguiente cuadro se describe las acciones realizadas y enunciados de concl
 |Participa en equipos multidisciplinarios con eficacia, eficiencia y objetividad, en el marco de un proyecto en soluciones de ingeniería de software.|**Moreno Rosales, Claudio Jesús**<br><br> **TB1:** En el transcurso del proyecto se ha tenido que realizar una comunicación efectiva con los segmentos objetivo e interesados del proyecto, para obtener la mayor cantidad de requisitos y necesidades posibles, esto ayuda a construir un mejor diseño de proyecto ágil.<br><br> **Hinostroza Mavila, Farid Rolando** <br><br>**TB1:** Despues de las entrevistas realizadas, se hicieron a cargo las funcionalidades pedidas por los usuarios, desarollo de mockups posteriores a diagramas e implementación de base de datos.   | **TB1:**
 |Conoce al menos un sector empresarial o dominio de aplicación de soluciones de software. |**Moreno Rosales, Claudio Jesús** <br><br>**TB1:** Después de haber recolectado la información necesaria sobre nuestro público objetivo, interesados y haber realizado las entrevistas e investigaciones, se tradujo toda la información en arquetipos Persona y User Stories. |**TB1:**  |
   
-
-## Student Outcome
-
-El curso contribuye al cumplimiento del Student Outcome ABET: ABET – EAC - Student Outcome 5 Criterio: La capacidad de funcionar efectivamente en un equipo cuyos miembros juntos proporcionan liderazgo, crean un entorno de colaboración e inclusivo, establecen objetivos, planifican tareas y cumplen objetivos. 
-
-En el siguiente cuadro se describe las acciones realizadas y enunciados de conclusiones por parte del grupo, que permiten sustentar el haber alcanzado el logro del ABET – EAC - Student Outcome 5.
-
-| Criterio Específico | Acciones Realizadas | Conclusiones                                      |
-| ------------------- | ------------------- | ------------------------------------------------- |
-|Participa en equipos multidisciplinarios con eficacia, eficiencia y objetividad, en el marco de un proyecto en soluciones de ingeniería de software.|Moreno Rosales, Claudio Jesús<br><br> **TB1:** En el transcurso del proyecto se ha tenido que realizar una comunicación efectiva con los segmentos objetivo e interesados del proyecto, para obtener la mayor cantidad de requisitos y necesidades posibles, esto ayuda a construir un mejor diseño de proyecto ágil.| **TB1:**
-|Conoce al menos un sector empresarial o dominio de aplicación de soluciones de software. |Moreno Rosales, Claudio Jesús <br><br>**TB1:** Después de haber recolectado la información necesaria sobre nuestro público objetivo, interesados y haber realizado las entrevistas e investigaciones, se tradujo toda la información en arquetipos Persona y User Stories. |**TB1:** |Hinostroza Mavila, Farid Rolando <br><br>**TB1:** Despues de las entrevistas realizadas, se hicieron a cargo las funcionalidades pedidas por los usuarios, desarollo de mockups posteriores a diagramas e implementación de base de datos. |**TB1:**
-
-
 # Capítulo I: INTRODUCCIÓN
 
 ## 1.1 STARTUP PROFILE
