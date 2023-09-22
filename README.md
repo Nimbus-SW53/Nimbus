@@ -1,31 +1,27 @@
-# Proyecto Nimbus
+<div align="center">
 
 <h2>Universidad Peruana de Ciencias Aplicadas</h2>
 <img  src="https://seeklogo.com/images/U/universidad-peruana-de-ciencias-aplicadas-upc-logo-B98C3A365C-seeklogo.com.png"  alt="UPC Logo"  width="15%"  height="15%">
 
-<h2>Informe del Trabajo Final</h2>
+#### Informe del Trabajo Final
+#### Curso: Aplicaciones Web
+#### Carrera: Ingeniería de Software
+#### Sección:SW53
+#### Profesor: Naldo Reupo-Musayon Gastulo
 
-<h3>Curso: Aplicaciones Web</h3>
+<strong>Startup:</strong> StratusSphere
 
-<h3>Carrera: Ingeniería de Software </h3>
+<strong>Producto:</strong> Nimbus
 
-<h3>Sección:SW53</h3>
-
-<h3>Profesor:Naldo Reupo-Musayon Gastulo </h3>
-
-<strong>Startup:</strong> NIMBUS
-
-<strong>Producto:</strong> NIMBUS
-
-<h3>Integrantes:</h3>
+#### Integrantes:
 
 <ul>
 
-<li>Fabio Ernest Horna Silva (u202020229)</li>
+<li>Fabio Ernesto Horna Silva (u202020229)</li>
 
 <li>Christian Jose Zeta Valenzuela (u202011688)</li>
 
-<li>Claudio Moreno Rosales (u20191e800)</li>
+<li>Claudio Jesús Moreno Rosales (u20191e800)</li>
 
 <li>Farid Hinostroza Mavila (u202014468)</li>
 
@@ -33,10 +29,15 @@
 
 </ul>
 
-**<h3>Agosto, 2023</h3>**
+#### Agosto, 2023
 
+</div>
+
+<br><br>
   
-# Project Report Collaboration Insights
+## Project Report Collaboration Insights
+
+<div align="center"><a  href = "https://postimg.cc/JymhWLRy"><img  src="https://i.postimg.cc/GpTTGLNj/Insight-New.png"  alt="Insights"  width="280"  height="600" /></a></div>
 
 ## Registro de Versiones del Informe
 
