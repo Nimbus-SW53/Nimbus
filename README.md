@@ -1,60 +1,82 @@
-# Proyecto Nimbus
+<div align="center">
 
 <h2>Universidad Peruana de Ciencias Aplicadas</h2>
+
 <img  src="https://seeklogo.com/images/U/universidad-peruana-de-ciencias-aplicadas-upc-logo-B98C3A365C-seeklogo.com.png"  alt="UPC Logo"  width="15%"  height="15%">
 
-<h2>Informe del Trabajo Final</h2>
+#### Informe del Trabajo Final
+#### Curso: Aplicaciones Web
+#### Carrera: Ingeniería de Software
+#### Sección:SW53
+#### Profesor: Naldo Reupo-Musayon Gastulo
 
-<h3>Curso: Aplicaciones Web</h3>
+<strong>Startup:</strong> StratusSphere
 
-<h3>Carrera: Ingeniería de Software </h3>
+<strong>Producto:</strong> Nimbus
 
-<h3>Sección:SW53</h3>
-
-<h3>Profesor:Naldo Reupo-Musayon Gastulo </h3>
-
-<strong>Startup:</strong> NIMBUS
-
-<strong>Producto:</strong> NIMBUS
-
-<h3>Integrantes:</h3>
+#### Integrantes:
 
 <ul>
-
-<li>Fabio Ernest Horna Silva (u202020229)</li>
-
+<li>Fabio Ernesto Horna Silva (u202020229)</li>
 <li>Christian Jose Zeta Valenzuela (u202011688)</li>
-
-<li>Claudio Moreno Rosales (u20191e800)</li>
-
-<li>Farid Rolando Hinostroza Mavila (u202014468)</li>
-
+<li>Claudio Jesús Moreno Rosales (u20191e800)</li>
+<li>Farid Hinostroza Mavila (u202014468)</li>
 <li>Diego Alejandro Portales Ortiz (u202123501)</li>
-
 </ul>
 
-**<h3>Agosto, 2023</h3>**
+#### Agosto, 2023
 
-  
-# Project Report Collaboration Insights
+</div>
+
+<br><br>
 
 ## Registro de Versiones del Informe
 
-  | Versión | Fecha       | Autor            | Descripción de modificación       |
-| ------- | ----------- | ---------------- | --------------------------------- |
-| 1    | 01/09/2023     | Moreno Rosales, Claudio Jesús| Se realizó el Sprint Planning 1.  |
-| 1.1    | 02/09/2023     | Moreno Rosales, Claudio Jesús  |Se realizó el Sprint Backlog 1 |
-| 1.2    | 05/09/2023     | Moreno Rosales, Claudio Jesús  | Se realizó el Development Evidence for Sprint Review, Services Documentation Evidence for Sprint Review y algunas conclusiones del sprint 1.|
-| 2  | 07/09/2023     | Farid Rolando, Hinostroza Mavila | Se realizó mockups y diagramas de solución, base de datos implementadas y requerimentos de user stories |
+| Versión | Fecha | Autor | Descripción de modificación |
+|  -------  |  -----------  |  ----------------  |  ---------------------------------  |
+| 1 |  28/08/2023  | Horna Silva, Fabio Ernesto  | Se realizó la startup profile, Solution Profile.|
+| 1.2 |  29/08/2023  | Horna Silva, Fabio Ernesto  | Se realizó los Segmentos objetivo y análisis competitivo. |
+| 1.3 |  31/08/2023  | Horna Silva, Fabio Ernesto  | Se realizó el diseño de entrevistas, User Persona. |
+| 1.4 |  1/09/2023  | Horna Silva, Fabio Ernesto  | Se realizó los User Task Matrix, User Journey Map y Empathy Map. |
+| 1.5 |  2/09/2023  | Horna Silva, Fabio Ernesto  | Se realizó As-Is Scenario Map, To-Be Scenario Map, Impact Map y User Stories.|
+| 2 |  2/09/2023  | Portales Ortiz, Diego Alejandro  | Se realizó los Style Guidelines, Web Style Guidelines, Information Architecture y Organization Systems.|
+| 2.1 |  3/09/2023  | Portales Ortiz, Diego Alejandro  | Se realizó el SEO Tags and Meta Tags, Searching Systems, Navigation Systems y Landing Page UI Design.|
+| 2.2 |  4/09/2023  | Hinostroza Mavila, Farid  | Se realizó las Web Applications UX/UI Design, Web Applications Wireflow Diagrams y Web Applications User Flow Diagrams|
+| 2.3 |  5/09/2023  | Hinostroza Mavila, Farid  | Se realizó el Software Architecture Context Diagram, Software Architecture Container Diagrams, Software Architecture Components Diagrams, Class Diagrams y Database Diagram|
+| 3 | 03/09/2023 | Zeta Valenzuela, Christian Jose| Se realizó el Software Configuration Management, Software Development Environment Configuration y Source Code Management. |
+| 3.1 | 04/09/2023 | Zeta Valenzuela, Christian Jose| Se realizó el Source Code Style Guide & Conventions y Software Deployment Configuration. |
+| 3.2 | 01/09/2023 | Moreno Rosales, Claudio Jesús| Se realizó el Sprint Planning 1. |
+| 3.2 | 02/09/2023 | Moreno Rosales, Claudio Jesús |Se realizó el Sprint Backlog 1 |
+| 3.3 | 05/09/2023 | Moreno Rosales, Claudio Jesús | Se realizó el Development Evidence for Sprint Review, Services Documentation Evidence for Sprint Review y conclusiones del sprint 1.|
+| 3.4 | 05/09/2023 | Zeta Valenzuela, Christian Jose| Se realizó el Software Deployment Evidence for Sprint Review y Team Collaboration Insights during Sprint. |
 
-## URL del repositorio del Project Report
+<br><br>
+
+  ### Project Report Collaboration Insights
+
+- Contributors
+
+<div align="center"><a  href  =  "https://postimg.cc/JymhWLRy"><img  src="https://i.postimg.cc/GpTTGLNj/Insight-New.png"  alt="Insights"  width="400"  height="580"  /></a></div>
+
+<br>
+
+- Commits
+
+<div align="center"><a  href  =  "https://postimg.cc/LJjs7XFK"><img  src="https://i.postimg.cc/L8bZJYyX/stadistics-Commit.png"  alt="Insights"  width="700"  height="450"  /></a></div>
+  
+ <br>
+ 
+- Git Flow
+
+<div align="center"><a  href  =  "https://postimg.cc/9r6MJ9SY"><img  src="https://i.postimg.cc/nhzDVYGg/gitflow.png"  alt="GitFlow"  width="700"  height="300"  /></a></div>
+
+
+### URL del repositorio del Project Report
 
 https://github.com/Nimbus-SW53/Nimbus
   
 
 # Contenido
-
-  
 
 - [Registro de Versiones del Informe](#registro-de-versiones-del-informe)
 
