@@ -111,7 +111,7 @@ https://github.com/Nimbus-SW53/Nimbus
 - [**Capítulo III: Requirements Specification**](#capítulo-iii-requierments-specification)
 	- [3.1. To-Be Scenario Mapping](#31-to-be-scenario-maps)
 	- [3.2. User Stories](#32user-stories)
-	- [3.3. Impact Mapping](#33-impact-mapping)W
+	- [3.3. Impact Mapping](#33-impact-mapping)
 	- [3.4. Product Backlog](#34-product-backlog)
 
 - [**Capítulo IV: Product Design**](#capítulo-iv-product-design)
@@ -1337,18 +1337,33 @@ cooperativo en el desarrollo del landing page [https://www.atlassian.com/es/git/
 
 Para el desarrollo del landing page se trabajó por tareas de implementación en secciones (navbar, hero, features, forms, etc). Las tareas fueron repartidas en las reuniones recurrentes del grupo y se acordó crear un sistema de ramas para el desarrollo de un proyecto .
 
-
-**Actividades**
+- **Actividades**
 
 [![insight1.png](https://i.postimg.cc/x13yf918/insight1.png)](https://postimg.cc/NKLrbqTv)
 
-**Commits**
+- **Contributions**
 
-[![insight2.png](https://i.postimg.cc/k5MNDL2c/insight2.png)](https://postimg.cc/mPq15XNz)
+[![insights-fix2.png](https://i.postimg.cc/tgrSLMMm/insights-fix2.png)](https://postimg.cc/8F6mvtDh)
 
-**Contributions**
+ <br>
+ 
+- **Commits**
 
-[![insight3.png](https://i.postimg.cc/zGrFYy54/insight3.png)](https://postimg.cc/nC3DvcX1)
+<div align="center"><a  href  =  "https://postimg.cc/mPq15XNz"><img  src="https://i.postimg.cc/k5MNDL2c/insight2.png"  alt="Insights"  width="700"  height="300"  /></a></div>
+
+ <br>
+ 
+<div align="center"><a  href  =  "https://postimg.cc/LJjs7XFK"><img  src="https://i.postimg.cc/L8bZJYyX/stadistics-Commit.png"  alt="Insights"  width="700"  height="450"  /></a></div>
+
+ <br>
+ 
+<div align="center"><a  href  =  "https://postimg.cc/0z3CrLgk"><img  src="https://i.postimg.cc/Gp3ggCqy/insights-fix1.png"  alt="Insights"  width="700"  height="300"  /></a></div>
+
+ <br>
+ 
+- **Git Flow**
+
+<div align="center"><a  href  =  "https://postimg.cc/9r6MJ9SY"><img  src="https://i.postimg.cc/nhzDVYGg/gitflow.png"  alt="GitFlow"  width="700"  height="300"  /></a></div>
 
 
 ### Conclusiones
