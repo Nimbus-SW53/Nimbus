@@ -24,6 +24,7 @@
 <li>Diego Alejandro Portales Ortiz (u202123501)</li>
 </ul>
 
+Video Presentación TB1: https://youtu.be/HmSDVh_GIpI 
 #### Agosto, 2023
 
 </div>
@@ -52,7 +53,7 @@
 
 <br><br>
 
-  ### Project Report Collaboration Insights
+  ## Project Report Collaboration Insights
 
 - Contributors
 
@@ -74,7 +75,6 @@
 ### URL del repositorio del Project Report
 
 https://github.com/Nimbus-SW53/Nimbus
-  
 
 <br>
 
@@ -177,10 +177,11 @@ En el siguiente cuadro se describe las acciones realizadas y enunciados de concl
 |  -------------------  |  -------------------  |  -------------------------------------------------  |
 |Participa en equipos multidisciplinarios con eficacia, eficiencia y objetividad, en el marco de un proyecto en soluciones de ingeniería de software.|**Moreno Rosales, Claudio Jesús**<br><br> **TB1:** En el transcurso del proyecto se ha tenido que realizar una comunicación efectiva con los segmentos objetivo e interesados del proyecto, para obtener la mayor cantidad de requisitos y necesidades posibles, esto ayuda a construir un mejor diseño de proyecto ágil.<br><br> **Hinostroza Mavila, Farid Rolando** <br><br>**TB1:** Despues de las entrevistas realizadas, se hicieron a cargo las funcionalidades pedidas por los usuarios, desarollo de mockups posteriores a diagramas e implementación de base de datos.   | **TB1:**
 |Conoce al menos un sector empresarial o dominio de aplicación de soluciones de software. |**Moreno Rosales, Claudio Jesús** <br><br>**TB1:** Después de haber recolectado la información necesaria sobre nuestro público objetivo, interesados y haber realizado las entrevistas e investigaciones, se tradujo toda la información en arquetipos Persona y User Stories. |**TB1:**  |
-  
-# Capítulo I: INTRODUCCIÓN
 
-## 1.1 STARTUP PROFILE
+
+## Capítulo I: INTRODUCCIÓN
+
+### 1.1 STARTUP PROFILE
 
 ### 1.1.1 DESCRIPCIÓN DE LA STARTUP
 
@@ -210,7 +211,7 @@ En línea con el enfoque de nuestro equipo en tecnologías web, nuestra platafor
 
   <a><img  src="https://i.postimg.cc/3J2jGLBV/Integrante-Diegosaurio.jpg"  alt="Integrante 5 - Diego Portales"  width="250"  height="450" /></a>
 
-## 1.2 SOLUTION PROFILE
+### 1.2 SOLUTION PROFILE
 
 ### 1.2.1 ANTECEDENTES Y PROBLEMÁTICA
 
@@ -277,165 +278,100 @@ Por lo tanto, la pregunta crítica que surge es:
 
 #### 1.2.2.2. LEAN UX ASSUMPTIONS
 
-  
-
 **Business outcomes:**
-
-  
-
+ 
 - **Identificación del Mercado Objetivo:**
-
-En Nimbus, creemos que existe una creciente necesidad entre las empresas y los profesionales individuales por tener una manera más eficiente y transparente de seleccionar y adquirir software.
+	- En Nimbus, creemos que existe una creciente necesidad entre las empresas y los profesionales individuales por tener una manera más eficiente y transparente de seleccionar y adquirir software.
 
 - **Oferta de Valor:**
-
-Nuestra oferta de valor reside en simplificar el proceso de selección de software.
+	- Nuestra oferta de valor reside en simplificar el proceso de selección de software.
 
 - **Modelo de Monetización:**
-
-Planeamos adoptar un modelo de ingresos mixto.
+	- Planeamos adoptar un modelo de ingresos mixto.
 
 - **Adquisición de Clientes:**
-
-Prevemos que nuestra estrategia de adquisición de clientes incluirá marketing digital.
+	- Prevemos que nuestra estrategia de adquisición de clientes incluirá marketing digital.
 
 - **Ventaja Competitiva:**
-
-Nimbus pretende diferenciarse en la simplicidad y accesibilidad nuestras comparaciones.
+	- Nimbus pretende diferenciarse en la simplicidad y accesibilidad nuestras comparaciones.
 
   
 
 - **Riesgos y Soluciones:**
-
-El mayor riesgo para Nimbus es la capacidad de manejar un gran volumen de datos de manera eficiente.
+	- El mayor riesgo para Nimbus es la capacidad de manejar un gran volumen de datos de manera eficiente.
 
 - **Métricas de Éxito:**
+	- Las métricas clave para medir el éxito de Nimbus incluirán la tasa de conversión de usuarios gratuitos a pagados.
 
-Las métricas clave para medir el éxito de Nimbus incluirán la tasa de conversión de usuarios gratuitos a pagados.
-
-  
-
+ 
 **Users Assumptions**
 
-  
-
 - **¿Quién es el usuario?**
-
-+ Profesionales de TI y responsables de la toma de decisiones.
+	+ Profesionales de TI y responsables de la toma de decisiones.
 
 - **¿Dónde encaja nuestro producto? ¿En su trabajo o vida?**
-
-+ Nimbus se integrará en la vida laboral del usuario.
-
-  
+	+ Nimbus se integrará en la vida laboral del usuario.
 
 - **¿Qué problemas tiene nuestro usuario?**
-
-+Dificultad para comparar opciones de software.
-
-  
+	+ Dificultad para comparar opciones de software.
 
 - **¿Cuándo y cómo es nuestro producto usado?:**
-
-+Cuando necesiten seleccionar nuevo software o evaluar la efectividad del software actual.
-
-  
+	+ Cuando necesiten seleccionar nuevo software o evaluar la efectividad del software actual.
 
 - **¿Qué características son importantes?**
 
-+ Amplia gama de opciones para comparar.
+	+ Amplia gama de opciones para comparar.
 
-+ Herramientas de filtrado y búsqueda eficientes.
+	+ Herramientas de filtrado y búsqueda eficientes.
 
-+ Reseñas y puntuaciones fiables de otros usuarios.
+	+ Reseñas y puntuaciones fiables de otros usuarios.
 
-+ Analíticas detalladas que incluyan costo-beneficio.
+	+  Analíticas detalladas que incluyan costo-beneficio.
 
-+ Opciones de personalización para adaptar la plataforma a necesidades específicas.
-
-  
+	+ Opciones de personalización para adaptar la plataforma a necesidades específicas.
 
 **Users Outcomes**
 
-  
-
 - **Eficiencia en la toma de decisiones:**
-
-Los usuarios podrán tomar decisiones de compra de software mucho más informadas y en menos tiempo.
+	- Los usuarios podrán tomar decisiones de compra de software mucho más informadas y en menos tiempo.
 
 - **Ahorro de Recursos:**
-
-Gracias a las decisiones más informadas, los usuarios ahorrarán no solo tiempo sino también recursos financieros.
-
-  
+	- Gracias a las decisiones más informadas, los usuarios ahorrarán no solo tiempo sino también recursos financieros.
 
 - **Métricas Accesibles:**
-
-Los usuarios tendrán acceso a métricas que les permitirán evaluar la efectividad de su decisión después de la compra.
-
-  
+	- Los usuarios tendrán acceso a métricas que les permitirán evaluar la efectividad de su decisión después de la compra.
 
 #### 1.2.2.3. LEAN UX HYPOTHESIS
 
-  
-
 **Hipótesis del negocio:**
-
-  
 
 - **Identificación del Mercado Objetivo:** Creemos que al orientar nuestra plataforma a profesionales de TI, aumentaremos la tasa de conversión de usuarios gratuitos a pagados.
 
-  
-
 - **Oferta de Valor** Creemos que al ofrecer una plataforma intuitiva para comparar software, ahorraremos tiempo y recursos a nuestros usuarios.
-
-  
 
 - **Modelo de Monetización:** Creemos que al introducir un modelo de ingresos mixto, mantendremos una alta tasa de retención para los usuarios casuales y convertiremos a los usuarios intensivos en suscriptores.
 
-  
-
 - **Adquisición de Clientes:** Creemos que al centrarnos en el marketing digital y en alianzas estratégicas, incrementaremos el tráfico hacia nuestra plataforma.
-
-  
 
 - **Ventaja Competitiva:** Creemos que al ofrecer comparativas más detalladas y diversas, seremos la opción preferida sobre otras plataformas.
 
-  
-
 **Hipótesis en Suposiciones del Usuario:**
-
-  
 
 - **Amplia gama de opciones para comparar:** Creemos que al ofrecer una amplia variedad de software para comparar, los usuarios tomarán decisiones más informadas.
 
-  
-
 - **Herramientas de filtrado y búsqueda eficientes:** Creemos que al proporcionar herramientas de filtrado efectivas, los usuarios ahorrarán tiempo en su proceso de selección.
 
-  
-
-- ** Reseñas y puntuaciones fiables: ** Creemos que al ofrecer reseñas y puntuaciones fiables, mejoraremos la confianza y satisfacción del usuario.
-
-  
+- **Reseñas y puntuaciones fiables:** Creemos que al ofrecer reseñas y puntuaciones fiables, mejoraremos la confianza y satisfacción del usuario.
 
 - **Analíticas detalladas que incluyan costo-beneficio:** Creemos que al incluir analíticas detalladas de costo-beneficio, los usuarios tomarán decisiones más económicas y efectivas.
 
-  
-
 - **Opciones de personalización:** Creemos que al permitir personalizaciones en la plataforma, los usuarios encontrarán más rápidamente soluciones que se adapten a sus necesidades específicas.
 
-  
-
 **Hipótesis de resultados del Usuario:**
-
-  
 
 - **Eficiencia en la toma de decisiones:**
 
 Creemos que nuestra plataforma permitirá a los usuarios tomar decisiones más eficientes.
-
-  
 
 - **Ahorro de Recursos:**
 
@@ -455,87 +391,72 @@ Pensamos que al ofrecer métricas accesibles post-compra, los usuarios podrán m
 
 ### 1.3. SEGMENTOS OBJETIVO
 
-  
-
 Como una startup emergente en el mercado peruano que aspira a incursionar en el proceso de selección y adquisición de software mediante una plataforma web robusta y fácil de usar, hemos enfocado nuestra propuesta en dos principales segmentos en el mercado:
-
-  
 
 #### 1. Proveedores de software:
 
-  
-
 * **Características:**
+	+ Empresas enfocadas al desarrollo de software o freelancers que ofrezcan servicios en la creación de software.
 
-+ Empresas enfocadas al desarrollo de software o freelancers que ofrezcan servicios en la creación de software.
+	+ Proveedores del tipo que ofrecen una gama de soluciones, desde aplicaciones de gestión hasta software especializado.
 
-+ Proveedores del tipo que ofrecen una gama de soluciones, desde aplicaciones de gestión hasta software especializado.
-
-+ Empresas de TI o algún ámbito relacionado que buscan expandir su presencia en el mercado peruano o internacional.
-
-  
+	+ Empresas de TI o algún ámbito relacionado que buscan expandir su presencia en el mercado peruano o internacional.
 
 * **Necesidades:**
 
-+ Aumentar visibilidad de sus productos.
+	+ Aumentar visibilidad de sus productos.
 
-+ Acceder a un flujo constante de posibles clientes.
+	+ Acceder a un flujo constante de posibles clientes.
 
-+ Herramientas que permitan una interacción eficiente con los clientes.
+	+ Herramientas que permitan una interacción eficiente con los clientes.
 
-+ Acceso a feedback u opiniones para tomar decisiones acerca de sus productos o servicios.
+	+ Acceso a feedback u opiniones para tomar decisiones acerca de sus productos o servicios.
 
   
 
 * **Estrategias:**
 
-+ Ofrecer una plataforma que permita a los proveedores listar sus productos de manera detallada, incluyendo características, precios y casos de éxito.
+	+ Ofrecer una plataforma que permita a los proveedores listar sus productos de manera detallada, incluyendo características, precios y casos de éxito.
 
-+ Implementar un sistema de reseñas y calificaciones que ayude a los proveedores a ganar credibilidad para aumentar la confianza de los consumidores.
+	+ Implementar un sistema de reseñas y calificaciones que ayude a los proveedores a ganar credibilidad para aumentar la confianza de los consumidores.
 
-+ Ofrecer herramientas analíticas para que los proveedores puedan medir el rendimiento de sus listados y tomar decisiones a futuro.
+	+ Ofrecer herramientas analíticas para que los proveedores puedan medir el rendimiento de sus listados y tomar decisiones a futuro.
 
-  
-
+ 
 #### 2. Clientes En Búsqueda de software:
-
-  
 
 * **Características**
 
-+ Empresas de diversos sectores que buscan expandirse con nuevas tecnologías o digitalizar sus operaciones.
+	+ Empresas de diversos sectores que buscan expandirse con nuevas tecnologías o digitalizar sus operaciones.
 
-+ Freelancers o profesionales que necesitan herramientas o algún software específico para su trabajo.
+	+ Freelancers o profesionales que necesitan herramientas o algún software específico para su trabajo.
 
-+ Entidades gubernamentales y organizaciones sin fines de lucro que necesiten algún servicio o producto basado en software.
-
-  
+	+ Entidades gubernamentales y organizaciones sin fines de lucro que necesiten algún servicio o producto basado en software.
 
 * **Necesidades:**
 
-+ Métodos simplificados que se ajusten a encontrar proveedores serios de manera rápida y efectiva.
+	+ Métodos simplificados que se ajusten a encontrar proveedores serios de manera rápida y efectiva.
 
-+ Comparar precios y funcionalidades de manera transparente para poder tomar una decisión.
+	+ Comparar precios y funcionalidades de manera transparente para poder tomar una decisión.
 
-+ Acceso a reseñas y opiniones imparciales para tomar decisiones informadas acerca de los productos o servicios que seleccionarán.
-
-  
+	+ Acceso a reseñas y opiniones imparciales para tomar decisiones informadas acerca de los productos o servicios que seleccionarán.
 
 * **Estrategia:**
 
-+ Desarrollar un motor de búsqueda intuitivo con filtros avanzados que permitan a los clientes encontrar el software que mejor se adapte a sus necesidades.
+	+ Desarrollar un motor de búsqueda intuitivo con filtros avanzados que permitan a los clientes encontrar el software que mejor se adapte a sus necesidades.
+
+## Capítulo II: Requirements Elicitation & Analysis
+
+### 2.1. Competidores.
 
 ### 2.1.1. ANÁLISIS COMPETITIVO
 
-![Analisis Competitivo Nimbus](https://github.com/Nimbus-SW53/Nimbus/blob/b4ba06e9f8bf5ba6fc77f1c0ac351d5b0f9f7d07/Analisis%20Competitivo.jpg)
+[![Analisis-Competitivo.jpg](https://i.postimg.cc/3NQ5Z9bf/Analisis-Competitivo.jpg)](https://postimg.cc/1nBjm0SD)
 
-## 2.1.2. ESTRATEGIAS Y TÁCTICAS FRENTE A COMPETIDORES
-
-  
+### 2.1.2. ESTRATEGIAS Y TÁCTICAS FRENTE A COMPETIDORES
 
 Teniendo en cuenta la comparación de competencias anterior. Se tomarán las siguientes tácticas frente a los competidores como:
 
-  
 
 **Getapp**: Posicionamiento como una solución más personalizada y enfocada en nichos de mercado.
 
@@ -577,9 +498,7 @@ Teniendo en cuenta la comparación de competencias anterior. Se tomarán las sig
 
   
 
-## 2.2. ENTREVISTAS
-
-  
+### 2.2. ENTREVISTAS
 
 ### 2.2.1. DISEÑO DE ENTREVISTAS
 
@@ -589,55 +508,50 @@ Estas preguntas van dirigidas para las entrevistas de los usuarios IT encargados
 
   
 
-* Saludo y presentación de la entrevista:
+* Saludo y presentación de la entrevista
 
-* Solicitud de datos:
+* Solicitud de datos
 
 * Solicitar nombres, apellidos, edad, distrito donde vive y ocupación.
 
 * ¿A qué se dedica?
 
-* Preguntas sobre la problemática:
+* **Preguntas sobre la problemática:**
 
-* ¿Cuándo y para qué necesita contratar Cloud Services?
+	* ¿Cuándo y para qué necesita contratar Cloud Services?
 
-* Cuando está escogiendo un proveedor de Cloud Services, ¿cuál es el proceso que sigue?
+	* Cuando está escogiendo un proveedor de Cloud Services, ¿cuál es el proceso que sigue?
 
-* Que factores afectan su decisión en la elección de proveedor.
+	* Que factores afectan su decisión en la elección de proveedor.
 
-* ¿Cuántos proveedores suele consultar antes de tomar una decisión?
+	* ¿Cuántos proveedores suele consultar antes de tomar una decisión?
 
-* ¿Cuánto tiempo suele demorarle el proceso?
+	* ¿Cuánto tiempo suele demorarle el proceso?
 
-* Que dificultades enfrenta con la forma actual en la cual escoge un proveedor.
+	* Que dificultades enfrenta con la forma actual en la cual escoge un proveedor.
 
-* Que proveedor tiene la mejor calculadora de costos en su opinión.
+	* Que proveedor tiene la mejor calculadora de costos en su opinión.
 
-* Preguntas sobre necesidades:
+* **Preguntas sobre necesidades:**
 
-* ¿Qué es lo que más le gusta de las calculadoras existentes?
+	* ¿Qué es lo que más le gusta de las calculadoras existentes?
 
-* ¿Como cree que se podría optimizar el proceso de elección?, por ejemplo, ¿poder comparar todos los proveedores y filtrarlos en un solo proceso - Inducir idea de forma pasiva.?
+	* ¿Como cree que se podría optimizar el proceso de elección?, por ejemplo, ¿poder comparar todos los proveedores y filtrarlos en un solo proceso - Inducir idea de forma pasiva.?
 
-* ¿Como cree que se puede mejorar las calculadoras existentes de los proveedores?
+	* ¿Como cree que se puede mejorar las calculadoras existentes de los proveedores?
 
-* ¿Qué tanto grande cree que será el impacto de las mejoras y optimizaciones que propuso para mejorar el proceso de cálculo y elección en el gasto asociado a los servicios que desea contratar?
+	* ¿Qué tanto grande cree que será el impacto de las mejoras y optimizaciones que propuso para mejorar el proceso de cálculo y elección en el gasto asociado a los servicios que desea contratar?
 
-* ¿Como considera que estas mejoras ayudaran a sus proyectos en el futuro?
+	* ¿Como considera que estas mejoras ayudaran a sus proyectos en el futuro?
 
 * Despedida y agradecimiento
 
 ### 2.2.2. REGISTRO DE ENTREVISTAS
 
 **Entrevistado/a:** Alexandra Moreno
+[![interview1.png](https://i.postimg.cc/X7kYYrvG/interview1.png)](https://postimg.cc/KR429vBx)
 
-![Captura de pantalla entrebista a Alexandra](https://github.com/Nimbus-SW53/Nimbus/blob/cba89e68023ea3e02729eb70ce63daea19b66e9f/Imagenes/Entrevista%20a%20Sandra%20Moreno.jpg)
-
-  
-
-[Link de la entrevista a Alexandra Moreno (Youtube)](https://www.youtube.com/watch?v=Y00Z1HVaUuU)
-
-  
+[Link de la entrevista a Alexandra Moreno](https://www.youtube.com/watch?v=Y00Z1HVaUuU)
 
 **Resumen de la entrevista:**
 
@@ -647,13 +561,10 @@ En la entrevista, Alexandra, consultora con tres años de experiencia en SAP Bus
 
 **Entrevistado/a:** Luis
 
-![Captura de pantalla entrevista a Luis](https://github.com/Nimbus-SW53/Nimbus/blob/cba89e68023ea3e02729eb70ce63daea19b66e9f/Imagenes/Entrevista%20a%20Luis.jpg)
+[![Entrevista-a-Luis.jpg](https://i.postimg.cc/fy7L7V5X/Entrevista-a-Luis.jpg)](https://postimg.cc/GT2ddhWh)
 
-  
+[Link de la entrevista a Luis](https://www.youtube.com/watch?v=FkvtMx0Si6I)
 
-[Link de la entrevista a Luis (Youtube)](https://www.youtube.com/watch?v=FkvtMx0Si6I)
-
-  
 
 **Resumen de la entrevista:**
 
@@ -663,12 +574,11 @@ Luis, un desarrollador de software en Tech World Solution, habla sobre la especi
 
 **Entrevistado/a:** Farid Esquivel
 
-![Captura de pantalla entrevista a Farid](https://github.com/Nimbus-SW53/Nimbus/blob/cba89e68023ea3e02729eb70ce63daea19b66e9f/Imagenes/Nadir%20Esquivet.jpg)
+[![Nadir-Esquivet.jpg](https://i.postimg.cc/MKxX6YKY/Nadir-Esquivet.jpg)](https://postimg.cc/kD17wKSV)
 
-[Link de la entrevista a Farid Esquivel (Youtube)](https://www.youtube.com/watch?v=zjbIquIROf4)
+[Link de la entrevista a Farid Esquivel](https://www.youtube.com/watch?v=zjbIquIROf4)
 
-  
-
+ 
 **Resumen de la entrevista:**
 
 Esquivel, un asistente a distancia de 25 años en el sector educativo, comparte sus criterios y desafíos en la selección de software. Según Esquivel, la búsqueda de software está impulsada por la necesidad de encontrar soluciones a problemas específicos, como la organización o el inventario. Normalmente consulta opiniones en línea y valora la experiencia de otros usuarios antes de tomar una decisión. Enfrenta desafíos como tener que consultar múltiples fuentes y foros, a menudo con opiniones poco confiables. Valora la idea de una plataforma centralizada que facilite el proceso de selección, permitiendo comparar características y costos de distintas opciones. Cree que Nimbus, al estar enfocado en facilitar la búsqueda de software adaptado a las necesidades del usuario, podría ser un gran recurso para ahorrar tiempo y mejorar la eficiencia en este proceso.
@@ -771,27 +681,25 @@ Para este análisis, se recogieron datos cualitativos a través de entrevistas e
 
   
 
-## 2.3. NEEDFINDING
-
-  
+### 2.3. NEEDFINDING
 
 ### 2.3.1. USER PERSONAS
 
 - **Usuario Desarrollador**: Se toma en cuenta lo rescatado de las entrevistas hacia el segmento de desarrolladores.
 
-  
+<br>
 
-![User Persona Desarrollador](https://github.com/Nimbus-SW53/Nimbus/blob/f618ca0095638e54f5bc6013946f1e1ecdd7ed6e/Imagenes/User%20Persona%20desarrollador.jpg)
+  [![User-Persona-desarrollador.jpg](https://i.postimg.cc/JzBwqk5v/User-Persona-desarrollador.jpg)](https://postimg.cc/gxdBcr5H)
 
-  
 
 ---
 
+
 - **Usuario Cliente**: Se toma en cuenta lo rescatado en las entrevistas hacia el usuario Empresa. El instrumento se enfoca en las características resaltantes en común de las entrevistas para este sector, así también, sus necesidades.
 
-  
+<br>
 
-![User Persona Usuario](https://github.com/Nimbus-SW53/Nimbus/blob/f618ca0095638e54f5bc6013946f1e1ecdd7ed6e/Imagenes/User%20Persona%20Usuario%20.jpg)
+  [![User-Persona-Usuario.jpg](https://i.postimg.cc/rFHXxJx5/User-Persona-Usuario.jpg)](https://postimg.cc/568RM8Pt)
 
   
 
@@ -799,9 +707,9 @@ Para este análisis, se recogieron datos cualitativos a través de entrevistas e
 
 En el presente User Task Matrix se mostrarán las tareas de los segmentos objetivos Usuario Empresa y Usuario Desarrollador, como también se hará un esquema de importancia y frecuencia.
 
-  
+<br>
 
-![User Task Matrix](https://github.com/Nimbus-SW53/Nimbus/blob/f618ca0095638e54f5bc6013946f1e1ecdd7ed6e/Imagenes/User%20task%20Matrix.jpg)
+  [![User-task-Matrix.jpg](https://i.postimg.cc/L65FJ7YH/User-task-Matrix.jpg)](https://postimg.cc/6TkmSMfS)
 
   
 
@@ -809,84 +717,78 @@ En el presente User Task Matrix se mostrarán las tareas de los segmentos objeti
 
 - **Usuario Desarrollador**
 
-<img  align="left"  width="700"  src="https://github.com/Nimbus-SW53/Nimbus/blob/7c5481e4ea1d9918e3e3acaaddae72d46e9ff9ad/Imagenes/User%20Journey%20map.jpg">
+<br>
 
-<br  clear="left"/>
-
+[![User-Journey-map.jpg](https://i.postimg.cc/BvH0qK8H/User-Journey-map.jpg)](https://postimg.cc/4KfMPnQx)
   
+<br> 
 
 - **Usuario Cliente**
 
-<img  align="left"  width="700"  src="https://github.com/Nimbus-SW53/Nimbus/blob/5ed59cae7a274d74fe195efdd956cf0fbd169525/Imagenes/User%20Journey%20Usuario%20Cliente.jpg">
+<br>
 
-<br  clear="left"/>
-
+[![User-Journey-Usuario-Cliente.jpg](https://i.postimg.cc/T178kjSM/User-Journey-Usuario-Cliente.jpg)](https://postimg.cc/V0CHvtmD)
   
 
 ### 2.3.4. EMPATHY MAPS
 
   
-
 - **Usuario Desarrollador**
 
-<img  align="left"  width="600"  src="https://github.com/Nimbus-SW53/Nimbus/blob/f618ca0095638e54f5bc6013946f1e1ecdd7ed6e/Imagenes/Empathy%20Map%20Desarrolador.jpg">
+<br>
 
-<br  clear="left"/>
-
+[![Empathy-Map-Desarrolador.jpg](https://i.postimg.cc/rwdTPbMh/Empathy-Map-Desarrolador.jpg)](https://postimg.cc/VJc2SKSM)
   
 
 - **Usuario Cliente**
 
-<img  align="left"  width="600"  src="https://github.com/Nimbus-SW53/Nimbus/blob/f618ca0095638e54f5bc6013946f1e1ecdd7ed6e/Imagenes/Empathy%20Map%20Usuario.jpg">
+<br>
 
-<br  clear="left"/>
-
+[![Empathy-Map-Usuario.jpg](https://i.postimg.cc/HsvH3HDc/Empathy-Map-Usuario.jpg)](https://postimg.cc/7fzpYFLw)
   
+<br>
 
 ### 2.3.5. AS-IS SCENARIO MAPS
 
-  
-
-- **Usuario Desarrollador**
-
 - **As_Is Scenario Map Desarrollador**
 
-<img  align="left"  src="https://github.com/Nimbus-SW53/Nimbus/blob/f618ca0095638e54f5bc6013946f1e1ecdd7ed6e/Imagenes/AS_IS%20SCENARIO%20MAP%20DESARROLLADOR.jpg">
+<br>
 
-<br  clear="left"/>
+[![AS-IS-SCENARIO-MAP-DESARROLLADOR.jpg](https://i.postimg.cc/0y3k5vVR/AS-IS-SCENARIO-MAP-DESARROLLADOR.jpg)](https://postimg.cc/nX4bTy80)
 
-  
+<br>
 
 - **Usuario Cliente**
 
-<img  align="left"  src="https://github.com/Nimbus-SW53/Nimbus/blob/f618ca0095638e54f5bc6013946f1e1ecdd7ed6e/Imagenes/AS_IS%20SCENARIO%20MAP%20Cliente.jpg">
+<br>
 
-<br  clear="left"/>
-
-  
-  
-
-# Capítulo III: REQUIERMENTS SPECIFICATION
+[![AS-IS-SCENARIO-MAP-Cliente.jpg](https://i.postimg.cc/jj7sL11W/AS-IS-SCENARIO-MAP-Cliente.jpg)](https://postimg.cc/LqmdWx2R)
 
   
+ 
+### Capítulo III: REQUIERMENTS SPECIFICATION
 
-## 3.1. TO-BE SCENARIO MAPS
+### 3.1. TO-BE SCENARIO MAPS
 
 - **To-Be Scenario Map Desarrollador**
 
-![To-Be Scenario Map Desarrollador](https://github.com/Nimbus-SW53/Nimbus/blob/5ed59cae7a274d74fe195efdd956cf0fbd169525/Imagenes/To-Be%20scenario%20maps%20Desarrollador.jpg)
+<br>
 
+[![To-Be-scenario-maps-Desarrollador.jpg](https://i.postimg.cc/QCxGkYfJ/To-Be-scenario-maps-Desarrollador.jpg)](https://postimg.cc/zbMcq7Zy)
   
+
+<br>
 
 - **To-Be Scenario Map Cliente**
 
-![To-Be Scenario Map Cliente](https://github.com/Nimbus-SW53/Nimbus/blob/7c5481e4ea1d9918e3e3acaaddae72d46e9ff9ad/Imagenes/User%20Journey%20Usuario%20Cliente.jpg)
+<br>
 
-  
+[![To-Be-scenario-maps-Cliente.jpg](https://i.postimg.cc/d1FKDVdX/To-Be-scenario-maps-Cliente.jpg)](https://postimg.cc/qt1F501X)
 
-## 3.2.USER STORIES
+<br><br>
 
-  
+### 3.2.USER STORIES
+
 | Epic / User Story ID | Título | Descripción | Criterios de Aceptación | Relacionado con (Epic ID) |
 |----------------------|-----------------------------------|----------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------|----------------------------|
 | Epic 01 | Plataforma de Listado de Productos | Crear una plataforma en la que los proveedores de software puedan listar y detallar sus productos. | - | - |
@@ -913,19 +815,15 @@ En el presente User Task Matrix se mostrarán las tareas de los segmentos objeti
 
 - **Usuario Desarrollador**
 
-<img  align="left"  src="https://github.com/Nimbus-SW53/Nimbus/blob/6e3697da3b6eb0fed79eee58193fab45c83280ca/Imagenes/Impact%20mapping%20desarrollador.jpg"  alt="Impact Mapping Desarrollador">
-
-<br  clear="left"/>
+[![Impact-mapping-desarrollador.jpg](https://i.postimg.cc/6pT6NqLf/Impact-mapping-desarrollador.jpg)](https://postimg.cc/5XdWBxrX)
 
   
 
 - **Usuario Cliente**
 
-<img  align="left"  src="https://github.com/Nimbus-SW53/Nimbus/blob/192ba8cf21d72e006a95dff648a054854cad30c8/Imagenes/Impact%20mapping%20Cliente.jpg"  alt="Impact Mapping Cliente">
-<br  clear="left"/>
-
+[![Impact-mapping-Cliente.jpg](https://i.postimg.cc/2j2f8m5c/Impact-mapping-Cliente.jpg)](https://postimg.cc/dDkf4brr)
   
-## 3.4 PRODUCT BACKLOG
+### 3.4 PRODUCT BACKLOG
 
  
 | Orden | User Story ID | Título | Descripción | Story Points |
@@ -942,6 +840,8 @@ En el presente User Task Matrix se mostrarán las tareas de los segmentos objeti
 | 10 | User Story 5.1 | Crear Cuenta | Como usuario nuevo, quiero poder crear una cuenta para acceder a todas las funcionalidades. | 3 |
 | 11 | User Story 5.2 | Iniciar Sesión | Como usuario registrado, quiero poder iniciar sesión para acceder a mi cuenta y a mis preferencias. | 2 |
 | 12 | User Story 5.3 | Recuperar Contraseña| Como usuario, quiero poder recuperar mi contraseña en caso de olvido para poder acceder a mi cuenta. | 1 |
+
+<br><br>
 
 ## Capítulo IV: Product Design
 
@@ -1161,6 +1061,7 @@ Container Diagram de nuestra aplicación en el cual visualizamos la forma de alt
 
 
 ![Imgur](https://i.imgur.com/xKQvuSk.png) <br>
+
 ### 4.7. Software Object-Oriented Design.
 
 ### 4.7.1. Class Diagrams.
@@ -1169,21 +1070,25 @@ Container Diagram de nuestra aplicación en el cual visualizamos la forma de alt
 ### 4.7.2. Class Dictionary.
 Se partió desde una clase servicio que hereda parámetros genéricos a cada categoría de servicio(VMs, DataBase y Serverless). La clase PricingQuote (cotización) contienen al core de comparación y genera guarda un identificador para la cotización. Siguiendo el flujo, la clase History se compone de varias cotizaciones y estas se relacionan a un User o usuario.
 
-![Imgur](https://i.imgur.com/9Ehg1Jv.png) <br>
+![Imgur](https://i.imgur.com/9Ehg1Jv.png)
+ <br>
+
 ### 4.8. Database Design.
 Para el proyecto se estableció utilizar una base de datos relacional. Las entidades principales serían User, Pricing_quote, Historic y Service_historic. Todas las entidades tienen una relación con el un microservicio los cuales son seguridad, calculo, visualización y escalabilidad.
 En el diagrama se agregan más entidades basadas en el proceso de normalización de los datos, este proceso se aplicó con el objetivo de minimizar la redundancia de datos y facilitar la gestión en el futuro.
 
 ### 4.8.1. Database Diagram.
+
 Utilizamos Vertabelo para desarrollar el diagrama de clases.
-![Imgur](https://i.imgur.com/nu3h79v.png) <br>
+
+![Imgur](https://i.imgur.com/nu3h79v.png)
+ 
 <br><br>
 
 ## Capítulo V: Product Implementation, Validation & Deployment
 
 ### 5.1. Software Configuration Management.
 ### 5.1.1. Software Development Environment Configuration.
-
 
 La configuración de nuestro ambiente de desarrollo está divida en:
 
@@ -1225,6 +1130,7 @@ Para el manejo de nuestros repositorios utilizaremos las siguientes políticas:
 
 **Repositorios:**
 Nimbus-Landing-Page:
+- **Nimbus-Report:**  https://github.com/Nimbus-SW53/Nimbus
 
 - **Nimbus-Backend:** En desarrollo.
 
@@ -1283,6 +1189,7 @@ Utilizaremos la guía de estilos y convenciones de codificación en C#, que repl
 ### 5.1.4. Software Deployment Configuration.
 
 [Se necesita la Landing Page Desplegada]
+
 <br>
 
 ### 5.2. Landing Page, Services & Applications Implementation.
@@ -1325,8 +1232,17 @@ Utilizaremos la guía de estilos y convenciones de codificación en C#, que repl
 
 ### 5.2.1.2. Sprint Backlog 1.
 
-![Imgur](https://i.imgur.com/TJOtYwf.png)<br>
-![Imgur](https://i.imgur.com/PqoQ6BH.png)<br>
+| **Sprint \#** | Sprint 1| | | | | | | |
+|---------------|----------|--|--|--|--|--|--|--|
+| **User Story** | **Work-Item/Task** |
+| **Id** | **Title** | **Id** | **Title** | **Description** | **Estimation (hours)** | **Assigned To** | **Status** |
+| US-L1 | Cambiar idioma de la web | T01 | Realizar la adaptación de la web a inglés y español | Como visitante del segmento clientes o proveedores quiero poder cambiar el idioma de la página. | 3 h | | In-Process |
+| US-L2 | Visualización del Call to Action | T02 | Implementar secciones con botones para el Call To Action | Como visitante del segmento clientes o proveedores quiero visualizar en el inicio un botón para poder contactarme con los creadores. | 1 h | | In-Process |
+| US-L3 | Visualización de los beneficios de la aplicación | T03 | Agregar los beneficios del proyecto Nimbus | Como visitante del segmento clientes o proveedores quiero acceder a una descripción de los beneficios de la aplicación para comprobar si la herramienta me ayudará en el futuro | 4 h | | In-Process |
+| US-L4 | Visualización de la lista de Proveedores | T04 | Realizar una vista con el listado de proveedores | Como visitante del segmento clientes o proveedores quiero visualizar la lista de proveedores los cuales colaboran con la aplicación. | 4 h | | In-Process |
+| US-L5 | Visualización de precios o planes de suscripción | T05 | Agregar los planes de suscripción | Como visitante del segmento clientes o proveedores quiero visualizar los planes de suscripción para comprobar si se adecuan a mi presupuesto. | 4 h | | In-Process |
+| US-L6 | Visualización de testimonios | T06 | Organizar los testimonios de la solución Nimbus | Como visitante del segmento clientes o proveedores, quiero ver ejemplos de casos de éxito para comprender cómo el producto/servicio ha beneficiado a otros | 5 h | | In-Process |
+| US-L7 | Visualización responsive | T07 | Asegurar que la página web se adapte a cualquier dispositivo | Como visitante del segmento clientes o proveedores, quiero que la página sea responsive y se adapte a diferentes dispositivos para poder acceder a la información desde cualquier lugar. | 7 h | | In-Process |
 
 
 ### 5.2.1.3. Development Evidence for Sprint Review.
@@ -1355,10 +1271,12 @@ garantizar su legibilidad y eficiencia.
 
 | **Repository** | **Branch** | **Commit Id** | **Commit Message** | **Commit Message Body** | **Commited on (Date)** |
 |----------------|------------|---------------|--------------------|-------------------------|-------------------------|
-| | | | | |
+|Nimbus |Nimbus-LandingPage |fcffca79d3109e0dc0fca04bd03e0e4804cb95d1 |feat |Primer commit en la rama Nimbus-LandingPage|Sep 8
 
 <br><br>
 ### 5.2.1.4. Testing Suite Evidence for Sprint Review.
+
+Landing Desplegada: https://pv2y2n-3000.csb.app/
 
 ### 5.2.1.5. Execution Evidence for Sprint Review.
 -   En este Sprint se logró implementar el landing page siguiendo todos
@@ -1443,9 +1361,25 @@ Para el desarrollo del landing page se trabajó por tareas de implementación en
 ### Bibliografía
 
 MdnWebDocs. (2022). HTML: Lenguaje de etiquetas de hipertexto. Recuperado de:
-https://developer.mozilla.org/es/docs/Learn/Getting_started_with_the_web/HTML_b asics 
+https://developer.mozilla.org/es/docs/Learn/Getting_started_with_the_web/HTML_basics 
+
 MdnWebDocs. (2022). CSS. Recuperado de: https://developer.mozilla.org/es/docs/Web/CSS 
+
 Vue.js. (2022). The Progressive JavaScript Framework. Recuperado de: https://vuejs.org/ 
+
 ### Anexos
-Link de Figma: https://www.figma.com/file/k8AIusN2MOZM3fxkko5Cel/Nimbus-Figma?type=design&node-id=2%3A6399&mode=design&t=EXkrd7bzraIYwNcG-1
-Landing Desplegada: https://pv2y2n-3000.csb.app/
+
+Video Presentación TB:
+- TB1: https://youtu.be/HmSDVh_GIpI
+
+Web Design:
+- Figma: https://www.figma.com/file/k8AIusN2MOZM3fxkko5Cel/Nimbus-Figma?type=design&node-id=2%3A6399&mode=design&t=EXkrd7bzraIYwNcG-1
+
+Landing Page:
+- Landing Desplegada: https://pv2y2n-3000.csb.app/
+
+<br><br>
+
+|Sección  |Características del video  |Sobre el contenido |Integración y entrega |
+|--|--|--|--|
+|Needfinding Interviews  |Cantidad de videos: 1<br>Nomenclatura: upc-pre-202302-si729-SW53-StratusSphere-needfinding-sprint-1<br>Formato: .mp4 <br>Duración:  |En las entrevistas se refleja lo que buscan los proveedores y clientes de software, con los datos recopilados de sus expectativas, objetivos, necesidades, se ha analizado para generar valor al proyecto. | |
