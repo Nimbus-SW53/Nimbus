@@ -1,17 +1,12 @@
-Feature: Visualización responsive
+Feature: Visualización del Call to Action
 
-  Como visitante del segmento clientes o proveedores, quiero que la página sea responsive y se adapte a diferentes dispositivos para poder acceder a la información desde cualquier lugar.
-
-
-#-----------------------------------------------------------------------------
-  Scenario: Usuario visualiza la Landing Page de Nimbus desde una computadora.
-    Given que el usuario ingresa a la página web estática de Nimbus
-    When navegue por la página
-    Then visualizará el contenido adaptado a su tamaño de pantalla.
+  Como visitante del segmento clientes o proveedores 
+  quiero visualizar en el inicio un botón 
+  para poder contactarme con los creadores.
 
 
 #-----------------------------------------------------------------------------
-  Scenario: Usuario visualiza la Landing Page de Nimbus desde su dispositivo móvil.
-    Given que el usuario ingresa a la página web estática de Nimbus desde su celular
-    When navegue por la página
-    Then visualizará el contenido adaptado a su tamaño de pantalla.
+  Scenario: Usuario accede al formulario de contacto
+    Given que el usuario se encuentra en la pantalla de inicio
+    When haga clic en el botón "<Contactar>"
+    Then será enviada a la sección del formulario de contacto del Landing page.

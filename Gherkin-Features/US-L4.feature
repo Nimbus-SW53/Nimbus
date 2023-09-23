@@ -1,17 +1,13 @@
-Feature: Visualización responsive
+Feature: Visualización de la lista de Proveedores
 
-  Como visitante del segmento clientes o proveedores, quiero que la página sea responsive y se adapte a diferentes dispositivos para poder acceder a la información desde cualquier lugar.
-
-
-#-----------------------------------------------------------------------------
-  Scenario: Usuario visualiza la Landing Page de Nimbus desde una computadora.
-    Given que el usuario ingresa a la página web estática de Nimbus
-    When navegue por la página
-    Then visualizará el contenido adaptado a su tamaño de pantalla.
+  Como visitante del segmento clientes o proveedores 
+  quiero visualizar la lista de proveedores los cuales colaboran con la aplicación
+  para tenerlo en cuenta
 
 
 #-----------------------------------------------------------------------------
-  Scenario: Usuario visualiza la Landing Page de Nimbus desde su dispositivo móvil.
-    Given que el usuario ingresa a la página web estática de Nimbus desde su celular
-    When navegue por la página
-    Then visualizará el contenido adaptado a su tamaño de pantalla.
+  Scenario: Visitante accede a la lista de proveedores cloud
+    Given que el usuario se encuentra en la pantalla de inicio
+    When se desplace hacia abajo por la página
+    And pasa la sección de beneficios
+    Then visualizará los logos de los proveedores con los que trabajamos
