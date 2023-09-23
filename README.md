@@ -82,87 +82,87 @@ https://github.com/Nimbus-SW53/Nimbus
 
 - [Student Outcome](#student-outcome)
 
-- [**Capítulo I: Introducción**](/capitulos/capitulo1.md)
-	- [1.1. Startup Profile](#startup-profile)
-		- [1.1.1. Descripción de la Startup](#descripcion-de-la-startup)
-		- [1.1.2. Perfiles de integrantes del equipo](#perfiles-de-integrantes)
-	- [1.2. Solution Profile](#solution-profile)
-		- [1.2.1 Antecedentes y problemática](#antecedentes-y-problematica)
-		- [1.2.2 Lean UX Process](#lean-ux-process)
-			- [1.2.2.1. Lean UX Problem Statements](#lean-ux-problem-statements)
-			- [1.2.2.2. Lean UX Assumptions](#lean-ux-assumptions)
-			- [1.2.2.3. Lean UX Hypothesis Statements](#lean-ux-hypothesis-statements)
-			- [1.2.2.4. Lean UX Canvas](#lean-ux-canvas)
-	- [1.3. Segmentos objetivo](#segmentos-objetivos)
-- [**Capítulo II: Requirements Elicitation & Analysis**](/capitulos/capitulo2.md)
-	- [2.1. Competidores](#competidores)
-		- [2.1.1. Análisis competitivo](#analisis-competitivo)
-		- [2.1.2. Estrategias y tácticas frente a competidores](#estrategias-tacticas-a-competidores)
-	- [2.2. Entrevistas](#entrevistas)
-		- [2.2.1. Diseño de entrevistas](#diseño-de-entrevistas)
-		- [2.2.2. Registro de entrevistas](#registro-de-entrevistas)
-		- [2.2.3. Análisis de entrevistas](#analisis-de-entrevistas)
-	- [2.3. Needfinding](#needfinding)
-		- [2.3.1. User Personas](#user-personas)
-		- [2.3.2. User Task Matrix](#user-task-matrix)
-		- [2.3.3. User Journey Mapping](#user-journey-mapping)
-		- [2.3.4. Empathy Mapping](#empathy-map)
-		- [2.3.5. As-is Scenario Mapping](#as-is-scenario-map)
-- [**Capítulo III: Requirements Specification**](/capitulos/capitulo3.md)
-	- [3.1. To-Be Scenario Mapping](#to-be-scenario-map)
-	- [3.2. User Stories](#user-stories)
-	- [3.3. Impact Mapping](#impact-map)
-	- [3.4. Product Backlog](#product-bakclog)
+- [**Capítulo I: Introducción**](#capítulo-i-introducción)
+	- [1.1. Startup Profile](#11-startup-profile)
+		- [1.1.1. Descripción de la Startup](#111-descripción-de-la-startup)
+		- [1.1.2. Perfiles de integrantes del equipo](#112-perfiles-de-integrantes)
+	- [1.2. Solution Profile](#12-solution-profile)
+		- [1.2.1 Antecedentes y problemática](#121-antecedentes-y-problemática)
+		- [1.2.2 Lean UX Process](#122-lean-ux-process)
+			- [1.2.2.1. Lean UX Problem Statements](#1221-lean-ux-problem-statements)
+			- [1.2.2.2. Lean UX Assumptions](#1222-lean-ux-assumptions)
+			- [1.2.2.3. Lean UX Hypothesis Statements](#1223-lean-ux-hypothesis)
+			- [1.2.2.4. Lean UX Canvas](#1224-lean-ux-canvas)
+	- [1.3. Segmentos objetivo](#13-segmentos-objetivo)
+- [**Capítulo II: Requirements Elicitation & Analysis**](#capítulo-ii-requirements-elicitation-analysis)
+	- [2.1. Competidores](#21-competidores)
+		- [2.1.1. Análisis competitivo](#211-análisis-competitivo)
+		- [2.1.2. Estrategias y tácticas frente a competidores](#212-estrategias-y-tácticas-frente-a-competidores)
+	- [2.2. Entrevistas](#22-entrevistas)
+		- [2.2.1. Diseño de entrevistas](#221-diseño-de-entrevistas)
+		- [2.2.2. Registro de entrevistas](#222-registro-de-entrevistas)
+		- [2.2.3. Análisis de entrevistas](#223-análisis-de-entrevistas)
+	- [2.3. Needfinding](#23-needfinding)
+		- [2.3.1. User Personas](#231-user-personas)
+		- [2.3.2. User Task Matrix](#232-user-task-matrix)
+		- [2.3.3. User Journey Mapping](#233-user-journey-map)
+		- [2.3.4. Empathy Mapping](#234-empathy-maps)
+		- [2.3.5. As-is Scenario Mapping](#235-as-is-scenario-maps)
+- [**Capítulo III: Requirements Specification**](#capítulo-iii-requierments-specification)
+	- [3.1. To-Be Scenario Mapping](#31-to-be-scenario-maps)
+	- [3.2. User Stories](#32user-stories)
+	- [3.3. Impact Mapping](#33-impact-mapping)W
+	- [3.4. Product Backlog](#34-product-backlog)
 
-- [**Capítulo IV: Product Design**](/capitulos/capitulo4.md)
-	- [4.1. Style Guidelines.](#style-guidelines)
-		- [4.1.1. General Style Guidelines.](#general-style-guidelines) 
-		- [4.1.2. Web Style Guidelines.](#web-style-guidelines) 
-	- [4.2. Information Architecture.](#information-architecture)
-		- [4.2.1. Organization Systems.](#organization-systems) 
-		- [4.2.2. Labeling Systems.](#labelling-systems) 
-		- [4.2.3. SEO Tags and Meta Tags.](#seo-tags)  
-		- [4.2.4. Searching Systems.](#searching-systems)  
-		- [4.2.5. Navigation Systems.](#navigation-systems)   
-	- [4.3. Landing Page UI Design.](#landing-page-ui-desing)   
-		- [4.3.1. Landing Page Wireframe.](#landing-page-wireframe)  
-		- [4.3.2. Landing Page Mock-up.](#landing-page-mock-up)   
-	- [4.4. Web Applications UX/UI Design.](#web-application-ux-ui)   
-		- [4.4.1. Web Applications Wireframes.](#web-application-wireframe)  
-		- [4.4.2. Web Applications Wireflow Diagrams.](#web-application-wireflow)  
-		- [4.4.2. Web Applications Mock-ups.](#web-application-mock-up)  
-		- [4.4.3. Web Applications User Flow Diagrams.](#web-application-user-flow)  
-	- [4.5. Web Applications Prototyping.](#web-application-prototype)   
-	- [4.6. Domain-Driven Software Architecture.](#domain-drive-software-arquitecture)   
-		- [4.6.1. Software Architecture Context Diagram.](#software-arquitecture-context-diagram)   
-		- [4.6.2. Software Architecture Container Diagrams.](#software-arquitecture-container-diagram)    
-		- [4.6.3. Software Architecture Components Diagrams.](#software-arquitecture-components-diagram)    
-	- [4.7. Software Object-Oriented Design.](#software-object-oriented-desing)   
-		- [4.7.1. Class Diagrams.](#class-diagram)   
-		- [4.7.2. Class Dictionary.](#class-dictionary)  
-	- [4.8. Database Design.](#database-design)  
-		- [4.8.1. Database Diagram.](#database-diagram)  
-- [**Capítulo V: Product Implementation, Validation & Deployment**](/capitulos/capitulo5.md)
-	- [5.1. Software Configuration Management.](#sofware-configuration)
-		- [5.1.1. Software Development Environment Configuration.](#sofware-development)
-		- [5.1.2. Source Code Management.](#source-code)
-		- [5.1.3. Source Code Style Guide & Conventions.](#source-code-style-guide)
-		- [5.1.4. Software Deployment Configuration.](#software-deployment-configuration)
-	- [5.2. Landing Page, Services & Applications Implementation.](#landing-page-implementation)
-		- [5.2.1. Sprint 1](#sprint-1)
-		- [5.2.1. Sprint Planning 1](#sprint-planning-1)
-			- [5.2.1.2. Sprint Backlog 1.](#sprint-backlog-1)
-			- [5.2.1.3. Development Evidence for Sprint Review.](#development-evidence)
-			- [5.2.1.4. Testing Suite Evidence for Sprint Review.](#testing-suite-evidence)
-			- [5.2.1.5. Execution Evidence for Sprint Review.](#execution-evidence)
-			- [5.2.1.6. Services Documentation Evidence for Sprint Review.](#services-documentation-evidence)
-			- [5.2.1.7. Software Deployment Evidence for Sprint Review.](#software-deployment-evidence)
-			- [5.2.1.8. Team Collaboration Insights during Sprint.](#team-collaboration-insights)
+- [**Capítulo IV: Product Design**](#capítulo-iv-product-design)
+	- [4.1. Style Guidelines.](#41-style-guidelines)
+		- [4.1.1. General Style Guidelines.](#411-general-style-guidelines) 
+		- [4.1.2. Web Style Guidelines.](#412-web-style-guidelines) 
+	- [4.2. Information Architecture.](#42-information-architecture)
+		- [4.2.1. Organization Systems.](#421-organization-systems) 
+		- [4.2.2. Labeling Systems.](#422-labeling-systems) 
+		- [4.2.3. SEO Tags and Meta Tags.](#423-seo-tags-and-meta-tags)  
+		- [4.2.4. Searching Systems.](#424-searching-systems)  
+		- [4.2.5. Navigation Systems.](#425-navigation-systems)   
+	- [4.3. Landing Page UI Design.](#43-landing-page-ui-design)   
+		- [4.3.1. Landing Page Wireframe.](#431-landing-page-wireframe)  
+		- [4.3.2. Landing Page Mock-up.](#432-landing-page-mock-up)   
+	- [4.4. Web Applications UX/UI Design.](#44-web-applications-uxui-design)   
+		- [4.4.1. Web Applications Wireframes.](#441-web-applications-wireframes)  
+		- [4.4.2. Web Applications Wireflow Diagrams.](#442-web-applications-wireflow-diagrams)  
+		- [4.4.2. Web Applications Mock-ups.](#443-web-applications-mock-ups)  
+		- [4.4.3. Web Applications User Flow Diagrams.](#443-web-applications-user-flow-diagrams)  
+	- [4.5. Web Applications Prototyping.](#45-web-applications-prototyping)   
+	- [4.6. Domain-Driven Software Architecture.](#46-domain-driven-software-architecture)   
+		- [4.6.1. Software Architecture Context Diagram.](#461-software-architecture-context-diagram)   
+		- [4.6.2. Software Architecture Container Diagrams.](#462-software-architecture-container-diagrams)    
+		- [4.6.3. Software Architecture Components Diagrams.](#463-software-architecture-components-diagrams)    
+	- [4.7. Software Object-Oriented Design.](#47-software-object-oriented-design)   
+		- [4.7.1. Class Diagrams.](#471-class-diagrams)   
+		- [4.7.2. Class Dictionary.](#472-class-dictionary)  
+	- [4.8. Database Design.](#48-database-design)  
+		- [4.8.1. Database Diagram.](#481-database-diagram)  
+- [**Capítulo V: Product Implementation, Validation & Deployment**](#capítulo-v-product-implementation-validation--deployment)
+	- [5.1. Software Configuration Management.](#51-software-configuration-management)
+		- [5.1.1. Software Development Environment Configuration.](#511-software-development-environment-configuration)
+		- [5.1.2. Source Code Management.](#512-source-code-management)
+		- [5.1.3. Source Code Style Guide & Conventions.](#513-source-code-style-guide--conventions)
+		- [5.1.4. Software Deployment Configuration.](#514-software-deployment-configuration)
+	- [5.2. Landing Page, Services & Applications Implementation.](#52-landing-page-services--applications-implementation)
+		- [5.2.1. Sprint 1](#521-sprint-1)
+		- [5.2.1. Sprint Planning 1](#5211-sprint-planning-1)
+			- [5.2.1.2. Sprint Backlog 1.](#5212-sprint-backlog-1)
+			- [5.2.1.3. Development Evidence for Sprint Review.](#5213-development-evidence-for-sprint-review)
+			- [5.2.1.4. Testing Suite Evidence for Sprint Review.](#5214-testing-suite-evidence-for-sprint-review)
+			- [5.2.1.5. Execution Evidence for Sprint Review.](#5215-execution-evidence-for-sprint-review)
+			- [5.2.1.6. Services Documentation Evidence for Sprint Review.](#5216-services-documentation-evidence-for-sprint-review)
+			- [5.2.1.7. Software Deployment Evidence for Sprint Review.](#5217-software-deployment-evidence-for-sprint-review)
+			- [5.2.1.8. Team Collaboration Insights during Sprint.](#5218-team-collaboration-insights-during-sprint)
 	
 	-  [**Conclusiones**](#conclusiones)
-		- [Conclusiones y recomendaciones](#conclusiones-recomendaciones)
+		- [Conclusiones y recomendaciones](#conclusiones-y-recomendaciones)
 	
-	- [Bibliografía ](#bibliografia)
+	- [Bibliografía ](#bibliografía)
 	- [Anexos](#anexos)
 
 <br><br>
@@ -181,7 +181,7 @@ En el siguiente cuadro se describe las acciones realizadas y enunciados de concl
 
 ## Capítulo I: INTRODUCCIÓN
 
-### 1.1 STARTUP PROFILE
+### 1.1. Startup Profile
 
 ### 1.1.1 DESCRIPCIÓN DE LA STARTUP
 
@@ -845,6 +845,9 @@ En el presente User Task Matrix se mostrarán las tareas de los segmentos objeti
 
 ## Capítulo IV: Product Design
 
+### 4.1. Style Guidelines
+### 4.1.1. General Style Guidelines
+
 En esta sección, definiremos los colores y fuentes que se aplicarán de manera consistente tanto en la página de inicio como en la futura aplicación web que estamos desarrollando. Hemos optado por seguir las pautas del IBM Design Language como nuestro enfoque de diseño. Para nuestra paleta de colores, hemos elegido un tono de celeste, que aporta un toque de elegancia y seriedad. 
 
 
@@ -861,7 +864,7 @@ La fuente principal que hemos elegido es "Century Gothic" para nuestro proyecto.
 
 Fuente: Wikipedia
 
-**4.1.2. Web Style Guidelines.**
+### 4.1.2. Web Style Guidelines
 
 En el Style Guideline hemos definido los colores y tipografía a utilizar en el proyecto.
 
@@ -875,11 +878,11 @@ La familia tipográfica seleccionada es Century Gothic, una fuente tipográfica 
 
 Fuente: Fontke
 
-**4.2. Information Architecture.**
+### 4.2. Information Architecture
 
 En esta sección, mostraremos la arquitectura de información que hemos utilizado como parte de nuestro proceso de diseño UX. Aquí, organizaremos el contenido teniendo en cuenta las necesidades específicas de nuestra audiencia, nuestro producto y nuestros objetivos.
 
-**4.2.1. Organization Systems.**
+### 4.2.1. Organization Systems
 
 En la planificación de sistemas de organización, consideramos estructuras jerárquicas. También tenemos en cuenta esquemas de organización como el alfabético, cronológico y por temas, entre otros.
 
@@ -891,7 +894,7 @@ Consideramos la estructura jerárquica para el acceso a las funciones y configur
 
 Fuente: Elaboración propia
 
-**4.2.2. Labeling Systems.**
+### 4.2.2. Labeling Systems
 
 Para los labelling systems se ha utilizado un lenguaje formal y fácil de entender.
 
@@ -909,9 +912,9 @@ Para los labelling systems se ha utilizado un lenguaje formal y fácil de entend
 
 Fuente: Elaboración Propia
 
-**4.2.3. SEO Tags and Meta Tags**
+### 4.2.3. SEO Tags and Meta Tags
 
-**4.2.4. Searching Systems.**
+### 4.2.4. Searching Systems
 
 Introduciremos un sistema de búsqueda en diversos secciones con el propósito de simplificar la navegación y facilitar la búsqueda de información para el usuario.
 
@@ -925,7 +928,7 @@ El sistema de búsqueda estará disponible en los siguientes casos:
 
 - Lista de usuarios (Red)
 
-**4.2.5. Navigation Systems.**
+### 4.2.5. Navigation Systems
 
 Se introducirá un sistema de navegación animado en varios segmentos de la plataforma, incluyendo situaciones como las siguientes:
 
@@ -941,9 +944,9 @@ El menú de navegación desplegable en el lado izquierdo proporcionará al usuar
 
 La mayor parte de la información relacionada con planes, servicios, cotizaciones, cuentas, archivos y proveedores se presentará en tarjetas individuales para mejorar la visualización y la dinámica de la plataforma.
 
-**4.3. Landing Page UI Design.**
+### 4.3. Landing Page UI Design
 
-**4.3.1. Landing Page Wireframe.**
+### 4.3.1. Landing Page Wireframe
 Hemos empleado Wireframe.ccy Google Imagenes en el proceso de creación del wireframe de la página de inicio de Nimbus.
 
 ***Figura #:***
@@ -961,7 +964,7 @@ Hemos empleado Wireframe.ccy Google Imagenes en el proceso de creación del wire
 
 *Fuente: Elaboración Propia*
 
-**4.3.2. Landing Page Mock-up.**
+### 4.3.2. Landing Page Mock-up
 
 Hemos elaborado un prototipo completo de la página de inicio, teniendo en cuenta diversas pautas y principios de diseño, con el objetivo de facilitar y hacer más intuitiva la experiencia de ingreso de los usuarios a la aplicación web.
 
@@ -979,9 +982,9 @@ Hemos elaborado un prototipo completo de la página de inicio, teniendo en cuent
 [![Image-9.jpg](https://i.postimg.cc/65PrNhfB/Image-9.jpg)](https://postimg.cc/WhMFGgyy)
 *Fuente: Elaboración Propia*
 
-**4.4. Web Applications UX/UI Design.**
+### 4.4. Web Applications UX/UI Design
 
-**4.4.1. Web Applications Wireframes.**
+### 4.4.1. Web Applications Wireframes
 
 Hemos empleado Wireframe.cc como nuestra principal herramienta para crear los esquemas visuales de nuestra aplicación web. Además, recurrimos a Googley Images para adquirir imágenes y iconos que complementen nuestro proyecto.
 
@@ -1005,7 +1008,7 @@ Hemos empleado Wireframe.cc como nuestra principal herramienta para crear los es
 
 [![Image-13.jpg](https://i.postimg.cc/MpdvSZSV/Image-13.jpg)](https://postimg.cc/FYk9b41H)
 
-**4.4.2. Web Applications Wireflow Diagrams.**
+### 4.4.2. Web Applications Wireflow Diagrams
 
 En esta sección, se presentarán los diagramas de flujo visual (wireflows) que hemos identificado para el desarrollo de la aplicación web, así como las diversas interacciones que estarán disponibles para nuestros usuarios.
 
@@ -1022,7 +1025,7 @@ En esta sección, se presentarán los diagramas de flujo visual (wireflows) que 
 
 
 
-** 4.4.3. Web Applications Mock-ups.**
+### 4.4.3. Web Applications Mock-ups
 
 Los mock-ups de la aplicación web Nimbus, se diseñó en Figma, siguiendo las heurísticas y principios IA para que sea fácil e intuitiva de usar.
 
@@ -1315,17 +1318,17 @@ Para el desarrollo del Landing Page de Nimbus se ha utilizado el siguiente staff
 - **CSS:** Lenguaje de diseño, que nos ayudó a determinar el estilo de nuestro
 proyecto. [https://developer.mozilla.org/es/docs/Web/CSS](https://developer.mozilla.org/es/docs/Web/CSS) 
 
- - **JS:** Lenguaje de programación, que nos ayudó a implementar eventos y lógica, a
+- **JS:** Lenguaje de programación, que nos ayudó a implementar eventos y lógica, a
 nuestro landing page. [https://developer.mozilla.org/es/docs/Web/JavaScript](https://developer.mozilla.org/es/docs/Web/JavaScript) 
 <br>
 Para el despliegue del Landing Page de Nimbus se ha utilizado el siguiente staff de tecnologías:
 
-	- **Git:** Sistema control de versiones que nos ayudó en el desarrollo colaborativo y documentado de nuestro landing page [https://git-scm.com/download/win](https://git-scm.com/download/win) 
+- **Git:** Sistema control de versiones que nos ayudó en el desarrollo colaborativo y documentado de nuestro landing page [https://git-scm.com/download/win](https://git-scm.com/download/win) 
 
-	- **GitHub:** Plataforma visual, donde alojamos nuestro proyecto, donde cada
+- **GitHub:** Plataforma visual, donde alojamos nuestro proyecto, donde cada
 participante dejo evidencia de su colaboración. [https://github.com/orgs/Nimbus-SW53/repositories](https://github.com/orgs/Nimbus-SW53/repositories) 
 
-	- **Gitflow:** Flujo de trabajo que nos permitió tener un orden en el desarrollo
+- **Gitflow:** Flujo de trabajo que nos permitió tener un orden en el desarrollo
 cooperativo en el desarrollo del landing page [https://www.atlassian.com/es/git/tutorials/comparing-workflows/gitflowworkflow](https://www.atlassian.com/es/git/tutorials/comparing-workflows/gitflowworkflow) 
 
 
@@ -1349,6 +1352,8 @@ Para el desarrollo del landing page se trabajó por tareas de implementación en
 
 
 ### Conclusiones
+
+### Conclusiones y recomendaciones
 
 - Para esta primera entrega que el proyecto va bien encaminado ya que supimos conocer la problemática de nuestro proyecto, nuestros competidores, nuestras mejoras con las entrevistas y logramos trasladar las necesidades encontradas a los User Stories logrando describir detalladamente el desarrollo del servicio final.
 
