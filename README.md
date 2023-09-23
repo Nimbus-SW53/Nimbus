@@ -175,8 +175,8 @@ En el siguiente cuadro se describe las acciones realizadas y enunciados de concl
 
 | Criterio Específico | Acciones Realizadas | Conclusiones |
 |  -------------------  |  -------------------  |  -------------------------------------------------  |
-|Participa en equipos multidisciplinarios con eficacia, eficiencia y objetividad, en el marco de un proyecto en soluciones de ingeniería de software.|**Moreno Rosales, Claudio Jesús**<br><br> **TB1:** En el transcurso del proyecto se ha tenido que realizar una comunicación efectiva con los segmentos objetivo e interesados del proyecto, para obtener la mayor cantidad de requisitos y necesidades posibles, esto ayuda a construir un mejor diseño de proyecto ágil.<br><br> **Hinostroza Mavila, Farid Rolando** <br><br>**TB1:** Despues de las entrevistas realizadas, se hicieron a cargo las funcionalidades pedidas por los usuarios, desarollo de mockups posteriores a diagramas e implementación de base de datos.   | **TB1:**
-|Conoce al menos un sector empresarial o dominio de aplicación de soluciones de software. |**Moreno Rosales, Claudio Jesús** <br><br>**TB1:** Después de haber recolectado la información necesaria sobre nuestro público objetivo, interesados y haber realizado las entrevistas e investigaciones, se tradujo toda la información en arquetipos Persona y User Stories. |**TB1:**  |
+|Participa en equipos multidisciplinarios con eficacia, eficiencia y objetividad, en el marco de un proyecto en soluciones de ingeniería de software.|**Moreno Rosales, Claudio Jesús**<br><br> **TB1:** En el transcurso del proyecto se ha tenido que realizar una comunicación efectiva con los segmentos objetivo e interesados del proyecto, para obtener la mayor cantidad de requisitos y necesidades posibles, esto ayuda a construir un mejor diseño de proyecto ágil.<br><br> **Hinostroza Mavila, Farid Rolando** <br><br>**TB1:** Despues de las entrevistas realizadas, se hicieron a cargo las funcionalidades pedidas por los usuarios, desarollo de mockups posteriores a diagramas e implementación de base de datos.   | **TB1:** El equipo de desarrollo ha logrado realizar múltiples funciones para la recopilación de información, diseño, entrevistas, documentación y programación que ha dado un valor más al proyecto.
+|Conoce al menos un sector empresarial o dominio de aplicación de soluciones de software. |**Moreno Rosales, Claudio Jesús** <br><br>**TB1:** Después de haber recolectado la información necesaria sobre nuestro público objetivo, interesados y haber realizado las entrevistas e investigaciones, se tradujo toda la información en arquetipos Persona y User Stories. |**TB1:** Con la recopilación de información sobre diversos segmentos objetivos e interesados en el proyecto, se ha conocido más de cerca a que público y mercado estamos atacando, ya que esto servirá para realizar un proyecto más personalizado y de mejor valor. |
 
 
 ## Capítulo I: INTRODUCCIÓN
@@ -1364,6 +1364,93 @@ Para el desarrollo del landing page se trabajó por tareas de implementación en
 - **Git Flow**
 
 <div align="center"><a  href  =  "https://postimg.cc/9r6MJ9SY"><img  src="https://i.postimg.cc/nhzDVYGg/gitflow.png"  alt="GitFlow"  width="700"  height="300"  /></a></div>
+
+<br><br>
+
+### 5.2.2. Sprint 2 
+
+Durante el desarrollo de este proyecto, se enfocará en una mejora continua para abordar las áreas de mejora identificadas. Se prestará especial atención a dos conceptos clave: la Arquitectura de Software Orientada a Dominio (Domain-Driven Software Architecture) y el Diseño de Software Orientado a Objetos (Software Object-Oriented Design). Además, se revisará el Diagrama de Contexto C4 para garantizar que todas las dependencias y conexiones con sistemas externos, como el sistema de pagos, estén claramente representadas.
+
+Se reconocerá que el alcance del proyecto no incluye el desarrollo de una aplicación móvil, y se ajustará en consecuencia. Se prestará especial atención a mejorar la comunicación oral y escrita de manera efectiva en todas las etapas del proyecto.
+
+Asimismo, se abordará la cuestión del informe en formato PDF desactualizado, asegurando que refleje de manera precisa y completa el trabajo realizado, incluyendo todas las secciones que se encuentran en GitHub.
+
+En este segundo Sprint, se centrará en mejorar la Landing Page y se creará la primera versión de la aplicación web. Ambos productos se desplegarán correctamente para garantizar que los usuarios tengan una experiencia óptima.
+
+### 5 .2.2.1. Sprint Planning 2
+
+| **Sprint \#** | Sprint 2 |
+|--------------|----------|
+| **Sprint Planning Background** | |
+| Date | 2023-09-21 |
+| Time | 12:00 PM |
+| Location | Google Meet |
+| Prepared By | Farid Hinostroza Mavila|
+| Attendees (to planning meeting) | Zeta Valenzuela, Christian/ Portales, Diego/ Moreno Rosales, Claudio/Horna Silva, Fabio |
+| Sprint 2 Review | **Equipo de desarrollo:** El equipo se organizó para garantizar la mejora continua y los productos faltantes en la etapa de desarrollo.
+|  | **Landing Page:** Se asignarón tareas para realizar la mejora y modificación de la Landing Page para poder entregar un producto de calidad y desplegarlo de manera adecuada. |
+| Sprint 2 Retrospective | **Oportunidades de mejora:** Se vio que hay que mejorar en los tiempos de entrega de las actividades o tareas que se les asigna a cada integrante del equipo. |
+| **Sprint Goal & User Stories** | |
+| Sprint 2 Goal | **Objetivos:**
+|  |**Diseño:** Mejorar los diagramas C4 para obtener una mejor integración con el proyecto.<br><br>**Programación:** Mejorar el aspecto, diseño y código de la Landing Page con el uso del Framework de Vue.js.<br>Métrica: Corrección exitosa del 100% del código a nivel de legibilidad.<br><br>**Despliegue:** Desplegar la solución estática de la Landing Page y la solución dinámica del Web Application<br>Métrica: Verificación de que la Landing Page y la Web Application se han desplegado correctamente en el entorno de producción.
+| Sprint 2 Velocity |  |
+| Sum of Story Points |  |
+
+<br><br>
+
+### 5.2.2.2. Sprint Backlog 2
+
+| **Sprint \#** | Sprint 2| | | | | | | |
+|---------------|----------|---|--|--|--|--|--|--|
+| **User Story** | **Work-Item/Task** |
+| **Id** | **Title** | **Id** | **Title** | **Description** | **Estimation (hours)** | **Assigned To** | **Status** |
+| User Story 3.1 | Utilizar Filtros | US3-1 | Usar filtros como precio, tipos, etc., para encontrar el software específico.| Como usuario, quiero poder utilizar diferentes filtros para encontrar el software que necesito. | 5h| Fabio Horna | In-Process
+| User Story 3.2 |Comparar Productos  | US3-2 |Comparar los diferentes productos software de acuerdo a los requisitos del cliente.  |Como usuario, quiero poder comparar diferentes productos para tomar una decisión informada.  |8h  |Fabio Horna | In-Process |
+| User Story 4.1 | Visualizar Reseñas | US4-1 | Poder visualizar los comentarios de otros clientes que han adquirido el mismo producto, para tomar una decisión más informada. | Como usuario, quiero poder visualizar reseñas de un software específico para informarme mejor. | 3 h | | In-Process |
+| User Story 4.2 | Escribir Reseñas | US4-2 | Poder redactar una opinión acerca de un producto específico y brindar una valoración de experiencia. | Como usuario, quiero poder escribir una reseña para un software que haya utilizado. | 5 h | | In-Process |
+
+<br><br>
+
+### 5.2.2.3. Development Evidence for Sprint Review
+
+Para la mejora de la Landing Page se repartieron diversas tareas para que cada integrante pueda colaborar de manera satisfactoria en el primer producto. En complemento, para el desarrollo de la Web APP se establecieron tareas específicas, la cual se reflejan mediante los siguientes commits realizados en el siguiente repositorio: https://github.com/Nimbus-SW53/Web-Application-Frontend.git 
+
+<br>
+
+| **Repository** | **Branch** | **Commit Id** | **Commit Message** | **Commit Message Body** | **Commited on (Date)** |
+|----------------|------------|---------------|--------------------|-------------------------|-------------------------|
+|Nimbus |Nimbus-LandingPage |fcffca79d3109e0dc0fca04bd03e0e4804cb95d1 |feat |Primer commit en la rama Nimbus-LandingPage|Sep 8
+
+<br>
+
+### 5.2.2.4. Testing Suite Evidence for Sprint Review
+
+Se presenta la Web Application en el formato correcto para ser desplegada y se refleja mediante el siguiente commit en el repositorio para el Front-end: 
+
+<br>
+
+| **Repository** | **Branch** | **Commit Id** | **Commit Message** | **Commit Message Body** | **Commited on (Date)** |
+|----------------|------------|---------------|--------------------|-------------------------|-------------------------|
+|Web-Application-Frontend |Main| |feat |  |
+
+<br>
+
+### 5.2.2.5.Execution Evidence for Sprint Review
+En este Sprint se ha logrado cumplir con las correcciones y mejoras a la Landing Page y brindar un primer avance del Web Application desplegado en el hosting que eligió el equipo para presentarlo.
+
+- Video Presentación de la Web App desplegada: 
+
+
+### 5.2.2.6. Services Documentation Evidence for Sprint Review 
+
+Para este segundo sprint se realizó la creación de los archivos Gherkin con extension .feature. Este se abarca las User Stories que descritas en el Sprint Backlog 2 que es el alcance definido por el equipo.
+
+
+
+### 5.2.2.7. Software Deployment Evidence for Sprint Review
+
+
+### 5.2.2.8. Team Collaboration Insights during Sprint
 
 
 ### Conclusiones
