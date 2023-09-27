@@ -1388,22 +1388,9 @@ En este segundo Sprint, se centrará en mejorar la Landing Page y se creará la 
 
 ### 5.2.2.1. Sprint Planning 2
 
-| **Sprint \#** | Sprint 2 |
-|--------------|----------|
-| **Sprint Planning Background** | |
-| Date | 2023-09-21 |
-| Time | 12:00 PM |
-| Location | Google Meet |
-| Prepared By | Farid Hinostroza Mavila|
-| Attendees (to planning meeting) | Zeta Valenzuela, Christian/ Portales, Diego/ Moreno Rosales, Claudio/Horna Silva, Fabio |
-| Sprint 2 Review | **Equipo de desarrollo:** El equipo se organizó para garantizar la mejora continua y los productos faltantes en la etapa de desarrollo.
-|  | **Landing Page:** Se asignarón tareas para realizar la mejora y modificación de la Landing Page para poder entregar un producto de calidad y desplegarlo de manera adecuada. |
-| Sprint 2 Retrospective | **Oportunidades de mejora:** Se vio que hay que mejorar en los tiempos de entrega de las actividades o tareas que se les asigna a cada integrante del equipo. |
-| **Sprint Goal & User Stories** | |
-| Sprint 2 Goal | **Objetivos:**
-|  |**Diseño:** Mejorar los diagramas C4 para obtener una mejor integración con el proyecto.<br><br>**Programación:** Mejorar el aspecto, diseño y código de la Landing Page con el uso del Framework de Vue.js.<br>Métrica: Corrección exitosa del 100% del código a nivel de legibilidad.<br><br>**Despliegue:** Desplegar la solución estática de la Landing Page y la solución dinámica del Web Application<br>Métrica: Verificación de que la Landing Page y la Web Application se han desplegado correctamente en el entorno de producción.
-| Sprint 2 Velocity |  |
-| Sum of Story Points |  |
+
+
+![Imgur](https://i.imgur.com/qJEae5n.png)
 
 <br><br>
 
