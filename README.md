@@ -1396,15 +1396,20 @@ En este segundo Sprint, se centrará en mejorar la Landing Page y se creará la 
 
 ### 5.2.2.2. Sprint Backlog 2
 
-| **Sprint \#** | Sprint 2| | | | | | | |
-|---------------|----------|---|--|--|--|--|--|--|
-| **User Story** | **Work-Item/Task** |
-| **Id** | **Title** | **Id** | **Title** | **Description** | **Estimation (hours)** | **Assigned To** | **Status** |
-| User Story 3.1 | Utilizar Filtros | US3-1 | Usar filtros como precio, tipos, etc., para encontrar el software específico.| Como usuario, quiero poder utilizar diferentes filtros para encontrar el software que necesito. | 5h| Fabio Horna | In-Process
-| User Story 3.2 |Comparar Productos  | US3-2 |Comparar los diferentes productos software de acuerdo a los requisitos del cliente.  |Como usuario, quiero poder comparar diferentes productos para tomar una decisión informada.  |8h  |Fabio Horna | In-Process |
-| User Story 4.1 | Visualizar Reseñas | US4-1 | Poder visualizar los comentarios de otros clientes que han adquirido el mismo producto, para tomar una decisión más informada. | Como usuario, quiero poder visualizar reseñas de un software específico para informarme mejor. | 3 h | | In-Process |
-| User Story 4.2 | Escribir Reseñas | US4-2 | Poder redactar una opinión acerca de un producto específico y brindar una valoración de experiencia. | Como usuario, quiero poder escribir una reseña para un software que haya utilizado. | 5 h | | In-Process |
+**Sprint Backlog 2**
 
+|**Sprint #**	|**Sprint 2**	|||||||
+| :- | :- | :- | :- | :- | :- | :- | :- |
+|**User Story**	|**Work-Item/Tas**	|||||||
+|**Id**|**Title**|**Id**|**Title**	|**Description**|**Estimation (hours)**	|**Assigned To**	|**Status**	|
+|<p>User Story </p><p>1</p>|Register|US2-1|Poder registrarse en la página web|Cómo usuario quiero crear una cuenta para poder ingresar a la página web |3h|Christian Zeta|Done|
+|<p>User Story </p><p>2</p>|Login|US-2-3|Usar un login y un register para que el usuario pueda entrar a la página |Cómo usuario,quiero poder utilizar una cuenta para entrar a la página web|3h|Christian Zeta |Done|
+|<p>User Story </p><p>3	</p>|Comparar Productos	|US2-4	|Comparar los diferentes productos software de acuerdo a los requisitos del cliente.	|Como usuario, quiero poder comparar diferentes productos para tomar una decisión informada.	|8h|Fabio Horna	|Done|
+|<p>User Story </p><p>4	</p>|Utilizar Filtros|US2-5	|Usar filtros como precio, tipos, etc., para encontrar el software específico.|Como usuario, quiero poder utilizar diferentes filtros para encontrar el software que necesito.|3h|Christian Zeta|Done|
+|<p>User Story </p><p>5	</p>|Ver Proveedores|US2-6	|Poder visualizar la lista de proveedores asociados a Nimbus.|Como usuario, quiero visualizar la lista de proveedores cloud con los cuales colaboran con la aplicación.|5 h	|<p>Fabio Horna	</p><p></p>|Done|
+|<p>User Story </p><p>6</p>|Visualizar Reseñas|US2-7|Poder visualizar las reseñas que dan acerca de los proveedores.	|Como usuario, quiero poder visualizar reseñas de un software específico para informarme mejor.	|2 h|Christian Zeta|Done|
+|<p>User Story </p><p>7</p>|Suscripción a Boletín|US2-8|Poder recibir notificaciones acerca de los precios o beneficios de los proveedores|Como usuario, quiero poder recibir informacion a mi correo sobre los nuevas noticas de los diferentes proveedores	|1 h|Fabio Horna|Done|
+|<p>User Story </p><p>8</p>|Preguntas Frecuentes|US2-9|Poder visualizar las pregunta fercuentes que suelen llegar a tener los usuarios|Como usuario quiero poder visualizar las preguntas frecuentes del producto para poder aclarar mis dudas.|2 h|Fabio Horna|Done|
 <br><br>
 
 ### 5.2.2.3. Development Evidence for Sprint 2 Review.
