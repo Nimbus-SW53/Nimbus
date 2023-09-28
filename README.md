@@ -1600,39 +1600,39 @@ En el proceso de crear la página de aterrizaje (landing page), se dividió el t
 
 - Contributions:
 
-<div align="center"><a  href = "https://postimg.cc/F1j603sK"><img  src="https://i.postimg.cc/sf8Rd4k5/A-TP-IMAGE-3.jpg"  alt="Vercel"  width="insights"  height="220" /></a></div>
+<div align="center"><a  href = "https://postimg.cc/F1j603sK"><img  src="https://i.postimg.cc/sf8Rd4k5/A-TP-IMAGE-3.jpg"  alt="insights"  width="600"  height="220" /></a></div>
 
-<div align="center"><a  href = "https://postimg.cc/VSVxH83L"><img  src="https://i.postimg.cc/nzFnrV27/A-TP-IMAGE-2.jpg"  alt="Vercel"  width="insights"  height="220" /></a></div>
+<div align="center"><a  href = "https://postimg.cc/VSVxH83L"><img  src="https://i.postimg.cc/nzFnrV27/A-TP-IMAGE-2.jpg"  alt="insights"  width="600"  height="220" /></a></div>
 
 <br>
 
 - Actividades:
 
-<div align="center"><a  href = "https://postimg.cc/YhBVTjVP"><img  src="https://i.postimg.cc/dthYky9J/A-TP-IMAGE-1.jpg"  alt="Vercel"  width="insights"  height="220" /></a></div>
+<div align="center"><a  href = "https://postimg.cc/YhBVTjVP"><img  src="https://i.postimg.cc/dthYky9J/A-TP-IMAGE-1.jpg"  alt="insights"  width="600"  height="220" /></a></div>
 
 <br>
 
 -   Commits
 
-<div align="center"><a  href = "https://postimg.cc/RNjq2Wn2"><img  src="https://i.postimg.cc/13z6n6RR/A-TP-IMAGE-3-5.jpg"  alt="Vercel"  width="insights"  height="220" /></a></div>
+<div align="center"><a  href = "https://postimg.cc/RNjq2Wn2"><img  src="https://i.postimg.cc/13z6n6RR/A-TP-IMAGE-3-5.jpg"  alt="insights"  width="600"  height="220" /></a></div>
 
 <br>
 
-<div align="center"><a  href = "https://postimg.cc/HVWCxB4m"><img  src="https://i.postimg.cc/bNkYm5ZZ/A-TP-IMAGE-5.jpg"  alt="Vercel"  width="insights"  height="220" /></a></div>
+<div align="center"><a  href = "https://postimg.cc/HVWCxB4m"><img  src="https://i.postimg.cc/bNkYm5ZZ/A-TP-IMAGE-5.jpg"  alt="insights"  width="600"  height="220" /></a></div>
 
 <br>
 
-<div align="center"><a  href = "https://postimg.cc/XG6R087T"><img  src="https://i.postimg.cc/sXMs7HFD/A-TP-IMAGE-6.jpg"  alt="Vercel"  width="insights"  height="220" /></a></div>
+<div align="center"><a  href = "https://postimg.cc/XG6R087T"><img  src="https://i.postimg.cc/sXMs7HFD/A-TP-IMAGE-6.jpg"  alt="insights"  width="600"  height="220" /></a></div>
 
 <br>
 
-<div align="center"><a  href = "https://postimg.cc/jCKpgZ1f"><img  src="https://i.postimg.cc/nVQnLWY3/A-TP-IMAGE-7.jpg"  alt="Vercel"  width="insights"  height="220" /></a></div>
+<div align="center"><a  href = "https://postimg.cc/jCKpgZ1f"><img  src="https://i.postimg.cc/nVQnLWY3/A-TP-IMAGE-7.jpg"  alt="insights"  width="600"  height="220" /></a></div>
 
 <br>
 
 - Git Flow:
 
-<div align="center"><a  href = "https://postimg.cc/PN4BB1GR"><img  src="https://i.postimg.cc/BQ94PCm4/A-TP-IMAGE-8.jpg"  alt="Vercel"  width="insights"  height="280" /></a></div>
+<div align="center"><a  href = "https://postimg.cc/PN4BB1GR"><img  src="https://i.postimg.cc/BQ94PCm4/A-TP-IMAGE-8.jpg"  alt="insights"  width="600"  height="280" /></a></div>
 
 <br>
 
