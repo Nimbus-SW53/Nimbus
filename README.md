@@ -1571,25 +1571,25 @@ https://www.jetbrains.com/es-es/webstorm/learn/ <br>
 - Primero nos registramos en la página oficial de Vercel Hosting: vercel.com/
 - Luego, podemos vincular nuestra cuenta de GitHub y vincular los repositorios en este caso el respositorio de Web Application de Nimbus.
 
-<div align="center"><a  href = "https://postimg.cc/s1kRZbtc"><img  src="https://i.postimg.cc/9FMXshbv/vercel1.png"  alt="Vercel"  width="600"  height="200" /></a></div>
+<div align="center"><a  href = "https://postimg.cc/s1kRZbtc"><img  src="https://i.postimg.cc/9FMXshbv/vercel1.png"  alt="Vercel"  width="600"  height="280" /></a></div>
 
 <br>
 
 - Una vez vinculado nuestra cuenta de GitHub, Vercel reconocerá nuestro repositorio que queremos desplegar y desde allí empezará la construcción del mismo (Build).
 
-<div align="center"><a  href = "https://postimg.cc/fJYQ7Bsh"><img  src="https://i.postimg.cc/WbHpvHft/vercel2.png"  alt="Vercel"  width="600"  height="200" /></a></div>
+<div align="center"><a  href = "https://postimg.cc/fJYQ7Bsh"><img  src="https://i.postimg.cc/WbHpvHft/vercel2.png"  alt="Vercel"  width="600"  height="280" /></a></div>
 
 <br>
 
 - Esperamos a que el proceso de construcción termine.
 
-<div align="center"><a  href = "https://postimg.cc/YvkKdY2L"><img  src="https://i.postimg.cc/bwSyN9Kg/vercel3.png"  alt="Vercel"  width="600"  height="200" /></a></div>
+<div align="center"><a  href = "https://postimg.cc/YvkKdY2L"><img  src="https://i.postimg.cc/bwSyN9Kg/vercel3.png"  alt="Vercel"  width="600"  height="280" /></a></div>
 
 <br>
 
 - Luego, tendremos nuestra Web Application desplegada satisfactoriamente
 
-<div align="center"><a  href = "https://postimg.cc/t7ZjJ9mJ"><img  src="https://i.postimg.cc/HW3sSxww/vercel4.png"  alt="Vercel"  width="600"  height="200" /></a></div>
+<div align="center"><a  href = "https://postimg.cc/t7ZjJ9mJ"><img  src="https://i.postimg.cc/HW3sSxww/vercel4.png"  alt="Vercel"  width="600"  height="280" /></a></div>
 
 
 <br><br>
@@ -1600,33 +1600,39 @@ En el proceso de crear la página de aterrizaje (landing page), se dividió el t
 
 - Contributions:
 
-[![A-TP-IMAGE-3.jpg](https://i.postimg.cc/sf8Rd4k5/A-TP-IMAGE-3.jpg)](https://postimg.cc/F1j603sK)
+<div align="center"><a  href = "https://postimg.cc/F1j603sK"><img  src="https://i.postimg.cc/sf8Rd4k5/A-TP-IMAGE-3.jpg"  alt="Vercel"  width="insights"  height="220" /></a></div>
 
-[![A-TP-IMAGE-2.jpg](https://i.postimg.cc/nzFnrV27/A-TP-IMAGE-2.jpg)](https://postimg.cc/VSVxH83L)
+<div align="center"><a  href = "https://postimg.cc/VSVxH83L"><img  src="https://i.postimg.cc/nzFnrV27/A-TP-IMAGE-2.jpg"  alt="Vercel"  width="insights"  height="220" /></a></div>
 
 <br>
 
 - Actividades:
 
-[![A-TP-IMAGE-1.jpg](https://i.postimg.cc/dthYky9J/A-TP-IMAGE-1.jpg)](https://postimg.cc/YhBVTjVP)
+<div align="center"><a  href = "https://postimg.cc/YhBVTjVP"><img  src="https://i.postimg.cc/dthYky9J/A-TP-IMAGE-1.jpg"  alt="Vercel"  width="insights"  height="220" /></a></div>
 
 <br>
 
 -   Commits
 
-[![A-TP-IMAGE-3-5.jpg](https://i.postimg.cc/13z6n6RR/A-TP-IMAGE-3-5.jpg)](https://postimg.cc/RNjq2Wn2)
+<div align="center"><a  href = "https://postimg.cc/RNjq2Wn2"><img  src="https://i.postimg.cc/13z6n6RR/A-TP-IMAGE-3-5.jpg"  alt="Vercel"  width="insights"  height="220" /></a></div>
 
-[![A-TP-IMAGE-5.jpg](https://i.postimg.cc/bNkYm5ZZ/A-TP-IMAGE-5.jpg)](https://postimg.cc/HVWCxB4m)
+<br>
 
-[![A-TP-IMAGE-6.jpg](https://i.postimg.cc/sXMs7HFD/A-TP-IMAGE-6.jpg)](https://postimg.cc/XG6R087T)
+<div align="center"><a  href = "https://postimg.cc/HVWCxB4m"><img  src="https://i.postimg.cc/bNkYm5ZZ/A-TP-IMAGE-5.jpg"  alt="Vercel"  width="insights"  height="220" /></a></div>
 
-[![A-TP-IMAGE-7.jpg](https://i.postimg.cc/nVQnLWY3/A-TP-IMAGE-7.jpg)](https://postimg.cc/jCKpgZ1f)
+<br>
+
+<div align="center"><a  href = "https://postimg.cc/XG6R087T"><img  src="https://i.postimg.cc/sXMs7HFD/A-TP-IMAGE-6.jpg"  alt="Vercel"  width="insights"  height="220" /></a></div>
+
+<br>
+
+<div align="center"><a  href = "https://postimg.cc/jCKpgZ1f"><img  src="https://i.postimg.cc/nVQnLWY3/A-TP-IMAGE-7.jpg"  alt="Vercel"  width="insights"  height="220" /></a></div>
 
 <br>
 
 - Git Flow:
 
-[![A-TP-IMAGE-8.jpg](https://i.postimg.cc/BQ94PCm4/A-TP-IMAGE-8.jpg)](https://postimg.cc/PN4BB1GR)
+<div align="center"><a  href = "https://postimg.cc/PN4BB1GR"><img  src="https://i.postimg.cc/BQ94PCm4/A-TP-IMAGE-8.jpg"  alt="Vercel"  width="insights"  height="280" /></a></div>
 
 <br>
 
