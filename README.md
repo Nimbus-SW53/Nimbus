@@ -54,8 +54,8 @@ Video Presentación TB1: https://youtu.be/HmSDVh_GIpI
 | 4.1 | 25/09/2023 | Zeta Valenzuela, Christian Jose| Se realizó el Source Code Style Guide & Conventions y Software Deployment Configuration. |
 | 4.2 | 23/09/2023 | Moreno Rosales, Claudio Jesús| Se realizó el Sprint Planning 2. |
 | 4.2 | 23/09/2023 | Moreno Rosales, Claudio Jesús |Se realizó el Sprint Backlog 2 |
-| 4.3 | 25/09/2023 | Hinostroza Mavila, Farid | Se realizó el Development Evidence for Sprint Review, Services Documentation Evidence for Sprint Review y conclusiones del sprint 1.|
-| 4.4 | 05/09/2023 | Portales Ortiz, Diego Alejandro | Se realizó el Software Deployment Evidence for Sprint Review y Team Collaboration Insights during Sprint. |
+| 4.3 | 25/09/2023 | Hinostroza Mavila, Farid | Se realizó el Development Evidence for Sprint Review, Services Documentation Evidence for Sprint Review y conclusiones del sprint 2.|
+| 4.4 | 05/09/2023 | Portales Ortiz, Diego Alejandro | Se realizó el Software Deployment Evidence for Sprint Review y Team Collaboration Insights during Sprint 2. |
 
 <br><br>
 
@@ -735,20 +735,21 @@ En el presente User Task Matrix se mostrarán las tareas de los segmentos objeti
 
 | Epic / User Story ID | Título | Descripción | Criterios de Aceptación | Relacionado con (Epic ID) |
 |----------------------|-----------------------------------|----------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------|----------------------------|
-| User Story 1      | Listar Productos                  | Como proveedor, quiero poder listar mis productos para que sean visibles en la plataforma.                    | DADO que el proveedor ha iniciado sesión Y haga click en el botón "Añadir Producto" CUANDO complete los detalles del producto ENTONCES el producto se listará en la plataforma.    | Epic 01                    |
-| User Story 2      | Editar Listado                    | Como proveedor, quiero poder editar los detalles de mis productos listados.                                   | DADO que el proveedor ha iniciado sesión Y seleccione un producto de su lista Y haga click en el botón "Editar" CUANDO actualice los detalles ENTONCES los cambios se guardarán.  | Epic 01                    |
-| User Story 3     | Calificar Producto                | Como usuario, quiero poder calificar un producto para indicar mi nivel de satisfacción.                        | DADO que el usuario ha iniciado sesión Y se encuentra en la página de un producto Y haga click en "Calificar" CUANDO seleccione una calificación ENTONCES la calificación se registrará. | Epic 01                   |
-| User Story 4      | Ver Calificaciones                | Como usuario, quiero poder ver las calificaciones de un producto para ayudar en mi elección.                   | DADO que el usuario se encuentra en la página de un producto Y haga click en “Ver Calificaciones” CUANDO aparezcan las calificaciones ENTONCES el usuario podrá verlas.            | Epic 02                   |
-| User Story 5       | Utilizar Filtros                  | Como usuario, quiero poder utilizar diferentes filtros para encontrar el software que necesito.                | DADO que el usuario se encuentra en la página principal Y utilice los filtros de búsqueda CUANDO realice una búsqueda ENTONCES se mostrarán resultados acordes a los filtros.      | Epic 03                   |
-| User Story 6       | Comparar Productos                | Como usuario, quiero poder comparar diferentes productos para tomar una decisión informada.                    | DADO que el usuario se encuentra en la página de resultados Y seleccione varios productos Y haga click en "Comparar" CUANDO se realice la comparación ENTONCES el usuario podrá ver una tabla comparativa. | Epic 03                   |
-| User Story 7       | Visualizar Reseñas                | Como usuario, quiero poder visualizar reseñas de un software específico para informarme mejor sobre su utilidad.| DADO que el usuario se encuentra en la página de un software Y haga click en el botón “Ver Reseñas” CUANDO aparezcan las reseñas ENTONCES el usuario podrá leerlas.                | Epic 02                   |
-| User Story 8       | Escribir Reseñas                  | Como usuario, quiero poder escribir una reseña para un software que haya utilizado.                            | DADO que el usuario se encuentra en la página de un software Y haga click en el botón “Escribir Reseña” CUANDO termine de escribir ENTONCES la reseña será publicada.              | Epic 02                   |
-| User Story 9      | Valorar Reseñas                   | Como usuario, quiero poder dar una puntuación a las reseñas para valorar su utilidad.                          | DADO que el usuario se encuentra en la página de un software Y esté leyendo reseñas Y haga click en los botones de valoración (p.ej., pulgar arriba/abajo) ENTONCES la valoración se registrará. | Epic 02                   |
-| User Story 10       | Crear Cuenta                      | Como usuario nuevo, quiero poder crear una cuenta para acceder a todas las funcionalidades de la plataforma.  | DADO que el usuario se encuentra en la pantalla de inicio Y haga click en el botón “Crear una cuenta” Y rellene los datos solicitados CUANDO realice un click en el botón “Registrarse” ENTONCES el sistema guardará su información y le direccionará a la página principal de su cuenta. | Epic 04                    |
-| User Story 11       | Iniciar Sesión                    | Como usuario registrado, quiero poder iniciar sesión para acceder a mi cuenta y a mis preferencias.           | DADO que el usuario se encuentra en la pantalla de inicio Y haga click en el botón “Iniciar sesión” Y introduzca sus credenciales CUANDO realice un click en el botón “Entrar” ENTONCES el sistema le permitirá acceder a su cuenta. | Epic 04                   |
-| User Story 12       | Recuperar Contraseña              | Como usuario, quiero poder recuperar mi contraseña en caso de olvido para poder acceder a mi cuenta.           | DADO que el usuario se encuentra en la pantalla de inicio Y haga click en el enlace “Olvidé mi contraseña” Y siga las instrucciones CUANDO realice las acciones necesarias ENTONCES el sistema le permitirá restablecer su contraseña. | Epic 04                    |
-| User Story 13      | Suscripción a Boletín             | Como usuario, quiero poder recibir información a mi correo sobre los nuevas noticas de los diferentes proveedores	           | Escenario: Usuario quiere recibir notificaciones acerca de los proveedores.<br> Dado que el usuario se ponga su correo .<br>  Cuando haga clic en el botón "<Suscribirse><br>  Entonces le llegarán mensajes acerca de nuestra aplicación nimbus| Epic 05                    |
-| User Story 14      | Preguntas Frecuentes            | Como usuario quiero poder visualizar las preguntas frecuentes del producto para poder aclarar mis dudas.	           | Escenario:  El usuario quiere aclarar las dudas acerca de la página web. Dado que el usuario se encuentra en la pantalla de inicio Cuando haga clic en <Conócenos> Entonces la página le llevará a las sección de preguntas frecuentes.| Epic 06
+| US 1      | Listar Productos                  | Como proveedor, quiero poder listar mis productos para que sean visibles en la plataforma.                    | DADO que el proveedor ha iniciado sesión Y haga click en el botón "Añadir Producto" CUANDO complete los detalles del producto ENTONCES el producto se listará en la plataforma.    | Epic 01                    |
+| US 2      | Editar Listado                    | Como proveedor, quiero poder editar los detalles de mis productos listados.                                   | DADO que el proveedor ha iniciado sesión Y seleccione un producto de su lista Y haga click en el botón "Editar" CUANDO actualice los detalles ENTONCES los cambios se guardarán.  | Epic 01                    |
+| US 3     | Calificar Producto                | Como usuario, quiero poder calificar un producto para indicar mi nivel de satisfacción.                        | DADO que el usuario ha iniciado sesión Y se encuentra en la página de un producto Y haga click en "Calificar" CUANDO seleccione una calificación ENTONCES la calificación se registrará. | Epic 01                   |
+| US 4      | Ver Calificaciones                | Como usuario, quiero poder ver las calificaciones de un producto para ayudar en mi elección.                   | DADO que el usuario se encuentra en la página de un producto Y haga click en “Ver Calificaciones” CUANDO aparezcan las calificaciones ENTONCES el usuario podrá verlas.            | Epic 02                   |
+| US 5       | Utilizar Filtros                  | Como usuario, quiero poder utilizar diferentes filtros para encontrar el software que necesito.                | DADO que el usuario se encuentra en la página principal Y utilice los filtros de búsqueda CUANDO realice una búsqueda ENTONCES se mostrarán resultados acordes a los filtros.      | Epic 03                   |
+| US 6       | Comparar Productos                | Como usuario, quiero poder comparar diferentes productos para tomar una decisión informada.                    | DADO que el usuario se encuentra en la página de resultados Y seleccione varios productos Y haga click en "Comparar" CUANDO se realice la comparación ENTONCES el usuario podrá ver una tabla comparativa. | Epic 03                   |
+| US7       | Visualizar Reseñas                | Como usuario, quiero poder visualizar reseñas de un software específico para informarme mejor sobre su utilidad.| DADO que el usuario se encuentra en la página de un software Y haga click en el botón “Ver Reseñas” CUANDO aparezcan las reseñas ENTONCES el usuario podrá leerlas.                | Epic 02                   |
+| US 8       | Escribir Reseñas                  | Como usuario, quiero poder escribir una reseña para un software que haya utilizado.                            | DADO que el usuario se encuentra en la página de un software Y haga click en el botón “Escribir Reseña” CUANDO termine de escribir ENTONCES la reseña será publicada.              | Epic 02                   |
+| US 9      | Valorar Reseñas                   | Como usuario, quiero poder dar una puntuación a las reseñas para valorar su utilidad.                          | DADO que el usuario se encuentra en la página de un software Y esté leyendo reseñas Y haga click en los botones de valoración (p.ej., pulgar arriba/abajo) ENTONCES la valoración se registrará. | Epic 02                   |
+| US 10       | Crear Cuenta                      | Como usuario nuevo, quiero poder crear una cuenta para acceder a todas las funcionalidades de la plataforma.  | DADO que el usuario se encuentra en la pantalla de inicio Y haga click en el botón “Crear una cuenta” Y rellene los datos solicitados CUANDO realice un click en el botón “Registrarse” ENTONCES el sistema guardará su información y le direccionará a la página principal de su cuenta. | Epic 04                    |
+| US11       | Iniciar Sesión                    | Como usuario registrado, quiero poder iniciar sesión para acceder a mi cuenta y a mis preferencias.           | DADO que el usuario se encuentra en la pantalla de inicio Y haga click en el botón “Iniciar sesión” Y introduzca sus credenciales CUANDO realice un click en el botón “Entrar” ENTONCES el sistema le permitirá acceder a su cuenta. | Epic 04                   |
+| US 12       | Recuperar Contraseña              | Como usuario, quiero poder recuperar mi contraseña en caso de olvido para poder acceder a mi cuenta.           | DADO que el usuario se encuentra en la pantalla de inicio Y haga click en el enlace “Olvidé mi contraseña” Y siga las instrucciones CUANDO realice las acciones necesarias ENTONCES el sistema le permitirá restablecer su contraseña. | Epic 04                    |
+| US 13      | Suscripción a Boletín             | Como usuario, quiero poder recibir información a mi correo sobre los nuevas noticas de los diferentes proveedores	           | Escenario: Usuario quiere recibir notificaciones acerca de los proveedores.<br> Dado que el usuario se ponga su correo .<br>  Cuando haga clic en el botón "<Suscribirse><br>  Entonces le llegarán mensajes acerca de nuestra aplicación nimbus| Epic 05                    |
+| US 14      | Preguntas Frecuentes            | Como usuario quiero poder visualizar las preguntas frecuentes del producto para poder aclarar mis dudas.	           | Escenario:  El usuario quiere aclarar las dudas acerca de la página web. Dado que el usuario se encuentra en la pantalla de inicio Cuando haga clic en <Conócenos> Entonces la página le llevará a las sección de preguntas frecuentes.| Epic 06
+| US 15    |Ver Proveedores  |Como usuario, quiero visualizar la lista de proveedores cloud con los cuales colaboran con la aplicación.| Escenario: El usuario accede a la lista de proveedores cloud.<br>Dado que el usuario se encuentra en la pantalla de inicio<br> Cuando se desplace hacia abajo por la página y pasa la sección de beneficios<br>Entonces visualizará los logos de los proveedores con los que trabajamos.| Epic 06
 
 
 ### 3.3. IMPACT MAPPING
@@ -768,18 +769,20 @@ En el presente User Task Matrix se mostrarán las tareas de los segmentos objeti
  
 | Orden | User Story ID | Título | Descripción | Story Points |
 |-------|------------------|---------------------|---------------------------------------------------------------------------------------------------|--------------|
-| 1 | User Story 1.1 | Listar Productos | Como proveedor, quiero poder listar mis productos para que sean visibles en la plataforma. | 5 |
-| 2 | User Story 1.2 | Editar Listado | Como proveedor, quiero poder editar los detalles de mis productos listados. | 3 |
-| 3 | User Story 2.1 | Calificar Producto | Como usuario, quiero poder calificar un producto para indicar mi nivel de satisfacción. | 2 |
-| 4 | User Story 2.2 | Ver Calificaciones | Como usuario, quiero poder ver las calificaciones de un producto para ayudar en mi elección. | 3 |
-| 5 | User Story 3.1 | Utilizar Filtros | Como usuario, quiero poder utilizar diferentes filtros para encontrar el software que necesito. | 5 |
-| 6 | User Story 3.2 | Comparar Productos | Como usuario, quiero poder comparar diferentes productos para tomar una decisión informada. | 8 |
-| 7 | User Story 4.1 | Visualizar Reseñas | Como usuario, quiero poder visualizar reseñas de un software específico para informarme mejor. | 3 |
-| 8 | User Story 4.2 | Escribir Reseñas | Como usuario, quiero poder escribir una reseña para un software que haya utilizado. | 5 |
-| 9 | User Story 4.3 | Valorar Reseñas | Como usuario, quiero poder dar una puntuación a las reseñas para valorar su utilidad. | 2 |
-| 10 | User Story 5.1 | Crear Cuenta | Como usuario nuevo, quiero poder crear una cuenta para acceder a todas las funcionalidades. | 3 |
-| 11 | User Story 5.2 | Iniciar Sesión | Como usuario registrado, quiero poder iniciar sesión para acceder a mi cuenta y a mis preferencias. | 2 |
-| 12 | User Story 5.3 | Recuperar Contraseña| Como usuario, quiero poder recuperar mi contraseña en caso de olvido para poder acceder a mi cuenta. | 1 |
+| 1 | US 1 | Listar Productos | Como proveedor, quiero poder listar mis productos para que sean visibles en la plataforma. | 5 |
+| 2 | US 2 | Editar Listado | Como proveedor, quiero poder editar los detalles de mis productos listados. | 3 |
+| 3 | US 3 | Calificar Producto | Como usuario, quiero poder calificar un producto para indicar mi nivel de satisfacción. | 2 |
+| 4 | US 4 | Ver Calificaciones | Como usuario, quiero poder ver las calificaciones de un producto para ayudar en mi elección. | 3 |
+| 5 | US 5 | Utilizar Filtros | Como usuario, quiero poder utilizar diferentes filtros para encontrar el software que necesito. | 5 |
+| 6 | US 6 | Comparar Productos | Como usuario, quiero poder comparar diferentes productos para tomar una decisión informada. | 8 |
+| 7 | US 7 | Visualizar Reseñas | Como usuario, quiero poder visualizar reseñas de un software específico para informarme mejor. | 3 |
+| 8 | US 8 | Escribir Reseñas | Como usuario, quiero poder escribir una reseña para un software que haya utilizado. | 5 |
+| 9 | US 9 | Valorar Reseñas | Como usuario, quiero poder dar una puntuación a las reseñas para valorar su utilidad. | 2 |
+| 10 | US 10 | Crear Cuenta | Como usuario nuevo, quiero poder crear una cuenta para acceder a todas las funcionalidades. | 3 |
+| 11 | US 11 | Iniciar Sesión | Como usuario registrado, quiero poder iniciar sesión para acceder a mi cuenta y a mis preferencias. | 2 |
+| 12 | US 12| Recuperar Contraseña| Como usuario, quiero poder recuperar mi contraseña en caso de olvido para poder acceder a mi cuenta. | 1 |
+| 13 | US 13| Suscripción a Boletín| Como usuario, quiero poder recibir información a mi correo sobre los nuevas noticas de los diferentes proveedores | 1 |
+| 14 | US 14| Preguntas Frecuentes| Como usuario quiero poder visualizar las preguntas frecuentes del producto para poder aclarar mis dudas. | 1 |
 
 <br><br>
 
@@ -1076,11 +1079,7 @@ Para el manejo de nuestros repositorios utilizaremos las siguientes políticas:
 **Repositorios:**
 Nimbus-Landing-Page:
 - **Nimbus-Report:**  https://github.com/Nimbus-SW53/Nimbus
-
-- **Nimbus-Backend:** En desarrollo.
-
-- **Nimbus-Frontend:** [https://github.com/Nimbus-SW53/Talleres/tree/master](https://github.com/Nimbus-SW53/Talleres/tree/master)
-
+- **Nimbus-Frontend:** 
 **Issues:**
 
 - Se debe crear un issue por cada feature, bug o documentación con el respectivo label.
@@ -1094,7 +1093,45 @@ Es el flujo de trabajo que se utilizará en Git para agregar nuevas funcionalida
 - Las ramas creadas por los issues deberán hacer sus pull requests a la rama development.
 - Cuando un User Story termine de ser implementado, esta deberá hacer un pull request a la rama main.
 
-[![gitflow.png](https://i.postimg.cc/wTRNwFHk/gitflow.png)](https://postimg.cc/ZCZ0R8W9)
+En primer lugar, para este proyecto se implementará GitFlow como Workflow de control de versiones.  Este es un modelo alternativo de creación de ramas en Git en el cual se utilizan ramas principales y ramas de apoyo. Es por ello que para nuestro GitFlow usaremos las siguientes ramas:
+
+- **Ramas Principales:**
+
+	- Rama Master: 
+
+		Esta rama se encarga de contener el código fuente que está listo para producción, el cual vendría a ser una nueva versión de nuestro proyecto.
+
+	- Rama Develop:
+
+		Esta rama se encarga de contener el código fuente de los últimos cambios de desarrollo realizados antes de lanzar la próxima versión de nuestro proyecto
+
+[![gitflow.jpg](https://i.postimg.cc/d1KkHzhr/gitflow.jpg)](https://postimg.cc/zL0G32SG)
+
+***Nota:*** Organización de ramas con Git Flow
+
+<br>
+
+**Ramas de apoyo:**
+
+Estas ramas siempre tienen un tiempo de vida limitado, debido a que una vez se termine con esta, pasará a fusionarse en cualquiera de las ramas principales, dependiendo del tipo de rama que se use, y posteriormente será eliminada. Teniendo en cuenta esto, las ramas de apoyo que utilizaremos para este proyecto son los siguientes:
+
+- Rama Feature:
+
+	Este tipo de rama surgen de la rama principal Develop y se utiliza para desarrollar nuevas funciones del proyecto. Una vez culminado la función detallada en esta rama, se deberá fusionar con la rama principal Develop para luego ser eliminada.
+
+- Rama Release:
+
+	Este tipo de rama surge de la rama principal Develop y se utiliza para preparar una nueva versión de producción. Una vez instanciada esta rama, ya no se podrán agregar nuevas funciones, puesto a que en esta rama solo se realizarán tareas orientadas a la publicación, como solución de errores, generación de documentación, etc. Además, una vez culminado con esta rama, deberá fusionarse tanto en la rama Máster, como en la rama Develop.
+
+- Rama Hotfix
+
+	Esta rama surge de la rama principal Máster y se utilizan para corregir rápidamente los problemas y errores que se presentaron en el código fuente publicado en la rama Master. Una vez se haya terminado de trabajar con la rama Hotfix, se deberá fusionar con las ramas Máster y Develop. 
+
+<div align="center"><a  href = "https://postimg.cc/jWbDDkWp"><img  src="https://i.postimg.cc/5tHLkhf2/gitflow2.png"  alt="Gitflow"  width="500"  height="800" /></a></div>
+
+<div align="center"> Nota: Git Workflow Diagram </div>
+
+<br>
 
 #### 5.1.3. Source Code Style Guide & Conventions.
 
@@ -1133,7 +1170,33 @@ Utilizaremos la guía de estilos y convenciones de codificación en C#, que repl
 
 #### 5.1.4. Software Deployment Configuration.
 
-[Se necesita la Landing Page Desplegada]
+Para el despliegue de los componentes de nuestro proyecto, hemos seleccionado herramientas específicas que nos permiten gestionar eficazmente el control de versiones y llevar a cabo el despliegue de manera fluida.
+
+**Control de Versiones: Git y GitHub**
+
+Utilizaremos Git como nuestro sistema de control de versiones principal. Git es una herramienta esencial que nos permitirá rastrear y gestionar todos los cambios realizados en nuestro proyecto, lo que incluye las modificaciones en el código fuente, la documentación y más. Cada cambio será registrado en un historial, lo que facilita la colaboración y el seguimiento de la evolución del proyecto.
+
+GitHub será nuestra plataforma de alojamiento de código, donde almacenaremos y compartiremos nuestro repositorio de código con el equipo. Esto proporciona una colaboración en tiempo real, la capacidad de revisar y aprobar cambios, y una integración perfecta con otras herramientas.
+
+<div align="center"><a  href = "https://postimg.cc/w35dXXxd"><img  src="https://i.postimg.cc/FF8sQp21/Github.jpg"  alt="Github"  width="600"  height="300" /></a></div>
+
+<br><br>
+
+**Despliegue de la Landing Page: Vercel** Vercel es una plataforma de alojamiento en la nube que se especializa en frontends estáticos y funciones sin servidor. Ofrece una manera rápida y sencilla de desplegar proyectos web con escalabilidad automática y compatibilidad con tecnologías web modernas.
+
+[![vercel.jpg](https://i.postimg.cc/VsMGth8b/vercel.jpg)](https://postimg.cc/0rk0Rcr8)
+
+**Ventajas de Vercel:**
+
+- Facilidad de uso: Vercel ofrece una interfaz amigable y simplificada para el despliegue de proyectos web, lo que ahorra tiempo en configuraciones complicadas.
+- Rendimiento y escalabilidad: Permite una entrega rápida y eficiente de sitios web, con características como caché global y escalado automático.
+- Compatibilidad con tecnologías modernas: Está diseñado para trabajar con frameworks populares como Next.js, React, Angular y Vue.
+
+**Desventajas de Vercel:**
+
+- Limitado en aplicaciones dinámicas: Su enfoque principal es en sitios estáticos, por lo que no es la mejor opción para aplicaciones altamente dinámicas.
+- Costos adicionales: Si se superan los límites de los planes gratuitos, los costos pueden aumentar, especialmente en proyectos empresariales.
+
 
 <br>
 
@@ -1222,21 +1285,27 @@ garantizar su legibilidad y eficiencia.
 
 ##### 5.2.1.4. Testing Suite Evidence for Sprint Review.
 
-Landing Desplegada: https://pv2y2n-3000.csb.app/
+Landing Desplegada: https://nimbus-webpage-oconjhm8d-fabiohornas-projects.vercel.app
+
+[![landing-page.png](https://i.postimg.cc/G23DpHdQ/landing-page.png)](https://postimg.cc/d7X3HQ7k)
+
+<br>
 
 ##### 5.2.1.5. Execution Evidence for Sprint Review.
 -   En este Sprint se logró implementar el landing page siguiendo todos
     los requerimientos especificados en el sprint backlog y siguiendo la
     guía de estilos planteada en el capítulo 4.
 
--   En este Sprint se logró implementar la Web APP siguiendo todos los
-    requerimientos especificados
 
 **Métodos HTTP**
 
 [![API1.png](https://i.postimg.cc/cJ6cJQn5/API1.png)](https://postimg.cc/xkDmxNgK)
 
+<br>
+
 [![API2.png](https://i.postimg.cc/TPSJ5pj2/API2.png)](https://postimg.cc/f3c96Wg1)
+
+<br>
 
 [![API3.png](https://i.postimg.cc/PJnbK9FB/API3.png)](https://postimg.cc/FdGJHWvZ)
 
@@ -1318,16 +1387,23 @@ Durante el desarrollo de este proyecto, se enfocará en una mejora continua para
 
 Se reconocerá que el alcance del proyecto no incluye el desarrollo de una aplicación móvil, y se ajustará en consecuencia. Se prestará especial atención a mejorar la comunicación oral y escrita de manera efectiva en todas las etapas del proyecto. Asimismo, se abordará la cuestión del informe en formato PDF desactualizado, asegurando que refleje de manera precisa y completa el trabajo realizado, incluyendo todas las secciones que se encuentran en GitHub.En este segundo Sprint, se centrará en mejorar la Landing Page y se creará la primera versión de la aplicación web. Ambos productos se desplegarán correctamente para garantizar que los usuarios tengan una experiencia óptima.
 
+<br>
+
+[![sprins.png](https://i.postimg.cc/hGzYFt0N/sprins.png)](https://postimg.cc/QBDm1swq)
+
+<br>
+
+
 |<p>**Epic/User Story**</p><p>**ID**</p>|**Título**|**Descripción**|**Criterios de Aceptación**|**Relacionado con (Epic ID)**|
 | :- | :- | :- | :- | :- |
-|US01|Register|Cómo usuario quiero crear una cuenta para poder ingresar a la página web |<p>**Escenario N°1** </p><p>**Crear cuenta**</p><p>Dado que el usuario desea crear una cuenta<br>Entonces debe seleccionar el botón “Crear cuenta”<br>Cuando lo seleccione podrá llenar los datos pedidos por la aplicación.</p><p></p><p>**Escenario N°2**</p><p>**Crear cuenta** </p><p>Dado que el usuario desea confirmar la cuenta creada<br>Entonces debe seleccionar  el botón “registrarse”</p><p>Entonces registrará sus datos.<br>Cuando ingrese el código podrá verificar su cuenta<br>Entonces tendrá su cuenta creada.</p>|EPIC-01|
-|US02|Login|Cómo usuario quiero poder entrar a la página web logear mi cuenta |<p>**Escenario N°1** </p><p>**Logear cuenta**</p><p>Dado que el usuario desea loguearse con su cuenta<br>Entonces debe seleccionar el botón “Login in ”<br>Cuando lo seleccione podrá llenar los datos pedidos por la aplicación.</p><p></p><p>**Escenario N°2**</p><p>**Logear cuenta** </p><p>Dado que el usuario ya entró a su cuenta Entonces cuando quiera volver a entrar a la cuenta deberá poner sus datos.<br>Cuando ingrese a la aplicación de la página web.</p>|EPIC-01|
-|US03|Comparar Productos|Como usuario, quiero poder comparar diferentes productos para tomar una decisión informada.	|<p>**Escenario N°1** </p><p>**Usuario quiere comparar diferentes productos**</p><p>**Dado que:** el usuario se encuentra en la página de resultados</p><p>**Y** seleccione varios productos</p><p>**Cuando** haga click en "<Comparar>" </p><p>**Y** se realice la comparación</p><p>**Entonces** el usuario podrá ver una tabla comparativa.</p>|EPIC-02|
-|US04|Utilizar Filtros|Como usuario, quiero poder utilizar diferentes filtros para encontrar el software que necesito.|<p>**Escenario N°1** </p><p>**Usuario quiere filtrar productos por precio**</p><p></p><p>**Dado que** el usuario se encuentra en la página principal</p><p>**Cuando** utilice los filtros de búsqueda </p><p>Y realice una búsqueda</p><p>**Entonces** se mostrarán resultados acordes a los filtros.</p>|EP-02|
-|US05|Ver Proveedores|Como usuario, quiero visualizar la lista de proveedores cloud con los cuales colaboran con la aplicación.|<p>**Escenario N°1** </p><p>**El usuario accede a la lista de proveedores cloud**</p><p></p><p>**Dado que** el usuario se encuentra en la pantalla de inicio</p><p>**Cuando** se desplace hacia abajo por la página y pasa la sección de beneficios</p><p>**Entonces** visualizará los logos de los proveedores con los que trabajamos.</p>|EPIC-02|
-|US06|Visualizar Reseñas|Como usuario, quiero poder visualizar reseñas de un software específico para informarme mejor.	|<p>**Escenario N°1** </p><p>**Usuario quiere visualizar reseñas de un software específico**</p><p>**Dado que** el usuario se encuentra en la página de un software</p><p>**Cuando** haga click en el botón "<Ver Reseñas>"</p><p>**Y** aparezcan las reseñas</p><p>**Entonces** el usuario podrá leerlas.</p>|EPIC-03|
-|US07|Suscripción a Boletín|Como usuario, quiero poder recibir informacion a mi correo sobre los nuevas noticas de los diferentes proveedores	|<p>**Escenario N°1**</p><p></p><p>**Usuario quiere recibir notificaciones acerca de los proveedores**</p><p>**Dado que** el usuario se ponga su correo </p><p>**Cuando** haga clic en el botón "<Suscribirse>.</p><p>**Entonces** le llegarán mensajes acerca de nuestra aplicación nimbus</p>|EPIC-03|
-|US08|Preguntas Frecuentes|Como usuario quiero poder visualizar las preguntas frecuentes del producto para poder aclarar mis dudas.|<p>**Escenario:**  El usuario quiere aclarar las dudas acerca de la página web.</p><p></p><p>Dado que el usuario se encuentra en la pantalla de inicio</p><p>Cuando haga clic en <Conócenos></p><p>Entonces la página le llevará a las sección de preguntas frecuentes.</p>|
+|US 10|Register - Crear cuenta|Cómo usuario quiero crear una cuenta para poder ingresar a la página web |<p>**Escenario N°1** </p><p>**Crear cuenta**</p><p>Dado que el usuario desea crear una cuenta<br>Entonces debe seleccionar el botón “Crear cuenta”<br>Cuando lo seleccione podrá llenar los datos pedidos por la aplicación.</p><p></p><p>**Escenario N°2**</p><p>**Crear cuenta** </p><p>Dado que el usuario desea confirmar la cuenta creada<br>Entonces debe seleccionar  el botón “registrarse”</p><p>Entonces registrará sus datos.<br>Cuando ingrese el código podrá verificar su cuenta<br>Entonces tendrá su cuenta creada.</p>|EPIC-04|
+|US 11|Login - Inicar sesión|Cómo usuario quiero poder entrar a la página web logear mi cuenta |<p>**Escenario N°1** </p><p>**Logear cuenta**</p><p>Dado que el usuario desea loguearse con su cuenta<br>Entonces debe seleccionar el botón “Login in ”<br>Cuando lo seleccione podrá llenar los datos pedidos por la aplicación.</p><p></p><p>**Escenario N°2**</p><p>**Logear cuenta** </p><p>Dado que el usuario ya entró a su cuenta Entonces cuando quiera volver a entrar a la cuenta deberá poner sus datos.<br>Cuando ingrese a la aplicación de la página web.</p>|EPIC-04|
+|US 6|Comparar Productos|Como usuario, quiero poder comparar diferentes productos para tomar una decisión informada.	|<p>**Escenario N°1** </p><p>**Usuario quiere comparar diferentes productos**</p><p>**Dado que:** el usuario se encuentra en la página de resultados</p><p>**Y** seleccione varios productos</p><p>**Cuando** haga click en "<Comparar>" </p><p>**Y** se realice la comparación</p><p>**Entonces** el usuario podrá ver una tabla comparativa.</p>|EPIC-03|
+|US 5|Utilizar Filtros|Como usuario, quiero poder utilizar diferentes filtros para encontrar el software que necesito.|<p>**Escenario N°1** </p><p>**Usuario quiere filtrar productos por precio**</p><p></p><p>**Dado que** el usuario se encuentra en la página principal</p><p>**Cuando** utilice los filtros de búsqueda </p><p>Y realice una búsqueda</p><p>**Entonces** se mostrarán resultados acordes a los filtros.</p>|EP-03|
+|US 15|Ver Proveedores|Como usuario, quiero visualizar la lista de proveedores cloud con los cuales colaboran con la aplicación.|<p>**Escenario N°1** </p><p>**El usuario accede a la lista de proveedores cloud**</p><p></p><p>**Dado que** el usuario se encuentra en la pantalla de inicio</p><p>**Cuando** se desplace hacia abajo por la página y pasa la sección de beneficios</p><p>**Entonces** visualizará los logos de los proveedores con los que trabajamos.</p>|EPIC-06|
+|US 7|Visualizar Reseñas|Como usuario, quiero poder visualizar reseñas de un software específico para informarme mejor.	|<p>**Escenario N°1** </p><p>**Usuario quiere visualizar reseñas de un software específico**</p><p>**Dado que** el usuario se encuentra en la página de un software</p><p>**Cuando** haga click en el botón "<Ver Reseñas>"</p><p>**Y** aparezcan las reseñas</p><p>**Entonces** el usuario podrá leerlas.</p>|EPIC-02|
+|US 13|Suscripción a Boletín|Como usuario, quiero poder recibir informacion a mi correo sobre los nuevas noticas de los diferentes proveedores	|<p>**Escenario N°1**</p><p></p><p>**Usuario quiere recibir notificaciones acerca de los proveedores**</p><p>**Dado que** el usuario se ponga su correo </p><p>**Cuando** haga clic en el botón "<Suscribirse>.</p><p>**Entonces** le llegarán mensajes acerca de nuestra aplicación nimbus</p>|EPIC-05|
+|US 14|Preguntas Frecuentes|Como usuario quiero poder visualizar las preguntas frecuentes del producto para poder aclarar mis dudas.|<p>**Escenario:**  El usuario quiere aclarar las dudas acerca de la página web.</p><p></p><p>Dado que el usuario se encuentra en la pantalla de inicio</p><p>Cuando haga clic en <Conócenos></p><p>Entonces la página le llevará a las sección de preguntas frecuentes.</p>|EPIC-06
 
 
 
@@ -1367,6 +1443,7 @@ Se reconocerá que el alcance del proyecto no incluye el desarrollo de una aplic
 |<p>User Story </p><p>6</p>|Visualizar Reseñas|US2-7|Poder visualizar las reseñas que dan acerca de los proveedores.	|Como usuario, quiero poder visualizar reseñas de un software específico para informarme mejor.	|2 h|Christian Zeta|Done|
 |<p>User Story </p><p>7</p>|Suscripción a Boletín|US2-8|Poder recibir notificaciones acerca de los precios o beneficios de los proveedores|Como usuario, quiero poder recibir informacion a mi correo sobre los nuevas noticas de los diferentes proveedores	|1 h|Fabio Horna|Done|
 |<p>User Story </p><p>8</p>|Preguntas Frecuentes|US2-9|Poder visualizar las pregunta fercuentes que suelen llegar a tener los usuarios|Como usuario quiero poder visualizar las preguntas frecuentes del producto para poder aclarar mis dudas.|2 h|Fabio Horna|Done|
+
 <br><br>
 
 #### 5.2.2.3. Development Evidence for Sprint 2 Review.
