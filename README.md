@@ -736,7 +736,8 @@ En el presente User Task Matrix se mostrarán las tareas de los segmentos objeti
 |EP02 |Gestión de reseñas  |
 |EP03 |Gestión de búsquedas|
 |EP04 |Gestión de registros|
-|EP05 |Diseño de Landing Page  |
+|EP05 |Gestión de notificaciones|
+|EP06 |Gestión de guías de ayuda al usuario|
 
 
 <br>
@@ -755,6 +756,9 @@ En el presente User Task Matrix se mostrarán las tareas de los segmentos objeti
 | User Story 10       | Crear Cuenta                      | Como usuario nuevo, quiero poder crear una cuenta para acceder a todas las funcionalidades de la plataforma.  | DADO que el usuario se encuentra en la pantalla de inicio Y haga click en el botón “Crear una cuenta” Y rellene los datos solicitados CUANDO realice un click en el botón “Registrarse” ENTONCES el sistema guardará su información y le direccionará a la página principal de su cuenta. | Epic 04                    |
 | User Story 11       | Iniciar Sesión                    | Como usuario registrado, quiero poder iniciar sesión para acceder a mi cuenta y a mis preferencias.           | DADO que el usuario se encuentra en la pantalla de inicio Y haga click en el botón “Iniciar sesión” Y introduzca sus credenciales CUANDO realice un click en el botón “Entrar” ENTONCES el sistema le permitirá acceder a su cuenta. | Epic 04                   |
 | User Story 12       | Recuperar Contraseña              | Como usuario, quiero poder recuperar mi contraseña en caso de olvido para poder acceder a mi cuenta.           | DADO que el usuario se encuentra en la pantalla de inicio Y haga click en el enlace “Olvidé mi contraseña” Y siga las instrucciones CUANDO realice las acciones necesarias ENTONCES el sistema le permitirá restablecer su contraseña. | Epic 04                    |
+| User Story 13      | Suscripción a Boletín             | Como usuario, quiero poder recibir información a mi correo sobre los nuevas noticas de los diferentes proveedores	           | Escenario: Usuario quiere recibir notificaciones acerca de los proveedores.<br> Dado que el usuario se ponga su correo .<br>  Cuando haga clic en el botón "<Suscribirse><br>  Entonces le llegarán mensajes acerca de nuestra aplicación nimbus| Epic 05                    |
+| User Story 14      | Preguntas Frecuentes            | Como usuario quiero poder visualizar las preguntas frecuentes del producto para poder aclarar mis dudas.	           | Escenario:  El usuario quiere aclarar las dudas acerca de la página web. Dado que el usuario se encuentra en la pantalla de inicio Cuando haga clic en <Conócenos> Entonces la página le llevará a las sección de preguntas frecuentes.| Epic 06
+
 
 ## 3.3. IMPACT MAPPING
 
