@@ -1523,7 +1523,7 @@ Se presenta la Web Application en el formato correcto para ser desplegada y se r
 
 Los archivos .feature en Gherkin en esta occasion abarcan las User Stories 5,6,7,10,11,13,14 y 15 En este caso, sirve para verificar que las funcionalidades estén en la Web Application.
 
-Link del repositorio de los Acceptance Test: https://github.com/Nimbus2023/Acceptance-Test.git
+Link del repositorio de los Acceptance Test: https://github.com/Nimbus-SW53/Acceptance-Test.git
 
 A continuación, se presenta las pruebas de funcionalidad que presenta la Landing Page y la Web Application, respecto a los archivos .feature realizados en el lenguaje Gherkin para los criterios de aceptación que se deben cumplir.
 
