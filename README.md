@@ -158,6 +158,15 @@ https://github.com/Nimbus-SW53/Nimbus
 			- [5.2.1.6. Services Documentation Evidence for Sprint Review.](#5216-services-documentation-evidence-for-sprint-review)
 			- [5.2.1.7. Software Deployment Evidence for Sprint Review.](#5217-software-deployment-evidence-for-sprint-review)
 			- [5.2.1.8. Team Collaboration Insights during Sprint.](#5218-team-collaboration-insights-during-sprint)
+   		- [5.2.2. Sprint 2](#521-sprint-2)
+		- [5.2.2.1 Sprint Planning 2](#5221-sprint-planning-2)
+			- [5.2.2.2. Sprint Backlog 2.](#5222-sprint-backlog-2)
+			- [5.2.2.3. Development Evidence for Sprint 2 Review.](#5223-development-evidence-for-sprint-2-review)
+			- [5.2.2.4. Testing Suite Evidence for Sprint Review.](#5224-testing-suite-evidence-for-sprint-2-review)
+			- [5.2.2.5. Execution Evidence for Sprint Review.](#5225-execution-evidence-for-sprint-2-review)
+			- [5.2.2.6. Services Documentation Evidence for Sprint 2 Review.](#5226-services-documentation-evidence-for-sprint-2-review)
+			- [5.2.2.7. Software Deployment Evidence for Sprint 2 Review.](#5227-software-deployment-evidence-for-sprint-2-review)
+			- [5.2.2.8. Team Collaboration Insights during Sprint 2.](#5228-team-collaboration-insights-during-sprint-2)
 	
 	-  [**Conclusiones**](#conclusiones)
 		- [Conclusiones y recomendaciones](#conclusiones-y-recomendaciones)
@@ -1260,80 +1269,109 @@ Asimismo, se abordará la cuestión del informe en formato PDF desactualizado, a
 
 En este segundo Sprint, se centrará en mejorar la Landing Page y se creará la primera versión de la aplicación web. Ambos productos se desplegarán correctamente para garantizar que los usuarios tengan una experiencia óptima.
 
-### 5 .2.2.1. Sprint Planning 2
+### 5.2.2.1. Sprint Planning 2
 
-| **Sprint \#** | Sprint 2 |
-|--------------|----------|
-| **Sprint Planning Background** | |
-| Date | 2023-09-21 |
-| Time | 12:00 PM |
-| Location | Google Meet |
-| Prepared By | Farid Hinostroza Mavila|
-| Attendees (to planning meeting) | Zeta Valenzuela, Christian/ Portales, Diego/ Moreno Rosales, Claudio/Horna Silva, Fabio |
-| Sprint 2 Review | **Equipo de desarrollo:** El equipo se organizó para garantizar la mejora continua y los productos faltantes en la etapa de desarrollo.
-|  | **Landing Page:** Se asignarón tareas para realizar la mejora y modificación de la Landing Page para poder entregar un producto de calidad y desplegarlo de manera adecuada. |
-| Sprint 2 Retrospective | **Oportunidades de mejora:** Se vio que hay que mejorar en los tiempos de entrega de las actividades o tareas que se les asigna a cada integrante del equipo. |
-| **Sprint Goal & User Stories** | |
-| Sprint 2 Goal | **Objetivos:**
-|  |**Diseño:** Mejorar los diagramas C4 para obtener una mejor integración con el proyecto.<br><br>**Programación:** Mejorar el aspecto, diseño y código de la Landing Page con el uso del Framework de Vue.js.<br>Métrica: Corrección exitosa del 100% del código a nivel de legibilidad.<br><br>**Despliegue:** Desplegar la solución estática de la Landing Page y la solución dinámica del Web Application<br>Métrica: Verificación de que la Landing Page y la Web Application se han desplegado correctamente en el entorno de producción.
-| Sprint 2 Velocity |  |
-| Sum of Story Points |  |
+
+
+![Imgur](https://i.imgur.com/qJEae5n.png)
 
 <br><br>
 
 ### 5.2.2.2. Sprint Backlog 2
 
-| **Sprint \#** | Sprint 2| | | | | | | |
-|---------------|----------|---|--|--|--|--|--|--|
-| **User Story** | **Work-Item/Task** |
-| **Id** | **Title** | **Id** | **Title** | **Description** | **Estimation (hours)** | **Assigned To** | **Status** |
-| User Story 3.1 | Utilizar Filtros | US3-1 | Usar filtros como precio, tipos, etc., para encontrar el software específico.| Como usuario, quiero poder utilizar diferentes filtros para encontrar el software que necesito. | 5h| Fabio Horna | In-Process
-| User Story 3.2 |Comparar Productos  | US3-2 |Comparar los diferentes productos software de acuerdo a los requisitos del cliente.  |Como usuario, quiero poder comparar diferentes productos para tomar una decisión informada.  |8h  |Fabio Horna | In-Process |
-| User Story 4.1 | Visualizar Reseñas | US4-1 | Poder visualizar los comentarios de otros clientes que han adquirido el mismo producto, para tomar una decisión más informada. | Como usuario, quiero poder visualizar reseñas de un software específico para informarme mejor. | 3 h | | In-Process |
-| User Story 4.2 | Escribir Reseñas | US4-2 | Poder redactar una opinión acerca de un producto específico y brindar una valoración de experiencia. | Como usuario, quiero poder escribir una reseña para un software que haya utilizado. | 5 h | | In-Process |
+**Sprint Backlog 2**
 
+|**Sprint #**	|**Sprint 2**	|||||||
+| :- | :- | :- | :- | :- | :- | :- | :- |
+|**User Story**	|**Work-Item/Tas**	|||||||
+|**Id**|**Title**|**Id**|**Title**	|**Description**|**Estimation (hours)**	|**Assigned To**	|**Status**	|
+|<p>User Story </p><p>1</p>|Register|US2-1|Poder registrarse en la página web|Cómo usuario quiero crear una cuenta para poder ingresar a la página web |3h|Christian Zeta|Done|
+|<p>User Story </p><p>2</p>|Login|US-2-3|Usar un login y un register para que el usuario pueda entrar a la página |Cómo usuario,quiero poder utilizar una cuenta para entrar a la página web|3h|Christian Zeta |Done|
+|<p>User Story </p><p>3	</p>|Comparar Productos	|US2-4	|Comparar los diferentes productos software de acuerdo a los requisitos del cliente.	|Como usuario, quiero poder comparar diferentes productos para tomar una decisión informada.	|8h|Fabio Horna	|Done|
+|<p>User Story </p><p>4	</p>|Utilizar Filtros|US2-5	|Usar filtros como precio, tipos, etc., para encontrar el software específico.|Como usuario, quiero poder utilizar diferentes filtros para encontrar el software que necesito.|3h|Christian Zeta|Done|
+|<p>User Story </p><p>5	</p>|Ver Proveedores|US2-6	|Poder visualizar la lista de proveedores asociados a Nimbus.|Como usuario, quiero visualizar la lista de proveedores cloud con los cuales colaboran con la aplicación.|5 h	|<p>Fabio Horna	</p><p></p>|Done|
+|<p>User Story </p><p>6</p>|Visualizar Reseñas|US2-7|Poder visualizar las reseñas que dan acerca de los proveedores.	|Como usuario, quiero poder visualizar reseñas de un software específico para informarme mejor.	|2 h|Christian Zeta|Done|
+|<p>User Story </p><p>7</p>|Suscripción a Boletín|US2-8|Poder recibir notificaciones acerca de los precios o beneficios de los proveedores|Como usuario, quiero poder recibir informacion a mi correo sobre los nuevas noticas de los diferentes proveedores	|1 h|Fabio Horna|Done|
+|<p>User Story </p><p>8</p>|Preguntas Frecuentes|US2-9|Poder visualizar las pregunta fercuentes que suelen llegar a tener los usuarios|Como usuario quiero poder visualizar las preguntas frecuentes del producto para poder aclarar mis dudas.|2 h|Fabio Horna|Done|
 <br><br>
 
-### 5.2.2.3. Development Evidence for Sprint Review
+### 5.2.2.3. Development Evidence for Sprint 2 Review.
 
-Para la mejora de la Landing Page se repartieron diversas tareas para que cada integrante pueda colaborar de manera satisfactoria en el primer producto. En complemento, para el desarrollo de la Web APP se establecieron tareas específicas, la cual se reflejan mediante los siguientes commits realizados en el siguiente repositorio: https://github.com/Nimbus-SW53/Web-Application-Frontend.git 
+Para la mejora de la Pagina web se repartieron diversas tareas para que cada integrante pueda colaborar de manera satisfactoria en el primer producto. En complemento, para el desarrollo de la Web APP se establecieron tareas específicas, la cual se reflejan mediante los siguientes commits realizados en el siguiente repositorio: https://github.com/Nimbus-SW53/Web-Application-Frontend.git 
 
+![Imgur](https://i.imgur.com/8noXhjZ.png)
+
+### 5.2.2.4. Testing Suite Evidence for Sprint 2 Review.
+Se presenta la Web Application en el formato correcto para ser desplegada y se refleja mediante el siguiente commit en el repositorio para el Front-end:
+os objetivos fueron exitosamente alcanzados para el Sprint 2 de la pagina web. Por ello en la siguiente sección testing mostraremos las funcionalidades implementadas en esta primera parte del programa.
+
+Para el Sprint 2, se llevó a cabo un conjunto de pruebas exhaustivas para garantizar la calidad y el funcionamiento adecuado de la página web. Las pruebas incluyeron:
+
+Pruebas de rendimiento: Se realizaron pruebas de rendimiento para asegurarse de que la página se cargue rápidamente y responda de manera eficiente a las interacciones del usuario.
+
+Pruebas de compatibilidad: Se verificó que la página web fuera compatible con varios navegadores web, como Chrome, Firefox, Edge y Safari, para garantizar una experiencia consistente para todos los usuarios.
+
+Pruebas de funcionalidad: Se probaron todas las funcionalidades de la página, como los formularios de contacto, los encabezados, las secciones y el pie de página, para asegurarse de que funcionaran según lo previsto.
+
+Pruebas de respuesta móvil: Se verificó que la página fuera completamente receptiva y se adaptara correctamente a diferentes dispositivos, incluidos teléfonos móviles y tabletas.
+
+Pruebas de usabilidad: Se llevaron a cabo pruebas de usabilidad para evaluar la facilidad de navegación y la experiencia del usuario en la Landing Page.
+
+
+### 5.2.2.5. Execution Evidence for Sprint 2 Review.
+Aquí mostraremos todas las secciones que conforman la página web que hemos implementado durante el sprint. Durante el Sprint 2, se realizaron las siguientes tareas de ejecución:
+Desarrollo de la Página Web: El equipo de desarrollo trabajó en la creación y diseño de la página web, implementando las características y funcionalidades requeridas según las User Stories definidas para este sprint.
+Control de versiones: Se utilizó Git como sistema de control de versiones para colaborar en el desarrollo y realizar un seguimiento de los cambios realizados en el código.
+Configuración del entorno de desarrollo: Se configuraron las herramientas necesarias, como WebStorm, para facilitar el desarrollo en TypeScript.
+Almacenamiento del proyecto en GitHub: Se creó un repositorio en GitHub para almacenar el proyecto en la nube y permitir la colaboración entre los miembros del equipo.
+Realización de commits: Se utilizaron GitHub Desktop y Git para realizar commits y mantener un historial de versiones del proyecto.
+
+
+
+### 5.2.2.6. Services Documentation Evidence for Sprint 2 Review.
+
+Para alcanzar exitosamente los objetivos de este Sprint 2 el equipo tuvo que documentarse sobre las tecnologías que se iban a implementar. <br>
+Es por ello que a continuación se detalla la documentación a la que se acudió: <br>
+Html y CSS:Son dos tecnologías fundamentales para la creación y el diseño de sitios web. Aquí te proporciono una breve descripción de cada uno.<br>
+Vue: Vue se desarrolla principalmente utilizando Javascript. Javascript agrega un sistema de tipos estáticos al lenguaje, lo que ayuda a detectar errores en tiempo de compilación y proporciona un mejor soporte para herramientas de desarrollo.<br>
+https://vuejs.org/guide/introduction.html <br>
+WebStorm: Es un entorno de desarrollo que nos permitirá trabajar con typeScript.<br>
+https://www.jetbrains.com/es-es/webstorm/learn/ <br>
+
+### 5.2.2.7 Software Deployment Evidence for Sprint 2 Review
+Los objetivos fueron exitosamente alcanzados para el Sprint 2 de la página web. Por ello para esta sección “Software Deployment Evidence” nos centraremos en explicar las tecnologías que utilizamos, la creación de cuentas de repositorio y la configuración del ambiente de desarrollo. En esta entrega se usaron las tecnologías:<br>
+HTML: Es un lenguaje de marcado de Hipertexto el cual nos ayudó a la maquetación de la página web.<br>
+CSS: Lenguaje que no ayudó con el apartado visual de la página web.<br>
+El software usado para el desarrollo de la página web fue:<br>
+Git: Es un sistema de control de versiones que nos ayudó a trabajar en equipo para el desarrollo de la página web.<br>
+GitHub: Nos ayudó a almacenar nuestro proyecto en la nube.<br>
+GitHub Desktop: Software de escritorio que nos permitió realizar los commits a nuestro repositorio alojado en Github.<br>
+
+
+
+### 5.2.2.8. Team Collaboration Insights during Sprint.
+Los objetivos fueron exitosamente alcanzados para el Sprint 2 de la página web. Por ello para esta sección “Team Collaboration Insights” se dejará la evidencia del trabajo realizado por los miembros del equipo. Commits:
 <br>
-
-| **Repository** | **Branch** | **Commit Id** | **Commit Message** | **Commit Message Body** | **Commited on (Date)** |
-|----------------|------------|---------------|--------------------|-------------------------|-------------------------|
-|Nimbus |Nimbus-LandingPage |fcffca79d3109e0dc0fca04bd03e0e4804cb95d1 |feat |Primer commit en la rama Nimbus-LandingPage|Sep 8
-
-<br>
-
-### 5.2.2.4. Testing Suite Evidence for Sprint Review
-
-Se presenta la Web Application en el formato correcto para ser desplegada y se refleja mediante el siguiente commit en el repositorio para el Front-end: 
-
-<br>
-
-| **Repository** | **Branch** | **Commit Id** | **Commit Message** | **Commit Message Body** | **Commited on (Date)** |
-|----------------|------------|---------------|--------------------|-------------------------|-------------------------|
-|Web-Application-Frontend |Main| |feat |  |
-
-<br>
-
-### 5.2.2.5.Execution Evidence for Sprint Review
-En este Sprint se ha logrado cumplir con las correcciones y mejoras a la Landing Page y brindar un primer avance del Web Application desplegado en el hosting que eligió el equipo para presentarlo.
-
-- Video Presentación de la Web App desplegada: 
+Actividades
 
 
-### 5.2.2.6. Services Documentation Evidence for Sprint Review 
-
-Para este segundo sprint se realizó la creación de los archivos Gherkin con extension .feature. Este se abarca las User Stories que descritas en el Sprint Backlog 2 que es el alcance definido por el equipo.
-
-
-
-### 5.2.2.7. Software Deployment Evidence for Sprint Review
-
-
-### 5.2.2.8. Team Collaboration Insights during Sprint
+## 5.3. Validation Interviews.
+### 5.3.1. Diseño de entrevistas.
+El siguiente diseño de entrevista aplica para los segmentos objetivos de nuestro
+proyecto, es decir para los usuarios desarrolladores como para los usuarios empresa.<br>
+a. Datos Demográficos<br>
+• Recolectar la siguiente información acerca del entrevistado:<br>
+•	¿Nos podría decir su nombre, empresa, cargo y años de experiencia en el desarrollo de software?<br>
+•	¿En qué se especializa su empresa?<br>
+Antes de pasar a las preguntas principales, se le debe mostrar al entrevistado el landing
+page, mencionando las principales funcionalidades y explicando el propósito de nuestra aplicación.<br>
+b. Preguntas principales<br>
+• ¿Después de ver el Landing Page que podría acotar o recomendar
+para la mejora de esta?<br>
+• ¿Puede mencionar alguna funcionalidad adicional, de las que se les
+mostró en la exposición, que le puedan ayudar para la eficiencia de
+su trabajo?<br>
+• ¿En base a lo mostrado, usted estaría dispuesto a adquirir un servicio en caso que lo necesite?<br>
 
 
 ### Conclusiones
