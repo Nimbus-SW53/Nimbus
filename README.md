@@ -50,7 +50,6 @@ Video Presentación TB1: https://youtu.be/HmSDVh_GIpI
 | 3.2 | 02/09/2023 | Moreno Rosales, Claudio Jesús |Se realizó el Sprint Backlog 1 |
 | 3.3 | 05/09/2023 | Moreno Rosales, Claudio Jesús | Se realizó el Development Evidence for Sprint Review, Services Documentation Evidence for Sprint Review y conclusiones del sprint 1.|
 | 3.4 | 05/09/2023 | Zeta Valenzuela, Christian Jose| Se realizó el Software Deployment Evidence for Sprint Review y Team Collaboration Insights during Sprint. |
-
 | 4.0 | 25/09/2023 | Zeta Valenzuela, Christian Jose| Se realizó el Software Configuration Management, Software Development Environment Configuration y Source Code Management. |
 | 4.1 | 25/09/2023 | Zeta Valenzuela, Christian Jose| Se realizó el Source Code Style Guide & Conventions y Software Deployment Configuration. |
 | 4.2 | 23/09/2023 | Moreno Rosales, Claudio Jesús| Se realizó el Sprint Planning 2. |
