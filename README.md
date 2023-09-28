@@ -1328,9 +1328,55 @@ Se reconocerá que el alcance del proyecto no incluye el desarrollo de una aplic
 
 ### 5.2.2.3. Development Evidence for Sprint 2 Review.
 
-Para la mejora de la Pagina web se repartieron diversas tareas para que cada integrante pueda colaborar de manera satisfactoria en el primer producto. En complemento, para el desarrollo de la Web APP se establecieron tareas específicas, la cual se reflejan mediante los siguientes commits realizados en el siguiente repositorio: https://github.com/Nimbus-SW53/Web-Application-Frontend.git 
+Para la mejora de la Landing Page se repartieron diversas tareas para que cada integrante pueda colaborar de manera satisfactoria en el primer producto. En complemento, para el desarrollo de la Web APP se establecieron tareas específicas, la cual se reflejan mediante los siguientes commits realizados en el siguiente repositorio: [https://github.com/Nimbus-SW53/Web-Application-Frontend.git](https://github.com/Nimbus-SW53/Web-Application-Frontend.git)
 
-![Imgur](https://i.imgur.com/8noXhjZ.png)
+
+
+Se proponen las pruebas las funcionalidades desplegadas de la Web APP:
+
+
+[![CAPTURA-1.jpg](https://i.postimg.cc/qvfq03tZ/CAPTURA-1.jpg)](https://postimg.cc/9rpCYzYG)
+
+Visualización de “Login” de la Web APP de Nimbus
+
+[![CAPTURA-2.jpg](https://i.postimg.cc/gJBc7XFs/CAPTURA-2.jpg)](https://postimg.cc/MMV8MGGf)
+
+Visualización de “Comparar Productos” de la Web APP de Nimbus
+
+[![CAPTURA-3.jpg](https://i.postimg.cc/DfJbTFj0/CAPTURA-3.jpg)](https://postimg.cc/s1z2PFRC)
+
+Visualización de “Reseñas de Usuarios” de la Web APP de Nimbus
+
+[![CAPTURA-4.jpg](https://i.postimg.cc/Bngjgv6Y/CAPTURA-4.jpg)](https://postimg.cc/rDDyyM5x)
+
+Visualización de “Filtrar productos” de la Web APP de Nimbus
+
+
+[![CAPTURA-5.jpg](https://i.postimg.cc/4dKnsb1q/CAPTURA-5.jpg)](https://postimg.cc/Kk2m5TwD)
+
+Visualización de “Nuestros proveedores” de la Web APP de Nimbus
+
+[![CAPTURA-6.jpg](https://i.postimg.cc/150Xmzpm/CAPTURA-6.jpg)](https://postimg.cc/6y3tztjg)
+
+Visualización de “Características del producto” de la Web APP de Nimbus
+
+
+[![CAPTURA-7.jpg](https://i.postimg.cc/jSZjfkgB/CAPTURA-7.jpg)](https://postimg.cc/nX9ZbTt1)
+
+Visualización de “Suscribción” de la Web APP de Nimbus
+
+
+[![CAPTURA-8.jpg](https://i.postimg.cc/zfQXtH1j/CAPTURA-8.jpg)](https://postimg.cc/v1WsDBTg)
+
+Visualización de “Suscripción exitosa” de la Web APP de Nimbus
+
+
+[![CAPTURA-9.jpg](https://i.postimg.cc/Xvt4cMw1/CAPTURA-9.jpg)](https://postimg.cc/t1dKpMvF)
+
+[![CAPTURA-10.jpg](https://i.postimg.cc/kMQq8pDw/CAPTURA-10.jpg)](https://postimg.cc/Cdx3pJGf)
+
+
+Visualización de “Preguntas frecuentes” de la Web APP de Nimbus
 
 ### 5.2.2.4. Testing Suite Evidence for Sprint 2 Review.
 Se presenta la Web Application en el formato correcto para ser desplegada y se refleja mediante el siguiente commit en el repositorio para el Front-end:
