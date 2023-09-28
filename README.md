@@ -194,19 +194,19 @@ En el siguiente cuadro se describe las acciones realizadas y enunciados de concl
 
 ### 1.1.1 DESCRIPCIÓN DE LA STARTUP
 
-Somos **Nimbus**, una startup Peruana bajo el alero de la empresa **StratusPhere**, conformada por estudiantes con experiencia en diseño y programación. El nombre "Nimbus" refleja nuestra ambición de elevar el estándar de cómo se conectan los clientes con los proveedores de software, al igual que las nubes nimbus se elevan en el cielo. En un entorno sociopolítico que ha acelerado la digitalización y la demanda de soluciones de software, hemos identificado una oportunidad significativa para servir como intermediarios en este mercado.
+Nos presentamos como *Nimbus, una startup peruana que opera bajo el respaldo de **StratusPhere*, una empresa. Nuestro equipo está formado por estudiantes con experiencia en diseño y programación. El nombre "Nimbus" simboliza nuestra ambición de elevar el nivel en la forma en que los clientes se conectan con los proveedores de software, de manera similar a cómo las nubes nimbus se elevan en el cielo. En un contexto sociopolítico que ha acelerado la digitalización y la demanda de soluciones de software, hemos identificado una valiosa oportunidad para desempeñar un papel crucial en este mercado.
 
-En la actualidad, las dinámicas sociales y políticas han precipitado un avance tecnológico sin precedentes. Este escenario ha creado una necesidad urgente para individuos y empresas de encontrar soluciones de software que se ajusten a sus necesidades específicas. Para abordar este vacío, hemos formado Nimbus, una solución innovadora que pretende simplificar y personalizar el proceso de selección de software.
+En la actualidad, los cambios en la sociedad y la política han impulsado un avance tecnológico sin precedentes. Esto ha generado una necesidad urgente tanto para individuos como para empresas de encontrar soluciones de software que se adapten a sus necesidades específicas. Para abordar esta demanda, hemos creado Nimbus, una solución innovadora que tiene como objetivo simplificar y personalizar el proceso de selección de software.
 
-En línea con el enfoque de nuestro equipo en tecnologías web, nuestra plataforma se construye sobre lenguajes y frameworks modernos como **HTML5**, **CSS3**, **JavaScript**, **React** y **Angular**. Esta base tecnológica nos permite ofrecer una experiencia de usuario excepcional mientras mantenemos los más altos estándares de seguridad y eficiencia.
+En consonancia con la especialización de nuestro equipo en tecnologías web, nuestra plataforma se desarrolla utilizando lenguajes y frameworks modernos como *HTML5, CSS3, JavaScript, React* y *Angular*. Esta base tecnológica nos permite ofrecer una experiencia de usuario excepcional al tiempo que mantenemos los más altos estándares en seguridad y eficiencia.
 
 #### Misión
 
-"Nuestra misión es democratizar y personalizar el acceso a soluciones de software de alta calidad en Perú. Nos esforzamos por eliminar las barreras entre los proveedores de software y los clientes, facilitando un emparejamiento eficiente y efectivo a través de nuestra plataforma web avanzada."
+"Nuestro propósito es hacer que el acceso a soluciones de software de alto calibre en Perú sea accesible y personalizado para todos. Trabajamos arduamente para derribar las barreras existentes entre los proveedores de software y los usuarios, facilitando un emparejamiento eficiente y efectivo mediante nuestra plataforma web de vanguardia."
 
 #### Visión
 
-"Aspiramos a ser el nexo principal en la cadena de valor del software en Perú, impulsando la digitalización y contribuyendo al desarrollo tecnológico del país. En el futuro, queremos que los usuarios se sientan completamente familiarizados y satisfechos con las tecnologías emergentes y los servicios que Nimbus ofrece."
+"Nuestra meta es convertirnos en el punto central de la cadena de valor del software en Perú, promoviendo la digitalización y aportando al progreso tecnológico del país. En perspectiva, buscamos que los usuarios experimenten una total familiaridad y satisfacción con las tecnologías emergentes y los servicios proporcionados por Nimbus."
 
 ### 1.1.2 PERFILES DE INTEGRANTES
 
@@ -501,7 +501,11 @@ Estas preguntas van dirigidas para las entrevistas de los usuarios IT encargados
 [Link de la entrevista a Alexandra Moreno](https://www.youtube.com/watch?v=Y00Z1HVaUuU)
 
 **Resumen de la entrevista:**
-En la entrevista, Alexandra, consultora con tres años de experiencia en SAP Business One, destacó el compromiso de su empresa con la satisfacción del cliente a través de implementaciones personalizadas. Principalmente confía en referencias y recomendaciones de clientes satisfechos, además de tener presencia en línea para adquirir nuevos clientes. No obstante, enfrenta el desafío de llegar a clientes que no buscan proactivamente sus servicios y ve en las plataformas de intermediación de software una posible solución para este problema. La estrategia de marketing de su empresa se centra en el boca a boca y en su presencia online. Alexandra mide el éxito a través de la satisfacción del cliente, eficiencia en implementación y mejora en los resultados de sus clientes. En cuanto a una posible plataforma de intermediación como Nimbus, la valorará en función de su habilidad para aumentar la visibilidad de su empresa y conectar con nuevos clientes dispuestos a adaptarse a sus estándares de tiempo y calidad.
+
+Durante la entrevista, Alexandra, quien tiene tres años de experiencia como consultora en SAP Business One, resaltó el compromiso de su empresa en cuanto a la satisfacción del cliente a través de la personalización en las implementaciones. Su principal estrategia se basa en las referencias y recomendaciones de clientes satisfechos, complementada por su presencia en línea para atraer a nuevos clientes. Sin embargo, uno de los desafíos que enfrenta es llegar a clientes que no están activamente buscando sus servicios, y ve en las plataformas de intermediación de software una posible solución para abordar este problema.
+
+La estrategia de marketing de su empresa se enfoca en el boca a boca y en mantener una sólida presencia en línea. Alexandra utiliza la satisfacción del cliente, la eficiencia en la implementación y la mejora en los resultados de sus clientes como métricas para medir el éxito de sus proyectos. En relación a la posible adopción de una plataforma de intermediación como Nimbus, evaluará su capacidad para aumentar la visibilidad de su empresa y para conectar con nuevos clientes que estén dispuestos a cumplir con los estándares de calidad y plazos que su empresa ofrece.
+
 
 **Entrevistado/a:** Luis
 
@@ -511,7 +515,8 @@ En la entrevista, Alexandra, consultora con tres años de experiencia en SAP Bus
 
 
 **Resumen de la entrevista:**
-Luis, un desarrollador de software en Tech World Solution, habla sobre la especialización de su empresa en ofrecer soluciones de software ágiles y modernas para pequeñas empresas y startups emergentes. Explica sus estrategias para identificar clientes potenciales a través de marketing en línea y fuera de línea, así como eventos específicos de la industria. Luis menciona los desafíos que enfrentan al destacarse en un mercado saturado y demostrar el valor de sus soluciones. Discute sus canales de marketing y ventas, que incluyen publicidad en redes sociales y referencias de boca a boca. Luis enfatiza su agilidad y enfoque personalizado como una empresa más joven. Evalúan el éxito en función de la satisfacción del cliente, la entrega oportuna y los comentarios positivos de los usuarios. Luis resalta la importancia de formas eficientes de conectarse con startups y pequeñas empresas en plataformas de intermediación como Nimbus, así como la transparencia en el cálculo de comisiones. También se considera la facilidad de integración en los sistemas actuales. La aplicación web se ve como beneficiosa para acceder a proyectos y clientes que podrían ser difíciles de alcanzar.
+
+Luis, un software developer en Tech World Solution, describe la especialización de su empresa en proporcionar soluciones de software modernas y ágiles dirigidas a pequeñas empresas y startups emergentes. Explica cómo identifican posibles clientes mediante estrategias de marketing tanto en línea como fuera de línea, así como su participación en eventos específicos de la industria. Además, Luis menciona los desafíos que enfrentan al destacarse en un mercado saturado y demostrar el valor de sus soluciones. Discute los canales que utilizan para comercializar y vender sus servicios, incluyendo la publicidad en redes sociales y las recomendaciones de boca a boca. Luis hace hincapié en la flexibilidad y el enfoque personalizado que ofrecen como empresa más joven. Evalúan su éxito en función de la satisfacción del cliente, la entrega puntual y los comentarios positivos de los usuarios. Luis resalta la importancia de establecer conexiones eficientes con startups y pequeñas empresas en plataformas intermediarias como Nimbus, garantizando la transparencia en el cálculo de las comisiones y facilitando la integración en los sistemas existentes. Además, consideran que una aplicación web puede ser beneficiosa para acceder a proyectos y clientes que podrían ser difíciles de alcanzar.
 
 **Entrevistado/a:** Farid Esquivel
 
@@ -521,15 +526,20 @@ Luis, un desarrollador de software en Tech World Solution, habla sobre la especi
 
  
 **Resumen de la entrevista:**
-Esquivel, un asistente a distancia de 25 años en el sector educativo, comparte sus criterios y desafíos en la selección de software. Según Esquivel, la búsqueda de software está impulsada por la necesidad de encontrar soluciones a problemas específicos, como la organización o el inventario. Normalmente consulta opiniones en línea y valora la experiencia de otros usuarios antes de tomar una decisión. Enfrenta desafíos como tener que consultar múltiples fuentes y foros, a menudo con opiniones poco confiables. Valora la idea de una plataforma centralizada que facilite el proceso de selección, permitiendo comparar características y costos de distintas opciones. Cree que Nimbus, al estar enfocado en facilitar la búsqueda de software adaptado a las necesidades del usuario, podría ser un gran recurso para ahorrar tiempo y mejorar la eficiencia en este proceso.
+
+Nadir, un asistente a distancia de 25 años que trabaja en el sector educativo, comparte su enfoque y desafíos en la elección de software. Según Esquivel, su búsqueda de software se basa en la necesidad de encontrar soluciones específicas para resolver problemas concretos, como la gestión de la organización o el control de inventario. Su proceso típico involucra la revisión de reseñas en línea y la consideración de la experiencia de otros usuarios antes de tomar una decisión. Uno de los obstáculos que enfrenta es la necesidad de consultar múltiples fuentes y participar en foros, que a veces contienen opiniones poco confiables.
+
+Nadir ve con interés la posibilidad de contar con una plataforma centralizada que simplifique el proceso de selección de software, permitiéndole comparar las características y costos de diferentes opciones de manera más eficiente. Él cree que Nimbus, al centrarse en facilitar la búsqueda de software que se adapte a las necesidades individuales del usuario, podría ser una valiosa herramienta para ahorrar tiempo y mejorar la eficacia en este proceso.
 
 
 ### 2.2.3.	ANÁLISIS DE ENTREVISTAS
 **Resumen Ejecutivo** 
-Las entrevistas con Alexandra, Luis y Esquivel ofrecen perspectivas diversas y complementarias sobre la relevancia, beneficios y desafíos de utilizar una plataforma de intermediación de software como Nimbus. Los temas recurrentes incluyen la satisfacción del cliente, la visibilidad, la adquisición de nuevos clientes y la eficiencia en la selección de software.
+
+Las entrevistas con Alexandra, Luis y Nadir proporcionan diferentes y complementarias perspectivas sobre la importancia, ventajas y obstáculos de emplear una plataforma de intermediación de software como Nimbus. Temas recurrentes en sus conversaciones abarcan aspectos como la satisfacción del cliente, la visibilidad en el mercado, la captación de nuevos clientes y la eficacia en el proceso de selección de software.
 
 **Metodología**
-Para este análisis, se recogieron datos cualitativos a través de entrevistas estructuradas. Cada entrevista se categorizó en función de los roles profesionales (Consultora SAP, Desarrollador de Software, Asistente a Distancia) y los segmentos de mercado (ERP, Soluciones Ágiles, Sector Educativo).
+
+Para llevar a cabo este análisis, se recopilaron datos cualitativos mediante entrevistas estructuradas. Cada entrevista se clasificó según las ocupaciones de los profesionales entrevistados (Consultora en SAP, Desarrollador de Software, Asistente a Distancia) y los segmentos de mercado en los que operan (ERP, Soluciones Ágiles, Sector Educativo).
 
 **Datos Recopilados**
 
@@ -1371,10 +1381,40 @@ GitHub Desktop: Software de escritorio que nos permitió realizar los commits a 
 
 
 ### 5.2.2.8. Team Collaboration Insights during Sprint.
-Los objetivos fueron exitosamente alcanzados para el Sprint 2 de la página web. Por ello para esta sección “Team Collaboration Insights” se dejará la evidencia del trabajo realizado por los miembros del equipo. Commits:
-<br>
-Actividades
 
+En el proceso de crear la página de aterrizaje (landing page), se dividió el trabajo en diferentes secciones como la barra de navegación (navbar), el encabezado (hero), las características (features), los formularios, entre otros. Estas tareas se asignaron durante las reuniones regulares del equipo, y se acordó establecer un sistema de ramas para gestionar el desarrollo del proyecto de manera más eficiente.
+
+- Contributions:
+
+[![A-TP-IMAGE-3.jpg](https://i.postimg.cc/sf8Rd4k5/A-TP-IMAGE-3.jpg)](https://postimg.cc/F1j603sK)
+
+[![A-TP-IMAGE-2.jpg](https://i.postimg.cc/nzFnrV27/A-TP-IMAGE-2.jpg)](https://postimg.cc/VSVxH83L)
+
+<br>
+
+- Actividades:
+
+[![A-TP-IMAGE-1.jpg](https://i.postimg.cc/dthYky9J/A-TP-IMAGE-1.jpg)](https://postimg.cc/YhBVTjVP)
+
+<br>
+
+-   Commits
+
+[![A-TP-IMAGE-3-5.jpg](https://i.postimg.cc/13z6n6RR/A-TP-IMAGE-3-5.jpg)](https://postimg.cc/RNjq2Wn2)
+
+[![A-TP-IMAGE-5.jpg](https://i.postimg.cc/bNkYm5ZZ/A-TP-IMAGE-5.jpg)](https://postimg.cc/HVWCxB4m)
+
+[![A-TP-IMAGE-6.jpg](https://i.postimg.cc/sXMs7HFD/A-TP-IMAGE-6.jpg)](https://postimg.cc/XG6R087T)
+
+[![A-TP-IMAGE-7.jpg](https://i.postimg.cc/nVQnLWY3/A-TP-IMAGE-7.jpg)](https://postimg.cc/jCKpgZ1f)
+
+<br>
+
+- Git Flow:
+
+[![A-TP-IMAGE-8.jpg](https://i.postimg.cc/BQ94PCm4/A-TP-IMAGE-8.jpg)](https://postimg.cc/PN4BB1GR)
+
+<br>
 
 ## 5.3. Validation Interviews.
 ### 5.3.1. Diseño de entrevistas.
