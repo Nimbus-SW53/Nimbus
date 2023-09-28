@@ -176,6 +176,9 @@ https://github.com/Nimbus-SW53/Nimbus
 			- [Conclusiones y recomendaciones](#conclusiones-y-recomendaciones)
 	- [Bibliografía](#bibliografía)
 	- [Anexos](#anexos)
+		- [Anexo A: Video presentaciones de entregables](#anexo-a-video-presentaciones-de-entregables)
+		- [Anexo B: Diseños Mock-up](#anexo-b-diseños-mock-up)
+		- [Anexo C: Deploy de los productos software de Nimbus](#anexo-c-deploy-de-los-productos-software-de-nimbus)
 
 <br><br>
 
@@ -1435,14 +1438,14 @@ Se reconocerá que el alcance del proyecto no incluye el desarrollo de una aplic
 | :- | :- | :- | :- | :- | :- | :- | :- |
 |**User Story**	|**Work-Item/Tas**	|||||||
 |**Id**|**Title**|**Id**|**Title**	|**Description**|**Estimation (hours)**	|**Assigned To**	|**Status**	|
-|<p>User Story </p><p>1</p>|Register|US2-1|Poder registrarse en la página web|Cómo usuario quiero crear una cuenta para poder ingresar a la página web |3h|Christian Zeta|Done|
-|<p>User Story </p><p>2</p>|Login|US-2-3|Usar un login y un register para que el usuario pueda entrar a la página |Cómo usuario,quiero poder utilizar una cuenta para entrar a la página web|3h|Christian Zeta |Done|
-|<p>User Story </p><p>3	</p>|Comparar Productos	|US2-4	|Comparar los diferentes productos software de acuerdo a los requisitos del cliente.	|Como usuario, quiero poder comparar diferentes productos para tomar una decisión informada.	|8h|Fabio Horna	|Done|
-|<p>User Story </p><p>4	</p>|Utilizar Filtros|US2-5	|Usar filtros como precio, tipos, etc., para encontrar el software específico.|Como usuario, quiero poder utilizar diferentes filtros para encontrar el software que necesito.|3h|Christian Zeta|Done|
-|<p>User Story </p><p>5	</p>|Ver Proveedores|US2-6	|Poder visualizar la lista de proveedores asociados a Nimbus.|Como usuario, quiero visualizar la lista de proveedores cloud con los cuales colaboran con la aplicación.|5 h	|<p>Fabio Horna	</p><p></p>|Done|
-|<p>User Story </p><p>6</p>|Visualizar Reseñas|US2-7|Poder visualizar las reseñas que dan acerca de los proveedores.	|Como usuario, quiero poder visualizar reseñas de un software específico para informarme mejor.	|2 h|Christian Zeta|Done|
-|<p>User Story </p><p>7</p>|Suscripción a Boletín|US2-8|Poder recibir notificaciones acerca de los precios o beneficios de los proveedores|Como usuario, quiero poder recibir informacion a mi correo sobre los nuevas noticas de los diferentes proveedores	|1 h|Fabio Horna|Done|
-|<p>User Story </p><p>8</p>|Preguntas Frecuentes|US2-9|Poder visualizar las pregunta fercuentes que suelen llegar a tener los usuarios|Como usuario quiero poder visualizar las preguntas frecuentes del producto para poder aclarar mis dudas.|2 h|Fabio Horna|Done|
+|<p>US </p><p>10</p>|Register|WA01|Poder registrarse en la página web|Cómo usuario quiero crear una cuenta para poder ingresar a la página web |3h|Christian Zeta|Done|
+|<p>US </p><p>11</p>|Login|WA02|Usar un login y un register para que el usuario pueda entrar a la página |Cómo usuario,quiero poder utilizar una cuenta para entrar a la página web|3h|Christian Zeta |Done|
+|<p>US </p><p>	6</p>|Comparar Productos	|WA03	|Comparar los diferentes productos software de acuerdo a los requisitos del cliente.	|Como usuario, quiero poder comparar diferentes productos para tomar una decisión informada.	|8h|Fabio Horna	|Done|
+|<p>US </p><p>5	</p>|Utilizar Filtros|WA04	|Usar filtros como precio, tipos, etc., para encontrar el software específico.|Como usuario, quiero poder utilizar diferentes filtros para encontrar el software que necesito.|3h|Christian Zeta|Done|
+|<p>US </p><p>15	</p>|Ver Proveedores|WA05	|Poder visualizar la lista de proveedores asociados a Nimbus.|Como usuario, quiero visualizar la lista de proveedores cloud con los cuales colaboran con la aplicación.|5 h	|<p>Fabio Horna	</p><p></p>|Done|
+|<p>US </p><p>7</p>|Visualizar Reseñas|WA06|Poder visualizar las reseñas que dan acerca de los proveedores.	|Como usuario, quiero poder visualizar reseñas de un software específico para informarme mejor.	|2 h|Christian Zeta|Done|
+|<p>US </p><p>13</p>|Suscripción a Boletín|WA07|Poder recibir notificaciones acerca de los precios o beneficios de los proveedores|Como usuario, quiero poder recibir informacion a mi correo sobre los nuevas noticas de los diferentes proveedores	|1 h|Fabio Horna|Done|
+|<p>US </p><p>14</p>|Preguntas Frecuentes|WA08|Poder visualizar las pregunta fercuentes que suelen llegar a tener los usuarios|Como usuario quiero poder visualizar las preguntas frecuentes del producto para poder aclarar mis dudas.|2 h|Fabio Horna|Done|
 
 <br><br>
 
@@ -1450,10 +1453,7 @@ Se reconocerá que el alcance del proyecto no incluye el desarrollo de una aplic
 
 Para la mejora de la Landing Page se repartieron diversas tareas para que cada integrante pueda colaborar de manera satisfactoria en el primer producto. En complemento, para el desarrollo de la Web APP se establecieron tareas específicas, la cual se reflejan mediante los siguientes commits realizados en el siguiente repositorio: [https://github.com/Nimbus-SW53/Web-Application-Frontend.git](https://github.com/Nimbus-SW53/Web-Application-Frontend.git)
 
-
-
 Se proponen las pruebas las funcionalidades desplegadas de la Web APP:
-
 
 [![CAPTURA-1.jpg](https://i.postimg.cc/qvfq03tZ/CAPTURA-1.jpg)](https://postimg.cc/9rpCYzYG)
 
@@ -1480,7 +1480,6 @@ Visualización de “Nuestros proveedores” de la Web APP de Nimbus
 
 Visualización de “Características del producto” de la Web APP de Nimbus
 
-
 [![CAPTURA-7.jpg](https://i.postimg.cc/jSZjfkgB/CAPTURA-7.jpg)](https://postimg.cc/nX9ZbTt1)
 
 Visualización de “Suscribción” de la Web APP de Nimbus
@@ -1490,62 +1489,110 @@ Visualización de “Suscribción” de la Web APP de Nimbus
 
 Visualización de “Suscripción exitosa” de la Web APP de Nimbus
 
-
 [![CAPTURA-9.jpg](https://i.postimg.cc/Xvt4cMw1/CAPTURA-9.jpg)](https://postimg.cc/t1dKpMvF)
+
 
 [![CAPTURA-10.jpg](https://i.postimg.cc/kMQq8pDw/CAPTURA-10.jpg)](https://postimg.cc/Cdx3pJGf)
 
 
 Visualización de “Preguntas frecuentes” de la Web APP de Nimbus
 
+| **Repository** | **Branch** | **Commit Id** | **Commit Message** | **Commit Message Body** | **Commited on (Date)** |
+|----------------|------------|---------------|--------------------|-------------------------|-------------------------|
+|Web Applications |Main | |feat | |Sep 28
+
 #### 5.2.2.4. Testing Suite Evidence for Sprint 2 Review.
 
 Se presenta la Web Application en el formato correcto para ser desplegada y se refleja mediante el siguiente commit en el repositorio para el Front-end:
-os objetivos fueron exitosamente alcanzados para el Sprint 2 de la pagina web. Por ello en la siguiente sección testing mostraremos las funcionalidades implementadas en esta primera parte del programa.
 
-Para el Sprint 2, se llevó a cabo un conjunto de pruebas exhaustivas para garantizar la calidad y el funcionamiento adecuado de la página web. Las pruebas incluyeron:
+- Los objetivos fueron exitosamente alcanzados para el Sprint 2 de la pagina web. Por ello en la siguiente sección testing mostraremos las funcionalidades implementadas en esta primera parte del programa.
 
-Pruebas de rendimiento: Se realizaron pruebas de rendimiento para asegurarse de que la página se cargue rápidamente y responda de manera eficiente a las interacciones del usuario.
+- Para el Sprint 2, se llevó a cabo un conjunto de pruebas exhaustivas para garantizar la calidad y el funcionamiento adecuado de la página web. Las pruebas incluyeron:
 
-Pruebas de compatibilidad: Se verificó que la página web fuera compatible con varios navegadores web, como Chrome, Firefox, Edge y Safari, para garantizar una experiencia consistente para todos los usuarios.
+- Pruebas de rendimiento: Se realizaron pruebas de rendimiento para asegurarse de que la página se cargue rápidamente y responda de manera eficiente a las interacciones del usuario.
 
-Pruebas de funcionalidad: Se probaron todas las funcionalidades de la página, como los formularios de contacto, los encabezados, las secciones y el pie de página, para asegurarse de que funcionaran según lo previsto.
+- Pruebas de compatibilidad: Se verificó que la página web fuera compatible con varios navegadores web, como Chrome, Firefox, Edge y Safari, para garantizar una experiencia consistente para todos los usuarios.
 
-Pruebas de respuesta móvil: Se verificó que la página fuera completamente receptiva y se adaptara correctamente a diferentes dispositivos, incluidos teléfonos móviles y tabletas.
+- Pruebas de funcionalidad: Se probaron todas las funcionalidades de la página, como los formularios de contacto, los encabezados, las secciones y el pie de página, para asegurarse de que funcionaran según lo previsto.
 
-Pruebas de usabilidad: Se llevaron a cabo pruebas de usabilidad para evaluar la facilidad de navegación y la experiencia del usuario en la Landing Page.
+- Pruebas de respuesta móvil: Se verificó que la página fuera completamente receptiva y se adaptara correctamente a diferentes dispositivos, incluidos teléfonos móviles y tabletas.
+
+- Pruebas de usabilidad: Se llevaron a cabo pruebas de usabilidad para evaluar la facilidad de navegación y la experiencia del usuario en la Landing Page.
+
+<br><br>
+
+Los archivos .feature en Gherkin en esta occasion abarcan las User Stories 5,6,7,10,11,13,14 y 15 En este caso, sirve para verificar que las funcionalidades estén en la Web Application.
+
+Link del repositorio de los Acceptance Test: https://github.com/Nimbus2023/Acceptance-Test.git
+
+A continuación, se presenta las pruebas de funcionalidad que presenta la Landing Page y la Web Application, respecto a los archivos .feature realizados en el lenguaje Gherkin para los criterios de aceptación que se deben cumplir.
+
+<div align="center"><a  href = "https://postimg.cc/MXg7SGVD"><img  src="https://i.postimg.cc/vHZ35gmp/gherkin.png"  alt="Gherkin"  width="550"  height="260" /></a></div>
+
 
 
 #### 5.2.2.5. Execution Evidence for Sprint 2 Review.
 Aquí mostraremos todas las secciones que conforman la página web que hemos implementado durante el sprint. Durante el Sprint 2, se realizaron las siguientes tareas de ejecución:
-Desarrollo de la Página Web: El equipo de desarrollo trabajó en la creación y diseño de la página web, implementando las características y funcionalidades requeridas según las User Stories definidas para este sprint.
-Control de versiones: Se utilizó Git como sistema de control de versiones para colaborar en el desarrollo y realizar un seguimiento de los cambios realizados en el código.
+
+- Desarrollo de la Página Web: El equipo de desarrollo trabajó en la creación y diseño de la página web, implementando las características y funcionalidades requeridas según las User Stories definidas para este sprint.
+  
+- Control de versiones: Se utilizó Git como sistema de control de versiones para colaborar en el desarrollo y realizar un seguimiento de los cambios realizados en el código.
 Configuración del entorno de desarrollo: Se configuraron las herramientas necesarias, como WebStorm, para facilitar el desarrollo en TypeScript.
-Almacenamiento del proyecto en GitHub: Se creó un repositorio en GitHub para almacenar el proyecto en la nube y permitir la colaboración entre los miembros del equipo.
+
+- Almacenamiento del proyecto en GitHub: Se creó un repositorio en GitHub para almacenar el proyecto en la nube y permitir la colaboración entre los miembros del equipo.
 Realización de commits: Se utilizaron GitHub Desktop y Git para realizar commits y mantener un historial de versiones del proyecto.
 
+<br>
+
+[![webapp.png](https://i.postimg.cc/0NGkR2w0/webapp.png)](https://postimg.cc/B86923Nj)
+
+
+<br><br>
 
 
 #### 5.2.2.6. Services Documentation Evidence for Sprint 2 Review.
 
 Para alcanzar exitosamente los objetivos de este Sprint 2 el equipo tuvo que documentarse sobre las tecnologías que se iban a implementar. <br>
+
 Es por ello que a continuación se detalla la documentación a la que se acudió: <br>
-Html y CSS:Son dos tecnologías fundamentales para la creación y el diseño de sitios web. Aquí te proporciono una breve descripción de cada uno.<br>
-Vue: Vue se desarrolla principalmente utilizando Javascript. Javascript agrega un sistema de tipos estáticos al lenguaje, lo que ayuda a detectar errores en tiempo de compilación y proporciona un mejor soporte para herramientas de desarrollo.<br>
+
+- Html y CSS: Son dos tecnologías fundamentales para la creación y el diseño de sitios web. Aquí te proporciono una breve descripción de cada uno.
+
+- Vue: Vue se desarrolla principalmente utilizando Javascript. Javascript agrega un sistema de tipos estáticos al lenguaje, lo que ayuda a detectar errores en tiempo de compilación y proporciona un mejor soporte para herramientas de desarrollo.<br>
 https://vuejs.org/guide/introduction.html <br>
-WebStorm: Es un entorno de desarrollo que nos permitirá trabajar con typeScript.<br>
+
+- WebStorm: Es un entorno de desarrollo que nos permitirá trabajar con typeScript.<br>
 https://www.jetbrains.com/es-es/webstorm/learn/ <br>
 
 #### 5.2.2.7 Software Deployment Evidence for Sprint 2 Review
-Los objetivos fueron exitosamente alcanzados para el Sprint 2 de la página web. Por ello para esta sección “Software Deployment Evidence” nos centraremos en explicar las tecnologías que utilizamos, la creación de cuentas de repositorio y la configuración del ambiente de desarrollo. En esta entrega se usaron las tecnologías:<br>
-HTML: Es un lenguaje de marcado de Hipertexto el cual nos ayudó a la maquetación de la página web.<br>
-CSS: Lenguaje que no ayudó con el apartado visual de la página web.<br>
-El software usado para el desarrollo de la página web fue:<br>
-Git: Es un sistema de control de versiones que nos ayudó a trabajar en equipo para el desarrollo de la página web.<br>
-GitHub: Nos ayudó a almacenar nuestro proyecto en la nube.<br>
-GitHub Desktop: Software de escritorio que nos permitió realizar los commits a nuestro repositorio alojado en Github.<br>
+
+**Principal ventaja para alojar un sitio web en Vercel:** La principal ventaja de alojar un sitio web en Vercel es su facilidad de uso y velocidad de despliegue, lo que permite a los desarrolladores lanzar proyectos web rápidamente y escalarlos automáticamente según sea necesario. Además, su compatibilidad con tecnologías modernas y su generoso plan gratuito lo hacen atractivo para proyectos de desarrollo web.
+
+- Primero nos registramos en la página oficial de Vercel Hosting: vercel.com/
+- Luego, podemos vincular nuestra cuenta de GitHub y vincular los repositorios en este caso el respositorio de Web Application de Nimbus.
+
+<div align="center"><a  href = "https://postimg.cc/s1kRZbtc"><img  src="https://i.postimg.cc/9FMXshbv/vercel1.png"  alt="Vercel"  width="600"  height="200" /></a></div>
+
+<br>
+
+- Una vez vinculado nuestra cuenta de GitHub, Vercel reconocerá nuestro repositorio que queremos desplegar y desde allí empezará la construcción del mismo (Build).
+
+<div align="center"><a  href = "https://postimg.cc/fJYQ7Bsh"><img  src="https://i.postimg.cc/WbHpvHft/vercel2.png"  alt="Vercel"  width="600"  height="200" /></a></div>
+
+<br>
+
+- Esperamos a que el proceso de construcción termine.
+
+<div align="center"><a  href = "https://postimg.cc/YvkKdY2L"><img  src="https://i.postimg.cc/bwSyN9Kg/vercel3.png"  alt="Vercel"  width="600"  height="200" /></a></div>
+
+<br>
+
+- Luego, tendremos nuestra Web Application desplegada satisfactoriamente
+
+<div align="center"><a  href = "https://postimg.cc/t7ZjJ9mJ"><img  src="https://i.postimg.cc/HW3sSxww/vercel4.png"  alt="Vercel"  width="600"  height="200" /></a></div>
 
 
+<br><br>
 
 #### 5.2.2.8. Team Collaboration Insights during Sprint.
 
@@ -1587,6 +1634,8 @@ En el proceso de crear la página de aterrizaje (landing page), se dividió el t
 
 #### Conclusiones y recomendaciones
 
+**TB1:**
+
 - Para esta primera entrega que el proyecto va bien encaminado ya que supimos conocer la problemática de nuestro proyecto, nuestros competidores, nuestras mejoras con las entrevistas y logramos trasladar las necesidades encontradas a los User Stories logrando describir detalladamente el desarrollo del servicio final.
 <br>
 
@@ -1597,6 +1646,15 @@ En el proceso de crear la página de aterrizaje (landing page), se dividió el t
 <br>
 
 - Es esencial destacar que, además de las valiosas perspectivas obtenidas a través de entrevistas y análisis de necesidades de usuarios, la metodología de Lean UX, respaldada por herramientas como el Lean UX Canvas, Lean UX Hypothesis Statement y Lean UX Assumptions, ha demostrado ser una parte integral y efectiva para abordar la problemática que Nimbus busca resolver. Estas herramientas han facilitado la identificación y priorización de desafíos clave, la definición de hipótesis claras y la generación de soluciones orientadas a la experiencia del usuario. Su incorporación en la estrategia general de Nimbus es esencial para garantizar que la plataforma no solo responda a las necesidades de los usuarios, sino que también sea ágil, eficiente y capaz de mantenerse competitiva en un mercado diverso y en constante evolución.
+
+**TP:**
+
+- Durante el segundo Sprint, hemos logrado un despliegue exitoso de nuestra Frontend Web Application
+utilizando Vencel, aprovechando su sencilla configuración. Además, hemos implementado funciones clave en
+nuestra plataforma, como el inicio de sesión, el registro de usuarios, la sección de inicio, la integración con una
+API Fake mediante Json Server, así como los módulos de Servicios y Vista de productos software.
+
+<br>
 
 ## Bibliografía
 
@@ -1609,14 +1667,41 @@ Vue.js. (2022). The Progressive JavaScript Framework. Recuperado de: https://vue
 
 ## Anexos
 
-Video Presentación TB:
-- TB1: https://youtu.be/HmSDVh_GIpI
+### Anexo A: Video presentaciones de entregables
 
-Web Design:
-- Figma: https://www.figma.com/file/k8AIusN2MOZM3fxkko5Cel/Nimbus-Figma?type=design&node-id=2%3A6399&mode=design&t=EXkrd7bzraIYwNcG-1
+<div align="center"> Presentación TB1: </div>
 
-Landing Page:
-- Landing Desplegada: https://pv2y2n-3000.csb.app/
+<div align="center"><a  href = "https://postimg.cc/p5HrkymW"><img  src="https://i.postimg.cc/WzDZNkjk/portada.jpg"  alt="TB1"  width="600"  height="350" /></a></div>
+
+<div align="center">  URL:  <a  href="https://youtu.be/HmSDVh_GIpI"> https://youtu.be/HmSDVh_GIpI</a></div> 
+
+<br>
+
+### Anexo B: Diseños Mock-up
+
+<div align="center"> Web Design: </div>
+
+<div align="center"><a  href = "https://postimg.cc/ykvVwLJC"><img  src="https://i.postimg.cc/bwjsSMpr/figma.png"  alt="TB1"  width="600"  height="350" /></a></div>
+
+<div align="center">  URL:  <a  href="https://rb.gy/whnh8"> https://rb.gy/whnh8</a></div> 
+
+<br>
+
+### Anexo C: Deploy de los productos software de Nimbus
+
+<div align="center"> Landing Page: </div>
+
+<div align="center"><a  href = "https://postimg.cc/d7X3HQ7k"><img  src="https://i.postimg.cc/G23DpHdQ/landing_page.png"  alt="TB1"  width="600"  height="350" /></a></div>
+
+<div align="center">  URL:  <a  href="https://nimbus-webpage-oconjhm8d-fabiohornas-projects.vercel.app"> https://nimbus-webpage-oconjhm8d-fabiohornas-projects.vercel.app</a></div> 
+
+<br>
+
+<div align="center"> Web Application: </div>
+
+<div align="center"><a  href = "https://postimg.cc/B86923Nj"><img  src="https://i.postimg.cc/0NGkR2w0/webapp.png"  alt="TB1"  width="600"  height="350" /></a></div>
+
+<div align="center">  URL:  <a  href="https://nimbus-webpage-oconjhm8d-fabiohornas-projects.vercel.app"> https://nimbus-webpage-oconjhm8d-fabiohornas-projects.vercel.app</a></div> 
 
 <br><br>
 
