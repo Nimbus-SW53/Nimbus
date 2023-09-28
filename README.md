@@ -996,7 +996,7 @@ Nuestra aplicación se centra en la facilidad de navegación para el usuario, po
 
 En esta sección se presentarán los diagramas de la arquitectura de software diseñados para nuestra aplicación web. Para estos diseños aplicamos patrones de diseño de alto nivel, bajo el enfoque de Domain-Driven. De esta forma podremos comunicar de manera eficiente y efectiva nuestra arquitectura de software.
 
-#### 4.6.1. Software Architecture Context Diagram.
+#### 4.6.1. Software Architecture Context Diagrama
 ![Imgur](https://i.imgur.com/7QQGrjO.png) <br>
 
 #### 4.6.2. Software Architecture Container Diagrams.
