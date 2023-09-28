@@ -90,100 +90,92 @@ https://github.com/Nimbus-SW53/Nimbus
 	- [Student Outcome](#student-outcome)
 	- [Capítulo I: INTRODUCCIÓN](#capítulo-i-introducción)
 		- [1.1. Startup Profile](#11-startup-profile)
-		- [1.1.1 DESCRIPCIÓN DE LA STARTUP](#111-descripción-de-la-startup)
-			- [Misión](#misión)
-			- [Visión](#visión)
-		- [1.1.2 PERFILES DE INTEGRANTES](#112-perfiles-de-integrantes)
+			- [1.1.1 DESCRIPCIÓN DE LA STARTUP](#111-descripción-de-la-startup)
+			- [1.1.2 PERFILES DE INTEGRANTES](#112-perfiles-de-integrantes)
 		- [1.2 SOLUTION PROFILE](#12-solution-profile)
-		- [1.2.1 ANTECEDENTES Y PROBLEMÁTICA](#121-antecedentes-y-problemática)
-		- [1.2.2. LEAN UX PROCESS](#122-lean-ux-process)
-			- [1.2.2.1. LEAN UX PROBLEM STATEMENTS](#1221-lean-ux-problem-statements)
-			- [1.2.2.2. LEAN UX ASSUMPTIONS](#1222-lean-ux-assumptions)
-			- [1.2.2.3. LEAN UX HYPOTHESIS](#1223-lean-ux-hypothesis)
-			- [1.2.2.4.	LEAN UX CANVAS](#1224lean-ux-canvas)
+			- [1.2.1 ANTECEDENTES Y PROBLEMÁTICA](#121-antecedentes-y-problemática)
+			- [1.2.2. LEAN UX PROCESS](#122-lean-ux-process)
+				- [1.2.2.1. LEAN UX PROBLEM STATEMENTS](#1221-lean-ux-problem-statements)
+				- [1.2.2.2. LEAN UX ASSUMPTIONS](#1222-lean-ux-assumptions)
+				- [1.2.2.3. LEAN UX HYPOTHESIS](#1223-lean-ux-hypothesis)
+				- [1.2.2.4.	LEAN UX CANVAS](#1224lean-ux-canvas)
 		- [1.3. SEGMENTOS OBJETIVO](#13-segmentos-objetivo)
-			- [1. Proveedores de software:](#1-proveedores-de-software)
-			- [2. Clientes En Búsqueda de software:](#2-clientes-en-búsqueda-de-software)
-			- [Mapa de StakeHolders](#mapa-de-stakeholders)
 	- [Capítulo II: Requirements Elicitation \& Analysis](#capítulo-ii-requirements-elicitation--analysis)
 		- [2.1. Competidores.](#21-competidores)
-		- [2.1.1. ANÁLISIS COMPETITIVO](#211-análisis-competitivo)
-		- [2.1.2. ESTRATEGIAS Y TÁCTICAS FRENTE A COMPETIDORES](#212-estrategias-y-tácticas-frente-a-competidores)
+			- [2.1.1. ANÁLISIS COMPETITIVO](#211-análisis-competitivo)
+			- [2.1.2. ESTRATEGIAS Y TÁCTICAS FRENTE A COMPETIDORES](#212-estrategias-y-tácticas-frente-a-competidores)
 		- [2.2. ENTREVISTAS](#22-entrevistas)
-		- [2.2.1. DISEÑO DE ENTREVISTAS](#221-diseño-de-entrevistas)
-		- [2.2.2.	REGISTRO DE ENTREVISTAS](#222registro-de-entrevistas)
-		- [2.2.3.	ANÁLISIS DE ENTREVISTAS](#223análisis-de-entrevistas)
+			- [2.2.1. DISEÑO DE ENTREVISTAS](#221-diseño-de-entrevistas)
+			- [2.2.2.	REGISTRO DE ENTREVISTAS](#222registro-de-entrevistas)
+			- [2.2.3.	ANÁLISIS DE ENTREVISTAS](#223análisis-de-entrevistas)
 		- [2.3. NEEDFINDING](#23-needfinding)
-		- [2.3.1. USER PERSONAS](#231-user-personas)
-		- [2.3.2. USER TASK MATRIX](#232-user-task-matrix)
-		- [2.3.3. USER JOURNEY MAP](#233-user-journey-map)
-		- [2.3.4. EMPATHY MAPS](#234-empathy-maps)
-		- [2.3.5. AS-IS SCENARIO MAPS](#235-as-is-scenario-maps)
-		- [Capítulo III: REQUIERMENTS SPECIFICATION](#capítulo-iii-requierments-specification)
+			- [2.3.1. USER PERSONAS](#231-user-personas)
+			- [2.3.2. USER TASK MATRIX](#232-user-task-matrix)
+			- [2.3.3. USER JOURNEY MAP](#233-user-journey-map)
+			- [2.3.4. EMPATHY MAPS](#234-empathy-maps)
+			- [2.3.5. AS-IS SCENARIO MAPS](#235-as-is-scenario-maps)
+	- [Capítulo III: REQUIERMENTS SPECIFICATION](#capítulo-iii-requierments-specification)
 		- [3.1. TO-BE SCENARIO MAPS](#31-to-be-scenario-maps)
 		- [3.2.USER STORIES](#32user-stories)
-	- [3.3. IMPACT MAPPING](#33-impact-mapping)
+		- [3.3. IMPACT MAPPING](#33-impact-mapping)
 		- [3.4 PRODUCT BACKLOG](#34-product-backlog)
 	- [Capítulo IV: Product Design](#capítulo-iv-product-design)
 		- [4.1. Style Guidelines](#41-style-guidelines)
-		- [4.1.1. General Style Guidelines](#411-general-style-guidelines)
-		- [4.1.2. Web Style Guidelines](#412-web-style-guidelines)
+			- [4.1.1. General Style Guidelines](#411-general-style-guidelines)
+			- [4.1.2. Web Style Guidelines](#412-web-style-guidelines)
 		- [4.2. Information Architecture](#42-information-architecture)
-		- [4.2.1. Organization Systems](#421-organization-systems)
-		- [4.2.2. Labeling Systems](#422-labeling-systems)
-		- [4.2.3. SEO Tags and Meta Tags](#423-seo-tags-and-meta-tags)
-		- [4.2.4. Searching Systems](#424-searching-systems)
-		- [4.2.5. Navigation Systems](#425-navigation-systems)
+			- [4.2.1. Organization Systems](#421-organization-systems)
+			- [4.2.2. Labeling Systems](#422-labeling-systems)
+			- [4.2.3. SEO Tags and Meta Tags](#423-seo-tags-and-meta-tags)
+			- [4.2.4. Searching Systems](#424-searching-systems)
+			- [4.2.5. Navigation Systems](#425-navigation-systems)
 		- [4.3. Landing Page UI Design](#43-landing-page-ui-design)
-		- [4.3.1. Landing Page Wireframe](#431-landing-page-wireframe)
-		- [4.3.2. Landing Page Mock-up](#432-landing-page-mock-up)
+			- [4.3.1. Landing Page Wireframe](#431-landing-page-wireframe)
+			- [4.3.2. Landing Page Mock-up](#432-landing-page-mock-up)
 		- [4.4. Web Applications UX/UI Design](#44-web-applications-uxui-design)
-		- [4.4.1. Web Applications Wireframes](#441-web-applications-wireframes)
-		- [4.4.2. Web Applications Wireflow Diagrams](#442-web-applications-wireflow-diagrams)
-		- [4.4.3. Web Applications Mock-ups](#443-web-applications-mock-ups)
-		- [4.4.3. Web Applications User Flow Diagrams.](#443-web-applications-user-flow-diagrams)
+			- [4.4.1. Web Applications Wireframes](#441-web-applications-wireframes)
+			- [4.4.2. Web Applications Wireflow Diagrams](#442-web-applications-wireflow-diagrams)
+			- [4.4.3. Web Applications Mock-ups](#443-web-applications-mock-ups)
+			- [4.4.4. Web Applications User Flow Diagrams.](#444-web-applications-user-flow-diagrams)
 		- [4.5. Web Applications Prototyping.](#45-web-applications-prototyping)
 		- [4.6. Domain-Driven Software Architecture.](#46-domain-driven-software-architecture)
-		- [4.6.1. Software Architecture Context Diagram.](#461-software-architecture-context-diagram)
-		- [4.6.2. Software Architecture Container Diagrams.](#462-software-architecture-container-diagrams)
-		- [4.6.3. Software Architecture Components Diagrams.](#463-software-architecture-components-diagrams)
+			- [4.6.1. Software Architecture Context Diagram.](#461-software-architecture-context-diagram)
+			- [4.6.2. Software Architecture Container Diagrams.](#462-software-architecture-container-diagrams)
+			- [4.6.3. Software Architecture Components Diagrams.](#463-software-architecture-components-diagrams)
 		- [4.7. Software Object-Oriented Design.](#47-software-object-oriented-design)
-		- [4.7.1. Class Diagrams.](#471-class-diagrams)
-		- [4.7.2. Class Dictionary.](#472-class-dictionary)
+			- [4.7.1. Class Diagrams.](#471-class-diagrams)
+			- [4.7.2. Class Dictionary.](#472-class-dictionary)
 		- [4.8. Database Design.](#48-database-design)
-		- [4.8.1. Database Diagram.](#481-database-diagram)
+			- [4.8.1. Database Diagram.](#481-database-diagram)
 	- [Capítulo V: Product Implementation, Validation \& Deployment](#capítulo-v-product-implementation-validation--deployment)
 		- [5.1. Software Configuration Management.](#51-software-configuration-management)
-		- [5.1.1. Software Development Environment Configuration.](#511-software-development-environment-configuration)
-		- [5.1.2. Source Code Management.](#512-source-code-management)
-		- [5.1.3. Source Code Style Guide \& Conventions.](#513-source-code-style-guide--conventions)
-		- [5.1.4. Software Deployment Configuration.](#514-software-deployment-configuration)
+			- [5.1.1. Software Development Environment Configuration.](#511-software-development-environment-configuration)
+			- [5.1.2. Source Code Management.](#512-source-code-management)
+			- [5.1.3. Source Code Style Guide \& Conventions.](#513-source-code-style-guide--conventions)
+			- [5.1.4. Software Deployment Configuration.](#514-software-deployment-configuration)
 		- [5.2. Landing Page, Services \& Applications Implementation.](#52-landing-page-services--applications-implementation)
-		- [5.2.1. Sprint 1](#521-sprint-1)
-	- [| EPIC-06      | Landing Page | Como usuario quiero acceder a una página web para acceder a los detalles de los servicios de la solución |](#-epic-06-------landing-page--como-usuario-quiero-acceder-a-una-página-web-para-acceder-a-los-detalles-de-los-servicios-de-la-solución-)
-		- [5.2.1.1. Sprint Planning 1.](#5211-sprint-planning-1)
-		- [5.2.1.2. Sprint Backlog 1.](#5212-sprint-backlog-1)
-		- [5.2.1.3. Development Evidence for Sprint Review.](#5213-development-evidence-for-sprint-review)
-		- [5.2.1.4. Testing Suite Evidence for Sprint Review.](#5214-testing-suite-evidence-for-sprint-review)
-		- [5.2.1.5. Execution Evidence for Sprint Review.](#5215-execution-evidence-for-sprint-review)
-		- [5.2.1.6. Services Documentation Evidence for Sprint Review.](#5216-services-documentation-evidence-for-sprint-review)
-		- [5.2.1.7. Software Deployment Evidence for Sprint Review.](#5217-software-deployment-evidence-for-sprint-review)
-		- [5.2.1.8. Team Collaboration Insights during Sprint.](#5218-team-collaboration-insights-during-sprint)
+			- [5.2.1. Sprint 1](#521-sprint-1)
+				- [5.2.1.1. Sprint Planning 1.](#5211-sprint-planning-1)
+				- [5.2.1.2. Sprint Backlog 1.](#5212-sprint-backlog-1)
+				- [5.2.1.3. Development Evidence for Sprint Review.](#5213-development-evidence-for-sprint-review)
+				- [5.2.1.4. Testing Suite Evidence for Sprint Review.](#5214-testing-suite-evidence-for-sprint-review)
+				- [5.2.1.5. Execution Evidence for Sprint Review.](#5215-execution-evidence-for-sprint-review)
+				- [5.2.1.6. Services Documentation Evidence for Sprint Review.](#5216-services-documentation-evidence-for-sprint-review)
+				- [5.2.1.7. Software Deployment Evidence for Sprint Review.](#5217-software-deployment-evidence-for-sprint-review)
+				- [5.2.1.8. Team Collaboration Insights during Sprint.](#5218-team-collaboration-insights-during-sprint)
 		- [5.2.2. Sprint 2](#522-sprint-2)
-		- [5.2.2.1. Sprint Planning 2](#5221-sprint-planning-2)
-		- [5.2.2.2. Sprint Backlog 2](#5222-sprint-backlog-2)
-		- [5.2.2.3. Development Evidence for Sprint 2 Review.](#5223-development-evidence-for-sprint-2-review)
-		- [5.2.2.4. Testing Suite Evidence for Sprint 2 Review.](#5224-testing-suite-evidence-for-sprint-2-review)
-		- [5.2.2.5. Execution Evidence for Sprint 2 Review.](#5225-execution-evidence-for-sprint-2-review)
-		- [5.2.2.6. Services Documentation Evidence for Sprint 2 Review.](#5226-services-documentation-evidence-for-sprint-2-review)
-		- [5.2.2.7 Software Deployment Evidence for Sprint 2 Review](#5227-software-deployment-evidence-for-sprint-2-review)
-		- [5.2.2.8. Team Collaboration Insights during Sprint.](#5228-team-collaboration-insights-during-sprint)
-	- [5.3. Validation Interviews.](#53-validation-interviews)
-		- [5.3.1. Diseño de entrevistas.](#531-diseño-de-entrevistas)
-		- [Conclusiones](#conclusiones)
-		- [Conclusiones y recomendaciones](#conclusiones-y-recomendaciones)
-		- [Bibliografía](#bibliografía)
-		- [Anexos](#anexos)
+			- [5.2.2.1. Sprint Planning 2](#5221-sprint-planning-2)
+			- [5.2.2.2. Sprint Backlog 2](#5222-sprint-backlog-2)
+			- [5.2.2.3. Development Evidence for Sprint 2 Review.](#5223-development-evidence-for-sprint-2-review)
+			- [5.2.2.4. Testing Suite Evidence for Sprint 2 Review.](#5224-testing-suite-evidence-for-sprint-2-review)
+			- [5.2.2.5. Execution Evidence for Sprint 2 Review.](#5225-execution-evidence-for-sprint-2-review)
+			- [5.2.2.6. Services Documentation Evidence for Sprint 2 Review.](#5226-services-documentation-evidence-for-sprint-2-review)
+			- [5.2.2.7 Software Deployment Evidence for Sprint 2 Review](#5227-software-deployment-evidence-for-sprint-2-review)
+			- [5.2.2.8. Team Collaboration Insights during Sprint.](#5228-team-collaboration-insights-during-sprint)
+	- [Conclusiones](#conclusiones)
+			- [Conclusiones y recomendaciones](#conclusiones-y-recomendaciones)
+	- [Bibliografía](#bibliografía)
+	- [Anexos](#anexos)
 
 <br><br>
 
@@ -203,7 +195,7 @@ En el siguiente cuadro se describe las acciones realizadas y enunciados de concl
 
 ### 1.1. Startup Profile
 
-### 1.1.1 DESCRIPCIÓN DE LA STARTUP
+#### 1.1.1 DESCRIPCIÓN DE LA STARTUP
 
 Nos presentamos como *Nimbus, una startup peruana que opera bajo el respaldo de **StratusPhere*, una empresa. Nuestro equipo está formado por estudiantes con experiencia en diseño y programación. El nombre "Nimbus" simboliza nuestra ambición de elevar el nivel en la forma en que los clientes se conectan con los proveedores de software, de manera similar a cómo las nubes nimbus se elevan en el cielo. En un contexto sociopolítico que ha acelerado la digitalización y la demanda de soluciones de software, hemos identificado una valiosa oportunidad para desempeñar un papel crucial en este mercado.
 
@@ -211,15 +203,15 @@ En la actualidad, los cambios en la sociedad y la política han impulsado un ava
 
 En consonancia con la especialización de nuestro equipo en tecnologías web, nuestra plataforma se desarrolla utilizando lenguajes y frameworks modernos como *HTML5, CSS3, JavaScript, React* y *Angular*. Esta base tecnológica nos permite ofrecer una experiencia de usuario excepcional al tiempo que mantenemos los más altos estándares en seguridad y eficiencia.
 
-#### Misión
+**Misión:**
 
 "Nuestro propósito es hacer que el acceso a soluciones de software de alto calibre en Perú sea accesible y personalizado para todos. Trabajamos arduamente para derribar las barreras existentes entre los proveedores de software y los usuarios, facilitando un emparejamiento eficiente y efectivo mediante nuestra plataforma web de vanguardia."
 
-#### Visión
+**Visión:**
 
 "Nuestra meta es convertirnos en el punto central de la cadena de valor del software en Perú, promoviendo la digitalización y aportando al progreso tecnológico del país. En perspectiva, buscamos que los usuarios experimenten una total familiaridad y satisfacción con las tecnologías emergentes y los servicios proporcionados por Nimbus."
 
-### 1.1.2 PERFILES DE INTEGRANTES
+#### 1.1.2 PERFILES DE INTEGRANTES
 
 <a  href = "https://postimg.cc/CdFfHqtq"><img  src="https://i.postimg.cc/FFSgvbVD/Fabio-Presentacion.jpg"  alt="Integrante 1 - Fabio Horna"  width="250"  height="450" /></a>
 
@@ -234,7 +226,7 @@ En consonancia con la especialización de nuestro equipo en tecnologías web, nu
 
 ### 1.2 SOLUTION PROFILE
 
-### 1.2.1 ANTECEDENTES Y PROBLEMÁTICA
+#### 1.2.1 ANTECEDENTES Y PROBLEMÁTICA
 
 <li>Who?</li>
 
@@ -266,9 +258,9 @@ Nuestro modelo económico se fundamenta en el cobro de una comisión por transac
 
 <div align="center"><a  href = "https://postimg.cc/mPbdHkBL"><img  src="https://i.postimg.cc/kgSLLRHb/problem.jpg"  alt="Problem"  width="550"  height="260" /></a></div>
 
-### 1.2.2. LEAN UX PROCESS
+#### 1.2.2. LEAN UX PROCESS
 
-#### 1.2.2.1. LEAN UX PROBLEM STATEMENTS
+##### 1.2.2.1. LEAN UX PROBLEM STATEMENTS
 
 La revolución digital ha incrementado la dependencia en soluciones de software para empresas, gobiernos y particulares en la realización de operaciones críticas, la gestión de datos y la prestación de servicios (Statista, 2023).
 
@@ -285,7 +277,7 @@ Por lo tanto, la pregunta crítica que surge es:
 <br>
 
 
-#### 1.2.2.2. LEAN UX ASSUMPTIONS
+##### 1.2.2.2. LEAN UX ASSUMPTIONS
 
 **Business outcomes:**
  
@@ -350,7 +342,7 @@ Por lo tanto, la pregunta crítica que surge es:
 
 <div align="center"><a  href = "https://postimg.cc/R3hXgYW2"><img  src="https://i.postimg.cc/hGb6tWc4/assumptions.png"  alt="Assumptions"  width="550"  height="260" /></a></div>
 
-#### 1.2.2.3. LEAN UX HYPOTHESIS
+##### 1.2.2.3. LEAN UX HYPOTHESIS
 
 **Hipótesis del negocio:**
 
@@ -388,7 +380,7 @@ Creemos que nuestra plataforma permitirá a los usuarios tomar decisiones más e
 - **Métricas Accesibles:**
    Pensamos que al ofrecer métricas accesibles post-compra, los usuarios podrán medir el ROI de su decisión.
    
-#### 1.2.2.4.	LEAN UX CANVAS
+##### 1.2.2.4.	LEAN UX CANVAS
 
 [![lean-ux-canvas.jpg](https://i.postimg.cc/fbLk4gkV/lean-ux-canvas.jpg)](https://postimg.cc/FYMh3pyv)
 
@@ -396,7 +388,7 @@ Creemos que nuestra plataforma permitirá a los usuarios tomar decisiones más e
 
 Como una startup emergente en el mercado peruano que aspira a incursionar en el proceso de selección y adquisición de software mediante una plataforma web robusta y fácil de usar, hemos enfocado nuestra propuesta en dos principales segmentos en el mercado:
 
-#### 1. Proveedores de software:
+**1. Proveedores de software:**
 
 * **Características:**
 	+ Empresas enfocadas al desarrollo de software o freelancers que ofrezcan servicios en la creación de software.
@@ -426,7 +418,7 @@ Como una startup emergente en el mercado peruano que aspira a incursionar en el 
 	+ Ofrecer herramientas analíticas para que los proveedores puedan medir el rendimiento de sus listados y tomar decisiones a futuro.
 
  
-#### 2. Clientes En Búsqueda de software:
+**2. Clientes En Búsqueda de software:**
 
 * **Características**
 
@@ -449,7 +441,7 @@ Como una startup emergente en el mercado peruano que aspira a incursionar en el 
 	+ Desarrollar un motor de búsqueda intuitivo con filtros avanzados que permitan a los clientes encontrar el software que mejor se adapte a sus necesidades.
 
 
-#### Mapa de StakeHolders
+**Mapa de StakeHolders:**
 
 [![stakeholders.png](https://i.postimg.cc/s2dQWJ2x/stakeholders.png)](https://postimg.cc/68cpJnnx)
 
@@ -457,11 +449,11 @@ Como una startup emergente en el mercado peruano que aspira a incursionar en el 
 
 ### 2.1. Competidores.
 
-### 2.1.1. ANÁLISIS COMPETITIVO
+#### 2.1.1. ANÁLISIS COMPETITIVO
 
 [![Analisis-Competitivo.jpg](https://i.postimg.cc/3NQ5Z9bf/Analisis-Competitivo.jpg)](https://postimg.cc/1nBjm0SD)
 
-### 2.1.2. ESTRATEGIAS Y TÁCTICAS FRENTE A COMPETIDORES
+#### 2.1.2. ESTRATEGIAS Y TÁCTICAS FRENTE A COMPETIDORES
 
 Teniendo en cuenta la comparación de competencias anterior. Se tomarán las siguientes tácticas frente a los competidores como:
 
@@ -490,7 +482,7 @@ Teniendo en cuenta la comparación de competencias anterior. Se tomarán las sig
 
 ### 2.2. ENTREVISTAS
 
-### 2.2.1. DISEÑO DE ENTREVISTAS
+#### 2.2.1. DISEÑO DE ENTREVISTAS
 
 Estas preguntas van dirigidas para las entrevistas de los usuarios IT encargados de la infraestructura de una empresa, usuarios IT encargados de proyectos pequeños o individuales que requieren Cloud Services.
 
@@ -531,7 +523,7 @@ Estas preguntas van dirigidas para las entrevistas de los usuarios IT encargados
 	* ¿Como considera que estas mejoras ayudaran a sus proyectos en el futuro?
 
 * Despedida y agradecimiento
-### 2.2.2.	REGISTRO DE ENTREVISTAS 
+#### 2.2.2.	REGISTRO DE ENTREVISTAS 
 **Entrevistado/a:** Alexandra Moreno
 [![interview1.png](https://i.postimg.cc/X7kYYrvG/interview1.png)](https://postimg.cc/KR429vBx)
 
@@ -569,7 +561,7 @@ Nadir, un asistente a distancia de 25 años que trabaja en el sector educativo, 
 Nadir ve con interés la posibilidad de contar con una plataforma centralizada que simplifique el proceso de selección de software, permitiéndole comparar las características y costos de diferentes opciones de manera más eficiente. Él cree que Nimbus, al centrarse en facilitar la búsqueda de software que se adapte a las necesidades individuales del usuario, podría ser una valiosa herramienta para ahorrar tiempo y mejorar la eficacia en este proceso.
 
 
-### 2.2.3.	ANÁLISIS DE ENTREVISTAS
+#### 2.2.3.	ANÁLISIS DE ENTREVISTAS
 **Resumen Ejecutivo** 
 
 Las entrevistas con Alexandra, Luis y Nadir proporcionan diferentes y complementarias perspectivas sobre la importancia, ventajas y obstáculos de emplear una plataforma de intermediación de software como Nimbus. Temas recurrentes en sus conversaciones abarcan aspectos como la satisfacción del cliente, la visibilidad en el mercado, la captación de nuevos clientes y la eficacia en el proceso de selección de software.
@@ -623,7 +615,7 @@ Para llevar a cabo este análisis, se recopilaron datos cualitativos mediante en
 
 ### 2.3. NEEDFINDING
 
-### 2.3.1. USER PERSONAS
+#### 2.3.1. USER PERSONAS
 
 - **Usuario Desarrollador**: Se toma en cuenta lo rescatado de las entrevistas hacia el segmento de desarrolladores.
 
@@ -643,7 +635,7 @@ Para llevar a cabo este análisis, se recopilaron datos cualitativos mediante en
 
   
 
-### 2.3.2. USER TASK MATRIX
+#### 2.3.2. USER TASK MATRIX
 En el presente User Task Matrix se mostrarán las tareas de los segmentos objetivos Usuario Empresa y Usuario Desarrollador, como también se hará un esquema de importancia y frecuencia.
 
 <br>
@@ -652,7 +644,7 @@ En el presente User Task Matrix se mostrarán las tareas de los segmentos objeti
 
   
 
-### 2.3.3. USER JOURNEY MAP
+#### 2.3.3. USER JOURNEY MAP
 
 - **Usuario Desarrollador**
 
@@ -669,7 +661,7 @@ En el presente User Task Matrix se mostrarán las tareas de los segmentos objeti
 [![User-Journey-Usuario-Cliente.jpg](https://i.postimg.cc/T178kjSM/User-Journey-Usuario-Cliente.jpg)](https://postimg.cc/V0CHvtmD)
   
 
-### 2.3.4. EMPATHY MAPS
+#### 2.3.4. EMPATHY MAPS
 
   
 - **Usuario Desarrollador**
@@ -687,7 +679,7 @@ En el presente User Task Matrix se mostrarán las tareas de los segmentos objeti
   
 <br>
 
-### 2.3.5. AS-IS SCENARIO MAPS
+#### 2.3.5. AS-IS SCENARIO MAPS
 
 - **As_Is Scenario Map Desarrollador**
 
@@ -705,7 +697,7 @@ En el presente User Task Matrix se mostrarán las tareas de los segmentos objeti
 
   
  
-### Capítulo III: REQUIERMENTS SPECIFICATION
+## Capítulo III: REQUIERMENTS SPECIFICATION
 
 ### 3.1. TO-BE SCENARIO MAPS
 
@@ -759,7 +751,7 @@ En el presente User Task Matrix se mostrarán las tareas de los segmentos objeti
 | User Story 14      | Preguntas Frecuentes            | Como usuario quiero poder visualizar las preguntas frecuentes del producto para poder aclarar mis dudas.	           | Escenario:  El usuario quiere aclarar las dudas acerca de la página web. Dado que el usuario se encuentra en la pantalla de inicio Cuando haga clic en <Conócenos> Entonces la página le llevará a las sección de preguntas frecuentes.| Epic 06
 
 
-## 3.3. IMPACT MAPPING
+### 3.3. IMPACT MAPPING
 
 - **Usuario Desarrollador**
 
@@ -794,7 +786,7 @@ En el presente User Task Matrix se mostrarán las tareas de los segmentos objeti
 ## Capítulo IV: Product Design
 
 ### 4.1. Style Guidelines
-### 4.1.1. General Style Guidelines
+#### 4.1.1. General Style Guidelines
 
 En esta sección, definiremos los colores y fuentes que se aplicarán de manera consistente tanto en la página de inicio como en la futura aplicación web que estamos desarrollando. Hemos optado por seguir las pautas del IBM Design Language como nuestro enfoque de diseño. Para nuestra paleta de colores, hemos elegido un tono de celeste, que aporta un toque de elegancia y seriedad. 
 
@@ -812,7 +804,7 @@ La fuente principal que hemos elegido es "Century Gothic" para nuestro proyecto.
 
 Fuente: Wikipedia
 
-### 4.1.2. Web Style Guidelines
+#### 4.1.2. Web Style Guidelines
 
 En el Style Guideline hemos definido los colores y tipografía a utilizar en el proyecto.
 
@@ -830,7 +822,7 @@ Fuente: Fontke
 
 En esta sección, mostraremos la arquitectura de información que hemos utilizado como parte de nuestro proceso de diseño UX. Aquí, organizaremos el contenido teniendo en cuenta las necesidades específicas de nuestra audiencia, nuestro producto y nuestros objetivos.
 
-### 4.2.1. Organization Systems
+#### 4.2.1. Organization Systems
 
 En la planificación de sistemas de organización, consideramos estructuras jerárquicas. También tenemos en cuenta esquemas de organización como el alfabético, cronológico y por temas, entre otros.
 
@@ -842,7 +834,7 @@ Consideramos la estructura jerárquica para el acceso a las funciones y configur
 
 Fuente: Elaboración propia
 
-### 4.2.2. Labeling Systems
+#### 4.2.2. Labeling Systems
 
 Para los labelling systems se ha utilizado un lenguaje formal y fácil de entender.
 
@@ -860,9 +852,9 @@ Para los labelling systems se ha utilizado un lenguaje formal y fácil de entend
 
 Fuente: Elaboración Propia
 
-### 4.2.3. SEO Tags and Meta Tags
+#### 4.2.3. SEO Tags and Meta Tags
 
-### 4.2.4. Searching Systems
+#### 4.2.4. Searching Systems
 
 Introduciremos un sistema de búsqueda en diversos secciones con el propósito de simplificar la navegación y facilitar la búsqueda de información para el usuario.
 
@@ -876,7 +868,7 @@ El sistema de búsqueda estará disponible en los siguientes casos:
 
 - Lista de usuarios (Red)
 
-### 4.2.5. Navigation Systems
+#### 4.2.5. Navigation Systems
 
 Se introducirá un sistema de navegación animado en varios segmentos de la plataforma, incluyendo situaciones como las siguientes:
 
@@ -894,7 +886,7 @@ La mayor parte de la información relacionada con planes, servicios, cotizacione
 
 ### 4.3. Landing Page UI Design
 
-### 4.3.1. Landing Page Wireframe
+#### 4.3.1. Landing Page Wireframe
 Hemos empleado Wireframe.ccy Google Imagenes en el proceso de creación del wireframe de la página de inicio de Nimbus.
 
 ***Figura #:***
@@ -912,7 +904,7 @@ Hemos empleado Wireframe.ccy Google Imagenes en el proceso de creación del wire
 
 *Fuente: Elaboración Propia*
 
-### 4.3.2. Landing Page Mock-up
+#### 4.3.2. Landing Page Mock-up
 
 Hemos elaborado un prototipo completo de la página de inicio, teniendo en cuenta diversas pautas y principios de diseño, con el objetivo de facilitar y hacer más intuitiva la experiencia de ingreso de los usuarios a la aplicación web.
 
@@ -932,7 +924,7 @@ Hemos elaborado un prototipo completo de la página de inicio, teniendo en cuent
 
 ### 4.4. Web Applications UX/UI Design
 
-### 4.4.1. Web Applications Wireframes
+#### 4.4.1. Web Applications Wireframes
 
 Hemos empleado Wireframe.cc como nuestra principal herramienta para crear los esquemas visuales de nuestra aplicación web. Además, recurrimos a Googley Images para adquirir imágenes y iconos que complementen nuestro proyecto.
 
@@ -956,7 +948,7 @@ Hemos empleado Wireframe.cc como nuestra principal herramienta para crear los es
 
 [![Image-13.jpg](https://i.postimg.cc/MpdvSZSV/Image-13.jpg)](https://postimg.cc/FYk9b41H)
 
-### 4.4.2. Web Applications Wireflow Diagrams
+#### 4.4.2. Web Applications Wireflow Diagrams
 
 En esta sección, se presentarán los diagramas de flujo visual (wireflows) que hemos identificado para el desarrollo de la aplicación web, así como las diversas interacciones que estarán disponibles para nuestros usuarios.
 
@@ -973,7 +965,7 @@ En esta sección, se presentarán los diagramas de flujo visual (wireflows) que 
 
 
 
-### 4.4.3. Web Applications Mock-ups
+#### 4.4.3. Web Applications Mock-ups
 
 Los mock-ups de la aplicación web Nimbus, se diseñó en Figma, siguiendo las heurísticas y principios IA para que sea fácil e intuitiva de usar.
 
@@ -981,7 +973,7 @@ Los mock-ups de la aplicación web Nimbus, se diseñó en Figma, siguiendo las h
 
 [![Image-17.jpg](https://i.postimg.cc/Vsgy4JBq/Image-17.jpg)](https://postimg.cc/Wtdf1byz)
 
-### 4.4.3. Web Applications User Flow Diagrams.
+#### 4.4.4. Web Applications User Flow Diagrams.
 
 Los mock-ups de la aplicación web Nimbus, se diseñó en Figma, consiguiendo una base para el desarrollo.
 
@@ -998,27 +990,28 @@ Nuestra aplicación se centra en la facilidad de navegación para el usuario, po
 
 En esta sección se presentarán los diagramas de la arquitectura de software diseñados para nuestra aplicación web. Para estos diseños aplicamos patrones de diseño de alto nivel, bajo el enfoque de Domain-Driven. De esta forma podremos comunicar de manera eficiente y efectiva nuestra arquitectura de software.
 
-### 4.6.1. Software Architecture Context Diagram.
+#### 4.6.1. Software Architecture Context Diagram.
 ![Imgur](https://i.imgur.com/7QQGrjO.png) <br>
 
-### 4.6.2. Software Architecture Container Diagrams.
+#### 4.6.2. Software Architecture Container Diagrams.
 
 Container Diagram de nuestra aplicación en el cual visualizamos la forma de alto nivel de la arquitectura del software y de qué manera se distribuyen  las responsabilidades en ella.
 ![Imgur](https://i.imgur.com/pWrcA78.png) <br>
 
 
 
-### 4.6.3. Software Architecture Components Diagrams.
+#### 4.6.3. Software Architecture Components Diagrams.
 
 
 ![Imgur](https://i.imgur.com/xKQvuSk.png) <br>
 
 ### 4.7. Software Object-Oriented Design.
 
-### 4.7.1. Class Diagrams.
+#### 4.7.1. Class Diagrams.
 
 ![Imgur](https://i.imgur.com/yiRpiqV.png) <br>
-### 4.7.2. Class Dictionary.
+
+#### 4.7.2. Class Dictionary.
 Se partió desde una clase servicio que hereda parámetros genéricos a cada categoría de servicio(VMs, DataBase y Serverless). La clase PricingQuote (cotización) contienen al core de comparación y genera guarda un identificador para la cotización. Siguiendo el flujo, la clase History se compone de varias cotizaciones y estas se relacionan a un User o usuario.
 
 ![Imgur](https://i.imgur.com/9Ehg1Jv.png)
@@ -1028,7 +1021,7 @@ Se partió desde una clase servicio que hereda parámetros genéricos a cada cat
 Para el proyecto se estableció utilizar una base de datos relacional. Las entidades principales serían User, Pricing_quote, Historic y Service_historic. Todas las entidades tienen una relación con el un microservicio los cuales son seguridad, calculo, visualización y escalabilidad.
 En el diagrama se agregan más entidades basadas en el proceso de normalización de los datos, este proceso se aplicó con el objetivo de minimizar la redundancia de datos y facilitar la gestión en el futuro.
 
-### 4.8.1. Database Diagram.
+#### 4.8.1. Database Diagram.
 
 Utilizamos Vertabelo para desarrollar el diagrama de clases.
 
@@ -1039,7 +1032,8 @@ Utilizamos Vertabelo para desarrollar el diagrama de clases.
 ## Capítulo V: Product Implementation, Validation & Deployment
 
 ### 5.1. Software Configuration Management.
-### 5.1.1. Software Development Environment Configuration.
+
+#### 5.1.1. Software Development Environment Configuration.
 
 La configuración de nuestro ambiente de desarrollo está divida en:
 
@@ -1075,7 +1069,7 @@ Herramientas permitidas:
 
 
 
-### 5.1.2. Source Code Management.
+#### 5.1.2. Source Code Management.
 
 Para el manejo de nuestros repositorios utilizaremos las siguientes políticas:
 
@@ -1102,7 +1096,7 @@ Es el flujo de trabajo que se utilizará en Git para agregar nuevas funcionalida
 
 [![gitflow.png](https://i.postimg.cc/wTRNwFHk/gitflow.png)](https://postimg.cc/ZCZ0R8W9)
 
-### 5.1.3. Source Code Style Guide & Conventions.
+#### 5.1.3. Source Code Style Guide & Conventions.
 
 Utilizaremos la guía de estilos y convenciones de codificación en C#, que replicamos en JavaScript por su similitud, ofrecida por Microsoft. Y para el HTML/CSS utilizaremos la guía de estilos desarrollado por la fundación Mozilla. Asimismo, utilizaremos las siguientes tecnologías:
 
@@ -1137,33 +1131,33 @@ Utilizaremos la guía de estilos y convenciones de codificación en C#, que repl
 **Herramientas:**
 - Seguiremos utilizando las tecnologías consideradas para el desarrollo de la aplicación, durante los siguientes sprints, como: Rider, Github, Git , WebStorm.
 
-### 5.1.4. Software Deployment Configuration.
+#### 5.1.4. Software Deployment Configuration.
 
 [Se necesita la Landing Page Desplegada]
 
 <br>
 
 ### 5.2. Landing Page, Services & Applications Implementation.
-### 5.2.1. Sprint 1
+
+#### 5.2.1. Sprint 1
 
 | **Épica ID** | **Título** | **Descripción** |
 |--------------|------------|-----------------|
-| EPIC-06      | Landing Page | Como usuario quiero acceder a una página web para acceder a los detalles de los servicios de la solución |
----
+| EPIC-07      | Landing Page | Como usuario quiero acceder a una página web para acceder a los detalles de los servicios de la solución |
+
 | **User ID** | **Título** | **Descripción** | **Criterio de Aceptación** |
 |-------------|------------|-----------------|-----------------------------|
 | US-L1 | Cambiar idioma de la web | Como visitante del segmento clientes o proveedores quiero poder cambiar el idioma de la página. | **Escenario:** Usuario cambia el idioma de la página de Inglés a español. <br><br>**DADO** que el visitante se encuentra en la pantalla principal <br>**CUANDO** haga clic en el botón "Ingles" Y selecciona la opción 'español'<br> **ENTONCES** el sistema cambia los textos de la página a 'español'. |
 | US-L2 | Visualización del Call to Action | Como visitante del segmento clientes o proveedores quiero visualizar en el inicio un botón para poder contactarme con los creadores. | **Escenario:** Usuario accede al formulario de contacto <br><br>**DADO** que el usuario se encuentra en la pantalla de inicio<br> **CUANDO** haga clic en el botón "Contactar" <br>**ENTONCES** será enviada a la sección del formulario de contacto del Landing page. |
 | US-L3 | Visualización de los beneficios de la aplicación | Como visitante del segmento clientes o proveedores quiero acceder a una descripción de los beneficios de la aplicación para comprobar si la herramienta me ayudará en el futuro. | **Escenario:** Usuario lee sobre los beneficios de nuestra aplicación <br><br>**DADO** que el usuario se encuentra en la pantalla de inicio <br>**CUANDO** se desplace hacia abajo por la página <br>**ENTONCES** visualiza los servicios/beneficios de la aplicación. |
 | US-L4 | Visualización de la lista de Proveedores | Como visitante del segmento clientes o proveedores, quiero visualizar la lista de proveedores cloud con los cuales colaboran con la aplicación. | **Escenario:** Visitante accede a la lista de proveedores cloud<br><br> **DADO** que el usuario se encuentra en la pantalla de inicio <br>**CUANDO** se desplace hacia abajo por la página y pasa la sección de beneficios <br>**ENTONCES** visualizará los logos de los proveedores con los que trabajamos. |
-| US-L5 | Visualización de precios o planes de suscripción | Como visitante del segmento clientes o proveedores, quiero visualizar los planes de suscripción para comprobar si se adecuan a mi presupuesto. | **Escenario 1:** Usuario visualiza los tipos de planes que tiene la aplicación <br><br>**DADO** que el usuario se encuentra en la pantalla de inicio <br>**CUANDO** se desplace hacia abajo por la página<br> **ENTONCES** visualizará los cards que contienen los planes. <br><br>**Escenario 2:** Usuario visualiza la descripción de los planes que tiene la aplicación <br><br>**DADO** que el usuario da clic sobre uno de ellos <br>**Entonces** se desplegará la descripción de ese plan. |
-| US-L6 | Visualización de testimonios | Como visitante del segmento clientes o proveedores, quiero ver ejemplos de casos de éxito para comprender cómo Nimbus ha beneficiado a otros. | **Escenario:** Usuario visualiza los testimonios que tiene la aplicación <br><br>**DADO** que el usuario se encuentra en la pantalla de inicio <br>**CUANDO** se desplace hacia abajo por la página **Y** llegue a la sección de testimonios de los clientes <br>**ENTONCES** visualizará los testimonios de los clientes que han confiado en nuestra plataforma. |
+| US-L5 | Visualización de precios o planes de suscripción | Como visitante del segmento clientes o proveedores, quiero visualizar los planes de suscripción para comprobar si se adecuan a mi presupuesto. | **Escenario 1:** Usuario visualiza los tipos de planes que tiene la aplicación <br><br>**DADO** que el usuario se encuentra en la pantalla de inicio <br>**CUANDO** se desplace hacia abajo por la página<br> **ENTONCES** visualizará los cards que contienen los planes. <br><br>**Escenario 2:** Usuario visualiza la descripción de los planes que tiene la aplicación <br><br>**DADO** que el usuario da clic sobre uno de ellos <br>**Entonces** se desplegará la descripción de ese plan. | | US-L6 | Visualización de testimonios | Como visitante del segmento clientes o proveedores, quiero ver ejemplos de casos de éxito para comprender cómo Nimbus ha beneficiado a otros. | **Escenario:** Usuario visualiza los testimonios que tiene la aplicación <br><br>**DADO** que el usuario se encuentra en la pantalla de inicio <br>**CUANDO** se desplace hacia abajo por la página **Y** llegue a la sección de testimonios de los clientes <br>**ENTONCES** visualizará los testimonios de los clientes que han confiado en nuestra plataforma. |
 | US-L7 | Visualización responsive | Como visitante del segmento clientes o proveedores, quiero que la página sea responsive y se adapte a diferentes dispositivos para poder acceder a la información desde cualquier lugar. | **Escenario 1:** Usuario visualiza la Landing Page de Nimbus desde una computadora.<br><br> **DADO** que el usuario se ingresa a la página web estática de Nimbus<br> **CUANDO** navegue por la página <br>**ENTONCES** visualizará el contenido adaptado a su tamaño de pantalla. <br><br>**Escenario 2:** Usuario visualiza la Landing Page de Nimbus desde su dispositivo móvil. <br><br>**DADO** que el usuario se ingresa a la página web estática de Nimbus desde su celular<br> **CUANDO** navegue por la página <br>**ENTONCES** visualizará el contenido adaptado a su tamaño de pantalla. |
 
 
-### 5.2.1.1. Sprint Planning 1.
+##### 5.2.1.1. Sprint Planning 1.
 
-| **Sprint \#** | Sprint 1 |
+| **Sprint** | Sprint 1 |
 |--------------|----------|
 | **Sprint Planning Background** | |
 | Date | 2023-08-24 |
@@ -1181,22 +1175,22 @@ Utilizaremos la guía de estilos y convenciones de codificación en C#, que repl
 | Sum of Story Points | 28 |
 
 
-### 5.2.1.2. Sprint Backlog 1.
+##### 5.2.1.2. Sprint Backlog 1.
 
-| **Sprint \#** | Sprint 1| | | | | | | |
+| **Sprint** | Sprint 1| | | | | | | |
 |---------------|----------|--|--|--|--|--|--|--|
 | **User Story** | **Work-Item/Task** |
 | **Id** | **Title** | **Id** | **Title** | **Description** | **Estimation (hours)** | **Assigned To** | **Status** |
 | US-L1 | Cambiar idioma de la web | T01 | Realizar la adaptación de la web a inglés y español | Como visitante del segmento clientes o proveedores quiero poder cambiar el idioma de la página. | 3 h | | In-Process |
-| US-L2 | Visualización del Call to Action | T02 | Implementar secciones con botones para el Call To Action | Como visitante del segmento clientes o proveedores quiero visualizar en el inicio un botón para poder contactarme con los creadores. | 1 h | | In-Process |
-| US-L3 | Visualización de los beneficios de la aplicación | T03 | Agregar los beneficios del proyecto Nimbus | Como visitante del segmento clientes o proveedores quiero acceder a una descripción de los beneficios de la aplicación para comprobar si la herramienta me ayudará en el futuro | 4 h | | In-Process |
-| US-L4 | Visualización de la lista de Proveedores | T04 | Realizar una vista con el listado de proveedores | Como visitante del segmento clientes o proveedores quiero visualizar la lista de proveedores los cuales colaboran con la aplicación. | 4 h | | In-Process |
-| US-L5 | Visualización de precios o planes de suscripción | T05 | Agregar los planes de suscripción | Como visitante del segmento clientes o proveedores quiero visualizar los planes de suscripción para comprobar si se adecuan a mi presupuesto. | 4 h | | In-Process |
-| US-L6 | Visualización de testimonios | T06 | Organizar los testimonios de la solución Nimbus | Como visitante del segmento clientes o proveedores, quiero ver ejemplos de casos de éxito para comprender cómo el producto/servicio ha beneficiado a otros | 5 h | | In-Process |
-| US-L7 | Visualización responsive | T07 | Asegurar que la página web se adapte a cualquier dispositivo | Como visitante del segmento clientes o proveedores, quiero que la página sea responsive y se adapte a diferentes dispositivos para poder acceder a la información desde cualquier lugar. | 7 h | | In-Process |
+| US-L2 | Visualización del Call to Action | T02 | Implementar secciones con botones para el Call To Action | Como visitante del segmento clientes o proveedores quiero visualizar en el inicio un botón para poder contactarme con los creadores. | 1 h | | Done |
+| US-L3 | Visualización de los beneficios de la aplicación | T03 | Agregar los beneficios del proyecto Nimbus | Como visitante del segmento clientes o proveedores quiero acceder a una descripción de los beneficios de la aplicación para comprobar si la herramienta me ayudará en el futuro | 4 h | | Done |
+| US-L4 | Visualización de la lista de Proveedores | T04 | Realizar una vista con el listado de proveedores | Como visitante del segmento clientes o proveedores quiero visualizar la lista de proveedores los cuales colaboran con la aplicación. | 4 h | | Done |
+| US-L5 | Visualización de precios o planes de suscripción | T05 | Agregar los planes de suscripción | Como visitante del segmento clientes o proveedores quiero visualizar los planes de suscripción para comprobar si se adecuan a mi presupuesto. | 4 h | | Done |
+| US-L6 | Visualización de testimonios | T06 | Organizar los testimonios de la solución Nimbus | Como visitante del segmento clientes o proveedores, quiero ver ejemplos de casos de éxito para comprender cómo el producto/servicio ha beneficiado a otros | 5 h | | Done |
+| US-L7 | Visualización responsive | T07 | Asegurar que la página web se adapte a cualquier dispositivo | Como visitante del segmento clientes o proveedores, quiero que la página sea responsive y se adapte a diferentes dispositivos para poder acceder a la información desde cualquier lugar. | 7 h | | Done |
 
 
-### 5.2.1.3. Development Evidence for Sprint Review.
+##### 5.2.1.3. Development Evidence for Sprint Review.
 
 En el transcurso del primer sprint, nuestro equipo ha realizado avances
 significativos en la implementación de los productos clave de nuestra
@@ -1225,11 +1219,12 @@ garantizar su legibilidad y eficiencia.
 |Nimbus |Nimbus-LandingPage |fcffca79d3109e0dc0fca04bd03e0e4804cb95d1 |feat |Primer commit en la rama Nimbus-LandingPage|Sep 8
 
 <br><br>
-### 5.2.1.4. Testing Suite Evidence for Sprint Review.
+
+##### 5.2.1.4. Testing Suite Evidence for Sprint Review.
 
 Landing Desplegada: https://pv2y2n-3000.csb.app/
 
-### 5.2.1.5. Execution Evidence for Sprint Review.
+##### 5.2.1.5. Execution Evidence for Sprint Review.
 -   En este Sprint se logró implementar el landing page siguiendo todos
     los requerimientos especificados en el sprint backlog y siguiendo la
     guía de estilos planteada en el capítulo 4.
@@ -1246,7 +1241,7 @@ Landing Desplegada: https://pv2y2n-3000.csb.app/
 [![API3.png](https://i.postimg.cc/PJnbK9FB/API3.png)](https://postimg.cc/FdGJHWvZ)
 
 
-### 5.2.1.6. Services Documentation Evidence for Sprint Review.
+##### 5.2.1.6. Services Documentation Evidence for Sprint Review.
 
 Los archivos .feature descritos en Gherkin son una parte fundamental de
 las metodologías de desarrollo de software basadas en el comportamiento,
@@ -1258,7 +1253,7 @@ historias de usuario relacionadas a la EPIC-06 de la Landing Page.
 
 [![gherkin.png](https://i.postimg.cc/C1gn5xwX/gherkin.png)](https://postimg.cc/06VyHxM0)
 
-### 5.2.1.7. Software Deployment Evidence for Sprint Review.
+##### 5.2.1.7. Software Deployment Evidence for Sprint Review.
 
 Para el desarrollo del Landing Page de Nimbus se ha utilizado el siguiente staff de  tecnologías
 
@@ -1283,7 +1278,7 @@ cooperativo en el desarrollo del landing page [https://www.atlassian.com/es/git/
 
 
 
-### 5.2.1.8. Team Collaboration Insights during Sprint.
+##### 5.2.1.8. Team Collaboration Insights during Sprint.
 
 Para el desarrollo del landing page se trabajó por tareas de implementación en secciones (navbar, hero, features, forms, etc). Las tareas fueron repartidas en las reuniones recurrentes del grupo y se acordó crear un sistema de ramas para el desarrollo de un proyecto .
 
@@ -1318,6 +1313,7 @@ Para el desarrollo del landing page se trabajó por tareas de implementación en
 <br><br>
 
 ### 5.2.2. Sprint 2 
+
 Durante el desarrollo de este proyecto, se enfocará en una mejora continua para abordar las áreas de mejora identificadas. Se prestará especial atención a dos conceptos clave: la Arquitectura de Software Orientada a Dominio (Domain-Driven Software Architecture) y el Diseño de Software Orientado a Objetos (Software Object-Oriented Design). Además, se revisará el Diagrama de Contexto C4 para garantizar que todas las dependencias y conexiones con sistemas externos, como el sistema de pagos, están claramente representadas.
 
 Se reconocerá que el alcance del proyecto no incluye el desarrollo de una aplicación móvil, y se ajustará en consecuencia. Se prestará especial atención a mejorar la comunicación oral y escrita de manera efectiva en todas las etapas del proyecto. Asimismo, se abordará la cuestión del informe en formato PDF desactualizado, asegurando que refleje de manera precisa y completa el trabajo realizado, incluyendo todas las secciones que se encuentran en GitHub.En este segundo Sprint, se centrará en mejorar la Landing Page y se creará la primera versión de la aplicación web. Ambos productos se desplegarán correctamente para garantizar que los usuarios tengan una experiencia óptima.
@@ -1331,14 +1327,13 @@ Se reconocerá que el alcance del proyecto no incluye el desarrollo de una aplic
 |US05|Ver Proveedores|Como usuario, quiero visualizar la lista de proveedores cloud con los cuales colaboran con la aplicación.|<p>**Escenario N°1** </p><p>**El usuario accede a la lista de proveedores cloud**</p><p></p><p>**Dado que** el usuario se encuentra en la pantalla de inicio</p><p>**Cuando** se desplace hacia abajo por la página y pasa la sección de beneficios</p><p>**Entonces** visualizará los logos de los proveedores con los que trabajamos.</p>|EPIC-02|
 |US06|Visualizar Reseñas|Como usuario, quiero poder visualizar reseñas de un software específico para informarme mejor.	|<p>**Escenario N°1** </p><p>**Usuario quiere visualizar reseñas de un software específico**</p><p>**Dado que** el usuario se encuentra en la página de un software</p><p>**Cuando** haga click en el botón "<Ver Reseñas>"</p><p>**Y** aparezcan las reseñas</p><p>**Entonces** el usuario podrá leerlas.</p>|EPIC-03|
 |US07|Suscripción a Boletín|Como usuario, quiero poder recibir informacion a mi correo sobre los nuevas noticas de los diferentes proveedores	|<p>**Escenario N°1**</p><p></p><p>**Usuario quiere recibir notificaciones acerca de los proveedores**</p><p>**Dado que** el usuario se ponga su correo </p><p>**Cuando** haga clic en el botón "<Suscribirse>.</p><p>**Entonces** le llegarán mensajes acerca de nuestra aplicación nimbus</p>|EPIC-03|
-|US08|Preguntas Frecuentes|Como usuario quiero poder visualizar las preguntas frecuentes del producto para poder aclarar mis dudas.|<p>**Escenario:**  El usuario quiere aclarar las dudas acerca de la página web.</p><p></p><p>Dado que el usuario se encuentra en la pantalla de inicio</p><p>Cuando haga clic en <Conócenos></p><p>Entonces la página le llevará a las sección de preguntas frecuentes.</p>||
-![Uploading image.png…]()
+|US08|Preguntas Frecuentes|Como usuario quiero poder visualizar las preguntas frecuentes del producto para poder aclarar mis dudas.|<p>**Escenario:**  El usuario quiere aclarar las dudas acerca de la página web.</p><p></p><p>Dado que el usuario se encuentra en la pantalla de inicio</p><p>Cuando haga clic en <Conócenos></p><p>Entonces la página le llevará a las sección de preguntas frecuentes.</p>|
 
 
 
-### 5.2.2.1. Sprint Planning 2
+#### 5.2.2.1. Sprint Planning 2
 
-|**Sprint #**|**Sprint 2**|
+|**Sprint**|**Sprint 2**|
 | :- | :- |
 |**Sprint Planning Background**||
 |**Date**|2023-09-21|
@@ -1356,11 +1351,11 @@ Se reconocerá que el alcance del proyecto no incluye el desarrollo de una aplic
 
 <br><br>
 
-### 5.2.2.2. Sprint Backlog 2
+#### 5.2.2.2. Sprint Backlog 2
 
 **Sprint Backlog 2**
 
-|**Sprint #**	|**Sprint 2**	|||||||
+|**Sprint**	|**Sprint 2**	|||||||
 | :- | :- | :- | :- | :- | :- | :- | :- |
 |**User Story**	|**Work-Item/Tas**	|||||||
 |**Id**|**Title**|**Id**|**Title**	|**Description**|**Estimation (hours)**	|**Assigned To**	|**Status**	|
@@ -1374,7 +1369,7 @@ Se reconocerá que el alcance del proyecto no incluye el desarrollo de una aplic
 |<p>User Story </p><p>8</p>|Preguntas Frecuentes|US2-9|Poder visualizar las pregunta fercuentes que suelen llegar a tener los usuarios|Como usuario quiero poder visualizar las preguntas frecuentes del producto para poder aclarar mis dudas.|2 h|Fabio Horna|Done|
 <br><br>
 
-### 5.2.2.3. Development Evidence for Sprint 2 Review.
+#### 5.2.2.3. Development Evidence for Sprint 2 Review.
 
 Para la mejora de la Landing Page se repartieron diversas tareas para que cada integrante pueda colaborar de manera satisfactoria en el primer producto. En complemento, para el desarrollo de la Web APP se establecieron tareas específicas, la cual se reflejan mediante los siguientes commits realizados en el siguiente repositorio: [https://github.com/Nimbus-SW53/Web-Application-Frontend.git](https://github.com/Nimbus-SW53/Web-Application-Frontend.git)
 
@@ -1426,7 +1421,8 @@ Visualización de “Suscripción exitosa” de la Web APP de Nimbus
 
 Visualización de “Preguntas frecuentes” de la Web APP de Nimbus
 
-### 5.2.2.4. Testing Suite Evidence for Sprint 2 Review.
+#### 5.2.2.4. Testing Suite Evidence for Sprint 2 Review.
+
 Se presenta la Web Application en el formato correcto para ser desplegada y se refleja mediante el siguiente commit en el repositorio para el Front-end:
 os objetivos fueron exitosamente alcanzados para el Sprint 2 de la pagina web. Por ello en la siguiente sección testing mostraremos las funcionalidades implementadas en esta primera parte del programa.
 
@@ -1443,7 +1439,7 @@ Pruebas de respuesta móvil: Se verificó que la página fuera completamente rec
 Pruebas de usabilidad: Se llevaron a cabo pruebas de usabilidad para evaluar la facilidad de navegación y la experiencia del usuario en la Landing Page.
 
 
-### 5.2.2.5. Execution Evidence for Sprint 2 Review.
+#### 5.2.2.5. Execution Evidence for Sprint 2 Review.
 Aquí mostraremos todas las secciones que conforman la página web que hemos implementado durante el sprint. Durante el Sprint 2, se realizaron las siguientes tareas de ejecución:
 Desarrollo de la Página Web: El equipo de desarrollo trabajó en la creación y diseño de la página web, implementando las características y funcionalidades requeridas según las User Stories definidas para este sprint.
 Control de versiones: Se utilizó Git como sistema de control de versiones para colaborar en el desarrollo y realizar un seguimiento de los cambios realizados en el código.
@@ -1453,7 +1449,7 @@ Realización de commits: Se utilizaron GitHub Desktop y Git para realizar commit
 
 
 
-### 5.2.2.6. Services Documentation Evidence for Sprint 2 Review.
+#### 5.2.2.6. Services Documentation Evidence for Sprint 2 Review.
 
 Para alcanzar exitosamente los objetivos de este Sprint 2 el equipo tuvo que documentarse sobre las tecnologías que se iban a implementar. <br>
 Es por ello que a continuación se detalla la documentación a la que se acudió: <br>
@@ -1463,7 +1459,7 @@ https://vuejs.org/guide/introduction.html <br>
 WebStorm: Es un entorno de desarrollo que nos permitirá trabajar con typeScript.<br>
 https://www.jetbrains.com/es-es/webstorm/learn/ <br>
 
-### 5.2.2.7 Software Deployment Evidence for Sprint 2 Review
+#### 5.2.2.7 Software Deployment Evidence for Sprint 2 Review
 Los objetivos fueron exitosamente alcanzados para el Sprint 2 de la página web. Por ello para esta sección “Software Deployment Evidence” nos centraremos en explicar las tecnologías que utilizamos, la creación de cuentas de repositorio y la configuración del ambiente de desarrollo. En esta entrega se usaron las tecnologías:<br>
 HTML: Es un lenguaje de marcado de Hipertexto el cual nos ayudó a la maquetación de la página web.<br>
 CSS: Lenguaje que no ayudó con el apartado visual de la página web.<br>
@@ -1474,7 +1470,7 @@ GitHub Desktop: Software de escritorio que nos permitió realizar los commits a 
 
 
 
-### 5.2.2.8. Team Collaboration Insights during Sprint.
+#### 5.2.2.8. Team Collaboration Insights during Sprint.
 
 En el proceso de crear la página de aterrizaje (landing page), se dividió el trabajo en diferentes secciones como la barra de navegación (navbar), el encabezado (hero), las características (features), los formularios, entre otros. Estas tareas se asignaron durante las reuniones regulares del equipo, y se acordó establecer un sistema de ramas para gestionar el desarrollo del proyecto de manera más eficiente.
 
@@ -1510,28 +1506,9 @@ En el proceso de crear la página de aterrizaje (landing page), se dividió el t
 
 <br>
 
-## 5.3. Validation Interviews.
-### 5.3.1. Diseño de entrevistas.
-El siguiente diseño de entrevista aplica para los segmentos objetivos de nuestro
-proyecto, es decir para los usuarios desarrolladores como para los usuarios empresa.<br>
-a. Datos Demográficos<br>
-• Recolectar la siguiente información acerca del entrevistado:<br>
-•	¿Nos podría decir su nombre, empresa, cargo y años de experiencia en el desarrollo de software?<br>
-•	¿En qué se especializa su empresa?<br>
-Antes de pasar a las preguntas principales, se le debe mostrar al entrevistado el landing
-page, mencionando las principales funcionalidades y explicando el propósito de nuestra aplicación.<br>
-b. Preguntas principales<br>
-• ¿Después de ver el Landing Page que podría acotar o recomendar
-para la mejora de esta?<br>
-• ¿Puede mencionar alguna funcionalidad adicional, de las que se les
-mostró en la exposición, que le puedan ayudar para la eficiencia de
-su trabajo?<br>
-• ¿En base a lo mostrado, usted estaría dispuesto a adquirir un servicio en caso que lo necesite?<br>
+## Conclusiones
 
-
-### Conclusiones
-
-### Conclusiones y recomendaciones
+#### Conclusiones y recomendaciones
 
 - Para esta primera entrega que el proyecto va bien encaminado ya que supimos conocer la problemática de nuestro proyecto, nuestros competidores, nuestras mejoras con las entrevistas y logramos trasladar las necesidades encontradas a los User Stories logrando describir detalladamente el desarrollo del servicio final.
 <br>
@@ -1544,7 +1521,7 @@ su trabajo?<br>
 
 - Es esencial destacar que, además de las valiosas perspectivas obtenidas a través de entrevistas y análisis de necesidades de usuarios, la metodología de Lean UX, respaldada por herramientas como el Lean UX Canvas, Lean UX Hypothesis Statement y Lean UX Assumptions, ha demostrado ser una parte integral y efectiva para abordar la problemática que Nimbus busca resolver. Estas herramientas han facilitado la identificación y priorización de desafíos clave, la definición de hipótesis claras y la generación de soluciones orientadas a la experiencia del usuario. Su incorporación en la estrategia general de Nimbus es esencial para garantizar que la plataforma no solo responda a las necesidades de los usuarios, sino que también sea ágil, eficiente y capaz de mantenerse competitiva en un mercado diverso y en constante evolución.
 
-### Bibliografía
+## Bibliografía
 
 MdnWebDocs. (2022). HTML: Lenguaje de etiquetas de hipertexto. Recuperado de:
 https://developer.mozilla.org/es/docs/Learn/Getting_started_with_the_web/HTML_basics 
@@ -1553,7 +1530,7 @@ MdnWebDocs. (2022). CSS. Recuperado de: https://developer.mozilla.org/es/docs/We
 
 Vue.js. (2022). The Progressive JavaScript Framework. Recuperado de: https://vuejs.org/ 
 
-### Anexos
+## Anexos
 
 Video Presentación TB:
 - TB1: https://youtu.be/HmSDVh_GIpI
