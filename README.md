@@ -139,7 +139,7 @@ https://github.com/Nimbus-SW53/Nimbus
 			- [4.4.4. Web Applications User Flow Diagrams.](#444-web-applications-user-flow-diagrams)
 		- [4.5. Web Applications Prototyping.](#45-web-applications-prototyping)
 		- [4.6. Domain-Driven Software Architecture.](#46-domain-driven-software-architecture)
-			- [4.6.1. Software Architecture Context Diagram.](#461-software-architecture-context-diagram)
+			- [4.6.1. Software Architecture Context Diagrama](#461-software-architecture-context-diagrama)
 			- [4.6.2. Software Architecture Container Diagrams.](#462-software-architecture-container-diagrams)
 			- [4.6.3. Software Architecture Components Diagrams.](#463-software-architecture-components-diagrams)
 		- [4.7. Software Object-Oriented Design.](#47-software-object-oriented-design)
@@ -1020,7 +1020,7 @@ https://structurizr.com/share/86441/b28b3949-fdf8-4562-b367-5246b76e3705
 
 #### 4.7.1. Class Diagrams.
 
-![Imgur](https://i.imgur.com/yiRpiqV.png) <br>
+[![class-Diagram.png](https://i.postimg.cc/6qhqQZB5/class-Diagram.png)](https://postimg.cc/1VfsCfgL)
 
 #### 4.7.2. Class Dictionary.
 Se partió desde una clase servicio que hereda parámetros genéricos a cada categoría de servicio(VMs, DataBase y Serverless). La clase PricingQuote (cotización) contienen al core de comparación y genera guarda un identificador para la cotización. Siguiendo el flujo, la clase History se compone de varias cotizaciones y estas se relacionan a un User o usuario.
