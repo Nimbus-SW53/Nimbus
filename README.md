@@ -997,19 +997,24 @@ Nuestra aplicación se centra en la facilidad de navegación para el usuario, po
 En esta sección se presentarán los diagramas de la arquitectura de software diseñados para nuestra aplicación web. Para estos diseños aplicamos patrones de diseño de alto nivel, bajo el enfoque de Domain-Driven. De esta forma podremos comunicar de manera eficiente y efectiva nuestra arquitectura de software.
 
 #### 4.6.1. Software Architecture Context Diagrama
-![Imgur](https://i.imgur.com/7QQGrjO.png) <br>
+
+[![context-Diagram.png](https://i.postimg.cc/XJGBBNV5/context-Diagram.png)](https://postimg.cc/PpH5Bjvf)
+
+https://structurizr.com/share/86441/b28b3949-fdf8-4562-b367-5246b76e3705
 
 #### 4.6.2. Software Architecture Container Diagrams.
 
 Container Diagram de nuestra aplicación en el cual visualizamos la forma de alto nivel de la arquitectura del software y de qué manera se distribuyen  las responsabilidades en ella.
-![Imgur](https://i.imgur.com/pWrcA78.png) <br>
 
+[![Container-Diagram.png](https://i.postimg.cc/kGWVwjRX/Container-Diagram.png)](https://postimg.cc/q6MMvxG9)
 
+https://structurizr.com/share/86441/b28b3949-fdf8-4562-b367-5246b76e3705
 
 #### 4.6.3. Software Architecture Components Diagrams.
 
+[![Component-Diagram.png](https://i.postimg.cc/V6xrqy6V/Component-Diagram.png)](https://postimg.cc/G8jmR5vF)
 
-![Imgur](https://i.imgur.com/xKQvuSk.png) <br>
+https://structurizr.com/share/86441/b28b3949-fdf8-4562-b367-5246b76e3705
 
 ### 4.7. Software Object-Oriented Design.
 
