@@ -24,7 +24,7 @@
 <li>Diego Alejandro Portales Ortiz (u202123501)</li>
 </ul>
 
-Video Presentación TP: https://youtu.be/HmSDVh_GIpI 
+Video Presentación TP: https://youtu.be/Tj7J6DICUcM 
 #### Setiembre, 2023
 
 </div>
@@ -1692,7 +1692,7 @@ Vue.js. (2022). The Progressive JavaScript Framework. Recuperado de: https://vue
 
 <div align="center"><a  href = "https://postimg.cc/GHBs9j3n"><img  src="https://i.postimg.cc/nc2KRd6r/portada.jpg"  alt="TB1"  width="600"  height="350" /></a></div>
 
-<div align="center">  URL:  <a  href="https://youtu.be/HmSDVh_GIpI">  </a></div> 
+<div align="center">  URL:  <a  href="https://youtu.be/HmSDVh_GIpI"> https://youtu.be/Tj7J6DICUcM  </a></div> 
 
 <br>
 
