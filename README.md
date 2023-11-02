@@ -1828,13 +1828,75 @@ Configuración en Microsoft Azure:
 ## 5.3. Validation Interviews
 
 ### 5.3.1. Diseño de Entrevistas
+Para esta seccion del reporte del proyecto cada integrante realiza una entrevista mostrandole el funcionamiento de la pagina web y preguntando que funciones son las mas fuertes y cuales son las que se pueden mejorar:<br>
+a. Datos Demográficos<br>
+• Recolectar la siguiente información acerca del entrevistado:<br>
+•	¿Nos podría decir su nombre, empresa, cargo y años de experiencia en el desarrollo de software?<br>
+•	¿En qué se especializa su empresa?<br>
+Antes de pasar a las preguntas principales, se le debe mostrar al entrevistado el landing<br>
+page, mencionando las principales funcionalidades y explicando el propósito de nuestra aplicación.<br>
+b. Preguntas principales<br>
+• ¿Después de ver el Landing Page que podría acotar o recomendar
+para la mejora de esta?<br>
+• ¿Puede mencionar alguna funcionalidad adicional, de las que se les
+mostró en la exposición, que le puedan ayudar para la eficiencia de
+su trabajo?<br>
+• ¿En base a lo mostrado, usted estaría dispuesto a adquirir un servicio en caso que lo necesite?<br>
 
 ### 5.3.2. Registro de Entrevistas
-
+Entrevista 1: Christian Jose Zeta Valenzuela
+	entrevistado:Jose Ismael Espinoza 
+ 	Link del video : https://youtu.be/bYS3bUJlvdA 
+  	![Imgur](https://i.imgur.com/W2EpR2B.png)
 
 
 ### 5.3.3. Evaluaciones según heurísticas
+**UX Heuristics & Principles Evaluation Usability – Inclusive Design – Information Architecture**  
 
+**Site o App a evaluar**  
+Nimbus
+
+**Tareas a evaluar:**  
+El alcance de esta evaluación incluye la revisión de la usabilidad de las siguientes tareas:  
+1. Inicio de sesión a la aplicación
+2. Edición de los datos de cuenta del usuario
+3. Cerrar Sesión en la aplicación
+4. Búsqueda de proveedores
+5. Filtrar proveedores
+
+
+**Escala de severidad**  
+*Los errores serán puntuados tomando en cuenta la siguiente escala de severidad*
+
+
+<table style="border: 1px solid black; border-collapse: collapse;">
+    <thead>
+        <tr>
+            <th style="border: 1px solid black;">Nivel</th>
+            <th style="border: 1px solid black;">Descripción</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td style="border: 1px solid black;">1</td>
+            <td style="border: 1px solid black;">Problema superficial: puede ser fácilmente superado por el usuario o ocurre con muy poca frecuencia. No necesita ser arreglado a no ser que exista disponibilidad de tiempo</td>
+        </tr>
+        <tr>
+            <td style="border: 1px solid black;">2</td>
+            <td style="border: 1px solid black;">Problema menor: puede ocurrir un poco más frecuentemente o es un poco más difícil de superar para el usuario. Se le debería asignar una prioridad baja resolverlo de cara al siguiente reléase</td>
+        </tr>
+        <tr>
+            <td style="border: 1px solid black;">3</td>
+            <td style="border: 1px solid black;">Problema mayor: ocurre frecuentemente o los usuarios no son capaces de resolverlos. Es importante que sean corregidos y se les debe asignar una prioridad alta.</td>
+        </tr>
+        <tr>
+            <td style="border: 1px solid black;">4</td>
+            <td style="border: 1px solid black;">Problema muy grave: un error de gran impacto que impide al usuario continuar con el uso de la herramienta. Es imperativo que sea corregido antes del lanzamiento</td>
+        </tr>
+    </tbody>
+</table>
+<br>
+<br>
 ## 5.4. Video About-the-Product
 
 ## 5.5. Video About-the-Team
