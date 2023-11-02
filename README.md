@@ -1693,32 +1693,128 @@ En el Sprint 3, hemos alcanzado un progreso sustancial en el desarrollo del Back
 
 | **Id** | **Title** | **Id** | **Title** | **Description** | **Estimation (hours)** | **Assigned To** | **Status**|
 |--|--|--|--|--|--|--|--|
-| US-01 | Carga de Productos de software | BE01 |Cargar lista de productos | Como cliente quiero ver una lista de productos software disponibles en la página de servicios, para encontrar un software adecuado para mis necesidades | 4 h | Moreno Rosales, Claudio Jesús |In Process|
-| US-02 | Visualizar reseñas | BE02 |Ver las reseñas de usuarios |Como cliente quiero poder ver las reseñas de los usuario, para poder elegir de mejor manera mi producto software. | 4 h| Zeta Valenzuela, Christian | In Process|
-| US-03 | Gestión de Categorias | BE03 |Realizar gestión de categorias por producto software |Como cliente quiero poder ver las categorias relacionadas con los software, para realizar una mejor búqueda por categoría de software| 5 h| Portales, Diego| In Process|
-| US-08 | Acceso a Perfil de Usuario | BE08| Ver perfil de usuario registrado.  |Como cliente quiero poder acceder a mi perfil en la plataforma, para ver mi información de perfil. | 3 h| Farid Hinostroza Mavila |In Process|
-| US-09| Cierre de Sesión | BE09| Cerrar la sesión iniciada por el usuario.  |Como cliente quiero poder cerrar sesión en la plataforma, para salir de mi cuenta y proteger mi privacidad. | 3 h| Moreno Rosales, Claudio Jesús|In Process|
+| US-1 | Carga de Productos de software | BE1 |Cargar lista de productos | Como cliente quiero ver una lista de productos software disponibles en la página de servicios, para encontrar un software adecuado para mis necesidades | 4 h | Moreno Rosales, Claudio Jesús |In Process|
+| US-12 | Visualizar reseñas | BE2|Ver las reseñas de usuarios |Como cliente quiero poder ver las reseñas de los usuario, para poder elegir de mejor manera mi producto software. | 4 h| Zeta Valenzuela, Christian | In Process|
+| US-3 | Gestión de Categorias | BE3|Realizar gestión de categorias por producto software |Como cliente quiero poder ver las categorias relacionadas con los software, para realizar una mejor búqueda por categoría de software| 5 h| Portales, Diego| In Process|
+| US-4 | Acceso a Perfil de Usuario | BE4| Ver perfil de usuario registrado.  |Como cliente quiero poder acceder a mi perfil en la plataforma, para ver mi información de perfil. | 3 h| Farid Hinostroza Mavila |In Process|
+| US-12| Cierre de Sesión | BE12| Cerrar la sesión iniciada por el usuario.  |Como cliente quiero poder cerrar sesión en la plataforma, para salir de mi cuenta y proteger mi privacidad. | 3 h| Moreno Rosales, Claudio Jesús|In Process|
 | US-16| Inicio de Sesión | BE16| Realizar el LogIn en la Web.  |Como cliente quiero  ingresar mi correo y contraseña en la página de inicio, para acceder a la plataforma. | 3 h| Zeta Valenzuela, Christian|In Process|
 
 <br><br>
 
 #### 5.2.3.3. Development Evidence for Sprint Review
 
+Para realizar el desarrollo de la Web Services que forma parte del Backend del proyecto se repartieron diversas actividades a cada integrante pueda colaborar de manera satisfactoria y desplegar el Backend.
+
+Repositorio del Backend Web Application: https://github.com/Nimbus-SW53/Web-Application-Backend.git
+
+| **Repository** | **Branch** | **Commit Id** | **Commit Message** | **Commit Message Body** | **Commited on (Date)** |
+|----------------|------------|---------------|--------------------|-------------------------|-------------------------|
+|Backend-Web-Application |Main |74d3ca4f84efb6e0247c530c1aca554d6143e07f |Feat | Add files via upload | Oct 31
+|Backend-Web-Application |Main |1089cc1bb113a26198ab814dd53a4b9d75e04914 |Feat | Merge pull request #1 from Nimbus-SW53/ChrisitanZ | Oct 31
+|Backend-Web-Application |Main |c20ac0a9b9549a08346eba719fbccebb55038910 |Feat | Delete nimbus-center.sln| Nov 1
+|Backend-Web-Application |Main |c8667af3def93d4d65b791b0fe319994ce0fac0c |Feat | Update Backend| Nov 2
+|Backend-Web-Application |claudio |46b2ecb49902e9ac9c0df1a24f57a115e641e81f |Feat |Business logic | Nov 2
+
 #### 5.2.3.4. Testing Suite Evidence for Sprint Review
+
+A continuación, se presenta las pruebas que debe realizar el Backend que posteriormente presentará el Frontend de la Web Application. Para los criterios de aceptación que se deben cumplir todas las que se realicen.
+
+- Unit Test
+
+[![unit-test.png](https://i.postimg.cc/Bn155wB9/unit-test.png)](https://postimg.cc/SnkzkdPD)
+
+<br>
+
+- Swagger
+
+[![swager.png](https://i.postimg.cc/g0FVgqgw/swager.png)](https://postimg.cc/YvRL9gKk)
+
+<br>
+
+| **Repository** | **Branch** | **Commit Id** | **Commit Message** | **Commit Message Body** | **Commited on (Date)** |
+|----------------|------------|---------------|--------------------|-------------------------|-------------------------|
+|Backend-Web-Application |Main |c8667af3def93d4d65b791b0fe319994ce0fac0c |Feat | Update Backend| Nov 2
 
 
 #### 5.2.3.5. Execution Evidence for Sprint Review
 
+En este Sprint se ha logrado realizar un avance del Backend del proyecto y brindar un primer avance del despliegue en Microsoft Azure.
+
+[![microsoft-azure.jpg](https://i.postimg.cc/PrBctzy3/microsoft-azure.jpg)](https://postimg.cc/9rY1b9vZ)
+
+Azure es una nube pública de pago por uso que te permite compilar, implementar y administrar rápidamente aplicaciones en una red global de datacenters (centros de datos) de Microsoft.
 
 #### 5.2.3.6. Services Documentation Evidence for Sprint Review
+
+Se realizó la creación de los archivos Gherkin con extension .feature. Este se abarca las User Stories que descritas en el Sprint Backlog 3 que es el alcance definido por el equipo.
+
+Repositorio de los Gherkin Features: https://github.com/Nimbus-SW53/Acceptance-Test.git
+
+Features de las User Stories del Sprint 3
+
+[![Gherkin2.png](https://i.postimg.cc/wMqkYSby/Gherkin2.png)](https://postimg.cc/MMLByrwq)
+
+
+Gherkin del Backend Web Application:
+
+[![Gherkin.png](https://i.postimg.cc/vT0tY3pP/Gherkin.png)](https://postimg.cc/p5nFkYV8)
 
 
 #### 5.2.3.7. Software Deployment Evidence for Sprint Review
 
+Durante el Sprint 3, nuestro enfoque principal ha sido el despliegue exitoso del Backend Web Application. Para lograrlo, hemos optado por utilizar Microsoft Azure debido a su gran variedad de herramientas y facilidad en despliegue de soluciones de software. Hemos logrado desarrollar con éxito una serie de avances clave en EduFocus. Esto incluye tener el manejo de entidades como el de Provider, Product, Category, etc. Además, se desarrollaron varios aspectos relacionados a la funcionalidad de la web. Estas funcionalidades proporcionarán una base sólida para nuestro proyecto y permitirán a los usuarios interactuar de manera significativa con la plataforma cuando se integre el FrontEnd y el Backend.
+
+Configuración en Microsoft Azure:
+
+- Primero seleccionamos la opción de "Web APP".
+
+[![9.png](https://i.postimg.cc/Qd1zV9nX/9.png)](https://postimg.cc/SnQdvsh5)
+
+<br>
+
+- Creamos un nuevo "Grupo" y seleccionamos la version de C# con máquina Windows.
+
+[![1.png](https://i.postimg.cc/NjPTw5b4/1.png)](https://postimg.cc/3kmWXrs4)
+
+<br>
+
+- Vinculamos nuestra cuenta de "Github" y elegimos el "Brach" para que el despliegue se realice de forma automática ante cualquier cambio en el código.
+
+[![2.png](https://i.postimg.cc/x1dH7KG8/2.png)](https://postimg.cc/D8t844M3)
+
+<br>
+
+- Dejamos la opción "Público" por defecto
+  
+[![3.png](https://i.postimg.cc/1XcwxBYn/3.png)](https://postimg.cc/Lg5nLtS2)
+
+<br>
+
+- Esperamos a que Azure despliegue la solución de software
+
+[![4.png](https://i.postimg.cc/05ppJ52k/4.png)](https://postimg.cc/DmwW9TXH)
+
+<br>
+
+- Una vez que termine nos mostrará que el despliegue a finalizado y tenemos que ver la respuesta que nos da Azure si se pudo desplegar o no.
+
+[![6.png](https://i.postimg.cc/d0byLpbZ/6.png)](https://postimg.cc/7CN6RsYq)
+
+<br>
+
+- Por defecto, Azure creará un "Action" en el repositorio de Github y es allí donde sabremos si Azure logró desplegar la solución o fallo en el proceso.
+
+[![7.png](https://i.postimg.cc/MKq10kvy/7.png)](https://postimg.cc/nMSsZPKz)
+
+<br>
+
+- En este caso logro desplegar sin problemas y nos muestra esta pantalla al acceder al enlace público: https://focusbackend.azurewebsites.net/
+
+[![8.png](https://i.postimg.cc/DzJGfnMK/8.png)](https://postimg.cc/1gSXJhSW)
+
 
 #### 5.2.3.8. Team Collaboration Insights during Sprint
-
-
 
 
 
