@@ -1775,13 +1775,12 @@ Configuración en Microsoft Azure:
 
 - Creamos un nuevo "Grupo" y seleccionamos la version de C# con máquina Windows.
 
-[![1.png](https://i.postimg.cc/NjPTw5b4/1.png)](https://postimg.cc/3kmWXrs4)
+
 
 <br>
 
 - Vinculamos nuestra cuenta de "Github" y elegimos el "Brach" para que el despliegue se realice de forma automática ante cualquier cambio en el código.
 
-[![2.png](https://i.postimg.cc/x1dH7KG8/2.png)](https://postimg.cc/D8t844M3)
 
 <br>
 
@@ -1793,25 +1792,20 @@ Configuración en Microsoft Azure:
 
 - Esperamos a que Azure despliegue la solución de software
 
-[![4.png](https://i.postimg.cc/05ppJ52k/4.png)](https://postimg.cc/DmwW9TXH)
 
 <br>
 
 - Una vez que termine nos mostrará que el despliegue a finalizado y tenemos que ver la respuesta que nos da Azure si se pudo desplegar o no.
 
-[![6.png](https://i.postimg.cc/d0byLpbZ/6.png)](https://postimg.cc/7CN6RsYq)
-
 <br>
 
 - Por defecto, Azure creará un "Action" en el repositorio de Github y es allí donde sabremos si Azure logró desplegar la solución o fallo en el proceso.
 
-[![7.png](https://i.postimg.cc/MKq10kvy/7.png)](https://postimg.cc/nMSsZPKz)
 
 <br>
 
-- En este caso logro desplegar sin problemas y nos muestra esta pantalla al acceder al enlace público: https://focusbackend.azurewebsites.net/
+- En este caso logro desplegar sin problemas y nos muestra esta pantalla al acceder al enlace público: 
 
-[![8.png](https://i.postimg.cc/DzJGfnMK/8.png)](https://postimg.cc/1gSXJhSW)
 
 
 #### 5.2.3.8. Team Collaboration Insights during Sprint
