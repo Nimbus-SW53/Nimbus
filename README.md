@@ -1849,6 +1849,47 @@ Entrevista 1: Christian Jose Zeta Valenzuela
  	Link del video : https://youtu.be/bYS3bUJlvdA 
   	![Imgur](https://i.imgur.com/W2EpR2B.png)
 
+<br><br>
+
+Entrevista 2 a cliente:
+
+[interview.png](https://postimg.cc/Lg1Vhg79)
+
+***Nota:*** Se presentó a la estudiante la serie de preguntas preparadas previamente por el equipo.
+
+URL: https://www.youtube.com/watch?v=UK-qLHuT8kQ
+
+Timing: 0:02
+
+Duración: 24
+
+**a. Datos Demográficos**
+
+1. ¿Nos podría decir su nombre, empresa, cargo y años de experiencia en el desarrollo de software?
+	Mi nombre es Alexadra y trabajo en SAP Business One hace unos 3 años.
+
+2. ¿En qué se especializa su empresa?
+
+	En brindar todo tipo de asesoramiento, recojo de requisitos y principalmente estrategia de comprender el mercado en el que se mueven otras empresas.
+
+Antes de pasar a las preguntas principales, se le debe mostrar al entrevistado el landing page, mencionando las principales funcionalidades y explicando el propósito de nuestra aplicación.
+
+**b. Preguntas principales**
+
+1. ¿Después de ver el Landing Page que podría acotar o recomendar
+para la mejora de esta?
+
+Podría tener más forma las imagenes, con bordes o con un paleta de colores que le dea más vida.
+
+1. ¿Puede mencionar alguna funcionalidad adicional, de las que se les mostró en la exposición, que le puedan ayudar para la eficiencia de su trabajo?
+
+	Me interesó mucho la funcionalidad de filtrar por producto y la de ver las reseñas y comparar los software.
+
+2. ¿En base a lo mostrado, usted estaría dispuesto a adquirir un servicio en caso que lo necesite?
+
+	Claro, me encantaría tener algo así y que de primera mano, pueda elegir varios productos de buena calidad y no solo basarme en lo que dicen o murmuran algunas personas sobre un determinado producto software.
+
+<br><br>
 
 ### 5.3.3. Evaluaciones según heurísticas
 **UX Heuristics & Principles Evaluation Usability – Inclusive Design – Information Architecture**  
