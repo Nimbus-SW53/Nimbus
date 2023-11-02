@@ -1763,6 +1763,16 @@ Gherkin del Backend Web Application:
 
 #### 5.2.3.7. Software Deployment Evidence for Sprint Review
 
+Primero realizaremos el Despliegue de la base de datos remota:
+
+[![mysqlhosting.png](https://i.postimg.cc/sfBWvYtG/mysqlhosting.png)](https://postimg.cc/F14z6LFh)
+
+- Una vez desplegada cambiamos las configuraciones en el IDE para que apunte a la nueva base de datos y generamos nueva data dentro de la base de datos remota.
+
+[![sqlremote.png](https://i.postimg.cc/bYKtbGhC/sqlremote.png)](https://postimg.cc/XXkq6YXd)
+
+<br>
+
 Durante el Sprint 3, nuestro enfoque principal ha sido el despliegue exitoso del Backend Web Application. Para lograrlo, hemos optado por utilizar Microsoft Azure debido a su gran variedad de herramientas y facilidad en despliegue de soluciones de software. Hemos logrado desarrollar con éxito una serie de avances clave en EduFocus. Esto incluye tener el manejo de entidades como el de Provider, Product, Category, etc. Además, se desarrollaron varios aspectos relacionados a la funcionalidad de la web. Estas funcionalidades proporcionarán una base sólida para nuestro proyecto y permitirán a los usuarios interactuar de manera significativa con la plataforma cuando se integre el FrontEnd y el Backend.
 
 Configuración en Microsoft Azure:
@@ -1820,6 +1830,7 @@ Configuración en Microsoft Azure:
 ### 5.3.1. Diseño de Entrevistas
 
 ### 5.3.2. Registro de Entrevistas
+
 
 
 ### 5.3.3. Evaluaciones según heurísticas
