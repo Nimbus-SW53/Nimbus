@@ -24,8 +24,8 @@
 <li>Diego Alejandro Portales Ortiz (u202123501)</li>
 </ul>
 
-Video Presentación TP: https://youtu.be/Tj7J6DICUcM 
-#### Setiembre, 2023
+Video Presentación TB2: https://youtu.be/Tj7J6DICUcM 
+#### Noviembre, 2023
 
 </div>
 
@@ -56,6 +56,8 @@ Video Presentación TP: https://youtu.be/Tj7J6DICUcM
 | 4.2 | 23/09/2023 | Moreno Rosales, Claudio Jesús |Se realizó el Sprint Backlog 2 |
 | 4.3 | 25/09/2023 | Hinostroza Mavila, Farid | Se realizó el Development Evidence for Sprint Review, Services Documentation Evidence for Sprint Review y conclusiones del sprint 2.|
 | 4.4 | 05/09/2023 | Portales Ortiz, Diego Alejandro | Se realizó el Software Deployment Evidence for Sprint Review y Team Collaboration Insights during Sprint 2. |
+| 5.0 | 25/10/2023 | Moreno Rosales, Claudio Jesús| Se realizó el Sprint Planning 3 <br>Se realizó Sprint Backlog 3<br>Se realizó Validation Interviews. |
+| 5.1 | 27/10/2023 |Portales Ortiz, Diego Alejandro/Zeta Valenzuela, Christian Jose/Hinostroza Mavila, Farid  | Se realizaron los Development Evidence For Sprint Review, Testing Suite Evidence, Execution Evidence, Services Documentation, Software Deployment y Team Collaboration Insights. |
 
 <br><br>
 
@@ -172,6 +174,21 @@ https://github.com/Nimbus-SW53/Nimbus
 			- [5.2.2.6. Services Documentation Evidence for Sprint 2 Review.](#5226-services-documentation-evidence-for-sprint-2-review)
 			- [5.2.2.7 Software Deployment Evidence for Sprint 2 Review](#5227-software-deployment-evidence-for-sprint-2-review)
 			- [5.2.2.8. Team Collaboration Insights during Sprint.](#5228-team-collaboration-insights-during-sprint)
+		- [5.2.3. Sprint 3](#523-sprint-3)
+			- [5.2.3.1 Sprint Planning 3](#5231-sprint-planning-3)
+			- [5.2.3.2. Sprint Backlog 3](#5232-sprint-backlog-3)
+			- [5.2.3.3. Development Evidence for Sprint Review](#5233-development-evidence-for-sprint-review)
+			- [5.2.3.4. Testing Suite Evidence for Sprint Review](#5234-testing-suite-evidence-for-sprint-review)
+			- [5.2.3.5. Execution Evidence for Sprint Review](#5235-execution-evidence-for-sprint-review)
+			- [5.2.3.6. Services Documentation Evidence for Sprint Review](#5236-services-documentation-evidence-for-sprint-review)
+			- [5.2.3.7. Software Deployment Evidence for Sprint Review](#5237-software-deployment-evidence-for-sprint-review)
+			- [5.2.3.8. Team Collaboration Insights during Sprint](#5238-team-collaboration-insights-during-sprint)
+	- [5.3. Validation Interviews](#53-validation-interviews)
+		- [5.3.1. Diseño de Entrevistas](#531-diseño-de-entrevistas)
+		- [5.3.2. Registro de Entrevistas](#532-registro-de-entrevistas)
+		- [5.3.3. Evaluaciones según heurísticas](#533-evaluaciones-según-heurísticas)
+	- [5.4. Video About-the-Product](#54-video-about-the-product)
+	- [5.5. Video About-the-Team](#55-video-about-the-team)
 	- [Conclusiones](#conclusiones)
 			- [Conclusiones y recomendaciones](#conclusiones-y-recomendaciones)
 	- [Bibliografía](#bibliografía)
@@ -190,8 +207,8 @@ En el siguiente cuadro se describe las acciones realizadas y enunciados de concl
 
 | Criterio Específico | Acciones Realizadas | Conclusiones |
 |  -------------------  |  -------------------  |  -------------------------------------------------  |
-|Participa en equipos multidisciplinarios con eficacia, eficiencia y objetividad, en el marco de un proyecto en soluciones de ingeniería de software.|**Moreno Rosales, Claudio Jesús**<br><br> **TB1:** En el transcurso del proyecto se ha tenido que realizar una comunicación efectiva con los segmentos objetivo e interesados del proyecto, para obtener la mayor cantidad de requisitos y necesidades posibles, esto ayuda a construir un mejor diseño de proyecto ágil.<br><br>**TP:** El equipo se organizó para realizar las mejoras del proyecto y realizar el primer avance de la Web Application teniendo encuenta las habilidade de cada integrante del equipo.<br><br> **Hinostroza Mavila, Farid Rolando** <br><br>**TB1:** Despues de las entrevistas realizadas, se hicieron a cargo las funcionalidades pedidas por los usuarios, desarollo de mockups posteriores a diagramas e implementación de base de datos.   | **TB1:** El equipo de desarrollo ha logrado realizar múltiples funciones para la recopilación de información, diseño, entrevistas, documentación y programación que ha dado un valor más al proyecto.<br><br>**TP:** Para el Sprint 2 se realizó la primera versión de la Web Application teniendo en cuenta las habilidade que cada integrante puede aportar hacia el proyecto, además, se logró realizar las correciones de la estructura del proyecto para lograr la mejora contínua.
-|Conoce al menos un sector empresarial o dominio de aplicación de soluciones de software. |**Moreno Rosales, Claudio Jesús** <br><br>**TB1:** Después de haber recolectado la información necesaria sobre nuestro público objetivo, interesados y haber realizado las entrevistas e investigaciones, se tradujo toda la información en arquetipos Persona y User Stories.<br><br>**TP:** Se identificó correctamente el sector al que Nimbus quiere llegar y se implemento la Web Application teniendo en cuenta todos los requisitos. |**TB1:** Con la recopilación de información sobre diversos segmentos objetivos e interesados en el proyecto, se ha conocido más de cerca a que público y mercado estamos atacando, ya que esto servirá para realizar un proyecto más personalizado y de mejor valor.<br><br>**TP:** Todos los requisitos extraidos desde las User Stories fueron algunos seleccionados para el Sprint 2 con la finalidad de tener avaces graduales.|
+|Participa en equipos multidisciplinarios con eficacia, eficiencia y objetividad, en el marco de un proyecto en soluciones de ingeniería de software.|**Moreno Rosales, Claudio Jesús**<br><br> **TB1:** En el transcurso del proyecto se ha tenido que realizar una comunicación efectiva con los segmentos objetivo e interesados del proyecto, para obtener la mayor cantidad de requisitos y necesidades posibles, esto ayuda a construir un mejor diseño de proyecto ágil.<br><br>**TP:** El equipo se organizó para realizar las mejoras del proyecto y realizar el primer avance de la Web Application teniendo encuenta las habilidade de cada integrante del equipo.<br><br>**TB2:** El equipo se organizó para avanzar diferentes partes del proyecto relacionados con el Backedn y tuvo que hacer muchas coordinaciones previas. <br><br>**Hinostroza Mavila, Farid Rolando** <br><br>**TB1:** Despues de las entrevistas realizadas, se hicieron a cargo las funcionalidades pedidas por los usuarios, desarollo de mockups posteriores a diagramas e implementación de base de datos.   | **TB1:** El equipo de desarrollo ha logrado realizar múltiples funciones para la recopilación de información, diseño, entrevistas, documentación y programación que ha dado un valor más al proyecto.<br><br>**TP:** Para el Sprint 2 se realizó la primera versión de la Web Application teniendo en cuenta las habilidade que cada integrante puede aportar hacia el proyecto, además, se logró realizar las correciones de la estructura del proyecto para lograr la mejora contínua.<br><br>**TB2:** El equipo se ha organizado y ha trabajo en conjunto para lograr qu el Backend cumpla con todas las expectavisas que al final se visualizaran en el Frontend y seran usadas por los clientes.
+|Conoce al menos un sector empresarial o dominio de aplicación de soluciones de software. |**Moreno Rosales, Claudio Jesús** <br><br>**TB1:** Después de haber recolectado la información necesaria sobre nuestro público objetivo, interesados y haber realizado las entrevistas e investigaciones, se tradujo toda la información en arquetipos Persona y User Stories.<br><br>**TP:** Se identificó correctamente el sector al que Nimbus quiere llegar y se implemento la Web Application teniendo en cuenta todos los requisitos.<br><br>**TB2:** Durante la fase de desarrollo hemos tenido que conoce más a detalle a los usuarios para que el Backedn responda a esas reglas de negocio, ya que se relizaron las validation interviews que ponen a prueba el proyecto. |**TB1:** Con la recopilación de información sobre diversos segmentos objetivos e interesados en el proyecto, se ha conocido más de cerca a que público y mercado estamos atacando, ya que esto servirá para realizar un proyecto más personalizado y de mejor valor.<br><br>**TP:** Todos los requisitos extraidos desde las User Stories fueron algunos seleccionados para el Sprint 2 con la finalidad de tener avaces graduales. <br><br>**TB2:** Con la ayuda de las Validation Interviews, hemos llegado a conocer mejor nuestro segmento de mercado que atacamos y como podemos mejorar para que el cliente se sienta satisfecho con toda la Web App realizada|
 
 
 ## Capítulo I: INTRODUCCIÓN
@@ -1639,7 +1656,88 @@ En el proceso de crear la página de aterrizaje (landing page), se dividió el t
 
 <div align="center"><a  href = "https://postimg.cc/PN4BB1GR"><img  src="https://i.postimg.cc/BQ94PCm4/A-TP-IMAGE-8.jpg"  alt="insights"  width="600"  height="280" /></a></div>
 
-<br>
+<br><br>
+
+
+### 5.2.3. Sprint 3
+
+En el Sprint 3, hemos alcanzado un progreso sustancial en el desarrollo del Backend del proyecto, utilizando tecnologías como C# y .Net Framework. Asimismo, nos hemos enfocado en la constante mejora del FrontEnd del proyecto con el fin de proporcionar una experiencia de usuario excepcional. Además, hemos realizado entrevistas de validación para garantizar que estemos cumpliendo con los requisitos de nuestros clientes.
+
+<div align="center"><a  href = "https://postimg.cc/9znpsVXf"><img  src="https://i.postimg.cc/m2b5z207/scrum-sprint.jpg"  alt="Scrum"  width="400"  height="300" /></a></div>
+
+<br><br>
+
+
+#### 5.2.3.1 Sprint Planning 3
+
+| **Sprint #** | Sprint 3 |
+| --- | --- |
+| **Sprint Planning Background** |
+| Date | 2023-10-22 |
+| Time | 11:00 AM |
+| Location | Discor |
+| Prepared By | Farid Hinostroza Mavila|
+| Attendees (to planning meeting) | Zeta Valenzuela, Christian/ Portales, Diego/ Moreno Rosales, Claudio/Horna Silva, Fabio |
+| Sprint 3 Review Summary | **Equipo de desarrollo:** El equipo asignó las nuevas tareas a realizar para corregir correctamente las observaciones del trabajo parcial y desarrollar el Backend del proyecto. <br>**Landing Page:** Se estableció los aspectos del Landing Page que se van a Mejorar para este tercer sprint | |
+| Sprint 3 Retrospective Summary | **Oportunidades de mejora:** Se vio que hay que mejorar un poco en la la manera de hacer los cambios en el repositorio de github y en la forma en como se realiza el desarrollo en código.|
+| **Sprint Goal & User Stories** ||
+| Sprint 3 Goal | **Objetivos:** <br><br> **Programación:** Desarrollar la parte del Backend con C# y el Framework de .Net usando el enfoque Model-View-Controller y base de datos MySQL<br><br>**Despliegue:** Desplegar el Backend y tener la version mejorada del Landing Page deplegada.  |
+| Sprint 3 Velocity | 25 |
+| Sum of Story Points | 15  |
+
+#### 5.2.3.2. Sprint Backlog 3
+
+| **Sprint #** | Sprint 3 |
+| --- | --- |
+| User Story | Work-Item/ Task |
+
+| **Id** | **Title** | **Id** | **Title** | **Description** | **Estimation (hours)** | **Assigned To** | **Status**|
+|--|--|--|--|--|--|--|--|
+| US-01 | Carga de Productos de software | BE01 |Cargar lista de productos | Como cliente quiero ver una lista de productos software disponibles en la página de servicios, para encontrar un software adecuado para mis necesidades | 4 h | Moreno Rosales, Claudio Jesús |In Process|
+| US-02 | Visualizar reseñas | BE02 |Ver las reseñas de usuarios |Como cliente quiero poder ver las reseñas de los usuario, para poder elegir de mejor manera mi producto software. | 4 h| Zeta Valenzuela, Christian | In Process|
+| US-03 | Gestión de Categorias | BE03 |Realizar gestión de categorias por producto software |Como cliente quiero poder ver las categorias relacionadas con los software, para realizar una mejor búqueda por categoría de software| 5 h| Portales, Diego| In Process|
+| US-08 | Acceso a Perfil de Usuario | BE08| Ver perfil de usuario registrado.  |Como cliente quiero poder acceder a mi perfil en la plataforma, para ver mi información de perfil. | 3 h| Farid Hinostroza Mavila |In Process|
+| US-09| Cierre de Sesión | BE09| Cerrar la sesión iniciada por el usuario.  |Como cliente quiero poder cerrar sesión en la plataforma, para salir de mi cuenta y proteger mi privacidad. | 3 h| Moreno Rosales, Claudio Jesús|In Process|
+| US-16| Inicio de Sesión | BE16| Realizar el LogIn en la Web.  |Como cliente quiero  ingresar mi correo y contraseña en la página de inicio, para acceder a la plataforma. | 3 h| Zeta Valenzuela, Christian|In Process|
+
+<br><br>
+
+#### 5.2.3.3. Development Evidence for Sprint Review
+
+#### 5.2.3.4. Testing Suite Evidence for Sprint Review
+
+
+#### 5.2.3.5. Execution Evidence for Sprint Review
+
+
+#### 5.2.3.6. Services Documentation Evidence for Sprint Review
+
+
+#### 5.2.3.7. Software Deployment Evidence for Sprint Review
+
+
+#### 5.2.3.8. Team Collaboration Insights during Sprint
+
+
+
+
+
+
+
+
+## 5.3. Validation Interviews
+
+### 5.3.1. Diseño de Entrevistas
+
+### 5.3.2. Registro de Entrevistas
+
+
+### 5.3.3. Evaluaciones según heurísticas
+
+## 5.4. Video About-the-Product
+
+## 5.5. Video About-the-Team
+
 
 ## Conclusiones
 
