@@ -1818,20 +1818,20 @@ Configuración en Microsoft Azure:
 ## 5.3. Validation Interviews
 
 ### 5.3.1. Diseño de Entrevistas
-Para esta seccion del reporte del proyecto cada integrante realiza una entrevista mostrandole el funcionamiento de la pagina web y preguntando que funciones son las mas fuertes y cuales son las que se pueden mejorar:
-a. Datos Demográficos
-• Recolectar la siguiente información acerca del entrevistado:
-•	¿Nos podría decir su nombre, empresa, cargo y años de experiencia en el desarrollo de software?
-•	¿En qué se especializa su empresa?
-Antes de pasar a las preguntas principales, se le debe mostrar al entrevistado el landing
-page, mencionando las principales funcionalidades y explicando el propósito de nuestra aplicación.
-b. Preguntas principales
+Para esta seccion del reporte del proyecto cada integrante realiza una entrevista mostrandole el funcionamiento de la pagina web y preguntando que funciones son las mas fuertes y cuales son las que se pueden mejorar:<br>
+a. Datos Demográficos<br>
+• Recolectar la siguiente información acerca del entrevistado:<br>
+•	¿Nos podría decir su nombre, empresa, cargo y años de experiencia en el desarrollo de software?<br>
+•	¿En qué se especializa su empresa?<br>
+Antes de pasar a las preguntas principales, se le debe mostrar al entrevistado el landing<br>
+page, mencionando las principales funcionalidades y explicando el propósito de nuestra aplicación.<br>
+b. Preguntas principales<br>
 • ¿Después de ver el Landing Page que podría acotar o recomendar
-para la mejora de esta?
+para la mejora de esta?<br>
 • ¿Puede mencionar alguna funcionalidad adicional, de las que se les
 mostró en la exposición, que le puedan ayudar para la eficiencia de
-su trabajo?
-• ¿En base a lo mostrado, usted estaría dispuesto a adquirir un servicio en caso que lo necesite?
+su trabajo?<br>
+• ¿En base a lo mostrado, usted estaría dispuesto a adquirir un servicio en caso que lo necesite?<br>
 
 ### 5.3.2. Registro de Entrevistas
 Entrevista 1: Christian Jose Zeta Valenzuela
