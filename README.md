@@ -1853,7 +1853,7 @@ Entrevista 1: Christian Jose Zeta Valenzuela
 
 Entrevista 2 a cliente:
 
-[[interview.png](https://postimg.cc/Lg1Vhg79)](https://i.postimg.cc/2yH9c47Z/interview.png)
+[![interview.png](https://i.postimg.cc/2yH9c47Z/interview.png)](https://postimg.cc/Lg1Vhg79)
 
 ***Nota:*** Se presentó a la estudiante la serie de preguntas preparadas previamente por el equipo.
 
