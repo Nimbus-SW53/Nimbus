@@ -1820,9 +1820,19 @@ Configuración en Microsoft Azure:
 
 #### 5.2.3.8. Team Collaboration Insights during Sprint
 
+- Commits
 
+<div align="center"><a  href = "https://postimg.cc/vcZcbx1f"><img  src="https://i.postimg.cc/4NztvzsL/insight1.png"  alt="Github"  width="600"  height="350" /></a></div>
 
+- Stadistics
 
+<div align="center"><a  href = "https://postimg.cc/mhwtvyrT"><img  src="https://i.postimg.cc/15xwNWhV/insights2.png"  alt="Github"  width="600"  height="350" /></a></div>
+
+- Gitflow
+
+<div align="center"><a  href = "https://postimg.cc/c6Zvkb0D"><img  src="https://i.postimg.cc/7PJS6Fcy/insight3.png"  alt="Github"  width="600"  height="350" /></a></div>
+
+<br><br>
 
 
 ## 5.3. Validation Interviews
@@ -1879,9 +1889,9 @@ Antes de pasar a las preguntas principales, se le debe mostrar al entrevistado e
 1. ¿Después de ver el Landing Page que podría acotar o recomendar
 para la mejora de esta?
 
-Podría tener más forma las imagenes, con bordes o con un paleta de colores que le dea más vida.
+	Podría tener más forma las imagenes, con bordes o con un paleta de colores que le dea más vida.
 
-1. ¿Puede mencionar alguna funcionalidad adicional, de las que se les mostró en la exposición, que le puedan ayudar para la eficiencia de su trabajo?
+2. ¿Puede mencionar alguna funcionalidad adicional, de las que se les mostró en la exposición, que le puedan ayudar para la eficiencia de su trabajo?
 
 	Me interesó mucho la funcionalidad de filtrar por producto y la de ver las reseñas y comparar los software.
 
@@ -1938,7 +1948,11 @@ El alcance de esta evaluación incluye la revisión de la usabilidad de las sigu
 </table>
 <br>
 <br>
+
+
 ## 5.4. Video About-the-Product
+
+
 
 ## 5.5. Video About-the-Team
 
@@ -1966,6 +1980,13 @@ El alcance de esta evaluación incluye la revisión de la usabilidad de las sigu
 utilizando Vencel, aprovechando su sencilla configuración. Además, hemos implementado funciones clave en
 nuestra plataforma, como el inicio de sesión, el registro de usuarios, la sección de inicio, la integración con una
 API Fake mediante Json Server, así como los módulos de Servicios y Vista de productos software.
+
+
+**TB2:**
+
+- En el Sprint 3, hemos alcanzado importantes hitos al avanzar en la implementación del Backend de la plataforma, aprovechando las capacidades de C# y Spring Boot. Paralelamente, hemos continuado perfeccionando la interfaz del FrontEnd para garantizar una experiencia de usuario sobresaliente. 
+
+- Las entrevistas de validación realizadas nos han permitido corroborar que estamos en el camino correcto para satisfacer las necesidades de nuestros clientes, lo que fortalece nuestra visión de ofrecer soluciones tecnológicas que mejoren la experiencia académica de los estudiantes.
 
 <br>
 
