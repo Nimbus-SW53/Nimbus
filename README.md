@@ -1941,6 +1941,51 @@ Entrevista 3 a Proovedor:
 ![Entrevista  Franco yance](https://github.com/Nimbus-SW53/Nimbus/blob/a8d49e12dcf00f3dda1d31eba30319a958ad48ef/Imagenes/Entrevista%20Franco%20yance.png)
 [Link de la entrevista a Franco](https://youtu.be/aNzK7vRVVhU?si=eAeT86Cyixyi9Y7V)
 
+Entrevista 4: Diego Portales Ortiz:
+
+Entrevistado: Nadir Esquivel Barnuevo (Asistente Académico AAD)
+ 	Link del video : 
+
+
+**a. Datos Demográficos**
+
+-	Buenas noches mi nombre es Diego Portales del Grupo 2 StratusPhere, del curso Aplicaciones Web. Y en esta ocasión entrevistaré a un asesor académico para saber su opinión sobre nuestra StartUp llamada Nimbus. ¿Cuál es su nombre?
+
+-	Buenas noches mi nombre es Nadir Esquivel
+
+-	¿A qué se dedica?
+
+-	Soy un Asistente AAD en la UPC
+
+-	Bien, y ¿cuánto es su tiempo de experiencia en el desarrollo de software o en la gestión de proyectos de software?
+
+-	Llevo 2 años siendo un AAD
+
+ **(Después de esta pregunta, procede a mostrarle la página web de Nimbus y todas sus funcionalidades)**
+
+ **b. Preguntas Principales**
+
+-	Ahora que ya vio la página de Nimbus, me gustaría hacerle unas preguntas sobre la experiencia
+
+-	Sí ,claro
+
+
+1.	¿Después de ver la página de inicio de Nimbus, qué sugerencias o recomendaciones tendría para mejorarla en términos de atraer a más proveedores de software y clientes?
+
+-	Recomendaría que en su Landing Page aclarasen que lo que recomiendan son proveedores y desarrolladores de software, porque no es claro exactamente a que se refiere con proveedores
+
+2.	¿Después de explorar la plataforma de Nimbus, qué aspectos específicos podría señalar para mejorar la experiencia tanto para proveedores de software como para clientes?
+
+-	Yo sugeriría que mostrasen la cantidad de reseñas en las empresas para evitar que distribuidores con pocas reseñas aparenten ser mejor de lo que son.
+
+3.	¿Puede mencionar alguna funcionalidad adicional que no haya sido presentada pero que considere esencial para mejorar la eficiencia en la tercerización de software a través de Nimbus?
+
+-	Recomendaría que añadiesen una función para filtrar la clase de software que las empresas distribuyen.
+
+4.	Basado en lo que ha visto y experimentado en Nimbus, ¿consideraría la posibilidad de utilizar nuestros servicios como proveedor de software o como cliente, incluso optando por planes de suscripción para acceder a funciones Premium?
+
+-	Si, estaría dispuesto, ya que veo que es un servicio con potencial.
+
 ### 5.3.3. Evaluaciones según heurísticas
 **UX Heuristics & Principles Evaluation Usability – Inclusive Design – Information Architecture**  
 
