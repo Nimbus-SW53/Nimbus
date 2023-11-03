@@ -1670,20 +1670,58 @@ En el Sprint 3, hemos alcanzado un progreso sustancial en el desarrollo del Back
 
 #### 5.2.3.1 Sprint Planning 3
 
-| **Sprint #** | Sprint 3 |
-| --- | --- |
-| **Sprint Planning Background** |
-| Date | 2023-10-22 |
-| Time | 11:00 AM |
-| Location | Discor |
-| Prepared By | Farid Hinostroza Mavila|
-| Attendees (to planning meeting) | Zeta Valenzuela, Christian/ Portales, Diego/ Moreno Rosales, Claudio/Horna Silva, Fabio |
-| Sprint 3 Review Summary | **Equipo de desarrollo:** El equipo asignó las nuevas tareas a realizar para corregir correctamente las observaciones del trabajo parcial y desarrollar el Backend del proyecto. <br>**Landing Page:** Se estableció los aspectos del Landing Page que se van a Mejorar para este tercer sprint | |
-| Sprint 3 Retrospective Summary | **Oportunidades de mejora:** Se vio que hay que mejorar un poco en la la manera de hacer los cambios en el repositorio de github y en la forma en como se realiza el desarrollo en código.|
-| **Sprint Goal & User Stories** ||
-| Sprint 3 Goal | **Objetivos:** <br><br> **Programación:** Desarrollar la parte del Backend con C# y el Framework de .Net usando el enfoque Model-View-Controller y base de datos MySQL<br><br>**Despliegue:** Desplegar el Backend y tener la version mejorada del Landing Page deplegada.  |
-| Sprint 3 Velocity | 25 |
-| Sum of Story Points | 15  |
+**5.2.X.1. Sprint Planning 3**
+
+
+|**Sprint #**|Sprint 3|
+| :- | :- |
+|**Sprint Planning Background**||
+|Date|2023-10-22|
+|Time|8:00 PM|
+|Location|Canal de voz de la plataforma de Discord|
+|Prepared By|Farid Hinostroza|
+|<p>Attendees (to planning </p><p>meeting)</p>|Zeta Valenzuela Christian Jose/ Hinostroza, Farid/ Portales, Diego/ Moreno Rosales, Claudio Jesús/|
+|<p>Sprint 3 Review </p><p>Summary</p>|<p>El equipo de desarrollo ha logrado completar con éxito las tareas asignadas, con un enfoque principal en la mejora del frontend y el inicio del proceso de desarrollo del backend.</p><p></p>|
+|<p>Sprint 2 Retrospective </p><p>Summary</p>|Summary Aunque se lograron avances significativos, se identificaron oportunidades de mejora en la organización del equipo para garantizar la finalización de tareas asignadas y el seguimiento de los progresos.|
+|**Sprint Goal & User Stories**||
+|Sprint 3 Goal|<p>**Objetivos:**</p><p>Programación: Iniciar el desarrollo del backend y realizar mejoras en el frontend.</p><p></p><p>Despliegue: Desplegar la solución estática y verificar su correcto funcionamiento en el entorno de producción.</p>|
+|**EPIC ID**|**Descripción de la épica**|
+|EP01|Gestión de productos de software|
+|EP02|Gestión de reseñas|
+|EP03|Gestión de búsquedas|
+|EP04|Gestión de registros|
+|EP05|Gestión de notificaciones|
+|EP06|Gestión de guías de ayuda al usuario|
+|EP07|Gestión de developer|
+
+
+
+
+
+
+
+|**Epic/User Story ID**|**Título**|**Descripción**|**Criterios de Aceptación**|**Relacionado con (Epic ID)**|
+| :- | :- | :- | :- | :- |
+|US 1|Listar productos|Como proveedor, quiero poder listar mis productos para que sean visibles en la plataforma.	|DADO que el proveedor ha iniciado sesión Y haga click en el botón "Añadir Producto" CUANDO complete los detalles del producto ENTONCES el producto se listará en la plataforma.	|Epic 01|
+|US 2|Editar listado|Como proveedor, quiero poder editar los detalles de mis productos listados.	|DADO que el proveedor ha iniciado sesión Y seleccione un producto de su lista Y haga click en el botón "Editar" CUANDO actualice los detalles ENTONCES los cambios se guardarán.	|Epic 01|
+|US 3|Calificar Producto|Como usuario, quiero poder calificar un producto para indicar mi nivel de satisfacción.	|DADO que el usuario ha iniciado sesión Y se encuentra en la página de un producto Y haga click en "Calificar" CUANDO seleccione una calificación ENTONCES la calificación se registrará.	|Epic 01|
+|US 4|Ver Calificaciones|Como usuario, quiero poder ver las calificaciones de un producto para ayudar en mi elección.	|DADO que el usuario se encuentra en la página de un producto Y haga click en “Ver Calificaciones” CUANDO aparezcan las calificaciones ENTONCES el usuario podrá verlas.	|Epic 02|
+|US 5|Utilizar Filtros|Como usuario, quiero poder utilizar diferentes filtros para encontrar el software que necesito.	|DADO que el usuario se encuentra en la página principal Y utilice los filtros de búsqueda CUANDO realice una búsqueda ENTONCES se mostrarán resultados acordes a los filtros.	|Epic 03|
+|US 6|Comparar Productos|Como usuario, quiero poder comparar diferentes productos para tomar una decisión informada.	|DADO que el usuario se encuentra en la página de resultados Y seleccione varios productos Y haga click en "Comparar" CUANDO se realice la comparación ENTONCES el usuario podrá ver una tabla comparativa.	|Epic 03|
+|US 7|Visualizar Reseñas|Como usuario, quiero poder visualizar reseñas de un software específico para informarme mejor sobre su utilidad.	|DADO que el usuario se encuentra en la página de un software Y haga click en el botón “Ver Reseñas” CUANDO aparezcan las reseñas ENTONCES el usuario podrá leerlas.	|Epic 02|
+|US 8|Escribir Reseñas|Como usuario, quiero poder escribir una reseña para un software que haya utilizado.	|DADO que el usuario se encuentra en la página de un software Y haga click en el botón “Escribir Reseña” CUANDO termine de escribir ENTONCES la reseña será publicada.	|Epic 02|
+|US 9|Valorar Reseñas|Como usuario, quiero poder dar una puntuación a las reseñas para valorar su utilidad.	|DADO que el usuario se encuentra en la página de un software Y esté leyendo reseñas Y haga click en los botones de valoración (p.ej., pulgar arriba/abajo) ENTONCES la valoración se registrará.	|Epic 02|
+|US 10|Crear Cuenta|Como usuario nuevo, quiero poder crear una cuenta para acceder a todas las funcionalidades de la plataforma.	|DADO que el usuario se encuentra en la pantalla de inicio Y haga click en el botón “Crear una cuenta” Y rellene los datos solicitados CUANDO realice un click en el botón “Registrarse” ENTONCES el sistema guardará su información y le direccionará a la página principal de su cuenta.	|Epic 04|
+|US 11|Iniciar Sesión|Como usuario registrado, quiero poder iniciar sesión para acceder a mi cuenta y a mis preferencias.	|DADO que el usuario se encuentra en la pantalla de inicio Y haga click en el botón “Iniciar sesión” Y introduzca sus credenciales CUANDO realice un click en el botón “Entrar” ENTONCES el sistema le permitirá acceder a su cuenta.	|Epic 04|
+|US 12|Recuperar Contraseña|Como usuario, quiero poder recuperar mi contraseña en caso de olvido para poder acceder a mi cuenta.	|DADO que el usuario se encuentra en la pantalla de inicio Y haga click en el enlace “Olvidé mi contraseña” Y siga las instrucciones CUANDO realice las acciones necesarias ENTONCES el sistema le permitirá restablecer su contraseña.	|Epic 04|
+|US 13|Suscripción a Boletín|Como usuario, quiero poder recibir información a mi correo sobre los nuevas noticas de los diferentes proveedores	|<p>Escenario: Usuario quiere recibir notificaciones acerca de los proveedores.</p><p>Dado que el usuario se ponga su correo .</p><p>Cuando haga clic en el botón "</p><p>Entonces le llegarán mensajes acerca de nuestra aplicación “Nimbus”</p>|Epic 05|
+|US 14|Preguntas Frecuentes|Como usuario quiero poder visualizar las preguntas frecuentes del producto para poder aclarar mis dudas.	|Escenario: El usuario quiere aclarar las dudas acerca de la página web. Dado que el usuario se encuentra en la pantalla de inicio Cuando haga clic en <Conócenos> Entonces la página le llevará a las sección de preguntas frecuentes|Epic 06|
+|US 15|Ver Proveedores|Como usuario, quiero visualizar la lista de proveedores cloud con los cuales colaboran con la aplicación.	|<p>Escenario: El usuario accede a la lista de proveedores cloud.</p><p>Dado que el usuario se encuentra en la pantalla de inicio</p><p>Cuando se desplace hacia abajo por la página y pasa la sección de beneficios</p><p>Entonces visualizará los logos de los proveedores con los que trabajamos.</p>|Epic 06|
+|US16|Recuperación de datos del proveedor|Como desarrollador de "Nimbus", quiero implementar la funcionalidad para recuperar los datos de un proveedor desde la base de datos.|<p>Dado que el servicio de almacenamiento de datos de proveedor está disponible: </p><p></p><p>Cuando se recuperen correctamente los datos del proveedor, se deben enviar los datos solicitados a través del protocolo HTTP y mostrar el mensaje "200(OK)".</p><p></p><p>Cuando no se encuentren datos que coincidan con las credenciales del proveedor dentro de la tabla de proveedores en la base de datos de "Nimbus", se debe mostrar el mensaje "error 404(Not Found)".</p>|Epic 07|
+|US17|Registro de proveedor|Como desarrollador de "Nimbus", debo implementar la funcionalidad que permite almacenar un nuevo proveedor dentro de la base de datos para registrar su cuenta.|<p>Dado que el servicio de registro de cuenta está disponible: </p><p>Cuando se envíen los datos de registro y se almacenen en una tupla, deben añadirse a la tabla de Proveedores en la base de datos de "Nimbus". - Debe mostrarse el mensaje "200(OK)". - Cuando se envíen los datos de registro y el protocolo HTTP no logre conectarse con la base de datos, debe mostrarse un mensaje de "error 404(Not Found)".</p>|Epic 07|
+|US18|Obtencion de datos de productos de proveedor|Como desarrollador de "Nimbus", debo implementar la funcionalidad que permite obtener los datos de los productos de un proveedor desde la base de datos.|Dado que el servicio de almacenamiento de datos de productos de proveedor está disponible: - Cuando se recuperen correctamente los datos de los productos de un proveedor, deben enviarse los datos solicitados a través del protocolo HTTP y mostrar el mensaje "200(OK)". - Cuando no se encuentren datos de productos que coincidan con el proveedor dentro de la tabla de Productos en la base de datos de "Nimbus", debe mostrarse el mensaje de "error 404(Not Found)".|Epic 07|
+|US19|Eliminación de productos de proveedor|Como desarrollador de "Nimbus", debo implementar la funcionalidad que permite a un proveedor eliminar un producto de su lista.|<p>- Dado que el servicio de eliminación de productos está disponible: - Cuando un proveedor solicite eliminar un producto y el producto se elimine correctamente de la base de datos, debe mostrarse el mensaje "200(OK)". - Cuando el producto a eliminar no se encuentre en la lista del proveedor o haya problemas al realizar la eliminación, debe mostrarse un mensaje de "error 404(Not Found)".</p><p></p><p></p><p></p>|Epic 07|
+
 
 #### 5.2.3.2. Sprint Backlog 3
 
