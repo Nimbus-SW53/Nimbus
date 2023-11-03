@@ -1899,47 +1899,123 @@ para la mejora de esta?
 **Site o App a evaluar**  
 Nimbus
 
-**Tareas a evaluar:**  
-El alcance de esta evaluación incluye la revisión de la usabilidad de las siguientes tareas:  
-1. Inicio de sesión a la aplicación
-2. Edición de los datos de cuenta del usuario
-3. Cerrar Sesión en la aplicación
-4. Búsqueda de proveedores 
-5. Filtrar proveedores
+## 5.3.3 EVALUACIONES SEGÚN HEURÍSTICAS
+
+### ESCALA DE SEVERIDAD
+
+Los errores serán puntuados tomando en cuenta la siguiente escala de severidad.
+
+| Nivel | Descripción |
+|:-----:|:-----------|
+| 1     | **Severidad Baja:** <br> - Problemas menores que no afectan significativamente la funcionalidad. <br> - Errores de formato o diseño que no impiden la operación básica. <br> - Incidentes que pueden ser solucionados con facilidad y no tienen un impacto crítico en la experiencia del usuario. |
+| 2     | **Severidad Media:** <br> - Problemas que afectan la funcionalidad, pero que aún permiten el uso básico de la aplicación. <br> - Errores que pueden causar molestias a los usuarios, pero no detienen por completo la operación. <br> - Incidentes que pueden resolverse en un tiempo razonable sin afectar gravemente la productividad. |
+| 3     | **Severidad Alta:** <br> - Problemas que impiden el uso normal de la aplicación y afectan la productividad. <br> - Errores que causan la interrupción de procesos críticos relacionados con la tercerización de software. <br> - Incidentes que requieren una atención inmediata para minimizar el impacto en el negocio y los usuarios. |
+| 4     | **Severidad Crítica:** <br> - Problemas que causan la paralización completa de la aplicación. <br> - Errores que pueden tener consecuencias graves en la tercerización de software, como la pérdida de datos o la exposición de información sensible. <br> - Incidentes que requieren una respuesta inmediata y un plan de recuperación sólido para mitigar el daño. |
+
+### Resumen de Problemas
+
+Para registrar los problemas usamos la siguiente tabla:
+
+| #  | Problema                                           | Escala de Severidad | Heurística / Principio Violado                                                             |
+|:--:|:---------------------------------------------------|:-------------------:|:-------------------------------------------------------------------------------------------|
+| 1  | Comparaciones de software incorrectas              | 2                   | Claridad y consistencia: Falta de precisión en las comparaciones                            |
+| 2  | Incapacidad para contactar a proveedores o clientes| 3                   | Feedback y visibilidad del sistema: Incapacidad para contactar a otros                      |
+| 3  | Información de productos no actualizada            | 2                   | Actualización y precisión de la información: Falta de actualización de información          |
+| 4  | Falta de soporte técnico o respuesta lenta         | 3                   | Respuesta del sistema y ayuda a los usuarios: Ausencia de soporte técnico y respuestas lentas|
+| 5  | Vulnerabilidad de seguridad en la plataforma       | 4                   | Seguridad y privacidad: Vulnerabilidad de seguridad en la plataforma                        |
+| 6  | Falta de consistencia en el diseño de la interfaz  | 2                   | Consistencia y estándares: Inconsistencia en el diseño                                      |
+| 7  | Dificultad para realizar seguimiento de pedidos anteriores| 2            | Flexibilidad y eficiencia de uso: Dificultad para rastrear pedidos anteriores               |
 
 
-**Escala de severidad**  
-*Los errores serán puntuados tomando en cuenta la siguiente escala de severidad*
 
+# Descripción de Problemas:
 
-<table style="border: 1px solid black; border-collapse: collapse;">
-    <thead>
-        <tr>
-            <th style="border: 1px solid black;">Nivel</th>
-            <th style="border: 1px solid black;">Descripción</th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td style="border: 1px solid black;">1</td>
-            <td style="border: 1px solid black;">Problema superficial: puede ser fácilmente superado por el usuario o ocurre con muy poca frecuencia. No necesita ser arreglado a no ser que exista disponibilidad de tiempo</td>
-        </tr>
-        <tr>
-            <td style="border: 1px solid black;">2</td>
-            <td style="border: 1px solid black;">Problema menor: puede ocurrir un poco más frecuentemente o es un poco más difícil de superar para el usuario. Se le debería asignar una prioridad baja resolverlo de cara al siguiente reléase</td>
-        </tr>
-        <tr>
-            <td style="border: 1px solid black;">3</td>
-            <td style="border: 1px solid black;">Problema mayor: ocurre frecuentemente o los usuarios no son capaces de resolverlos. Es importante que sean corregidos y se les debe asignar una prioridad alta.</td>
-        </tr>
-        <tr>
-            <td style="border: 1px solid black;">4</td>
-            <td style="border: 1px solid black;">Problema muy grave: un error de gran impacto que impide al usuario continuar con el uso de la herramienta. Es imperativo que sea corregido antes del lanzamiento</td>
-        </tr>
-    </tbody>
-</table>
-<br>
-<br>
+A continuación se mostrarán los problemas más a detalle considerando las posibles soluciones.
+
+---
+
+## Problema #1: Comparaciones de software incorrectas 
+- **Escala de severidad:** 2
+- **Heurística / Principio violado (a):** Actualización y precisión de la información: Falta de actualización de información
+
+**Descripción:**
+Se trata de comparaciones de software incorrectas que se muestran en la aplicación. Esto puede llevar a malas decisiones de tercerización de software debido a información inexacta o engañosa.
+
+**Alternativa de solución:**
+Corregir y actualizar las comparaciones de software para garantizar que sean precisas y reflejen la realidad.
+
+---
+
+## Problema #2: Incapacidad para contactar a proveedores o clientes 
+- **Escala de severidad:** 3
+- **Heurística / Principio violado (a):** Feedback y visibilidad del sistema: Incapacidad para contactar a otros
+
+**Descripción:**
+La aplicación presenta problemas que impiden a los usuarios contactar a proveedores o clientes de manera efectiva. Esto puede generar frustración y dificultar la colaboración y la tercerización.
+
+**Alternativa de solución:**
+Mejorar la funcionalidad de contacto y asegurarse de que los usuarios puedan comunicarse sin dificultades.
+
+---
+
+## Problema #3: Información de productos no actualizada 
+- **Escala de severidad:** 2
+- **Heurística / Principio violado (a):** Actualización y precisión de la información: Falta de actualización de información
+
+**Descripción:**
+La información sobre los productos no se mantiene actualizada en la aplicación. Esto puede causar confusión a los usuarios y llevar a decisiones incorrectas en la tercerización de software.
+
+**Alternativa de solución:**
+Actualizar regularmente la información de productos para garantizar que sea precisa y relevante.
+
+---
+
+## Problema #4: Falta de soporte técnico o respuesta lenta 
+- **Escala de severidad:** 3
+- **Heurística / Principio violado (a):** Respuesta del sistema y ayuda a los usuarios: Ausencia de soporte técnico y respuestas lentas
+
+**Descripción:**
+La falta de soporte técnico o respuestas lentas en la aplicación puede generar problemas para los usuarios que necesitan ayuda o asistencia técnica. Esto puede afectar negativamente la experiencia del usuario.
+
+**Alternativa de solución:**
+Ofrecer soporte técnico eficiente y respuestas rápidas a las consultas de los usuarios.
+
+---
+
+## Problema #5: Vulnerabilidad de seguridad en la plataforma 
+- **Escala de severidad:** 4
+- **Heurística / Principio violado (a):** Seguridad y privacidad: Vulnerabilidad de seguridad en la plataforma
+
+**Descripción:**
+La aplicación presenta vulnerabilidades de seguridad que pueden poner en riesgo la confidencialidad y la integridad de los datos relacionados con la tercerización de software. Esto es crítico y debe abordarse de inmediato.
+
+**Alternativa de solución:**
+Implementar medidas de seguridad sólidas y corregir las vulnerabilidades para proteger los datos y la privacidad de los usuarios.
+
+---
+
+## Problema #6: Falta de consistencia en el diseño de la interfaz 
+- **Escala de severidad:** 2
+- **Heurística / Principio violado (a):** Consistencia y estándares: Inconsistencia en el diseño
+
+**Descripción:**
+La falta de consistencia en el diseño de la interfaz puede dificultar la navegación y la comprensión de la aplicación. Esto puede afectar negativamente la usabilidad y la experiencia del usuario.
+
+**Alternativa de solución:**
+Estandarizar el diseño de la interfaz para garantizar la coherencia y mejorar la experiencia del usuario.
+
+---
+
+## Problema #7: Dificultad para realizar seguimiento de pedidos anteriores 
+- **Escala de severidad:** 2
+- **Heurística / Principio violado (a):** Flexibilidad y eficiencia de uso: Dificultad para rastrear pedidos anteriores
+
+**Descripción:**
+Los usuarios encuentran dificultades para realizar un seguimiento efectivo de pedidos anteriores en la aplicación. Esto puede afectar la eficiencia y la satisfacción del usuario en el proceso de tercerización.
+
+**Alternativa de solución:**
+Mejorar la funcionalidad de seguimiento de pedidos para hacerlo más eficiente y accesible para los usuarios.
+
 
 
 ## 5.4. Video About-the-Product
