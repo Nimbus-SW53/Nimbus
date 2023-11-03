@@ -1904,7 +1904,7 @@ El alcance de esta evaluación incluye la revisión de la usabilidad de las sigu
 1. Inicio de sesión a la aplicación
 2. Edición de los datos de cuenta del usuario
 3. Cerrar Sesión en la aplicación
-4. Búsqueda de proveedores
+4. Búsqueda de proveedores 
 5. Filtrar proveedores
 
 
@@ -1944,7 +1944,9 @@ El alcance de esta evaluación incluye la revisión de la usabilidad de las sigu
 
 ## 5.4. Video About-the-Product
 
+[![portada-product.jpg](https://i.postimg.cc/j5NcWc4s/portada-product.jpg)](https://postimg.cc/gXz8Qv75)
 
+Enlace del video: https://youtu.be/zgLVEDHvXSw
 
 ## 5.5. Video About-the-Team
 
