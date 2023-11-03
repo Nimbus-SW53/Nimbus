@@ -1937,6 +1937,9 @@ para la mejora de esta?
 	Claro, me encantaría tener algo así y que de primera mano, pueda elegir varios productos de buena calidad y no solo basarme en lo que dicen o murmuran algunas personas sobre un determinado producto software.
 
 <br><br>
+Entrevista 3 a Proovedor:
+![Entrevista  Franco yance](https://github.com/Nimbus-SW53/Nimbus/blob/a8d49e12dcf00f3dda1d31eba30319a958ad48ef/Imagenes/Entrevista%20Franco%20yance.png)
+[Link de la entrevista a Franco](https://youtu.be/aNzK7vRVVhU?si=eAeT86Cyixyi9Y7V)
 
 ### 5.3.3. Evaluaciones según heurísticas
 **UX Heuristics & Principles Evaluation Usability – Inclusive Design – Information Architecture**  
