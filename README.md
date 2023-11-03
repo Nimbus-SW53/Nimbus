@@ -1737,6 +1737,13 @@ En el Sprint 3, hemos alcanzado un progreso sustancial en el desarrollo del Back
 | US-4 | Acceso a Perfil de Usuario | BE4| Ver perfil de usuario registrado.  |Como cliente quiero poder acceder a mi perfil en la plataforma, para ver mi información de perfil. | 3 h| Farid Hinostroza Mavila |In Process|
 | US-12| Cierre de Sesión | BE12| Cerrar la sesión iniciada por el usuario.  |Como cliente quiero poder cerrar sesión en la plataforma, para salir de mi cuenta y proteger mi privacidad. | 3 h| Moreno Rosales, Claudio Jesús|In Process|
 | US-16| Inicio de Sesión | BE16| Realizar el LogIn en la Web.  |Como cliente quiero  ingresar mi correo y contraseña en la página de inicio, para acceder a la plataforma. | 3 h| Zeta Valenzuela, Christian|In Process|
+|US 17|Recuperación de datos del proveedor|17||Como desarrollador de "Nimbus", quiero implementar la funcionalidad para recuperar los datos de un proveedor desde la base de datos.|8|Farid Hinostroza|Completado|
+| :- | :- | :- | :- | :- | :- | :- | :- |
+|US 18|Registro de proveedor|18||Como desarrollador de "Nimbus", debo implementar la funcionalidad que permite almacenar un nuevo proveedor dentro de la base de datos para registrar su cuenta.|6|Claudio Moreno|Completado|
+|US 19|Obtencion de datos de productos de proveedor|19||Como desarrollador de "Nimbus", debo implementar la funcionalidad que permite obtener los datos de los productos de un proveedor desde la base de datos.|8|Christian Zeta|Completado|
+|US 20|Eliminación de productos de proveedor|20||Como desarrollador de "Nimbus", debo implementar la funcionalidad que permite a un proveedor eliminar un producto de su lista.|6|Christian Zeta|Completado|
+
+
 
 <br><br>
 
