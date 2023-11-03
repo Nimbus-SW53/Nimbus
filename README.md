@@ -1670,20 +1670,58 @@ En el Sprint 3, hemos alcanzado un progreso sustancial en el desarrollo del Back
 
 #### 5.2.3.1 Sprint Planning 3
 
-| **Sprint #** | Sprint 3 |
-| --- | --- |
-| **Sprint Planning Background** |
-| Date | 2023-10-22 |
-| Time | 11:00 AM |
-| Location | Discor |
-| Prepared By | Farid Hinostroza Mavila|
-| Attendees (to planning meeting) | Zeta Valenzuela, Christian/ Portales, Diego/ Moreno Rosales, Claudio/Horna Silva, Fabio |
-| Sprint 3 Review Summary | **Equipo de desarrollo:** El equipo asignó las nuevas tareas a realizar para corregir correctamente las observaciones del trabajo parcial y desarrollar el Backend del proyecto. <br>**Landing Page:** Se estableció los aspectos del Landing Page que se van a Mejorar para este tercer sprint | |
-| Sprint 3 Retrospective Summary | **Oportunidades de mejora:** Se vio que hay que mejorar un poco en la la manera de hacer los cambios en el repositorio de github y en la forma en como se realiza el desarrollo en código.|
-| **Sprint Goal & User Stories** ||
-| Sprint 3 Goal | **Objetivos:** <br><br> **Programación:** Desarrollar la parte del Backend con C# y el Framework de .Net usando el enfoque Model-View-Controller y base de datos MySQL<br><br>**Despliegue:** Desplegar el Backend y tener la version mejorada del Landing Page deplegada.  |
-| Sprint 3 Velocity | 25 |
-| Sum of Story Points | 15  |
+**5.2.X.1. Sprint Planning 3**
+
+
+|**Sprint #**|Sprint 3|
+| :- | :- |
+|**Sprint Planning Background**||
+|Date|2023-10-22|
+|Time|8:00 PM|
+|Location|Canal de voz de la plataforma de Discord|
+|Prepared By|Farid Hinostroza|
+|<p>Attendees (to planning </p><p>meeting)</p>|Zeta Valenzuela Christian Jose/ Hinostroza, Farid/ Portales, Diego/ Moreno Rosales, Claudio Jesús/|
+|<p>Sprint 3 Review </p><p>Summary</p>|<p>El equipo de desarrollo ha logrado completar con éxito las tareas asignadas, con un enfoque principal en la mejora del frontend y el inicio del proceso de desarrollo del backend.</p><p></p>|
+|<p>Sprint 2 Retrospective </p><p>Summary</p>|Summary Aunque se lograron avances significativos, se identificaron oportunidades de mejora en la organización del equipo para garantizar la finalización de tareas asignadas y el seguimiento de los progresos.|
+|**Sprint Goal & User Stories**||
+|Sprint 3 Goal|<p>**Objetivos:**</p><p>Programación: Iniciar el desarrollo del backend y realizar mejoras en el frontend.</p><p></p><p>Despliegue: Desplegar la solución estática y verificar su correcto funcionamiento en el entorno de producción.</p>|
+|**EPIC ID**|**Descripción de la épica**|
+|EP01|Gestión de productos de software|
+|EP02|Gestión de reseñas|
+|EP03|Gestión de búsquedas|
+|EP04|Gestión de registros|
+|EP05|Gestión de notificaciones|
+|EP06|Gestión de guías de ayuda al usuario|
+|EP07|Gestión de developer|
+
+
+
+
+
+
+
+|**Epic/User Story ID**|**Título**|**Descripción**|**Criterios de Aceptación**|**Relacionado con (Epic ID)**|
+| :- | :- | :- | :- | :- |
+|US 1|Listar productos|Como proveedor, quiero poder listar mis productos para que sean visibles en la plataforma.	|DADO que el proveedor ha iniciado sesión Y haga click en el botón "Añadir Producto" CUANDO complete los detalles del producto ENTONCES el producto se listará en la plataforma.	|Epic 01|
+|US 2|Editar listado|Como proveedor, quiero poder editar los detalles de mis productos listados.	|DADO que el proveedor ha iniciado sesión Y seleccione un producto de su lista Y haga click en el botón "Editar" CUANDO actualice los detalles ENTONCES los cambios se guardarán.	|Epic 01|
+|US 3|Calificar Producto|Como usuario, quiero poder calificar un producto para indicar mi nivel de satisfacción.	|DADO que el usuario ha iniciado sesión Y se encuentra en la página de un producto Y haga click en "Calificar" CUANDO seleccione una calificación ENTONCES la calificación se registrará.	|Epic 01|
+|US 4|Ver Calificaciones|Como usuario, quiero poder ver las calificaciones de un producto para ayudar en mi elección.	|DADO que el usuario se encuentra en la página de un producto Y haga click en “Ver Calificaciones” CUANDO aparezcan las calificaciones ENTONCES el usuario podrá verlas.	|Epic 02|
+|US 5|Utilizar Filtros|Como usuario, quiero poder utilizar diferentes filtros para encontrar el software que necesito.	|DADO que el usuario se encuentra en la página principal Y utilice los filtros de búsqueda CUANDO realice una búsqueda ENTONCES se mostrarán resultados acordes a los filtros.	|Epic 03|
+|US 6|Comparar Productos|Como usuario, quiero poder comparar diferentes productos para tomar una decisión informada.	|DADO que el usuario se encuentra en la página de resultados Y seleccione varios productos Y haga click en "Comparar" CUANDO se realice la comparación ENTONCES el usuario podrá ver una tabla comparativa.	|Epic 03|
+|US 7|Visualizar Reseñas|Como usuario, quiero poder visualizar reseñas de un software específico para informarme mejor sobre su utilidad.	|DADO que el usuario se encuentra en la página de un software Y haga click en el botón “Ver Reseñas” CUANDO aparezcan las reseñas ENTONCES el usuario podrá leerlas.	|Epic 02|
+|US 8|Escribir Reseñas|Como usuario, quiero poder escribir una reseña para un software que haya utilizado.	|DADO que el usuario se encuentra en la página de un software Y haga click en el botón “Escribir Reseña” CUANDO termine de escribir ENTONCES la reseña será publicada.	|Epic 02|
+|US 9|Valorar Reseñas|Como usuario, quiero poder dar una puntuación a las reseñas para valorar su utilidad.	|DADO que el usuario se encuentra en la página de un software Y esté leyendo reseñas Y haga click en los botones de valoración (p.ej., pulgar arriba/abajo) ENTONCES la valoración se registrará.	|Epic 02|
+|US 10|Crear Cuenta|Como usuario nuevo, quiero poder crear una cuenta para acceder a todas las funcionalidades de la plataforma.	|DADO que el usuario se encuentra en la pantalla de inicio Y haga click en el botón “Crear una cuenta” Y rellene los datos solicitados CUANDO realice un click en el botón “Registrarse” ENTONCES el sistema guardará su información y le direccionará a la página principal de su cuenta.	|Epic 04|
+|US 11|Iniciar Sesión|Como usuario registrado, quiero poder iniciar sesión para acceder a mi cuenta y a mis preferencias.	|DADO que el usuario se encuentra en la pantalla de inicio Y haga click en el botón “Iniciar sesión” Y introduzca sus credenciales CUANDO realice un click en el botón “Entrar” ENTONCES el sistema le permitirá acceder a su cuenta.	|Epic 04|
+|US 12|Recuperar Contraseña|Como usuario, quiero poder recuperar mi contraseña en caso de olvido para poder acceder a mi cuenta.	|DADO que el usuario se encuentra en la pantalla de inicio Y haga click en el enlace “Olvidé mi contraseña” Y siga las instrucciones CUANDO realice las acciones necesarias ENTONCES el sistema le permitirá restablecer su contraseña.	|Epic 04|
+|US 13|Suscripción a Boletín|Como usuario, quiero poder recibir información a mi correo sobre los nuevas noticas de los diferentes proveedores	|<p>Escenario: Usuario quiere recibir notificaciones acerca de los proveedores.</p><p>Dado que el usuario se ponga su correo .</p><p>Cuando haga clic en el botón "</p><p>Entonces le llegarán mensajes acerca de nuestra aplicación “Nimbus”</p>|Epic 05|
+|US 14|Preguntas Frecuentes|Como usuario quiero poder visualizar las preguntas frecuentes del producto para poder aclarar mis dudas.	|Escenario: El usuario quiere aclarar las dudas acerca de la página web. Dado que el usuario se encuentra en la pantalla de inicio Cuando haga clic en <Conócenos> Entonces la página le llevará a las sección de preguntas frecuentes|Epic 06|
+|US 15|Ver Proveedores|Como usuario, quiero visualizar la lista de proveedores cloud con los cuales colaboran con la aplicación.	|<p>Escenario: El usuario accede a la lista de proveedores cloud.</p><p>Dado que el usuario se encuentra en la pantalla de inicio</p><p>Cuando se desplace hacia abajo por la página y pasa la sección de beneficios</p><p>Entonces visualizará los logos de los proveedores con los que trabajamos.</p>|Epic 06|
+|US16|Recuperación de datos del proveedor|Como desarrollador de "Nimbus", quiero implementar la funcionalidad para recuperar los datos de un proveedor desde la base de datos.|<p>Dado que el servicio de almacenamiento de datos de proveedor está disponible: </p><p></p><p>Cuando se recuperen correctamente los datos del proveedor, se deben enviar los datos solicitados a través del protocolo HTTP y mostrar el mensaje "200(OK)".</p><p></p><p>Cuando no se encuentren datos que coincidan con las credenciales del proveedor dentro de la tabla de proveedores en la base de datos de "Nimbus", se debe mostrar el mensaje "error 404(Not Found)".</p>|Epic 07|
+|US17|Registro de proveedor|Como desarrollador de "Nimbus", debo implementar la funcionalidad que permite almacenar un nuevo proveedor dentro de la base de datos para registrar su cuenta.|<p>Dado que el servicio de registro de cuenta está disponible: </p><p>Cuando se envíen los datos de registro y se almacenen en una tupla, deben añadirse a la tabla de Proveedores en la base de datos de "Nimbus". - Debe mostrarse el mensaje "200(OK)". - Cuando se envíen los datos de registro y el protocolo HTTP no logre conectarse con la base de datos, debe mostrarse un mensaje de "error 404(Not Found)".</p>|Epic 07|
+|US18|Obtencion de datos de productos de proveedor|Como desarrollador de "Nimbus", debo implementar la funcionalidad que permite obtener los datos de los productos de un proveedor desde la base de datos.|Dado que el servicio de almacenamiento de datos de productos de proveedor está disponible: - Cuando se recuperen correctamente los datos de los productos de un proveedor, deben enviarse los datos solicitados a través del protocolo HTTP y mostrar el mensaje "200(OK)". - Cuando no se encuentren datos de productos que coincidan con el proveedor dentro de la tabla de Productos en la base de datos de "Nimbus", debe mostrarse el mensaje de "error 404(Not Found)".|Epic 07|
+|US19|Eliminación de productos de proveedor|Como desarrollador de "Nimbus", debo implementar la funcionalidad que permite a un proveedor eliminar un producto de su lista.|<p>- Dado que el servicio de eliminación de productos está disponible: - Cuando un proveedor solicite eliminar un producto y el producto se elimine correctamente de la base de datos, debe mostrarse el mensaje "200(OK)". - Cuando el producto a eliminar no se encuentre en la lista del proveedor o haya problemas al realizar la eliminación, debe mostrarse un mensaje de "error 404(Not Found)".</p><p></p><p></p><p></p>|Epic 07|
+
 
 #### 5.2.3.2. Sprint Backlog 3
 
@@ -1699,6 +1737,13 @@ En el Sprint 3, hemos alcanzado un progreso sustancial en el desarrollo del Back
 | US-4 | Acceso a Perfil de Usuario | BE4| Ver perfil de usuario registrado.  |Como cliente quiero poder acceder a mi perfil en la plataforma, para ver mi información de perfil. | 3 h| Farid Hinostroza Mavila |In Process|
 | US-12| Cierre de Sesión | BE12| Cerrar la sesión iniciada por el usuario.  |Como cliente quiero poder cerrar sesión en la plataforma, para salir de mi cuenta y proteger mi privacidad. | 3 h| Moreno Rosales, Claudio Jesús|In Process|
 | US-16| Inicio de Sesión | BE16| Realizar el LogIn en la Web.  |Como cliente quiero  ingresar mi correo y contraseña en la página de inicio, para acceder a la plataforma. | 3 h| Zeta Valenzuela, Christian|In Process|
+|US 17|Recuperación de datos del proveedor|17||Como desarrollador de "Nimbus", quiero implementar la funcionalidad para recuperar los datos de un proveedor desde la base de datos.|8|Farid Hinostroza|Completado|
+| :- | :- | :- | :- | :- | :- | :- | :- |
+|US 18|Registro de proveedor|18||Como desarrollador de "Nimbus", debo implementar la funcionalidad que permite almacenar un nuevo proveedor dentro de la base de datos para registrar su cuenta.|6|Claudio Moreno|Completado|
+|US 19|Obtencion de datos de productos de proveedor|19||Como desarrollador de "Nimbus", debo implementar la funcionalidad que permite obtener los datos de los productos de un proveedor desde la base de datos.|8|Christian Zeta|Completado|
+|US 20|Eliminación de productos de proveedor|20||Como desarrollador de "Nimbus", debo implementar la funcionalidad que permite a un proveedor eliminar un producto de su lista.|6|Christian Zeta|Completado|
+
+
 
 <br><br>
 
@@ -1892,6 +1937,54 @@ para la mejora de esta?
 	Claro, me encantaría tener algo así y que de primera mano, pueda elegir varios productos de buena calidad y no solo basarme en lo que dicen o murmuran algunas personas sobre un determinado producto software.
 
 <br><br>
+Entrevista 3 a Proovedor:
+![Entrevista  Franco yance](https://github.com/Nimbus-SW53/Nimbus/blob/a8d49e12dcf00f3dda1d31eba30319a958ad48ef/Imagenes/Entrevista%20Franco%20yance.png)
+[Link de la entrevista a Franco](https://youtu.be/aNzK7vRVVhU?si=eAeT86Cyixyi9Y7V)
+
+Entrevista 4: Diego Portales Ortiz:
+
+Entrevistado: Nadir Esquivel Barnuevo (Asistente Académico AAD)
+ 	Link del video : 
+
+
+**a. Datos Demográficos**
+
+-	Buenas noches mi nombre es Diego Portales del Grupo 2 StratusPhere, del curso Aplicaciones Web. Y en esta ocasión entrevistaré a un asesor académico para saber su opinión sobre nuestra StartUp llamada Nimbus. ¿Cuál es su nombre?
+
+-	Buenas noches mi nombre es Nadir Esquivel
+
+-	¿A qué se dedica?
+
+-	Soy un Asistente AAD en la UPC
+
+-	Bien, y ¿cuánto es su tiempo de experiencia en el desarrollo de software o en la gestión de proyectos de software?
+
+-	Llevo 2 años siendo un AAD
+
+ **(Después de esta pregunta, procede a mostrarle la página web de Nimbus y todas sus funcionalidades)**
+
+ **b. Preguntas Principales**
+
+-	Ahora que ya vio la página de Nimbus, me gustaría hacerle unas preguntas sobre la experiencia
+
+-	Sí ,claro
+
+
+1.	¿Después de ver la página de inicio de Nimbus, qué sugerencias o recomendaciones tendría para mejorarla en términos de atraer a más proveedores de software y clientes?
+
+-	Recomendaría que en su Landing Page aclarasen que lo que recomiendan son proveedores y desarrolladores de software, porque no es claro exactamente a que se refiere con proveedores
+
+2.	¿Después de explorar la plataforma de Nimbus, qué aspectos específicos podría señalar para mejorar la experiencia tanto para proveedores de software como para clientes?
+
+-	Yo sugeriría que mostrasen la cantidad de reseñas en las empresas para evitar que distribuidores con pocas reseñas aparenten ser mejor de lo que son.
+
+3.	¿Puede mencionar alguna funcionalidad adicional que no haya sido presentada pero que considere esencial para mejorar la eficiencia en la tercerización de software a través de Nimbus?
+
+-	Recomendaría que añadiesen una función para filtrar la clase de software que las empresas distribuyen.
+
+4.	Basado en lo que ha visto y experimentado en Nimbus, ¿consideraría la posibilidad de utilizar nuestros servicios como proveedor de software o como cliente, incluso optando por planes de suscripción para acceder a funciones Premium?
+
+-	Si, estaría dispuesto, ya que veo que es un servicio con potencial.
 
 ### 5.3.3. Evaluaciones según heurísticas
 **UX Heuristics & Principles Evaluation Usability – Inclusive Design – Information Architecture**  
@@ -1899,47 +1992,123 @@ para la mejora de esta?
 **Site o App a evaluar**  
 Nimbus
 
-**Tareas a evaluar:**  
-El alcance de esta evaluación incluye la revisión de la usabilidad de las siguientes tareas:  
-1. Inicio de sesión a la aplicación
-2. Edición de los datos de cuenta del usuario
-3. Cerrar Sesión en la aplicación
-4. Búsqueda de proveedores 
-5. Filtrar proveedores
+## 5.3.3 EVALUACIONES SEGÚN HEURÍSTICAS
+
+### ESCALA DE SEVERIDAD
+
+Los errores serán puntuados tomando en cuenta la siguiente escala de severidad.
+
+| Nivel | Descripción |
+|:-----:|:-----------|
+| 1     | **Severidad Baja:** <br> - Problemas menores que no afectan significativamente la funcionalidad. <br> - Errores de formato o diseño que no impiden la operación básica. <br> - Incidentes que pueden ser solucionados con facilidad y no tienen un impacto crítico en la experiencia del usuario. |
+| 2     | **Severidad Media:** <br> - Problemas que afectan la funcionalidad, pero que aún permiten el uso básico de la aplicación. <br> - Errores que pueden causar molestias a los usuarios, pero no detienen por completo la operación. <br> - Incidentes que pueden resolverse en un tiempo razonable sin afectar gravemente la productividad. |
+| 3     | **Severidad Alta:** <br> - Problemas que impiden el uso normal de la aplicación y afectan la productividad. <br> - Errores que causan la interrupción de procesos críticos relacionados con la tercerización de software. <br> - Incidentes que requieren una atención inmediata para minimizar el impacto en el negocio y los usuarios. |
+| 4     | **Severidad Crítica:** <br> - Problemas que causan la paralización completa de la aplicación. <br> - Errores que pueden tener consecuencias graves en la tercerización de software, como la pérdida de datos o la exposición de información sensible. <br> - Incidentes que requieren una respuesta inmediata y un plan de recuperación sólido para mitigar el daño. |
+
+### Resumen de Problemas
+
+Para registrar los problemas usamos la siguiente tabla:
+
+| #  | Problema                                           | Escala de Severidad | Heurística / Principio Violado                                                             |
+|:--:|:---------------------------------------------------|:-------------------:|:-------------------------------------------------------------------------------------------|
+| 1  | Comparaciones de software incorrectas              | 2                   | Claridad y consistencia: Falta de precisión en las comparaciones                            |
+| 2  | Incapacidad para contactar a proveedores o clientes| 3                   | Feedback y visibilidad del sistema: Incapacidad para contactar a otros                      |
+| 3  | Información de productos no actualizada            | 2                   | Actualización y precisión de la información: Falta de actualización de información          |
+| 4  | Falta de soporte técnico o respuesta lenta         | 3                   | Respuesta del sistema y ayuda a los usuarios: Ausencia de soporte técnico y respuestas lentas|
+| 5  | Vulnerabilidad de seguridad en la plataforma       | 4                   | Seguridad y privacidad: Vulnerabilidad de seguridad en la plataforma                        |
+| 6  | Falta de consistencia en el diseño de la interfaz  | 2                   | Consistencia y estándares: Inconsistencia en el diseño                                      |
+| 7  | Dificultad para realizar seguimiento de pedidos anteriores| 2            | Flexibilidad y eficiencia de uso: Dificultad para rastrear pedidos anteriores               |
 
 
-**Escala de severidad**  
-*Los errores serán puntuados tomando en cuenta la siguiente escala de severidad*
 
+# Descripción de Problemas:
 
-<table style="border: 1px solid black; border-collapse: collapse;">
-    <thead>
-        <tr>
-            <th style="border: 1px solid black;">Nivel</th>
-            <th style="border: 1px solid black;">Descripción</th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td style="border: 1px solid black;">1</td>
-            <td style="border: 1px solid black;">Problema superficial: puede ser fácilmente superado por el usuario o ocurre con muy poca frecuencia. No necesita ser arreglado a no ser que exista disponibilidad de tiempo</td>
-        </tr>
-        <tr>
-            <td style="border: 1px solid black;">2</td>
-            <td style="border: 1px solid black;">Problema menor: puede ocurrir un poco más frecuentemente o es un poco más difícil de superar para el usuario. Se le debería asignar una prioridad baja resolverlo de cara al siguiente reléase</td>
-        </tr>
-        <tr>
-            <td style="border: 1px solid black;">3</td>
-            <td style="border: 1px solid black;">Problema mayor: ocurre frecuentemente o los usuarios no son capaces de resolverlos. Es importante que sean corregidos y se les debe asignar una prioridad alta.</td>
-        </tr>
-        <tr>
-            <td style="border: 1px solid black;">4</td>
-            <td style="border: 1px solid black;">Problema muy grave: un error de gran impacto que impide al usuario continuar con el uso de la herramienta. Es imperativo que sea corregido antes del lanzamiento</td>
-        </tr>
-    </tbody>
-</table>
-<br>
-<br>
+A continuación se mostrarán los problemas más a detalle considerando las posibles soluciones.
+
+---
+
+## Problema #1: Comparaciones de software incorrectas 
+- **Escala de severidad:** 2
+- **Heurística / Principio violado (a):** Actualización y precisión de la información: Falta de actualización de información
+
+**Descripción:**
+Se trata de comparaciones de software incorrectas que se muestran en la aplicación. Esto puede llevar a malas decisiones de tercerización de software debido a información inexacta o engañosa.
+
+**Alternativa de solución:**
+Corregir y actualizar las comparaciones de software para garantizar que sean precisas y reflejen la realidad.
+
+---
+
+## Problema #2: Incapacidad para contactar a proveedores o clientes 
+- **Escala de severidad:** 3
+- **Heurística / Principio violado (a):** Feedback y visibilidad del sistema: Incapacidad para contactar a otros
+
+**Descripción:**
+La aplicación presenta problemas que impiden a los usuarios contactar a proveedores o clientes de manera efectiva. Esto puede generar frustración y dificultar la colaboración y la tercerización.
+
+**Alternativa de solución:**
+Mejorar la funcionalidad de contacto y asegurarse de que los usuarios puedan comunicarse sin dificultades.
+
+---
+
+## Problema #3: Información de productos no actualizada 
+- **Escala de severidad:** 2
+- **Heurística / Principio violado (a):** Actualización y precisión de la información: Falta de actualización de información
+
+**Descripción:**
+La información sobre los productos no se mantiene actualizada en la aplicación. Esto puede causar confusión a los usuarios y llevar a decisiones incorrectas en la tercerización de software.
+
+**Alternativa de solución:**
+Actualizar regularmente la información de productos para garantizar que sea precisa y relevante.
+
+---
+
+## Problema #4: Falta de soporte técnico o respuesta lenta 
+- **Escala de severidad:** 3
+- **Heurística / Principio violado (a):** Respuesta del sistema y ayuda a los usuarios: Ausencia de soporte técnico y respuestas lentas
+
+**Descripción:**
+La falta de soporte técnico o respuestas lentas en la aplicación puede generar problemas para los usuarios que necesitan ayuda o asistencia técnica. Esto puede afectar negativamente la experiencia del usuario.
+
+**Alternativa de solución:**
+Ofrecer soporte técnico eficiente y respuestas rápidas a las consultas de los usuarios.
+
+---
+
+## Problema #5: Vulnerabilidad de seguridad en la plataforma 
+- **Escala de severidad:** 4
+- **Heurística / Principio violado (a):** Seguridad y privacidad: Vulnerabilidad de seguridad en la plataforma
+
+**Descripción:**
+La aplicación presenta vulnerabilidades de seguridad que pueden poner en riesgo la confidencialidad y la integridad de los datos relacionados con la tercerización de software. Esto es crítico y debe abordarse de inmediato.
+
+**Alternativa de solución:**
+Implementar medidas de seguridad sólidas y corregir las vulnerabilidades para proteger los datos y la privacidad de los usuarios.
+
+---
+
+## Problema #6: Falta de consistencia en el diseño de la interfaz 
+- **Escala de severidad:** 2
+- **Heurística / Principio violado (a):** Consistencia y estándares: Inconsistencia en el diseño
+
+**Descripción:**
+La falta de consistencia en el diseño de la interfaz puede dificultar la navegación y la comprensión de la aplicación. Esto puede afectar negativamente la usabilidad y la experiencia del usuario.
+
+**Alternativa de solución:**
+Estandarizar el diseño de la interfaz para garantizar la coherencia y mejorar la experiencia del usuario.
+
+---
+
+## Problema #7: Dificultad para realizar seguimiento de pedidos anteriores 
+- **Escala de severidad:** 2
+- **Heurística / Principio violado (a):** Flexibilidad y eficiencia de uso: Dificultad para rastrear pedidos anteriores
+
+**Descripción:**
+Los usuarios encuentran dificultades para realizar un seguimiento efectivo de pedidos anteriores en la aplicación. Esto puede afectar la eficiencia y la satisfacción del usuario en el proceso de tercerización.
+
+**Alternativa de solución:**
+Mejorar la funcionalidad de seguimiento de pedidos para hacerlo más eficiente y accesible para los usuarios.
+
 
 
 ## 5.4. Video About-the-Product
@@ -1981,6 +2150,8 @@ API Fake mediante Json Server, así como los módulos de Servicios y Vista de pr
 - En el Sprint 3, hemos alcanzado importantes hitos al avanzar en la implementación del Backend de la plataforma, aprovechando las capacidades de C# y Spring Boot. Paralelamente, hemos continuado perfeccionando la interfaz del FrontEnd para garantizar una experiencia de usuario sobresaliente. 
 
 - Las entrevistas de validación realizadas nos han permitido corroborar que estamos en el camino correcto para satisfacer las necesidades de nuestros clientes, lo que fortalece nuestra visión de ofrecer soluciones tecnológicas que mejoren la experiencia académica de los estudiantes.
+
+- Mediante las entrevistas pudimos conocer lo que piensan clientes, proveedores y asesores académicos sobre la StartUp, así como posibles mejoras para futuras versiones y actualizaciones de Nimbus, de este modo perfeccionando nuestra página web para tener una interfaz y funcionalidades más completas y eficientes, además de entendibles.
 
 <br>
 
