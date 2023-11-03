@@ -2151,6 +2151,8 @@ API Fake mediante Json Server, así como los módulos de Servicios y Vista de pr
 
 - Las entrevistas de validación realizadas nos han permitido corroborar que estamos en el camino correcto para satisfacer las necesidades de nuestros clientes, lo que fortalece nuestra visión de ofrecer soluciones tecnológicas que mejoren la experiencia académica de los estudiantes.
 
+- Mediante las entrevistas pudimos conocer lo que piensan clientes, proveedores y asesores académicos sobre la StartUp, así como posibles mejoras para futuras versiones y actualizaciones de Nimbus, de este modo perfeccionando nuestra página web para tener una interfaz y funcionalidades más completas y eficientes, además de entendibles.
+
 <br>
 
 ## Bibliografía
