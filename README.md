@@ -24,7 +24,7 @@
 <li>Diego Alejandro Portales Ortiz (u202123501)</li>
 </ul>
 
-Video Presentación TB2: https://youtu.be/Tj7J6DICUcM 
+Video Presentación TB2: https://youtu.be/8fZPxGDoL40
 #### Noviembre, 2023
 
 </div>
