@@ -2135,6 +2135,11 @@ Enlace del video: https://youtu.be/zgLVEDHvXSw
 
 ## 5.5. Video About-the-Team
 
+[![pordata.jpg](https://i.postimg.cc/MTm6mYXm/pordata.jpg)](https://postimg.cc/YGjBpY6v)
+
+Enlace del video: https://youtu.be/G-is8Wve1k8
+
+<br><br>
 
 ## Conclusiones
 
