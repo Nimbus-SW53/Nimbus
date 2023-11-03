@@ -1784,15 +1784,10 @@ Configuración en Microsoft Azure:
 <br>
 
 - Creamos un nuevo "Grupo" y seleccionamos la version de C# con máquina Windows.
-
-
-
-<br>
-
 - Vinculamos nuestra cuenta de "Github" y elegimos el "Brach" para que el despliegue se realice de forma automática ante cualquier cambio en el código.
 
+[![azure1.png](https://i.postimg.cc/Px5bqNDX/azure1.png)](https://postimg.cc/McgfP6tN)
 
-<br>
 
 - Dejamos la opción "Público" por defecto
   
@@ -1802,21 +1797,18 @@ Configuración en Microsoft Azure:
 
 - Esperamos a que Azure despliegue la solución de software
 
-
-<br>
-
 - Una vez que termine nos mostrará que el despliegue a finalizado y tenemos que ver la respuesta que nos da Azure si se pudo desplegar o no.
+
+[![azure2.png](https://i.postimg.cc/VNRB1XdZ/azure2.png)](https://postimg.cc/sBMZ4QP5)
 
 <br>
 
 - Por defecto, Azure creará un "Action" en el repositorio de Github y es allí donde sabremos si Azure logró desplegar la solución o fallo en el proceso.
 
-
-<br>
-
-- En este caso logro desplegar sin problemas y nos muestra esta pantalla al acceder al enlace público: 
+- En este caso no se logro desplegar nos muestra esta pantalla con el error.
 
 
+<br><br>
 
 #### 5.2.3.8. Team Collaboration Insights during Sprint
 
