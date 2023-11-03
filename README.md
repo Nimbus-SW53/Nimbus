@@ -187,6 +187,17 @@ https://github.com/Nimbus-SW53/Nimbus
 		- [5.3.1. Diseño de Entrevistas](#531-diseño-de-entrevistas)
 		- [5.3.2. Registro de Entrevistas](#532-registro-de-entrevistas)
 		- [5.3.3. Evaluaciones según heurísticas](#533-evaluaciones-según-heurísticas)
+	- [5.3.3 EVALUACIONES SEGÚN HEURÍSTICAS](#533-evaluaciones-según-heurísticas-1)
+		- [ESCALA DE SEVERIDAD](#escala-de-severidad)
+		- [Resumen de Problemas](#resumen-de-problemas)
+- [Descripción de Problemas:](#descripción-de-problemas)
+	- [Problema #1: Comparaciones de software incorrectas](#problema-1-comparaciones-de-software-incorrectas)
+	- [Problema #2: Incapacidad para contactar a proveedores o clientes](#problema-2-incapacidad-para-contactar-a-proveedores-o-clientes)
+	- [Problema #3: Información de productos no actualizada](#problema-3-información-de-productos-no-actualizada)
+	- [Problema #4: Falta de soporte técnico o respuesta lenta](#problema-4-falta-de-soporte-técnico-o-respuesta-lenta)
+	- [Problema #5: Vulnerabilidad de seguridad en la plataforma](#problema-5-vulnerabilidad-de-seguridad-en-la-plataforma)
+	- [Problema #6: Falta de consistencia en el diseño de la interfaz](#problema-6-falta-de-consistencia-en-el-diseño-de-la-interfaz)
+	- [Problema #7: Dificultad para realizar seguimiento de pedidos anteriores](#problema-7-dificultad-para-realizar-seguimiento-de-pedidos-anteriores)
 	- [5.4. Video About-the-Product](#54-video-about-the-product)
 	- [5.5. Video About-the-Team](#55-video-about-the-team)
 	- [Conclusiones](#conclusiones)
@@ -2181,6 +2192,14 @@ Vue.js. (2022). The Progressive JavaScript Framework. Recuperado de: https://vue
 <div align="center"><a  href = "https://postimg.cc/GHBs9j3n"><img  src="https://i.postimg.cc/nc2KRd6r/portada.jpg"  alt="TB1"  width="600"  height="350" /></a></div>
 
 <div align="center">  URL:  <a  href="https://youtu.be/Tj7J6DICUcM"> https://youtu.be/Tj7J6DICUcM  </a></div> 
+
+<div align="center"> Presentación TB2: </div>
+
+<div align="center"><a  href = "https://postimg.cc/KK4qK3Fd"><img  src="https://i.postimg.cc/q7x952FM/portada.jpg"  alt="TB1"  width="600"  height="350" /></a></div>
+
+<div align="center">  URL:  <a  href="https://youtu.be/8fZPxGDoL40"> https://youtu.be/8fZPxGDoL40  </a></div> 
+
+
 
 <br>
 
