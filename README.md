@@ -1948,16 +1948,21 @@ para la mejora de esta?
 	Claro, me encantaría tener algo así y que de primera mano, pueda elegir varios productos de buena calidad y no solo basarme en lo que dicen o murmuran algunas personas sobre un determinado producto software.
 
 <br><br>
+
 Entrevista 3 a Proovedor:
+
 ![Entrevista  Franco yance](https://github.com/Nimbus-SW53/Nimbus/blob/a8d49e12dcf00f3dda1d31eba30319a958ad48ef/Imagenes/Entrevista%20Franco%20yance.png)
 [Link de la entrevista a Franco](https://youtu.be/aNzK7vRVVhU?si=eAeT86Cyixyi9Y7V)
 
+<br><br><br>
+
+
 Entrevista 4: Diego Portales Ortiz:
 
+[![interview.png](https://i.postimg.cc/MpmndFzc/interview.png)](https://postimg.cc/v4D8mXgM)
+
 Entrevistado: Nadir Esquivel Barnuevo (Asistente Académico AAD)
- 	Link del video : 
-
-
+ 
 **a. Datos Demográficos**
 
 -	Buenas noches mi nombre es Diego Portales del Grupo 2 StratusPhere, del curso Aplicaciones Web. Y en esta ocasión entrevistaré a un asesor académico para saber su opinión sobre nuestra StartUp llamada Nimbus. ¿Cuál es su nombre?
