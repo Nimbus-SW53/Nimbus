@@ -617,7 +617,7 @@ Para llevar a cabo este análisis, se recopilaron datos cualitativos mediante en
   - **Estrategia de Marketing**: Boca a boca y presencia en línea.
 
 
-- **Luis (Desarrollador en Tech World Solution)**
+- **Louis (Desarrollador en Tech World Solution)**
   * **Desafíos**: Destacarse en un mercado saturado.
   * **Métricas de Éxito**: Satisfacción del cliente, entrega oportuna y comentarios positivos.
   * **Estrategia de Marketing**: Marketing en línea y fuera de línea, eventos de la industria.
@@ -629,7 +629,7 @@ Para llevar a cabo este análisis, se recopilaron datos cualitativos mediante en
 **Análisis Profesional**
 **Diversidad de Necesidades y Desafíos**
   * Alexandra necesita un canal que mejore su visibilidad más allá de sus redes actuales.
-  * Luis busca una forma eficiente de conectar con pequeñas empresas y startups, además de transparencia en las comisiones.
+  * Louis busca una forma eficiente de conectar con pequeñas empresas y startups, además de transparencia en las comisiones.
   * Esquivel valora una plataforma centralizada para comparar características y costos.
 
 **Métricas de Éxito Comunes**
