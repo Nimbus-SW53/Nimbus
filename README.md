@@ -67,20 +67,26 @@ Video Presentación TB2: https://youtu.be/8fZPxGDoL40
 
 - Contributors
 
-<div align="center"><a  href  =  "https://postimg.cc/JymhWLRy"><img  src="https://i.postimg.cc/GpTTGLNj/Insight-New.png"  alt="Insights"  width="400"  height="580"  /></a></div>
+[![Whats-App-Image-2023-11-21-at-12-24-19-PM.jpg](https://i.postimg.cc/CL07hkVB/Whats-App-Image-2023-11-21-at-12-24-19-PM.jpg)](https://postimg.cc/Z0fpj9n4)
 
 <br>
 
 - Commits
 
-<div align="center"><a  href  =  "https://postimg.cc/LJjs7XFK"><img  src="https://i.postimg.cc/L8bZJYyX/stadistics-Commit.png"  alt="Insights"  width="700"  height="450"  /></a></div>
+[![2-Commits-1.jpg](https://i.postimg.cc/MpVjvrbz/2-Commits-1.jpg)](https://postimg.cc/pmVdSC6S)
+
+[![2-Commits-2.jpg](https://i.postimg.cc/sX6MkFy4/2-Commits-2.jpg)](https://postimg.cc/sQWfWNMM)
+
   
  <br>
  
 - Git Flow
 
-<div align="center"><a  href  =  "https://postimg.cc/9r6MJ9SY"><img  src="https://i.postimg.cc/nhzDVYGg/gitflow.png"  alt="GitFlow"  width="700"  height="300"  /></a></div>
+[![3-Gitflow-1.jpg](https://i.postimg.cc/X7FwCJnM/3-Gitflow-1.jpg)](https://postimg.cc/0bkMg96Z)
 
+[![3-Gitflow-2.jpg](https://i.postimg.cc/Vkmb0W7M/3-Gitflow-2.jpg)](https://postimg.cc/KRpYdBhv)
+
+[![3-Gitflow-3.jpg](https://i.postimg.cc/G2W4LF84/3-Gitflow-3.jpg)](https://postimg.cc/9RBm1qB2)
 
 ### URL del repositorio del Project Report
 
