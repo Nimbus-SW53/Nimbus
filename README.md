@@ -2126,7 +2126,7 @@ Los usuarios encuentran dificultades para realizar un seguimiento efectivo de pe
 **Alternativa de solución:**
 Mejorar la funcionalidad de seguimiento de pedidos para hacerlo más eficiente y accesible para los usuarios.
 
-**Sprint Table:**
+**Sprint 4 Table:**
 | # | Problema                                          | Escala de Severidad | Heurística / Principio Violado                                             |
 |---|---------------------------------------------------|---------------------|----------------------------------------------------------------------------|
 | 1 | Comparaciones de software incorrectas             | 2                   | Claridad y consistencia: Falta de precisión en las comparaciones           |
