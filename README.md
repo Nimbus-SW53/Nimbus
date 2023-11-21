@@ -2159,44 +2159,50 @@ Enlace del video: https://youtu.be/G-is8Wve1k8
 
 ## Conclusiones
 
-#### Conclusiones y recomendaciones
 
-**TB1:**
+En conclusión, el proyecto 'Nimbus', una iniciativa pionera de StratusSphere, ha marcado un hito en el ámbito de la intermediación de software. La plataforma ha revolucionado la manera en que se selecciona y adquiere software, introduciendo un enfoque innovador y personalizado que satisface las necesidades específicas de los usuarios. La integración de tecnologías avanzadas y el énfasis en una experiencia de usuario excepcional han establecido un nuevo estándar en la industria, demostrando la importancia de la innovación en la era digital.
 
-- Para esta primera entrega que el proyecto va bien encaminado ya que supimos conocer la problemática de nuestro proyecto, nuestros competidores, nuestras mejoras con las entrevistas y logramos trasladar las necesidades encontradas a los User Stories logrando describir detalladamente el desarrollo del servicio final.
-<br>
+En segundo lugar, es importante destacar la mejora significativa que 'Nimbus' ha aportado en la experiencia del usuario. La plataforma ha sido diseñada con un enfoque centrado en el usuario, lo que se refleja en su interfaz intuitiva y accesible. Esta orientación hacia la experiencia del usuario no solo ha aumentado la satisfacción y fidelidad de los clientes, sino que también ha mejorado la eficiencia en la selección de software, un aspecto crítico en la era de la transformación digital.
 
-- Las entrevistas con Alexandra, Luis y Esquivel ofrecen perspectivas diversas y complementarias sobre la relevancia, beneficios y desafíos de utilizar una plataforma de intermediación de software como Nimbus. Los temas recurrentes incluyen la satisfacción del cliente, la visibilidad, la adquisición de nuevos clientes y la eficiencia en la selección de software. Estas entrevistas destacan la necesidad de una solución como Nimbus en un mercado saturado de opciones de software y resaltan la importancia de satisfacer las necesidades tanto de profesionales independientes como de pequeñas y grandes empresas.
-<br>
+Además, el impacto de 'Nimbus' en el mercado de software es innegable. La plataforma ha proporcionado un medio eficiente para conectar a proveedores y compradores de software, creando un ecosistema que beneficia a ambas partes. Para los proveedores, 'Nimbus' ofrece una oportunidad única para ampliar su alcance de mercado y para los compradores, simplifica el proceso de encontrar y evaluar software. Este impacto es especialmente significativo en el contexto peruano, donde la digitalización empresarial está en auge.
 
-- Para este análisis, se recogieron datos cualitativos a través de entrevistas estructuradas. Cada entrevista se categorizó en función de los roles profesionales (Consultora SAP, Desarrollador de Software, Asistente a Distancia) y los segmentos de mercado (ERP, Soluciones Ágiles, Sector Educativo). Esta metodología proporciona una base sólida para comprender las diversas necesidades y desafíos de los usuarios.
-<br>
+Asimismo, la contribución de 'Nimbus' a la digitalización y la innovación tecnológica en Perú es notable. La plataforma ha facilitado a las empresas, especialmente a las pequeñas y medianas, el acceso a soluciones de software que son esenciales para la adopción de tecnologías digitales. En un mundo cada vez más orientado hacia lo digital, 'Nimbus' se presenta como un facilitador clave en este proceso de transformación, ayudando a las empresas a mantenerse competitivas y relevantes.
 
-- Es esencial destacar que, además de las valiosas perspectivas obtenidas a través de entrevistas y análisis de necesidades de usuarios, la metodología de Lean UX, respaldada por herramientas como el Lean UX Canvas, Lean UX Hypothesis Statement y Lean UX Assumptions, ha demostrado ser una parte integral y efectiva para abordar la problemática que Nimbus busca resolver. Estas herramientas han facilitado la identificación y priorización de desafíos clave, la definición de hipótesis claras y la generación de soluciones orientadas a la experiencia del usuario. Su incorporación en la estrategia general de Nimbus es esencial para garantizar que la plataforma no solo responda a las necesidades de los usuarios, sino que también sea ágil, eficiente y capaz de mantenerse competitiva en un mercado diverso y en constante evolución.
+Es importante también reconocer la sinergia y colaboración dentro del equipo de desarrollo de 'Nimbus'. La combinación de diversas habilidades y experiencias ha sido un factor crucial para el éxito del proyecto. Esta colaboración efectiva ha permitido abordar desafíos complejos y ha asegurado que la plataforma no solo cumpla, sino que supere las expectativas del mercado. El equipo ha demostrado que la unión de talentos diversos puede resultar en innovaciones significativas y soluciones efectivas.
 
-**TP:**
+En resumen, el proyecto 'Nimbus' de StratusSphere no solo ha alcanzado sus objetivos, sino que también ha trazado un camino para futuras innovaciones en el sector de intermediación de software. Con su enfoque en la personalización, la eficiencia y la experiencia del usuario, 'Nimbus' ha establecido un nuevo paradigma en el mercado. Su impacto trasciende la mera facilitación en la selección de software; representa un avance significativo en la forma en que las empresas perciben y adoptan soluciones tecnológicas. La colaboración y el trabajo en equipo, fundamentales para este logro, evidencian que la integración de diferentes habilidades y perspectivas es esencial para el éxito en la era digital.
 
-- Durante el segundo Sprint, hemos logrado un despliegue exitoso de nuestra Frontend Web Application
-utilizando Vencel, aprovechando su sencilla configuración. Además, hemos implementado funciones clave en
-nuestra plataforma, como el inicio de sesión, el registro de usuarios, la sección de inicio, la integración con una
-API Fake mediante Json Server, así como los módulos de Servicios y Vista de productos software.
+## Recomendaciones
 
+**Para la Fase Inicial (TB1):**
 
-**TB2:**
+Continuar el Análisis de Necesidades y Desarrollo de User Stories: Es crucial seguir profundizando en el conocimiento de la problemática del proyecto y mantener el enfoque en describir detalladamente el desarrollo del servicio final a través de los User Stories.
 
-- En el Sprint 3, hemos alcanzado importantes hitos al avanzar en la implementación del Backend de la plataforma, aprovechando las capacidades de C# y Spring Boot. Paralelamente, hemos continuado perfeccionando la interfaz del FrontEnd para garantizar una experiencia de usuario sobresaliente. 
+Valorar y Aplicar los Aprendizajes de las Entrevistas: Las entrevistas con Alexandra, Luis y Esquivel han proporcionado perspectivas valiosas. Se sugiere aplicar estos aprendizajes para mejorar la satisfacción del cliente, la visibilidad de la plataforma y la eficiencia en la selección de software.
 
-- Las entrevistas de validación realizadas nos han permitido corroborar que estamos en el camino correcto para satisfacer las necesidades de nuestros clientes, lo que fortalece nuestra visión de ofrecer soluciones tecnológicas que mejoren la experiencia académica de los estudiantes.
+Refinar el Análisis Cualitativo: Continuar categorizando las entrevistas según roles profesionales y segmentos de mercado para una comprensión más profunda de las necesidades de los usuarios.
 
-- Mediante las entrevistas pudimos conocer lo que piensan clientes, proveedores y asesores académicos sobre la StartUp, así como posibles mejoras para futuras versiones y actualizaciones de Nimbus, de este modo perfeccionando nuestra página web para tener una interfaz y funcionalidades más completas y eficientes, además de entendibles.
+Implementar y Optimizar la Metodología de Lean UX: La metodología de Lean UX y sus herramientas asociadas han sido cruciales en la fase inicial. Se aconseja continuar utilizando estas herramientas para identificar y priorizar desafíos, definir hipótesis y generar soluciones orientadas a la experiencia del usuario.
 
-**TF:**
+**Para el Segundo Sprint (TP):**
 
-- Para el cuarto y ultimo Sprint, hemos mejorado apartados que quedaron pendientes como los Unit Test, los cuales eran necesarios para comprobar el funcionamiento correcto del Proyecto en el que hemos estado trabajando durante todo el semester académico.
+Optimización de la Frontend Web Application: Tras el despliegue exitoso utilizando Vencel, se recomienda continuar con la mejora de funciones clave en la plataforma.
 
-- Además, se terminó de implementar todos los apartados pendientes en el BackendWebApplication, concluyendo de manera satisfactoria nuestro Startup “Nimbus”, estando listo para desplegarse y ser usado por los distintos usuarios que les interese y al público en general.
+**Para el Tercer Sprint (TB2):**
 
-- Tras haber concluido nuestro Proyecto de curso, hemos podido aprender sobre la creación, desarrollo y despliegue de una WebApplication desde su concepción como una solución a una problemática hasta su posterior despliegue y desarrollo final. Creemos que, mediante lo que hemos creado, podremos facilitar la consulta y adquisición de distintos softwares para todo tipo de usuarios, generando así una comunidad más unida e informada.
+Avance Continuo en el Backend y FrontEnd: Mantener el impulso en el desarrollo del Backend y continuar perfeccionando la interfaz de usuario del FrontEnd.
+
+Incorporación de Feedback de las Entrevistas de Validación: Incorporar los aprendizajes de las entrevistas de validación en el desarrollo de Nimbus para fortalecer la capacidad de la plataforma.
+
+Análisis y Aplicación de Retroalimentación para Mejoras Futuras: Utilizar la retroalimentación recibida para perfeccionar la interfaz web y sus funcionalidades.
+
+**Para la Fase Final (TF):**
+
+Completar y Optimizar los Unit Test: Dar prioridad a la finalización y optimización de los Unit Test para asegurar el funcionamiento adecuado de la WebApplication.
+
+Finalización Integral del BackendWebApplication: Asegurar que todos los componentes pendientes en el BackendWebApplication se completen de manera satisfactoria.
+
+Reflexión y Aprendizaje Continuo: Utilizar los aprendizajes del proyecto para facilitar la consulta y adquisición de software por parte de los usuarios, contribuyendo a una comunidad más informada y conectada.
 
 
 <br>
@@ -2266,7 +2272,7 @@ Vue.js. (2022). The Progressive JavaScript Framework. Recuperado de: https://vue
 
 <br><br>
 
-| Sección             | Características del video                                                                                                  | Sobre el contenido                                                                                                               | Integración y entrega                                                                                                  |
+ Sección             | Características del video                                                                                                  | Sobre el contenido                                                                                                               | Integración y entrega                                                                                                  |
 |---------------------|----------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------|
 | Needfinding Interviews | Cantidad de videos: 1<br>Nomenclatura: upc-pre-202302-si729-SW53-StratusSphere-needfinding-sprint-1<br>Formato: .mp4 <br>Duración: 15 minutos | En las entrevistas se refleja lo que buscan los proveedores y clientes de software, con los datos recopilados de sus expectativas, objetivos, necesidades, se ha analizado para generar valor al proyecto. | Las entrevistas se realizaron a distintas personas en el campo del software y los resultados están detallados en el sprint utilizado para mejorar la página. |
 | Landing Page        | Cantidad de videos: 1<br>Nomenclatura: upc-pre-202302-si729-SW53-StratusSphere-landingpage<br>Formato: .mp4 <br>Duración: 8 minutos               | Este video detalla nuestra landing page.                                                                                          | La integración y entrega nos permitió establecer un modelo para que el usuario aterrice y vaya a nuestra aplicación web. |
