@@ -33,13 +33,14 @@ Video Presentación TB2: https://youtu.be/8fZPxGDoL40
 
 ## Registro de Versiones del Informe
 
-| Versión | Fecha | Autor | Descripción de modificación |
-|  -------  |  -----------  |  ----------------  |  ---------------------------------  |
-| 1.0 |  28/08/2023  | Horna Silva, Fabio Ernesto  | Se realizó la startup profile, Solution Profile.|
-| 1.2 |  29/08/2023  | Horna Silva, Fabio Ernesto  | Se realizó los Segmentos objetivo y análisis competitivo. |
-| 1.3 |  31/08/2023  | Horna Silva, Fabio Ernesto  | Se realizó el diseño de entrevistas, User Persona. |
-| 1.4 |  1/09/2023  | Horna Silva, Fabio Ernesto  | Se realizó los User Task Matrix, User Journey Map y Empathy Map. |
-| 1.5 |  2/09/2023  | Horna Silva, Fabio Ernesto  | Se realizó As-Is Scenario Map, To-Be Scenario Map, Impact Map y User Stories.|
+| Versión | Fecha      | Autor                    | Descripción de modificación                                           |
+|---------|------------|--------------------------|----------------------------------------------------------------------|
+| 1.0     | 28/08/2023 | Horna Silva, Fabio Ernesto| Se realizó la startup profile, Solution Profile.                     |
+| 1.2     | 29/08/2023 | Horna Silva, Fabio Ernesto| Se realizó los Segmentos objetivo y análisis competitivo.            |
+| 1.3     | 31/08/2023 | Horna Silva, Fabio Ernesto| Se realizó el diseño de entrevistas, User Persona.                   |
+| 1.4     | 1/09/2023  | Horna Silva, Fabio Ernesto| Se realizó los User Task Matrix, User Journey Map y Empathy Map.     |
+| 1.5     | 2/09/2023  | Horna Silva, Fabio Ernesto| Se realizó As-Is Scenario Map, To-Be Scenario Map, Impact Map y User Stories.|
+| 5.3     | 15/11/23   | Horna Silva, Fabio Ernesto| Se realizó la escala de severidad, el resumen de los problemas y por último el sprint final para el deploy. |
 | 2.0 |  2/09/2023  | Portales Ortiz, Diego Alejandro  | Se realizó los Style Guidelines, Web Style Guidelines, Information Architecture y Organization Systems.|
 | 2.1 |  3/09/2023  | Portales Ortiz, Diego Alejandro  | Se realizó el SEO Tags and Meta Tags, Searching Systems, Navigation Systems y Landing Page UI Design.|
 | 2.2 |  4/09/2023  | Hinostroza Mavila, Farid  | Se realizó las Web Applications UX/UI Design, Web Applications Wireflow Diagrams y Web Applications User Flow Diagrams|
@@ -2125,8 +2126,16 @@ Los usuarios encuentran dificultades para realizar un seguimiento efectivo de pe
 **Alternativa de solución:**
 Mejorar la funcionalidad de seguimiento de pedidos para hacerlo más eficiente y accesible para los usuarios.
 
-
-
+**Sprint Table:**
+| # | Problema                                          | Escala de Severidad | Heurística / Principio Violado                                             |
+|---|---------------------------------------------------|---------------------|----------------------------------------------------------------------------|
+| 1 | Comparaciones de software incorrectas             | 2                   | Claridad y consistencia: Falta de precisión en las comparaciones           |
+| 2 | Incapacidad para contactar a proveedores o clientes | 3                   | Feedback y visibilidad del sistema: Incapacidad para contactar a otros     |
+| 3 | Información de productos no actualizada           | 2                   | Actualización y precisión de la información: Falta de actualización de información |
+| 4 | Falta de soporte técnico o respuesta lenta        | 3                   | Respuesta del sistema y ayuda a los usuarios: Ausencia de soporte técnico y respuestas lentas |
+| 5 | Vulnerabilidad de seguridad en la plataforma      | 4                   | Seguridad y privacidad: Vulnerabilidad de seguridad en la plataforma       |
+| 6 | Falta de consistencia en el diseño de la interfaz | 2                   | Consistencia y estándares: Inconsistencia en el diseño                     |
+| 7 | Dificultad para realizar seguimiento de pedidos anteriores | 2                   | Flexibilidad y eficiencia de uso: Dificultad para rastrear pedidos anteriores |
 ## 5.4. Video About-the-Product
 
 [![portada-product.jpg](https://i.postimg.cc/j5NcWc4s/portada-product.jpg)](https://postimg.cc/gXz8Qv75)
