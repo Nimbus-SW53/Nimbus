@@ -59,6 +59,7 @@ Video Presentación TB2: https://youtu.be/8fZPxGDoL40
 | 4.4 | 05/09/2023 | Portales Ortiz, Diego Alejandro | Se realizó el Software Deployment Evidence for Sprint Review y Team Collaboration Insights during Sprint 2. |
 | 5.0 | 25/10/2023 | Moreno Rosales, Claudio Jesús| Se realizó el Sprint Planning 3 <br>Se realizó Sprint Backlog 3<br>Se realizó Validation Interviews. |
 | 5.1 | 27/10/2023 |Portales Ortiz, Diego Alejandro/Zeta Valenzuela, Christian Jose/Hinostroza Mavila, Farid  | Se realizaron los Development Evidence For Sprint Review, Testing Suite Evidence, Execution Evidence, Services Documentation, Software Deployment y Team Collaboration Insights. |
+| 5.2 | 21/11/2023 |Portales Ortiz, Diego Alejandro/Zeta Valenzuela, Christian Jose/Hinostroza Mavila, Farid/ Moreno Rosales, Claudio Jesús  | Se realizaron los Unit Tests, Anexos, Sprint 4 Table, Software Deployment for BackEnd Web Application y Conclusiones Finales. |
 
 <br><br>
 
