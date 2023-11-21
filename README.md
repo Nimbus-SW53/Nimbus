@@ -2183,6 +2183,15 @@ API Fake mediante Json Server, así como los módulos de Servicios y Vista de pr
 
 - Mediante las entrevistas pudimos conocer lo que piensan clientes, proveedores y asesores académicos sobre la StartUp, así como posibles mejoras para futuras versiones y actualizaciones de Nimbus, de este modo perfeccionando nuestra página web para tener una interfaz y funcionalidades más completas y eficientes, además de entendibles.
 
+**TF:**
+
+- Para el cuarto y ultimo Sprint, hemos mejorado apartados que quedaron pendientes como los Unit Test, los cuales eran necesarios para comprobar el funcionamiento correcto del Proyecto en el que hemos estado trabajando durante todo el semester académico.
+
+- Además, se terminó de implementar todos los apartados pendientes en el BackendWebApplication, concluyendo de manera satisfactoria nuestro Startup “Nimbus”, estando listo para desplegarse y ser usado por los distintos usuarios que les interese y al público en general.
+
+- Tras haber concluido nuestro Proyecto de curso, hemos podido aprender sobre la creación, desarrollo y despliegue de una WebApplication desde su concepción como una solución a una problemática hasta su posterior despliegue y desarrollo final. Creemos que, mediante lo que hemos creado, podremos facilitar la consulta y adquisición de distintos softwares para todo tipo de usuarios, generando así una comunidad más unida e informada.
+
+
 <br>
 
 ## Bibliografía
